@@ -624,103 +624,103 @@
 
 		<!--France-->
 		<Row Tag="LOC_CITY_NAME_PARIS">
-			<Text>Paris</Text>
+			<Text>Париж</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LYON">
-			<Text>Lyon</Text>
+			<Text>Ліон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ROUEN">
-			<Text>Rouen</Text>
+			<Text>Руан</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BORDEAUX">
-			<Text>Bordeaux</Text>
+			<Text>Бордо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MARSEILLE">
-			<Text>Marseille</Text>
+			<Text>Марсель</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TOULOUSE">
-			<Text>Toulouse</Text>
+			<Text>Тулуза</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LA_ROCHELLE">
-			<Text>La Rochelle</Text>
+			<Text>Ла-Рошель</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AMBOISE">
-			<Text>Amboise</Text>
+			<Text>Амбуаз</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NANTES">
-			<Text>Nantes</Text>
+			<Text>Нант</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_RENNES">
-			<Text>Rennes</Text>
+			<Text>Ренн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CALAIS">
-			<Text>Calais</Text>
+			<Text>Кале</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_RHEIMS">
-			<Text>Rheims</Text>
+			<Text>Реймс</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AVIGNON">
-			<Text>Avignon</Text>
+			<Text>Авіньйон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BOULOGNE">
-			<Text>Boulogne</Text>
+			<Text>Булонь</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_DIJON">
-			<Text>Dijon</Text>
+			<Text>Діжон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MONTPELLIER">
-			<Text>Montpellier</Text>
+			<Text>Монпельє</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LIMOGES">
-			<Text>Limoges</Text>
+			<Text>Лімож</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CHARTRES">
-			<Text>Chartres</Text>
+			<Text>Шартр</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BLOIS">
-			<Text>Blois</Text>
+			<Text>Блуа</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TOURS">
-			<Text>Tours</Text>
+			<Text>Тур</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VERDUN">
-			<Text>Verdun</Text>
+			<Text>Верден</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_GRENOBLE">
-			<Text>Grenoble</Text>
+			<Text>Ґренобль</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_JARNAC">
-			<Text>Jarnac</Text>
+			<Text>Жарнак</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AMIENS">
-			<Text>Amiens</Text>
+			<Text>Ам'єн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TROYES">
-			<Text>Troyes</Text>
+			<Text>Труа</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_DIEPPE">
-			<Text>Dieppe</Text>
+			<Text>Дьєпп</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TOUL">
-			<Text>Toul</Text>
+			<Text>Туль</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BRIANCON">
-			<Text>Briançon</Text>
+			<Text>Бріансон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_METZ">
-			<Text>Metz</Text>
+			<Text>Мец</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MONTELIMAR">
-			<Text>Montélimar</Text>
+			<Text>Монтелімар</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CARCASSONNE">
-			<Text>Carcassonne</Text>
+			<Text>Каркассонн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_GAP">
-			<Text>Gap</Text>
+			<Text>Ґап</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ALBA_LA_ROMAINE">
-			<Text>Alba-la-Romaine</Text>
+			<Text>Альба-ла-Ромен</Text>
 		</Row>
 
 		<!--Germany-->
