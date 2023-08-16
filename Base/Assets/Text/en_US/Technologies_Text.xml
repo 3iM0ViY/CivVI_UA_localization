@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TECH_POTTERY_DESCRIPTION">
+			<Text>Дає можливість мастакам збирати основні ресурси покращені фермами.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
+			<Text>Дає можливість мастакам збирати [ICON_RESOURCE_CATTLE] Корів, [ICON_RESOURCE_SHEEP] Овець та [ICON_RESOURCE_DEER] Оленів.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_DESCRIPTION">
+			<Text>Дає можливість мастакам вирубувати ліс та збирати [ICON_RESOURCE_Copper] мідь.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SAILING_DESCRIPTION">
+			<Text>Дає можливість мастакам вантажитись на кораблі.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
+			<Text>Дає можливість мастакам осушувати болота та збирати [ICON_RESOURCE_BANANAS] банани.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASONRY_DESCRIPTION">
+			<Text>Дає можливість мастакам збирати [ICON_RESOURCE_STONE] граніт.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
+			<Text>Дає можливість мастакам вирубати джунглі.[NEWLINE]Відкриває ресурс - [ICON_RESOURCE_IRON] залізо.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
+			<Text>Дає можливість будь-яким сухопутникам вантажитись на кораблі.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>Дає можливість караванникам вантажитись на кораблі.[NEWLINE]Дає можливість мастакам збирати [ICON_RESOURCE_FISH] рибу та [ICON_RESOURCE_CRABS] краби.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] рухливість моряків.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
+			<Text>+1 [ICON_Production] продукції від шахт.</Text>
+		</Row>			
+		<Row Tag="LOC_TECH_STIRRUPS_DESCRIPTION">
+			<Text>+1 [ICON_Food] їжі від загонів.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_DESCRIPTION">
+			<Text>Покращення велика стіна дає [ICON_Culture] культуру.[NEWLINE]Катерина де Медічі "Чорна королева" отримує шпигуна.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
+			<Text>+2 [ICON_Gold] золота від рибальського промислу.[NEWLINE]Всі моряки та повантажені на кораблі сухопутники можуть ходити океаном.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+			<Text>+1 [ICON_Movement] рухливість одиниць повантажених на кораблі.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BANKING_DESCRIPTION">
+			<Text>+2 [ICON_Gold] золота від кар'єрів.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PRINTING_DESCRIPTION">
+			<Text>Дає додатковий рівень дипломатичного доступу до всіх націй.[NEWLINE]Виробіток [ICON_Tourism] туризму від [ICON_GreatWork_Writing] літературних надбань подвоюється.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RADIO_DESCRIPTION">
+			<Text>Reveals [ICON_RESOURCE_ALUMINUM] Aluminum.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
+			<Text>+1 [ICON_Production] продукції від шахт.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>+1 [ICON_Food] їжі від плантацій.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SANITATION_DESCRIPTION">
+			<Text>+1 [ICON_Housing] житло від східчастих джерел.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
+			<Text>+2 [ICON_Movement] рухливість одиниць повантажених на кораблі.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_DESCRIPTION">
+			<Text>Покращення, що продукують [ICON_Culture] культуру, дають [ICON_Tourism] туризм еквівалентної кількості.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>+1 [ICON_Food] їжі від ферм, якщо поряд інша.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEEL_DESCRIPTION">
+			<Text>+1 [ICON_Production] продукції від лісопильні.[NEWLINE]Дає містам 400 пунктів укріплень та можливість обстрілу.[NEWLINE]Попередні захисні споруди стають застарілими, а відповідні помічники втрачають свою необхідність.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
+			<Text>+1 [ICON_Movement] рухливість одиниць повантажених на кораблі.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+			<Text>+1 [ICON_Production] продукції від кар'єрів.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PLASTICS_DESCRIPTION">
+			<Text>+1 [ICON_Food] їжа від рибальських промислів.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Дає можливість створити на 1 шпигуна більше.[NEWLINE]+100% [ICON_Tourism] туризму до вашої держави.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] золота від таборів.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>+1 [ICON_Production] продукції від загонів.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
+			<Text>Може бути багаторазово досліджена. Збільшує рахунок, величина якого визначає переможця в разі підсумкової перемоги.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SAILING">
+			<Text>Заснувати місто на узбережжі.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
+			<Text>Знайти природне диво.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_IRRIGATION">
+			<Text>Збудувати ресурсну ферму.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ARCHERY">
+			<Text>Знищити ворога пращниками.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_WRITING">
+			<Text>Знайти іншу націю.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASONRY">
+			<Text>Збудувати кар'єр.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
+			<Text>Знищити 3 варварів.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
+			<Text>Збудувати ресурсну шахту.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
+			<Text>Збудувати покращення на 2 морських ресурсах.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CURRENCY">
+			<Text>Запровадити [ICON_TradeRoute] торговий шлях.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
+			<Text>Збудувати загін.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
+			<Text>Збудувати залізну шахту.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
+			<Text>Збудувати 2 галери.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
+			<Text>Збудувати 3 різні райони.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
+			<Text>Збудувати водяний млин.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ENGINEERING">
+			<Text>Збудувати стіну.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
+			<Text>Знищити ворога списоносцями.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
+			<Text>Збудувати 3 шахти.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STIRRUPS">
+			<Text>Відкрити вчення феодалізм.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MACHINERY">
+			<Text>Створити 3 лучників.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_EDUCATION">
+			<Text>Отримати науковця.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
+			<Text>Збудувати акведук.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>Отримати уряд з 6 політиками.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
+			<Text>Збудувати 2 гавані.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
+			<Text>Збудувати лісопильню.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BANKING">
+			<Text>Відкрити гільдії.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
+			<Text>Збудувати арсенал.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PRINTING">
+			<Text>Збудувати 2 університети.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
+			<Text>Знищити ворога мушкетерами.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
+			<Text>Збудувати університет поряд гори.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
+			<Text>Створити 2 арбалетників.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
+			<Text>Створити 2 бомбарди.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
+			<Text>Збудувати 3 майстерні.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
+			<Text>Відкрити просвітництво.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BALLISTICS">
+			<Text>Збудувати 2 форти на своїй території.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
+			<Text>Знищити ворога лицарями.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
+			<Text>Збудувати 2 верфі.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SANITATION">
+			<Text>Збудувати 2 околиці.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ECONOMICS">
+			<Text>Збудувати 2 банки.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RIFLING">
+			<Text>Збудувати селітрову шахту.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_FLIGHT">
+			<Text>Збудувати диво індустріальної ери або більш пізнє.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
+			<Text>Створити 3 гвардійця.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STEEL">
+			<Text>Збудувати вугільну шахту та броненосець.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
+			<Text>Створити 3 каперів.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RADIO">
+			<Text>Збудувати національний парк.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
+			<Text>Завершити спільне дослідження.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMBUSTION">
+			<Text>Знайти артефакт.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
+			<Text>Створити 3 біплани.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>Збудувати 2 електростанції.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
+			<Text>Сформувати 3 армії чи армади.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PLASTICS">
+			<Text>Збудувати нафтовидобувну установку.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>Встановити уряд з 8 політиками.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
+			<Text>Збудувати 2 аеродроми.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
+			<Text>Збудувати 2 центри мистецтв.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
+			<Text>Знищити ворожі винищувачі.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPOSITES">
+			<Text>Створити 3 танки.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ROBOTICS">
+			<Text>Відкрити глобалізацію.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
+			<Text>Збудувати алюмінієву шахту.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
+			<Text>Здійснити [ICON_TechBoosted] науковий прорив з допомогою науковця або шпигуна.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
+			<Text>Заснування прибережного міста дало розуміння необхідності освоєння морської справи.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
+			<Text>Знахідка дива природи дала розуміння необхідності шукати прихований сенс нашого буття.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
+			<Text>Будівництво ферми дало розуміння необхідності вдосконалення методів землеробства.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
+			<Text>Знищення ворога з допомогою пращі дало розуміння необхідності покращення далекобійної зброї.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
+			<Text>Зустріч іншої нації дала розуміння необхідності покращення способів спілкування.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
+			<Text>Будівництво кар'єра дало розуміння необхідності покращення наших будівельних норм.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
+			<Text>Наша боротьба з варварами дала розуміння необхідності покращення озброєння.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
+			<Text>Будівництво ресурсної шахти дало розуміння необхідності винайдення досконаліших способів транспортування.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+			<Text>Your fishermen are learning how to guide their travels based on studying the night sky.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
+			<Text>Запровадження [ICON_TradeRoute] торгового шляху дало розуміння необхідності спрощення торгових відносин.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+			<Text>Будівництво загону дало розуміння необхідності знаходження інших способів використання тварин.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
+			<Text>Будівництво залізної шахти дало розуміння необхідності знаходження способу його обробки.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
+			<Text>Будівництво галер дало розуміння необхідності будівництва більших кораблів.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
+			<Text>Будівництво різних районів дало розуміння необхідності знаходження способу упорядкування розрахунків.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
+			<Text>Будівництво водяного млина дало розуміння можливості створення складніших механізмів.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
+			<Text>Будівництво стіни дало розуміння необхідності створення нових методів водовідведення та засобів її подолання.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+			<Text>Your spearmen are proving effective, but now your opponents are stronger and faster. Perhaps a longer weapon is needed?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
+			<Text>Будівництво кількох шахт дало розуміння необхідності організації підготовки робітників.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
+			<Text>Феодалізм дав розуміння необхідності ефективнішого використання коней.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+			<Text>Створення великої кількості луків дало розуміння необхідності пришвидшення методів обробки деревини.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
+			<Text>Поява видатного науковця дала поштовх розвитку нашої освіти.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
+			<Text>Будівництво акведука дало розуміння можливості використання інженерії у військових цілях.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
+			<Text>Поява настільки різностороннього уряду дала розуміння необхідності будівництва надійного захисту нашого способу життя.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
+			<Text>With so many ships leaving the harbors of your empire you long to document your explorations.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
+			<Text>Будівництво лісопильні дало розуміння необхідності покращення методів керування великою кількістю працівників.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
+			<Text>Поява гільдій дала підґрунтя для організації масштабної фінансової діяльності.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
+			<Text>Будівництво арсеналу та його подальше використання дало розуміння необхідності створення досконалішої запалювальної суміші.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
+			<Text>Out of necessity your scholars are devising methods for quickly copying books.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
+			<Text>The success of your Musketmen on land has spurred a new idea: what if we upgrade to gunpowder weaponry at sea?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
+			<Text>Будівництво університету у гірській місцевості суттєво прискорило астрономічні дослідження.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
+			<Text>Застосування арбалетного обстрілу укріплень дало розуміння необхідності винайдення кращої зброї дистанційного ураження.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
+			<Text>After creating bombards you realize that castles are not impregnable – you need a stauncher defense!.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
+			<Text>The busy workshops of your empire hint at greatness to come. Is an Industrial Revolution about to commence?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
+			<Text>Просвітницький погляд наших людей дав поштовх розвитку наукової теорії.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
+			<Text>Будівництво фортів дало розуміння необхідності винайдення потужнішої зброї для облоги.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
+			<Text>Знищення ворога лицарями дало розуміння необхідності створення закладу військового навчання.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
+			<Text>Let us apply our industrial acumen to your newly-constructed shipyards. Steam-powered naval vessels could rule the seas.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
+			<Text>With the introduction of neighborhoods, our cities are growing larger than ever before.  Developing a sanitation plan is crucial.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
+			<Text>Будівництво банків дало поштовх до розвитку економічних відносин.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
+			<Text>Будівництво шахти на багатому родовищі селітри дало поштовх розвитку вогнепальної зброї.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
+			<Text>Будівництво дива дало поштовх розробникам зробити нездійсненне - створити літальний апарат.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
+			<Text>Виробництво великої кількості озброєння дало розуміння необхідності його розподілу з допомогою запчастин.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
+			<Text>Будівництво вугільної шахти та броненосця дало можливість та необхідність у винайденні досконаліших сплавів заліза.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
+			<Text>Your crafty privateers are intrigued by the discovery of electric current. Could they use this to create stealthy propulsion?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
+			<Text>Створення національного парку дало розуміння необхідності шукати нових способів розповсюдження інформації.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
+			<Text>Joining forces with other nations has started a chain reaction of scientific advances.  Will the next push be in chemistry?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
+			<Text>Знахідка артефакта наштовхнула на ідею принципу нового двигуна.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
+			<Text>Створення великої кількості біпланів дало поштовх розвитку авіабудування.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
+			<Text>Будівництво електростанцій дало поштовх покращенню та виробництву озброєння і боєприпасів до нього.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
+			<Text>Now that your military has expanded could it be further enhanced with a new resource?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
+			<Text>Будівництво нафтовидобувної установки дало поштовх у дослідженнях корисних властивостей нафти.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
+			<Text>Становлення уряду з великою кількістю політик дало розуміння необхідності у потужних обчислювальних приладах.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
+			<Text>With facilities for aircrafts in multiple cities, your aeronautic industry is taking off.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
+			<Text>With your pioneers in radio and television leading the way, you’ve grown adept at transmitting data quickly.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
+			<Text>Your military has defeated an enemy plane. Now it is time to have the best defense against enemy aircraft.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
+			<Text>Tanks have been the backbone of your army so your scientists are striving for a more advanced model.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
+			<Text>Having a diverse set of metals to experiment on will help your scientists push into new fields.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
+			<Text>Будівництво алюмінієвої шахти дало можливість створення різноманітного обладнання.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
+			<Text>A team member has shared their research notes for a recently acquired technology. Their innovation will improve our own progress dramatically.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Pantheon-->
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FIRE_NAME">
+			<Text>Fire Goddess</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FIRE_DESCRIPTION">
+			<Text>+2 [ICON_FAITH] Faith from Geothermal Fissures and Volcanic Soil.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production and +1 [ICON_Faith] Faith from improved Strategic resources.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DIVINE_SPARK_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_GreatPerson] Great Person Points from Holy Sites (Prophet), Campuses with a Library (Scientist), and Theater Squares with an Amphitheater (Writer).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_EARTH_GODDESS_EXPANSION2_DESCRIPTION">
+			<Text>+1 Faith [ICON_Faith] from tiles with Breathtaking Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_Food] Food and +1 [ICON_Production] Production from Camps.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_Culture] Culture from Plantations.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FERTILITY_RITES_EXPANSION2_DESCRIPTION">
+			<Text>When chosen receive a Builder in your capital. City growth rate is 10% higher.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_EXPANSION2_DESCRIPTION">
+			<Text>When chosen receive a Settler in your capital. Border expansion rate is 15% faster.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RIVER_GODDESS_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_Amenities] Amenities and +2 [ICON_Housing] Housing to cities if they have a Holy Site district adjacent to a River.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_INITIATION_RITES_EXPANSION2_DESCRIPTION">
+			<Text>+50 [ICON_Faith] Faith for each Barbarian Outpost cleared. The unit that cleared the Barbarian Outpost heals +100 HP.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_Production] Production from Marsh, Oasis, and Desert Floodplains.</Text>
+		</Row>
+		<!-- Follower-->
+		<Row Tag="LOC_BELIEF_HOLY_WATERS_NAME">
+			<Text>Holy Waters</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_HOLY_WATERS_DESCRIPTION">
+			<Text>Increases Healing of your religious units by +10 in Holy Site districts belonging to cities with your majority religion, or any adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_EXPANSION2_DESCRIPTION">
+			<Text>Shrines and Temple provide +3 [ICON_FOOD] Food and +2 [ICON_HOUSING] Housing each.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_EXPANSION2_DESCRIPTION">
+			<Text>International [ICON_TradeRoute] Trade Routes provide +2 [ICON_GOLD] Gold to cities with Holy Sites and an additional +2 [ICON_GOLD] Gold for every building in the Holy Site district .</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WARRIOR_MONKS_EXPANSION2_DESCRIPTION">
+			<Text>Allows spending [ICON_FAITH] Faith to train Warriors Monks (A land combat unit) and Culture Bomb adjacent tiles when completing a Holy Site.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORK_ETHIC_EXPANSION2_DESCRIPTION">
+			<Text>Holy Site district’s [ICON_Faith] Faith adjacency bonus provides [ICON_Production] Production as well.</Text>
+		</Row>
+		<!-- Founder-->
+		<Row Tag="LOC_BELIEF_SACRED_PLACES_NAME">
+			<Text>Sacred Places</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SACRED_PLACES_DESCRIPTION">
+			<Text>+2 [ICON_SCIENCE] Science, [ICON_CULTURE] Culture, [ICON_GOLD] Gold, and [ICON_FAITH] Faith for each city following this Religion that has a World Wonder.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_SCIENCE] Science for every 4 followers of this Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LAY_MINISTRY_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_FAITH] Faith or +1 [ICON_CULTURE] Culture from each Holy Site or Theater Square district respectively for each city following this Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PILGRIMAGE_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_FAITH] Faith for each city following this Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STEWARDSHIP_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_SCIENCE] Science or +1 [ICON_GOLD] Gold from each Campus or Commercial Hub district respectively for each city following this Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_TITHE_EXPANSION2_DESCRIPTION">
+			<Text>+3 [ICON_GOLD] Gold for each city following the Religion.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORLD_CHURCH_EXPANSION2_DESCRIPTION">
+			<Text>+1 [ICON_CULTURE] Culture for every 4 followers of this Religion.</Text>
+		</Row>
+		<!-- Worship-->
+		<Row Tag="LOC_BELIEF_DAR_E_MEHR_EXPANSION2_DESCRIPTION">
+			<Text>Allows construction of Dar-e Mehrs (+3 [ICON_Faith] Faith, +1 additional [ICON_FAITH] Faith for each era since constructed or last repaired. Cannot be pillaged by natural disasters.).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GURDWARA_EXPANSION2_DESCRIPTION">
+			<Text>Allows construction of Gurdwaras (+3 [ICON_Faith] Faith, +2 [ICON_Food] Food, +1 [ICON_Housing] Housing).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAGODA_EXPANSION2_DESCRIPTION">
+			<Text>Allows construction of Pagodas (+3 [ICON_Faith] Faith, +1 [ICON_Favor] Diplomatic Favor per turn.).</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_ANY_ANY">
+			<Text>This situation is going to get worse before it gets any better.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>I have done nothing wrong, and the people of Kongo do not deserve your slander.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Своїми побрехеньками вам не затьмарити славу та блиск Франції!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>You dare insult the New Isis?!? You will regret this!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Я маю на це відповісти... можливо, це зробить мій меч.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Your lies will not be believed by the wise, and the foolish will learn their lesson.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Hah! Gilgamesh is stronger than your false words.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Your words are meaningless compared to our deeds.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Hah, I’ve burned kingdoms for lesser insults. You’ll pay for this.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Empty words are no threat. Show me action, purpose, discipline!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Це ситуація скоріше погано для вас скінчиться, ніж добре.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>All leaders incur hatred and unpopularity; if one has a great aim to pursue, this burden of envy must be accepted.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Масковія сільна как нікада! Твая армія курам насмєх, нєтошта русскаму челавеку. Мой нарот настока смєл, чо, ватлічія ат всєх, горда називаца прілагатєльним - русскій!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>There is no greater sin than to defy the anointed servant of the Lord. You will pay dearly for this.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>So, an insect dares to offend a dragon. That was not wise.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Everyone is critical of the flaws of others, but blind to their own.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>How dare you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>No one will believe your hollow lies. Tomyris is a good friend to the worthy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>So, it is true: one who is full of envy, disparages everything, good or bad.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>The Queen wishes to warn those who disrespect her people and her mandate of the manifold troubles that will ensue.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_ANY_ANY">
+			<Text>The world needs to be aware of your transgressions (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>(Звинувачення) Ви - зло цього світу. Ваше ім'я буде проклято довіку.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>(Звинувачення) Мені не до вподоби те, що доводиться бачити. І що ви собі думаєте?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>(Звинувачення) Ви гірші за Брута з Касієм. Світ має знати про це!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>(Звинувачення) Світ засудить ваші нікчемні дії.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>(Звинувачення) Ви ненадійні. Це гірше за насильство.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>(Звинувачення) Нехай весь світ почує мої слова! Ви такі ж віроломні як Іштар.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>You are worse than sophists. Let the rest of the world know. (Denounces You)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>(Звинувачення) Вам не місце за столом Одіна! Ви його ганьбите!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>(Звинувачення) Ви недалекий, простакуватий лідер. І ваш народ має про це знати.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>(Звинувачення) Світ має знати про ваші вади.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>(Звинувачення) Тирани на кшталт вас - відразливі. Ваші люди дізнаються правди.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>(Звинувачення) Я многава повідал, но нівжисть нєвстрєчал настока прєзрєннава правітеля. Ти пазор сваіва нєданарода.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>(Звинувачення) Черговий Іуда припхався аби зрадити Бога.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ANY">
+			<Text>(Звинувачення) Ваша репутація вже ніколи не матиме блиску.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>(Звинувачення) Мудрість мого народу каже, що дім тирана - руїни... і саме це я бачу довкола вас.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>I cannot abide a ruler without dignity, and the world must be made aware. (Denounces You)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>You are a wretched liar and cannot be trusted! You are the worst of your kind. (Denounces You)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>You are a disgrace. I will tell the world, they will know who you truly are. (Denounces You)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>(Звинувачення) Я звинувачую вас у неробстві вашого уряду.</Text>
+		</Row>
+
+		<!-- Diplomatic rationales for denouncement -->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_OPPORTUNITY">
+			<Text>(Probably intends to declare war.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ARCHAEOLOGY">
+			<Text>(You dug up one of their Artifacts.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_BROKEN_PROMISE">
+			<Text>(You broke a promise to them.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NO_PROMISE">
+			<Text>*Вони невдоволені, через відхилення нами їхнього прохання.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CONVERTED_CITY">
+			<Text>*Вони невдоволені, що ми навернули у свою релігію одне з їхніх міст.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CULTURE_BOMB">
+			<Text>(You culture bombed one of their cities.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DEMAND">
+			<Text>(You demanded trade goods from them.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DENOUNCED">
+			<Text>*Вони гніваються через звинувачення їх нами.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ESPIONAGE">
+			<Text>(You sent Spies on missions against them.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_GOVERNMENT_DIFFERENT">
+			<Text>*Вони гніваються через відмінність урядів.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_INCURSION">
+			<Text>(Your forces encroach on their lands.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NEAR_BORDER_WARNING">
+			<Text> (You kept troops on their border.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_CITY">
+			<Text>*Вони гніваються через окупацію нами їхнього міста.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_FRIENDLY_CITY">
+			<Text>*Вони гніваються через окупацію нами міста їхнього союзника.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RANDOM">
+			<Text>*Вони вважають нас інакшими.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RAZED_MY_CITY">
+			<Text>(You razed one of their cities.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_SETTLED_CITIES">
+			<Text>*Вони вважають, що ми селимося на їхній землі.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_WARMONGER">
+			<Text>*Вони вважають нас віроломними.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_SURPRISE_WAR_ON_FRIEND">
+			<Text>(You went to war with their friend.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DENOUNCED_FRIEND">
+			<Text>(You denounced their friend.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_FRIENDSHIP_WITH_ENEMY">
+			<Text>(You are a declared friend to their enemy.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_ALLIED_WITH_ENEMY">
+			<Text>*Ми союзник їхньому ворогу.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
+			<Text>(You denounced their friend.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_AYYUBID_DYNASTY">
+			<Text>*Наші міста не мають споруд їхньої релігії.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BACKSTAB_AVERSE_SURPRISE_WAR">
+			<Text>(You declared a surprise war.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BLACK_QUEEN">
+			<Text>*У нас замало шпигунів.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BUSHIDO">
+			<Text>(You are weak in Faith and Culture.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CONTINENT_ATTACKED">
+			<Text>(You have attacked a player on their continent.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HAS_DESIRED_LUXURY">
+			<Text>(You have a Luxury they covet.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LAST_VIKING_KING">
+			<Text>*Вони вважають наш флот слабким.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_GREAT_PEOPLE">
+			<Text>*Вони гніваються, бо ми маємо більше видатних людей.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LAGS_PROGRESS">
+			<Text>*Вони вважають нас науково відсталими та безкультурними.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_WONDERS">
+			<Text>(You have more wonders than they do.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_NEVER_AT_WAR">
+			<Text>(You haven't been to war.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_PAID_FOR_PEACE">
+			<Text>(You paid for peace.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_WARMONGER">
+			<Text>(You are a warmonger.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_ENCROACHING_RELIGION">
+			<Text>(You are converting their cities to your Religion.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS">
+			<Text>(You are competing with them for city-states.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_RELIGION_NOT_RECEIVED">
+			<Text>*Вони розчаровані, адже ми не поширюємо свою релігію у їхніх містах.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_CONQUERING_ALLYING_MINORS">
+			<Text>(You have more envoys than me at too many city states.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_OPTIMUS_PRINCEPS">
+			<Text>(You control very little territory.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_QUEEN_OF_NILE">
+			<Text>*Вони вважають нас слабкими.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SUN_SETS_NEW_CONTINENT">
+			<Text>(You've settled in a continent they want a presence in.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_CULTURE">
+			<Text>(Your Culture is too low.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY">
+			<Text>*Вони вважають наш виробіток продукції занизьким.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_HAPPINESS">
+			<Text>(Your people are lacking Amenities.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INCOME">
+			<Text>(Your income is too low.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_POPULATION">
+			<Text>*Вони вважають наше населення замалим.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_SCIENCE">
+			<Text>(Your Science is too low.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_STANDING_ARMY">
+			<Text>(Your standing army is too small.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>(They are afraid of you.)</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ZEALOT">
+      <Text>(You have not allowed their religion into a majority of your cities)</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

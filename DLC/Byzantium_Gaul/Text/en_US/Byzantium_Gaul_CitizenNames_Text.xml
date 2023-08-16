@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Byzantium-->
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_1">
+			<Text>Arcadius</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_2">
+			<Text>Damianus</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_3">
+			<Text>Ignatios</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_4">
+			<Text>Justinian</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_5">
+			<Text>Leo</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_6">
+			<Text>Niketas</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_7">
+			<Text>Phocas</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_8">
+			<Text>Theoktistos</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_9">
+			<Text>Valens</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MALE_10">
+			<Text>Stylian</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_1">
+			<Text>Yolanda</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_2">
+			<Text>Martina</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_3">
+			<Text>Eulogia</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_4">
+			<Text>Epiphania</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_5">
+			<Text>Ariadne</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_6">
+			<Text>Agatha</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_7">
+			<Text>Eudocia</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_8">
+			<Text>Joannina</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_9">
+			<Text>Theodora</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_FEMALE_10">
+			<Text>Athenais</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_1">
+			<Text>Konstantinos</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_2">
+			<Text>Christos</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_3">
+			<Text>Agrim</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_4">
+			<Text>Panagiotis</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_5">
+			<Text>Stavros</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_6">
+			<Text>Kostas</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_7">
+			<Text>Alexandros</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_8">
+			<Text>Ierotheos</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_9">
+			<Text>Nikolas</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_MALE_10">
+			<Text>Demetres</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_1">
+			<Text>Konstantina</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_2">
+			<Text>Michaela</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_3">
+			<Text>Marialena</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_4">
+			<Text>Rafaela</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_5">
+			<Text>Georgia</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_6">
+			<Text>Alexandra</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_7">
+			<Text>Danae</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_8">
+			<Text>Despina</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_9">
+			<Text>Athina</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_BYZ_MODERN_FEMALE_10">
+			<Text>Evi</Text>
+			<Gender>f</Gender>
+		</Row>
+		<!--Gaul-->
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_1">
+			<Text>Sudarix</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_2">
+			<Text>Atilkoryos</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_3">
+			<Text>Axrotalus</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_4">
+			<Text>Lukotorix</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_5">
+			<Text>Katurix</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_6">
+			<Text>Dubnorix</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_7">
+			<Text>Bodyokassos</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_8">
+			<Text>Segomaros</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_9">
+			<Text>Orgetorix</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MALE_10">
+			<Text>Wenikaros</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_1">
+			<Text>Boudica</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_2">
+			<Text>Dewognata</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_3">
+			<Text>Kunopennos</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_4">
+			<Text>Luguselwa</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_5">
+			<Text>Aiias</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_6">
+			<Text>Potita</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_7">
+			<Text>Vlatucia</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_8">
+			<Text>Adiega</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_9">
+			<Text>Diligenta</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_FEMALE_10">
+			<Text>Aia</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_1">
+			<Text>Ян</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_2">
+			<Text>Корнелій</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_3">
+			<Text>Matthys</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_4">
+			<Text>Якоб</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_5">
+			<Text>Пітер</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_6">
+			<Text>Gillis</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_7">
+			<Text>Ghildolf</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_8">
+			<Text>Вільям</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_9">
+			<Text>Робін</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_MALE_10">
+			<Text>Валентин</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_1">
+			<Text>Lore</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_2">
+			<Text>Aya</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_3">
+			<Text>Міла</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_4">
+			<Text>Chloe</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_5">
+			<Text>Еліза</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_6">
+			<Text>Клара</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_7">
+			<Text>Марго</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_8">
+			<Text>Валентина</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_9">
+			<Text>Меріон</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GAUL_MODERN_FEMALE_10">
+			<Text>Ганна</Text>
+			<Gender>f</Gender>
+		</Row>
+	</EnglishText>
+</GameData>

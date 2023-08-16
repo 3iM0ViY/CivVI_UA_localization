@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Babylon: Building Info -->
+		<Row Tag="LOC_BUILDING_PALGUM_NAME">
+			<Text>Водозабір</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PALGUM_DESCRIPTION">
+			<Text>Унікальна вавилонська споруда.[NEWLINE]+1 [ICON_HOUSING] житло.[NEWLINE]+2 [ICON_PRODUCTION] продукції.[NEWLINE]+1 [ICON_FOOD] їжі ділянкам поряд, з прісною водою.</Text>
+		</Row>
+
+		<!-- Babylon: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_BABYLON_STK_NAME">
+			<Text>Вавилонці</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION">
+			<Text>Месопотамська імперія</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE">
+			<Text>Babylonian</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME">
+			<Text>Enuma Anu Enlil</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION">
+			<Text>[ICON_Bullet][ICON_TechBoosted] Наукові прориви завершують дослідження технологій.[NEWLINE][ICON_Bullet]-50% приросту [ICON_SCIENCE] науки що ходу.</Text>
+		</Row>
+
+		<!-- Babylon: Leader Info -->
+		<Row Tag="LOC_LEADER_HAMMURABI_NAME">
+			<Text>Хаммурапі</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME">
+			<Text>Ninu Ilu Sirum</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION">
+			<Text>[ICON_Bullet]Вперше збудований спеціальний район отримує найменш вартісну за [ICON_PRODUCTION] продукцією споруду цього району.[NEWLINE][ICON_Bullet]Вперше збудований спеціальний район надає [ICON_ENVOY] посланця.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION">
+			<Text>When each specialty district type except the Government Plaza is constructed for the first time receive the lowest [ICON_PRODUCTION] Production cost building that can currently be constructed in that district. Receive an [ICON_ENVOY] Envoy when any other district is constructed for the first time.</Text>
+		</Row>
+
+		<!-- Babylon: Unit Info -->
+		<Row Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME">
+			<Text>Списоборці</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION">
+			<Text>Унікальний вавилонський сухопутник-штурмовик древньої ери. +17 [ICON_Strength] бойова міць проти вершників. Одиниця має 3 пункти [ICON_Movement] рухливості та радіусу огляду.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME">
+			<Text>Sabum Kibittum</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Combat Strength against Heavy and Light Cavalry promotion class units.</Text>
+		</Row>
+		<Row Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength against Heavy and Light Cavalry promotion class units</Text>
+		</Row>
+
+		<!-- Heroes & Legends Mode -->
+		<Row Tag="LOC_GAMEMODE_HEROES_NAME">
+			<Text>Легендарні герої</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_HEROES_DESCRIPTION">
+			<Text>Цей ігровий режим додає 12 легендарних героїв. Виявляйте їх досліджуючи світ та закріплюйте за своєю нацією. Кожен герой унікальний, з власною зовнішністю, навичками та властивостями. Тривалість життя героїв обмежена, але може бути збільшена та існує можливість виклику за виконання умов та достатньої кількості [ICON_Faith] віри.[NEWLINE][NEWLINE][COLOR_RED]Увага! Цей режим порушує історичну логіку. Наприклад, коли герой озброєний дубиною розносить на друзки танк отримавши подряпину.[ENDCOLOR]</Text>
+		</Row>
+
+		<!--Heroes & Legends Descriptions-->
+		<Row Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME">
+			<Text>Legacy of Enkidu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION">
+			<Text>25% [ICON_Production] Production increase when claiming Heroes, and Heroes have 20% longer [ICON_Lifespan] Lifespans.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION">
+			<Text>+2 [ICON_Food] Food, +2 [ICON_Production] Production, +1 [ICON_FAITH] Faith, and +4 [ICON_Gold] Gold from each [ICON_GreatWork_Relic] Relic, [ICON_GreatWork_HeroRelic] Heroic Relic, [ICON_GreatWork_Artifact] Artifact, and Sculpture [ICON_GreatWork_Sculpture] Great Work of Art in addition to the usual [ICON_Culture] Culture. Receive 50% more [ICON_GreatArtist] Great Artist, [ICON_GreatMusician] Great Musician, and [ICON_GreatMerchant] Great Merchant points. Palace has slots for 5 Great Works.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION">
+			<Text>The Religion founded by Poland becomes the majority in an adjacent city that loses a tile to a Polish Culture Bomb. Holy Sites gain standard Faith adjacency bonus from adjacent districts. [ICON_GreatWork_Relic] Relics and [ICON_GreatWork_HeroRelic] Heroic Relics provide +2 [ICON_Faith] Faith, +2 [ICON_Culture] Culture, +4 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION">
+			<Text>Потрійна кількість [ICON_Faith] віри та [ICON_Tourism] туризму від [ICON_GreatWork_Relic] святих та [ICON_GreatWork_HeroRelic] героїчних реліквій.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_HEROES_DESCRIPTION">
+			<Text>A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. Missionaries purchased in this city receive the Martyr ability which grants a [ICON_GreatWork_Relic] Relic if this Missionary dies in Theological Combat. Recalling Heroes in this city costs 15% less [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_HEROES_XP1_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] Faith. A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. +0.5 [ICON_Culture] Culture for every [ICON_CITIZEN] population in this city. Once Flight is researched receive +10 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 10 or higher and +20 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 20 or higher. Recalling Heroes in this city costs 15% less [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_HEROES_XP2_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] Faith. A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. +0.5 [ICON_Culture] Culture for every [ICON_CITIZEN] population in this city. Once Flight is researched receive +10 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 10 or higher and +20 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 20 or higher. Recalling Heroes in this city costs 15% less [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAVE_CHURCH_HEROES_DESCRIPTION">
+			<Text>A building unique to Norway. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. Holy Site districts get an additional standard adjacency bonus from Woods. +1 [ICON_PRODUCTION] Production to each coastal resource tile in this city. Recalling Heroes in this city costs 15% less [ICON_Faith] Faith.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_CITY_MAKE_RANGED_ATTACK">
+			<Text>Attack with your city!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT">
+			<Text>{2_UnitName : plural 1?{2_UnitName : gender m?Наш; f?Наша;}; 2?Наші;} {2_UnitName} захищаючись, завдавши {5_Num} шкоди, {2_UnitName : plural 1?{2_UnitName : gender m?знищив; f?знищила;}; 2?знищили;} ворога - {3_EnemyAdjective} {4_EnemyUnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT_DEFENDING_CITY">
+			<Text>{4_EnemyUnitName : plural 1?{4_EnemyUnitName : gender m?Ворожий; f?Ворожа;}; 2?Ворожі;} {3_EnemyAdjective} {4_EnemyUnitName}, втративши {5_Num} здоров'я, {4_EnemyUnitName : plural 1?{4_EnemyUnitName : gender m?був знищений; f?була знищена;}; 2?були знищені;} оборонцями міста {2_CityName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_CITY_WAS_CAPTURED">
+			<Text>{2_UnitName : plural 1?{2_UnitName : gender m?Ворожий; f?Ворожа;}; 2?Ворожі;} {2_UnitName} {2_UnitName : plural 1?{2_UnitName : gender m?захопив; f?захопила;}; 2?захопили;} наше місто {1_CityName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_CITY">
+			<Text>{1_UnitName : plural 1?{1_UnitName : gender m?Наш; f?Наша;}; 2?Наші;} {1_UnitName}, ціною {2_Num} здоров'я, {1_UnitName : plural 1?{1_UnitName : gender m?захопив; f?захопила;}; 2?захопили;} вороже місто {3_CityName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_UNIT">
+			<Text>Your {1_UnitName} captured an enemy {2_UnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_CAPTURED_BY_ENEMY_UNIT">
+			<Text>Your {1_UnitName} was captured by an enemy {2_UnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
+			<Text>{1_UnitName : plural 1?{1_UnitName : gender m?Наш; f?Наша;}; 2?Наші;} {1_UnitName}, ціною {2_Num} здоров'я, {1_UnitName : plural 1?{1_UnitName : gender m?знищив; f?знищила;}; 2?знищили;} ворога - {3_UnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_ANTI_AIR">
+			<Text>Your attacking {1_UnitName} died from enemy {2_EnUName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_INTERCEPTED">
+			<Text>Your attacking {1_UnitName} died from enemy {2_EnUName} ({3_Num} damage) intercept!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
+			<Text>{1_UnitName : plural 1?{1_UnitName : gender m?Наш; f?Наша;}; 2?Наші;} {1_UnitName} {1_UnitName : plural 1?{1_UnitName : gender m?був знищений; f?була знищена;}; 2?були знищені;} атакуючи ворога! {2_EnUName : plural 1?{2_EnUName : gender m?Ворожий; f?Ворожа;}; 2?Ворожі;} {2_EnUName} зазнали {3_Num} шкоди.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
+			<Text>Your {1_UnitName} died attacking the enemy City of {2_EnUName} ({3_Num} damage)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_ANTI_AIR">
+			<Text>Your attacking {2_UnitName} ({3_Num} damage) was damaged by {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_INTERCEPTED">
+			<Text>Your attacking {2_UnitName} ({3_Num} damage) was intercepted by {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName} ({6_Num} damage)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
+			<Text>{1_UnitName : plural 1?{1_UnitName : gender m?Наш; f?Наша;}; 2?Наші;} {1_UnitName} {1_UnitName : plural 1?{1_UnitName : gender m?втратив; f?втратила;}; 2?втратили;} {2_Num} здоров'я внаслідок атаки ворога! {3_EnUName : plural 1?Ворожий; 2?Ворожі;} {3_EnUName} {3_EnUName : plural 1?{3_EnUName : gender m?зазнав; f?зазнала;}; 2?зазнали;} {4_Num} шкоди!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_CITY">
+			<Text>Your {1_UnitName} ({2_Num} damage) attacked the enemy City of {3_CityName} ({4_Num} damage)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
+			<Text>Our {1_UnitName} has withdrawn from enemy melee attack.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
+			<Text>{1_UnitName : plural 1?{1_UnitName : gender m?Наш; f?Наша;}; 2?Наші;} {1_UnitName} {1_UnitName : plural 1?{1_UnitName : gender m?втратив; f?втратила;}; 2?втратили;} {2_Num} здоров'я внаслідок ворожої атаки! {3_EnUName : plural 1?{3_EnUName : gender m?Ворожий; f?Ворожа;}; 2?Ворожі;} {3_EnUName} {3_EnUName : plural 1?{3_EnUName : gender m?втратив; f?втратила;}; 2?отримали;} {4_Num} здоров'я.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW_INTERCEPTING">
+			<Text>Your {1_UnitName} ({2_Num} damage) intercepted an enemy {3_EnUName} ({4_Num} damage)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_INTERCEPTING">
+			<Text>While intercepting, your {2_UnitName} was destroyed by {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName} ({6_Num} damage)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
+			<Text>Захищаючись, {2_UnitName : plural 1?{2_UnitName : gender m?загинув наш; f?загинула наша;}; 2?загинули наші;} {2_UnitName}! {4_EnemyUnitName : plural 1?{4_EnemyUnitName : gender m?Ворожий {3_EnemyAdjective[1]}; f?Ворожа {3_EnemyAdjective[2]};}; 2?Ворожі {3_EnemyAdjective[3]};} {4_EnemyUnitName} {4_EnemyUnitName : plural 1?{4_EnemyUnitName : gender m?отримав; f?отримала;}; 2?отримали;} {5_Num} шкоди.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
+			<Text>{1_UnitName : plural 1?{1_UnitName : gender m?Наш; f?Наша;}; 2?Наші;} {1_UnitName} {1_UnitName : plural 1?{1_UnitName : gender m?обстріляв; f?обстріляла;}; 2?обстріляли;} ворога! {2_EnUName : plural 1?{2_EnUName : gender m?Ворожий; f?Ворожа;}; 2?Ворожі;} {2_EnUName} {2_EnUName : plural 1?{2_EnUName : gender m?отримав; f?отримала;}; 2?отримали;} {3_Num} шкоди.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
+			<Text>Your {1_UnitName} bombed an enemy {2_EnUName} causing {3_Num} damage!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
+			<Text>Your {1_UnitName} was strafed by an enemy {2_EnUName} taking {3_Num} damage!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
+			<Text>Your {1_UnitName} damaged an enemy {2_EnUName}({3_Num} damage)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
+			<Text>{1_UnitName : plural 1?{1_UnitName : gender m?Наш ; f?Наша ;}; 2?Наші ;} {1_UnitName} {1_UnitName : plural 1?{1_UnitName : gender m?обстріляв; f?обстріляла;}; 2?обстріляли;} ворога! {2_EnUName : plural 1?{2_EnUName : gender m?Ворожий; f?Ворожа;}; 2?Ворожі;} {2_EnUName} {2_EnUName : plural 1?{2_EnUName : gender m?втратив; f?втратила;}; 2?втратили;} {3_Num} здоров'я.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
+			<Text>{2_EnUName : plural 1?{2_EnUName : gender m?Ворожий; f?Ворожа;}; 2?Ворожі;} {2_EnUName} {2_EnUName : plural 1?{2_EnUName : gender m?обстріляв; f?обстріляла;}; 2?обстріляли;} наших! {1_UnitName} {1_UnitName : plural 1?{1_UnitName : gender m?втратив; f?втратила;}; 2?втратили;} {3_Num} здоров'я внаслідок цього!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_WMD_SUCCEEDED">
+			<Text>Your {1_UnitName} WMD attack succeeded!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_WMD_FAILED_HIGH_DAMAGE">
+			<Text>Your {1_UnitName} WMD attack failed because of high damage.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_WMD_SUCCEEDED">
+			<Text>You failed to stop {LOC_GRAMMAR_A_AN &lt;&lt; {1_EnemyAdjective}} {2_EnemyUnitName} WMD attack!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_WMD_FAILED_HIGH_DAMAGE">
+			<Text>You successfully stopped {LOC_GRAMMAR_A_AN &lt;&lt; {1_EnemyAdjective}} {2_EnemyUnitName} WMD attack by causing {3_Num} damage!</Text>
+		</Row>
+		<Row Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
+			<Text>While defending, your {1_UnitName} was destroyed by a disguised {2_EnUName} ({3_Num} damage)!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
+			<Text>{1_UnitName : plural 1?{1_UnitName : gender m?Наш; f?Наша;}; 2?Наші;} {1_UnitName}, атакуючи ворожий район - {2_Name}, {1_UnitName : plural 1?{1_UnitName : gender m?завдав; f?завдала;}; 2?завдали;} {3_Num} шкоди ворожим оборонцям!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
+			<Text>{2_EnUName : plural 1?{2_EnUName : gender m?Ворожий; f?Ворожа;}; 2?Ворожі;} {2_EnUName} {2_EnUName : plural 1?{2_EnUName : gender m?атакував; f?атакувала;}; 2?атакували;} наш {1_Name}! Оборонці втратили {3_Num} здоров'я!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
+			<Text>{1_UnitName : plural 1?{1_UnitName : gender m?Наш; f?Наша;}; 2?Наші;} {1_UnitName} {1_UnitName : plural 1?{1_UnitName : gender m?атакував; f?атакувала;}; 2?атакували;} ворожий район {2_Name}, завдавши {3_Num} шкоди оборонцям та {4_Num} захисним спорудам!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
+			<Text>{1_Name : gender m?Наш; f?Наша;} {1_Name} було атаковано ворогом - {2_EnUName}! {2_Name : plural 1?{2_Name : gender m?Ворожий; f?Ворожа;}; 2?Ворожі;} {2_Name} {2_Name : plural 1?{2_Name : gender m?зазнав; f?зазнала;}; 2?зазнали;} {3_Num} шкоди, але {2_Name : plural 1?{2_Name : gender m?завдав; f?завдала;}; 2?завдали;} {4_Num} шкоди укріпленням.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_DESTROYED_ENEMY">
+			<Text>Оборонці міста {1_Name} обстрілом, завдавши {3_Damage} шкоди, знищили ворога - {2_EnUName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_BOMBARDED_ENEMY">
+			<Text>Оборонці міста {1_Name} обстріляли ворога - {2_EnUName}, завдавши {3_Damage} шкоди!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY_DISTRICT">
+			<Text>{1_Name : plural 1?{1_Name : gender m?Наш; f?Наша;}; 2?Наші;} {1_Name} {1_Name : plural 1?{1_Name : gender m?втратив; f?втратила;}; 2?втратили;} {3_Num} здоров'я внаслідок обстрілу оборонцями ворожого району - {2_EnUName}!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ICBM_DESTROYED">
+			<Text>ICBM intercepted and destroyed.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_UNIT_HEALED">
+			<Text>Наш {1_Name} відновив здоров'я внаслідок грабунку.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_CULTURE">
+			<Text>Грабунок приніс {1_Num} [ICON_Culture] культури.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_FAITH">
+			<Text>Грабунок приніс {1_Num} [ICON_Faith] віри.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_GOLD">
+			<Text>Грабунок приніс {1_Num} [ICON_Gold] золота.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_SCIENCE">
+			<Text>Грабунок приніс {1_Num} [ICON_Science] науки.</Text>
+		</Row>
+		<Row Tag="LOC_KILL_CULTURE">
+			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_FAITH">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_FAITH_PLUS">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} {2_Religion}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_FAITH_MINUS">
+			<Text>[COLOR_RED]-{1_Num} {2_Religion}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_GOLD">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_SCIENCE">
+			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_GREATPERSON_BONUS">
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num} {2_GreatPerson}[ENDCOLOR]</Text>
+		</Row>
+
+		<!-- Damage Message -->
+		<Row Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] укріплення</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] укріплення</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_HEADER">
+			<Text>Захоплено місто</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_TRADED">
+			<Text>CITY RECEIVED</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_NAME_LABEL">
+			<Text>Назва:</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_POPULATION_LABEL">
+			<Text>Населення:</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_DISTRICTS_LABEL">
+			<Text>Райони:</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+			<Text>Повернення міста його засновникам може відновити її націю у грі.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
+			<Text>Повернення міста засновнику [COLOR_MEDIUM_GREEN]СУТТЕВО ЗНИЗИТЬ[ENDCOLOR] попередньо зароблене покарання за віроломство.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
+			<Text>Приєднати місто до нашої імперії. Продуктивність міста буде знижена внаслідок заворушень.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
+			<Text>Keep this city in your empire.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
+			<Text>Покарання за віроломство: {1_WarmongerLevel}[NEWLINE][NEWLINE]Величина покарання буде залежати від того чи лишиться це місто вашим на момент завершення війни.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
+			<Text>Величина покарання за віроломство цієї ери залежить від того, чи залишено останнє місто та штрафу за оголошення несподіваної війни. Покарання [COLOR_RED]подвоюється[ENDCOLOR] якщо захоплюється останнє місто (не стосується вільних міст).</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
+			<Text>Знести місто, його райони та споруди.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
+			<Text>[COLOR_RED]Призведе до важкого покарання за віроломство![ENDCOLOR][NEWLINE][NEWLINE]Покарання за віроломство: {1_WarmongerLevel}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
+			<Text>Покарання [COLOR_RED]потроюється[ENDCOLOR] за знесення останнього міста.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
+			<Text>Ви не можете знести початкову столицю іншої нації або місто засноване вами чи вашим союзником.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_FOUNDER_BUTTON_LABEL">
+			<Text>Повернути засновникам, це - {1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_PREWAR_OWNER_BUTTON_LABEL">
+			<Text>Liberate to Pre-War Owner ({1_CivName})</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_BUTTON_LABEL">
+			<Text>Лишити</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_BUTTON_LABEL">
+			<Text>Знести</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

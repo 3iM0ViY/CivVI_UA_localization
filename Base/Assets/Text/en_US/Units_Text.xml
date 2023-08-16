@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Promotion Class Names -->
+		<Row Tag="LOC_PROMOTION_CLASS_RECON_NAME">
+			<Text>Розвідник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
+			<Text>Штурмовик</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_RANGED_NAME">
+			<Text>Далекобійник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
+			<Text>Осадник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
+			<Text>Верхобійник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_LIGHT_CAVALRY_NAME">
+			<Text>Легкий вершник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_HEAVY_CAVALRY_NAME">
+			<Text>Важкий вершник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_AIR_FIGHTER_NAME">
+			<Text>Літак-штурмовик</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_AIR_BOMBER_NAME">
+			<Text>Літак-бомбардувальник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
+			<Text>Моряк-штурмовик</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
+			<Text>Моряк-далекобійник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
+			<Text>Моряк-носій</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_RAIDER_NAME">
+			<Text>Моряк-розбійник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
+			<Text>Релігійник-апостол</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
+			<Text>Релігійник-інквізитор</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
+			<Text>Помічник</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SPY_NAME">
+			<Text>Шпигун</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_MONK_NAME">
+			<Text>Релігійник-штурмовик</Text>
+		</Row>
+
+		<!-- Formation Class Names -->
+		<Row Tag="LOC_FORMATION_CLASS_AIR_NAME">
+			<Text>Air Combat</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
+			<Text>Civilian</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
+			<Text>Land Combat</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
+			<Text>Naval Combat</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
+			<Text>Support</Text>
+		</Row>
+
+		<!-- Damage Message -->
+		<Row Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_FAITH_DECREASE_FLOATER">
+			<Text>[COLOR_RED]-{1_Num}[ENDCOLOR] [ICON_Faith]</Text>
+		</Row>
+
+		<!-- Damage Message -->
+		<Row Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_UNIT_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+
+		<!-- Experience Message -->
+		<Row Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_FLOATER">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} д.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} д. і навичка[ENDCOLOR]</Text>
+		</Row>
+
+		<!-- Production Yield Message -->
+		<Row Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_PRODUCTION]+{1_Num} [ICON_Production][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_PRODUCTION]{1_Num}[ICON_Production][ENDCOLOR] [COLOR_RED]втрачено[ENDCOLOR]</Text>
+		</Row>
+
+		<!-- Food Yield Message -->
+		<Row Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num} [ICON_Food][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_FOOD]{1_Num} [ICON_Food][ENDCOLOR] [COLOR_RED]втрачено[ENDCOLOR]</Text>
+		</Row>
+
+		<!-- Gold Yield Message -->
+		<Row Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_GOLD_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_GOLD]{1_Num} [ICON_Gold][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+		</Row>
+
+		<!-- Science Yield Message -->
+		<Row Tag="LOC_WORLD_SCIENCE_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_SCIENCE_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_SCIENCE]{1_Num} [ICON_Science][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+		</Row>
+
+		<!-- Culture Yield Message -->
+		<Row Tag="LOC_WORLD_CULTURE_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CULTURE_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_CULTURE]{1_Num} [ICON_Culture][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+		</Row>
+
+		<!-- Civilian-->
+		<Row Tag="LOC_UNIT_SETTLER_DESCRIPTION">
+			<Text>Закладає нове місто. Зменшує [ICON_Citizen] населення на 1 після створення.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BUILDER_DESCRIPTION">
+			<Text>Будують покращення місцевості та змінюють їх. Збирають ресурси. Розпускаються після 3 робіт.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TRADER_DESCRIPTION">
+			<Text>Запроваджує та підтримує один [ICON_TradeRoute] торговий шлях.[NEWLINE]Автоматично створює дорогу.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
+			<Text>Навертають вільних [ICON_Citizen] жителів на свою релігію та захищають вірян від впливу чужої.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
+			<Text>Навертають [ICON_Citizen] жителів на свою релігію. Здатні почати релігійну битву. Один раз впродовж гри можуть ініціювати розслідування, що дозволить створювати інквізиторів. Один раз впродовж гри здатні укріпити релігію додавши нове вірування.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
+			<Text>Вертають вірян інших релігій до власної у містах своєї держави. Здатні почати релігійну битву.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GURU_DESCRIPTION">
+			<Text>Лікують себе та інших дружніх релігійників поряд. Не здатні розпочати релігійну битву, але можуть бути атаковані.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARRIOR_MONK_DESCRIPTION">
+			<Text>Швидкий штурмовик з унікальним деревом навичок.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
+			<Text>Цивільник, котрий обстежуючи [ICON_RESOURCE_ANTIQUITY_SITE] пам'ятки давнини шукає [ICON_GreatWork_Artifact] артефакти для свого музею.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPY_DESCRIPTION">
+			<Text>Виконує таємні завдання у іноземних містах та захищає свої від ворожих шпигунів.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
+			<Text>Цивільник здатний створювати національні парки для приваблювання [ICON_Tourism] туристів. Створюється за [ICON_Faith] віру.</Text>
+		</Row>
+
+		<!-- Great People-->
+		<Row Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
+			<Text>Each [ICON_GreatGeneral] Great General has unique abilities, including a passive effect, and a Retire effect. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
+			<Text>Each [ICON_GreatAdmiral] Great Admiral has unique abilities, including a passive effect, and a Retire effect. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
+			<Text>Each [ICON_GreatEngineer] Great Engineer has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
+			<Text>Each [ICON_GreatMerchant] Great Merchant has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
+			<Text>Great [ICON_GreatProphet] Prophets can found a Religion when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
+			<Text>Each [ICON_GreatScientist] Great Scientist has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
+			<Text>Each [ICON_GreatWriter] Great Writer generates a [ICON_GreatWork_Writing] Great Work of Writing when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
+			<Text>Each [ICON_GreatArtist] Great Artist generates a [ICON_GreatWork_Landscape] Great Work of Art when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
+			<Text>Each [ICON_GreatMusician] Great Musician generates a [ICON_GreatWork_Music] Great Work of Music when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		</Row>
+		<!-- Recon-->
+		<Row Tag="LOC_UNIT_SCOUT_DESCRIPTION">
+			<Text>Розвідник древньої ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RANGER_DESCRIPTION">
+			<Text>Розвідник-далекобійник індустріальної ери.</Text>
+		</Row>
+
+		<!-- Melee-->
+		<Row Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
+			<Text>Слабкий штурмовик древньої ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
+			<Text>Сухопутник древньої ери, ефективний проти вершників.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
+			<Text>Сильний штурмовик класичної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
+			<Text>Верхобійник середньовіччя.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
+			<Text>Штурмовик ери ренесансу.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
+			<Text>Штурмовик сучасної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
+			<Text>Штурмовик інформаційної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+			<Text>Верхобійник сучасної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_AT_DESCRIPTION">
+			<Text>Сухопутник-верхобійник інформаційної ери.</Text>
+		</Row>
+
+		<!-- Ranged-->
+		<Row Tag="LOC_UNIT_SLINGER_DESCRIPTION">
+			<Text>Слабкий, вразливий у захисті, далекобійник древньої ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCHER_DESCRIPTION">
+			<Text>Перший далекобійник древньої ери здатний завдати шкоди на [ICON_Range] відстані 2 ділянок.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
+			<Text>Далекобійник середньовіччя.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_CANNON_DESCRIPTION">
+			<Text>Далекобійник індустріальної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Далекобійник атомної ери.</Text>
+		</Row>
+
+		<!-- Light Cavalry-->
+		<Row Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
+			<Text>Швидкий вершник класичної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
+			<Text>Швидкий вершник індустріальної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
+			<Text>Швидкий вершник атомної ери.</Text>
+		</Row>
+
+		<!-- Siege-->
+		<Row Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
+			<Text>Осадник класичної ери, добре підходить для обстрілу міст. Не може стріляти й рухатися впродовж одного ходу.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
+			<Text>Осадник ренесансу, добре підходить для обстрілу міст. Не може стріляти й рухатися впродовж одного ходу.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
+			<Text>Осадник сучасної ери, добре підходить для обстрілу міст. Не може стріляти й рухатися впродовж одного ходу.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+			<Text>Осадник інформаційної ери, добре підходить для обстрілу міст. Не може стріляти й рухатися впродовж одного ходу.</Text>
+		</Row>
+
+		<!-- Support-->
+		<Row Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
+			<Text>Помічник древньої ери. Коли знаходиться поряд міста, атаки штурмовиків завдають повної шкоди укріпленням.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
+			<Text>Помічник класичної ери. Коли знаходиться поряд міста, атаки штурмовиків ігнорують стіни.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MEDIC_DESCRIPTION">
+			<Text>Помічник індустріальної ери. Здатен лікувати одиниці поряд.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
+			<Text>Помічник сучасної ери. Дає +1 [ICON_Range] відстані атаки осадникам поряд.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+			<Text>Помічник середньовіччя. Вимагає наявності арсеналу. Будує дороги, форти, злітно-посадкові смуги та ракетні бункери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
+			<Text>Помічник атомної ери. Забезпечує протиповітряне прикриття у радіусі 1 ділянки.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
+			<Text>Помічник інформаційної ери. Забезпечує протиповітряне та протиракетне прикриття у радіусі 1 ділянки.</Text>
+		</Row>
+
+		<!-- Heavy Cavalry -->
+		<Row Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
+			<Text>Вершник древньої ери. Отримує 1 до [ICON_Movement] рухливості в разі переміщення рівною безлісою місцевістю.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
+			<Text>Вершник середньовіччя.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_ARMOR_DESCRIPTION">
+			<Text>Швидкий та потужний вершник інформаційної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TANK_DESCRIPTION">
+			<Text>Вершник сучасної ери. Швидко рухається та ігнорує ворожу зону контролю.</Text>
+		</Row>
+
+		<!--Naval-->
+		<Row Tag="LOC_UNIT_GALLEY_DESCRIPTION">
+			<Text>Моряк-штурмовик древньої ери. Здатні ходити лише морями до вивчення картографії.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
+			<Text>Моряк-далекобійник класичної ери. Здатен ходити лише морями до вивчення картографії.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+			<Text>Швидкий моряк-штурмовик ери ренесансу, зі збільшеним радіусом огляду.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
+			<Text>Потужний моряк-штурмовик індустріальної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
+			<Text>Моряк-далекобійник невидимка інформаційної ери, здатна нести ядерні ракети. Виявляється подібними одиницями та у випадку знаходження поряд.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
+			<Text>Моряк-далекобійник невидимка сучасної ери. Виявляється подібними одиницями та у випадку знаходження поряд.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
+			<Text>Моряк ери ренесансу здатний грабувати узбережні покращення. Може бути помічений лише каперами та одиницями поряд.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
+			<Text>Моряк-далекобійник ренесансу.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
+			<Text>Моряк-штурмовик атомної ери, здатний нести на борту літаки.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
+			<Text>Моряк-далекобійник сучасної ери. Забезпечує прикриття від повітряного чи атомного удару у радіусі 1 ділянки.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
+			<Text>Потужний моряк-далекобійник інформаційної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
+			<Text>Потужний моряк-штурмовик, здатний виявляти моряків невидимок з радіусі свого огляду.</Text>
+		</Row>
+
+		<!--Air Units-->
+		<Row Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
+			<Text>Перший літак сучасної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
+			<Text>Літак атомної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBER_DESCRIPTION">
+			<Text>Перший літак-бомбардувальник атомної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_FIGHTER_DESCRIPTION">
+			<Text>Покращені винищувачі інформаційної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_BOMBER_DESCRIPTION">
+			<Text>Бомбардувальник інформаційної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAN_AT_ARMS_DESCRIPTION">
+			<Text>Штурмовик середньовіччя.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LINE_INFANTRY_DESCRIPTION">
+			<Text>Штурмовик індустріальної ери.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
+			<Text>Осадник середньовіччя, добре підходить для обстрілу міст. Не може стріляти й рухатися впродовж одного ходу.</Text>
+		</Row>
+
+		<!-- Unique Units-->
+		<Row Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
+			<Text>Ancient era primitive horseback warrior.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
+			<Text>Ancient era primitive horseback archer.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
+			<Text>Унікальний єгипетський вершник древньої ери. Замінює колісницю. Має 4 пункти [ICON_Movement] рухливості, якщо починає рух з рівної місцини.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
+			<Text>Унікальний грецький верхобійник древньої ери. Замінює списоносців. +10 [ICON_Strength] бойова міць, якщо поряд інші гопліти.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
+			<Text>Унікальний скіфський далекобійник. Має високу [ICON_Movement] рухливості але малу [ICON_Range] відстань атаки.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
+			<Text>Унікальний шумерський сильний вершник древньої ери. Не має вразливості перед верхобійниками. Має 4 пункти [ICON_Movement] рухливості, якщо перебуває на рівний місцині.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
+			<Text>Унікальний англійський штурмовик індустріальної ери. Замінює гвардійців. +10 [ICON_Strength] бойова міць в разі бою поза рідним регіоном. Не сповільнюються під час вивантаження з кораблів на узбережжя.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
+			<Text>Унікальний американський вершник індустріальної ери. Отримує [ICON_Culture] культуру в разі перемоги ворога на території рідного регіону. +10 [ICON_Strength] бойова міць серед пагорбів. Недорого утримується.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
+			<Text>Унікальний римський штурмовик класичної ери. Замінює мечників. Може будувати римські форти.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
+			<Text>Унікальний японський штурмовик середньовіччя. Замінює латників. Не втрачає [ICON_Strength] бойову міць в разі поранення.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
+			<Text>Унікальний штурмовик вікінгів середньовіччя. Замінює латників. Має 4 пункти [ICON_Movement] рухливості на ворожій території. +10 [ICON_Strength] бойова міць у нападі та -5 [ICON_Strength] бойова міць у захисті.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
+			<Text>Унікальний моряк-штурмовик вікінгів древньої ери. Замінює галери. Може грабувати узбережні покращення та полонити цивільників на узбережжі. Має 4 пункти [ICON_Movement] рухливості на морі.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
+			<Text>Унікальний китайський далекобійник середньовіччя. Має малу [ICON_Range] відстань атаки, проте високу [ICON_Ranged] далекобійну міць.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
+			<Text>Унікальний іспанський штурмовик ренесансу. Замінює мушкетерів. +10 [ICON_Strength] бойова міць коли поряд релігійник. Якщо конкістадори захоплюють місто або знаходяться поряд у момент захоплення - більшість містян міста стають вірянами іспанської релігії.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
+			<Text>Унікальний московитський вершник індустріальної ери. Замінює кавалеристів. +5 [ICON_Strength] бойова міць на своїй території або поряд. Може тікати після атаки, якщо [ICON_Movement] рухливість дозволяє.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
+			<Text>Унікальний індуський вершник класичної ери. -5 [ICON_STRENGTH] бойова міць ворогів поряд.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
+			<Text>Унікальний конголезький штурмовик класичної ери. Замінює мечників. +10 [ICON_Strength] бойова міць під обстрілом. Не сповільнюється у лісах та джунглях. Бачить крізь ліси та джунглі.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
+			<Text>Унікальний арабський вершник середньовіччя. Замінює лицарів. Відновлює здоров'я наприкінці ходу, навіть після руху чи атаки.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
+			<Text>Унікальний англійський моряк ери ренесансу. Замінює капера. Має вірогідність захоплення переможених у бою моряків. Може бути помічений лише каперами та одиницями поряд.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
+			<Text>Унікальний французький штурмовик індустріальної ери. Замінює гвардійців. +10 [ICON_Strength] бойова міць на території рідного регіону. Отримує пункти появи [ICON_GreatGeneral] полководця в разі знищення ворога.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
+			<Text>Унікальний німецький моряк сучасної ери. Замінює субмарину. Швидше створюється. +1 до радіусу огляду. +10 [ICON_Strength] бойова міць у океані. Може виявляти інші невидимки.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
+			<Text>Унікальний американський літак атомної ери. Замінює винищувачі. +5 [ICON_Strength] бойова міць проти літаків-штурмовиків, +2 дальність льоту, +50% досвіду.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
+			<Text>Унікальний бразильський моряк індустріальної ери. Замінює лінкор. Потужніший та з'являється після вивчення націоналізму на еру раніше.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UNIT_TYPE_NAME_SUFFIX">
+			<Text>({1_UnitTypeName})</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME">
+			<Text>Катерина де Медічі "Велична"</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME">
+			<Text>Catherine’s Magnificences</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION">
+			<Text>[ICON_Bullet]+2 [ICON_CULTURE] культури від покращених розкішних ресурсів поряд виставки або шато.[NEWLINE][ICON_Bullet]Можливо провадити проєкт "Придворний фестиваль" у містах з виставкою.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME">
+			<Text>Катерина де Медічі "Чорна королева"</Text>
+			<Gender>f</Gender>
+		</Row>
+	</EnglishText>
+</GameData>

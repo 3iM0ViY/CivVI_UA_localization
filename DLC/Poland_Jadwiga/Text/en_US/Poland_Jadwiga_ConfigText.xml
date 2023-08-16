@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_CIVILIZATION_POLAND_NAME">
+			<Text>Поляки</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_JADWIGA_NAME">
+			<Text>Ядвіга Анжуйська</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME">
+			<Text>Golden Liberty</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION">
+			<Text>[ICON_Bullet]Будівництво гарнізонів та фортів на дружній території спричиняє культурний вибух (освоюються незайняті ділянки довкола у кількості залежно від відстані до центрального району).[NEWLINE][ICON_Bullet]-1 військова політика поточному уряду.[NEWLINE][ICON_Bullet]+1 мішана політика поточному уряду.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME">
+			<Text>Lithuanian Union</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION">
+			<Text>[ICON_Bullet]Міста, котрі втрачають територію внаслідок польського культурного вибуху, змінюють свою домінуючу релігію на польську.[NEWLINE][ICON_Bullet]Святині збільшують приріст [ICON_Faith] віри від сусідства з гарнізоном.[NEWLINE][ICON_Bullet]+2 [ICON_Faith] віри, +2 [ICON_Culture] культури та +4 [ICON_Gold] золота всім [ICON_GreatWork_Relic] реліквіям.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION">
+			<Text>Poland's majority religion becomes the dominant religion in cities that loses a tile to a Polish Culture Bomb. Holy Sites gain major Faith adjacency bonus from adjacent Encampments. All Relics provide bonus Faith (+2), Culture (+2) and Gold (+4).</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_NAME">
+			<Text>Суконна майстерня</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION">
+			<Text>Унікальна польська споруда.[NEWLINE]+2 [ICON_Production] продукції зовнішнім [ICON_TradeRoute] торговим шляхам міста.[NEWLINE]+4 [ICON_Gold] золота внутрішнім [ICON_TradeRoute] торговим шляхам міста.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_NAME">
+			<Text>Крилаті гусари</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION">
+			<Text>Унікальний польський вершник ренесансу. Атакуючи штовхає ворожі одиниці у напрямку своєї атаки, якщо завдано більше шкоди ніж отримано, а якщо ворогу немає куди відступати - отримує додаткову шкоду.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_EXPANSION2_DESCRIPTION">
+			<Text>Polish unique Renaissance era unit that replaces the Cuirassier. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION">
+			<Text>A building unique to Poland. International [ICON_TradeRoute] Trade Routes from this city gain +2 [ICON_Production] Production; domestic [ICON_TradeRoute] Trade Routes gain +4 [ICON_Gold] Gold. +1 [ICON_TradeRoute] Trade Route capacity, if this city does not yet have a Lighthouse building.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

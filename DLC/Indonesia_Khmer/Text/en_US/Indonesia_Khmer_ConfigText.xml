@@ -1,0 +1,135 @@
+<GameData>
+	<EnglishText>
+		<!--Indonesia-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GITARJA">
+			<Text>Daring Gitarja, Majapahit queen of ten thousand islands, Indonesia's seas are your greatest strength. As Exalted Goddess of the Three Worlds, you shall spread your divine influence to all waters touched by the sun. Rely upon your loyal fleet, bold queen! Unleash a frightful storm upon those who bring strife to Indonesian shores.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDONESIA_NAME">
+			<Text>Індонезійці</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION">
+			<Text>Індонезійська імперія</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>Кампанг</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні індонезійські кампанги.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] продукції.[NEWLINE]+1 [ICON_Housing] житло.[NEWLINE]+1 [ICON_FOOD] їжі з кожного рибальського промислу поряд.[NEWLINE]З відкриттям технологій та вчень зростає виробіток [ICON_PRODUCTION] продукції, [ICON_Housing] житла та [ICON_TOURISM] туризму.[NEWLINE][NEWLINE]Може бути збудований у морі поряд морських ресурсів.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GITARJA_NAME">
+			<Text>Гітарджа</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>Indonesian unique improvement: Kampung</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME">
+			<Text>Great Nusantara</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
+			<Text>[ICON_Bullet]Узбережжя моря чи озера дає невелику перевагу сусідства святиням, студмістечкам, промзонам та виставкам.[NEWLINE][ICON_Bullet]+1 [ICON_AMENITIES] щастя розвагам на узбережжі моря чи озера.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Indonesian unique unit: Jong</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME">
+			<Text>Exalted Goddess of the Three Worlds</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION">
+			<Text>[ICON_Bullet]Може створювати моряків за [ICON_FAITH] віру.[NEWLINE][ICON_Bullet]Релігійники не сповільнюються в разі вантаження на кораблі та навпаки.[NEWLINE][ICON_Bullet]+2 [ICON_FAITH] віри у центральних районах на узбережжі моря чи озера.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Джонг</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION">
+			<Text>Унікальний індонезійський моряк-далекобійник середньовіччя. Замінює фрегат. В разі супроводу, [ICON_Movement] рухається зі швидкістю супроводжуваного та отримує додатково +5 [ICON_Strength] бойової моці.</Text>
+		</Row>
+
+		<!--Khmer-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN">
+			<Text>Wise Jayavarman, seventh to hold the name, the Khmer admire your dedication to their well-being. Your command of the land's fresh waters lets you feed your hungry people, just as it brings you ever closer to Heaven. Go forth, divine architect! Build an empire that approaches perfection—and may your enemies find their end beneath your mighty war elephants.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_NAME">
+			<Text>Прасат</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_DESCRIPTION">
+			<Text>Унікальна кхмерська споруда. Замінює храм. Дає можливість створювати апостолів та інквізиторів за [ICON_Faith] віру. Місіонери отримують навичку - мученик, котра створює [ICON_GreatWork_Relic] реліквії в разі їх загибелі під час релігійної битви.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_EXPANSION1_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] Faith. A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. +0.5 [ICON_Culture] Culture for every [ICON_CITIZEN] population in this city. Once Flight is researched receive +10 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 10 or higher and +20 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 20 or higher.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_EXPANSION2_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] Faith. A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. +0.5 [ICON_Culture] Culture for every [ICON_CITIZEN] population in this city. Once Flight is researched receive +10 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 10 or higher and +20 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 20 or higher.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KHMER_NAME">
+			<Text>Кхмери</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION">
+			<Text>Кхмерська імперія</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_JAYAVARMAN_NAME">
+			<Text>Джаяварман VII</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME">
+			<Text>Khmer unique building: Prasat</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME">
+			<Text>Grand Barays</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION">
+			<Text>[ICON_Bullet]+3 [ICON_FAITH] віри у місті з акведуком.[NEWLINE][ICON_Bullet]+1 [ICON_AMENITIES] щастя у місті з акведуком.[NEWLINE][ICON_Bullet]+2 [ICON_FOOD] їжі фермам поряд акведука.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION1_DESCRIPTION">
+			<Text>Cities with an Aqueduct receive +1  [ICON_AMENITIES] Amenity from entertainment and +1 [ICON_FAITH] Faith for every [ICON_CITIZEN] population. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct and +1 [ICON_FAITH] Faith if adjacent to a Holy Site.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION2_DESCRIPTION">
+			<Text>Cities with an Aqueduct receive +1  [ICON_AMENITIES] Amenity from entertainment and +1 [ICON_FAITH] Faith for every [ICON_CITIZEN] population. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct and +1 [ICON_FAITH] Faith if adjacent to a Holy Site.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME">
+			<Text>Khmer unique unit: Domrey</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME">
+			<Text>Monasteries of the King</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION">
+			<Text>[ICON_Bullet]+2 [ICON_FOOD] їжі від святинь поряд річки.[NEWLINE][ICON_Bullet]+1 [ICON_HOUSING] житло від святинь поряд річки.[NEWLINE][ICON_Bullet]Завершення будівництва святинь спричиняє культурний вибух (освоюються незайняті ділянки довкола у кількості залежно від відстані до центрального району).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION1_DESCRIPTION">
+			<Text>Holy Sites are granted a Major adjacency with Rivers, a Culture Bomb, [ICON_FOOD] Food equal to its adjacency bonus, and +2  [ICON_Housing] Housing if on a River.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION2_DESCRIPTION">
+			<Text>Holy Sites are granted a Major adjacency with Rivers, a Culture Bomb, [ICON_FOOD] Food equal to its adjacency bonus, and +2  [ICON_Housing] Housing if on a River.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KHMER_DOMREY_NAME">
+			<Text>Слонопульта</Text>
+			<Plurality>1</Plurality>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION">
+			<Text>Унікальний кхмерський осадник середньовіччя. Заміняє требушет. Має більшу [ICON_Strength] бойову та [ICON_Ranged] далекобійну міць. Здатен рухатися та атакувати впродовж одного ходу. Має зону контролю.</Text>
+		</Row>
+
+		<!--Map-->
+		<Row Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME">
+			<Text>True Start Location East Asia</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Civilizations start at the location of their historic capital on the Asia map.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME">
+			<Text>East Asia</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>A representation of East Asia with resources, terrain, and features reflecting their historic locations.</Text>
+		</Row>
+
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_HA_LONG_BAY_NAME">
+			<Text>Ха Лонг</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HA_LONG_BAY_DESCRIPTION">
+			<Text>+3 [ICON_FOOD] їжі.[NEWLINE]+1 [ICON_PRODUCTION] продукції.[NEWLINE]+1 [ICON_CULTURE] культури.[NEWLINE]+15 [ICON_Strength] бойова міць у захисті.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_MACEDON_NAME">
+			<Text>Македонці</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME">
+			<Text>Hellenistic Fusion</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION">
+			<Text>[ICON_Bullet]Отримується [ICON_TechBoosted] науковий прорив випадкової технології з кожного гарнізону чи студмістечка захопленого ворожого міста.[NEWLINE][ICON_Bullet]Отримується [ICON_CivicBoosted] культурний прорив випадкового вчення з кожної святині чи виставки захопленого ворожого міста.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PERSIA_NAME">
+			<Text>Перси</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME">
+			<Text>Satrapies</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
+			<Text>[ICON_Bullet]+1 [ICON_TradeRoute] торговий шлях після вивчення політичної філософії.[NEWLINE][ICON_Bullet]+2 [ICON_Gold] золота внутрішнім [ICON_TradeRoute] торговим шляхам.[NEWLINE][ICON_Bullet]+1 [ICON_Culture] культури внутрішнім [ICON_TradeRoute] торговим шляхам.[NEWLINE][ICON_Bullet]Дороги на своїй території випереджають час на 1 еру.</Text>
+		</Row>
+
+		<!-- Leader Info-->
+		<Row Tag="LOC_LEADER_ALEXANDER_NAME">
+			<Text>Александр ІІІ</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
+			<Text>To World's End</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
+			<Text>[ICON_Bullet]Міста не страждають через втому від війни.[NEWLINE][ICON_Bullet]Всі військовики лікуються в разі захоплення міста з дивом світу.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CYRUS_NAME">
+			<Text>Кир ІІ</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME">
+			<Text>Fall of Babylon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION">
+			<Text>[ICON_Bullet]+2 [ICON_Movement] рухливість одиниць впродовж 10 ходів після оголошення несподіваної війни.[NEWLINE][ICON_Bullet]Окуповані міста не знижують виробіток через заворушення.[NEWLINE][ICON_Bullet]Покарання за віроломство внаслідок оголошення несподіваної війни прирівняно до формальної.[NEWLINE][ICON_Bullet]Наслідки втоми від несподіваної війни прирівняно до формальної.</Text>
+		</Row>
+
+		<!-- Building Info-->
+		<Row Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME">
+			<Text>Казарма-базиліка</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION">
+			<Text>Унікальна македонська споруда.[NEWLINE]+25% досвіду сухопутним штурмовикам та далекобійникам, а також гетайрам, створеним у даному місті.[NEWLINE]Дає [ICON_SCIENCE] науку у кількості 25% вартості створення військовиків по завершенню.</Text>
+		</Row>
+
+		<!-- Improvement Info-->
+		<Row Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
+			<Text>Парадіс</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні персидські парадіси.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] культури.[NEWLINE]+2 [ICON_GOLD] золота.[NEWLINE]+1 привабливість.[NEWLINE]+1 [ICON_CULTURE] культури за кожну святиню та виставку поряд.[NEWLINE]+1 [ICON_GOLD] золота за кожну торговицю та центральний район поряд.[NEWLINE]З відкриттям технологій та вчень зростає виробіток [ICON_Culture] культури та [ICON_Tourism] туризму.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Не будується серед засніжених місцин.[NEWLINE][ICON_Bullet]Не будується серед тундрових місцин.[NEWLINE][ICON_Bullet]Відсутність поряд парадісу.</Text>
+		</Row>
+
+		<!-- Unit Info-->
+		<Row Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME">
+			<Text>Щитоносці</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME">
+			<Text>Гетайри</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
+			<Text>Безсмертні</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
+			<Text>Унікальний македонський штурмовик класичної ери. Замінює мечників. +5 [ICON_Strength] бойова міць в разі осади районів. Отримує додаткову 50% перевагу підтримки.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
+			<Text>Унікальний македонський вершник класичної ери. Замінює кіннотників. +5 [ICON_Strength] бойова міць поряд [ICON_GreatGeneral] полководця. +5 пунктів появи [ICON_GreatGeneral] полководця за перемогу над ворогом. Починає з вільною навичкою.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
+			<Text>Унікальний персидський штурмовик класичної ери. Замінює мечників. Здатен завдавати [ICON_Ranged] далекобійної шкоди на відстані 2 ділянок. Сильний у захисті.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION">
+			<Text>+5 when besieging a district</Text>
+		</Row>
+		<Row Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 Combat Bonus from adjacent Great General</Text>
+		</Row>
+
+		<!-- Expansion 1 -->
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement for the first 10 turns after declaring a Surprise War on a major civilization. +5 Loyalty per turn in occupied cities with a garrisoned unit. Declaring a Surprise War only counts as a Formal War for the purpose of warmongering and war weariness.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION">
+			<Text>When conquering a city that is not a Free City receive a [ICON_TechBoosted] Eureka for each Encampment or Campus in the conquered city and an [ICON_CivicBoosted] Inspiration for each Holy Site or Theater Square.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when besieging districts.[NEWLINE][ICON_Bullet] +50% Support Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HETAIROI_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when adjacent to a Great General.[NEWLINE][ICON_Bullet] +5 Great General points when killing an enemy unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% experience in Combat from Basilikoi Paides.</Text>
+		</Row>
+		<!-- Expansion 2 -->
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement for the first 10 turns after declaring a Surprise War on a major civilization. +5 Loyalty per turn in occupied cities with a garrisoned unit. Declaring a Surprise War only counts as a Formal War for the purposes of [ICON_STAT_GRIEVANCE] Grievances and warmongering.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
+			<Text>A building unique to Macedon.+25% combat experience for all melee, ranged land units, and Hetairoi trained in this city. Gain [ICON_SCIENCE] Science equal to 25% of the unit's cost when a non civilian unit is created in this city.[NEWLINE][NEWLINE]Strategic Resource Stockpiles increased +10 (on Standard Speed).[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Stable.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

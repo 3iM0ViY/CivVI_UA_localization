@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Apocalypse Mode -->
+		<Row Tag="LOC_GAMEMODE_APOCALYPSE_NAME">
+			<Text>Apocalypse Mode</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION">
+			<Text>This game mode adds new natural disasters, larger and more impactful versions of existing disasters, and increases the chances of all natural disasters. Apocalypse Mode also adds the Soothsayer unit to the game, and should the climate reach its final level of change, comets pummel the earth and destroy humanity.</Text>
+		</Row>
+
+		<!-- Gran Colombia: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME">
+			<Text>Колумбійці</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION">
+			<Text>Колумбійська імперія</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE">
+			<Text>Gran Colombian</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME">
+			<Text>Ejército Patriota</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION">
+			<Text>[ICON_Bullet]+1 [ICON_Movement] рухливість всіх одиниць.[NEWLINE][ICON_Bullet]Підвищення не завершує хід одиниць.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME">
+			<Text>Ejército Patriota</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement to all units (Ejército Patriota)</Text>
+		</Row>
+
+		<!-- Feature Info -->
+		<Row Tag="LOC_FEATURE_BERMUDA_TRIANGLE_NAME">
+			<Text>Бермудський трикутник</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BERMUDA_TRIANGLE_DESCRIPTION">
+			<Text>+5 [ICON_Science] науки місцинам поряд.[NEWLINE]Одиниці, котрі потрапили у зону дива, переносяться до випадкового місця океану.[NEWLINE]Моряки, котрі потрапили у зону дива, переносяться до випадкового місця океану та отримують здібність "Містичні води" (+1 до [ICON_Movement] рухливості).</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_NAME">
+			<Text>Фонтан молодості</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_DESCRIPTION">
+			<Text>+4 [ICON_Science] науки.[NEWLINE]+4 [ICON_Faith] віри.[NEWLINE]Прісна вода.[NEWLINE]+10 відновлення здоров'я військовиків (здібність "Жива вода"), котрі відвідали диво.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PAITITI_NAME">
+			<Text>Пайтіті</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PAITITI_DESCRIPTION">
+			<Text>+3 [ICON_Gold] золота місцинам поряд.[NEWLINE]+2 [ICON_Culture] культури місцинам поряд.[NEWLINE]+4 [ICON_Gold] золота від зовнішніх [ICON_TradeRoute] торгових шляхів з міста на території якого знаходиться диво.</Text>
+		</Row>
+
+		<!-- Gran Colombia: Improvement Info -->
+		<Row Tag="LOC_IMPROVEMENT_HACIENDA_NAME">
+			<Text>Асьєнда</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні колумбійські асьєнди.[NEWLINE][NEWLINE]+2 [ICON_GOLD] золота.[NEWLINE]+1 [ICON_PRODUCTION] продукції.[NEWLINE]+0.5 [Icon_Housing] житла.[NEWLINE]+1 [ICON_Food] їжі за кожні дві плантації поряд (покращено після дослідження запчастин).[NEWLINE]Плантації та асьєнди отримують +1 [ICON_Production] продукції за кожні 2 асьєнди поряд (покращено для асьєнд після вивчення авіарозгортання).[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Лукові або степові місцини.</Text>
+		</Row>
+
+		<!-- Gran Colombia: Leader Info -->
+		<Row Tag="LOC_LEADER_SIMON_BOLIVAR_NAME">
+			<Text>Симон Болівар</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR">
+			<Text>You could have followed the whims of your colleagues, Simón Bolívar, but instead you chose to become the Liberator. Hardships never dissuaded you, so hold fast to your ideals and lead your republic into a new age of prosperity.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME">
+			<Text>Campaña Admirable</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION">
+			<Text>[ICON_Bullet]На початку кожної ери отримується команданте.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1">
+			<Text>Earn a Comandante General when the game enters a new era.</Text>
+		</Row>
+
+		<!-- Gran Colombia: Unit Info -->
+		<Row Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME">
+			<Text>Команданте</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION">
+			<Text>Особливий тип видатної людини, доступний виключно колумбійському лідеру Симону Болівару. Кожен представник має унікальну пасивну здібність та відставку.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME">
+			<Text>Лланеро-ланцери</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION">
+			<Text>Унікальний колумбійський вершник індустріальної ери. Замінює кавалеристів. Утримується меншою кількістю [ICON_Gold] золота. +2 [ICON_Strength] бойова міць за кожну одиницю лланеро-ланцерів поряд. Відновлюються до максимуму, якщо у радіусі дії свого впливу команданте йде у відставку.</Text>
+		</Row>
+
+		<!-- Maya: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_MAYA_NAME">
+			<Text>Майя</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION">
+			<Text>Імперія майя</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE">
+			<Text>Mayan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME">
+			<Text>Mayab</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION">
+			<Text>[ICON_Bullet]Поселення на ділянках з водою не дає додаткового [ICON_HOUSING] житла.[NEWLINE][ICON_Bullet]+1 [ICON_HOUSING] житло від ферм на ділянках з водою.[NEWLINE][ICON_Bullet]+1 [ICON_PRODuction] продукції від обсерваторій на ділянках з водою.[NEWLINE][ICON_Bullet]+1 [ICON_GOLD] золота від обсерваторій на ділянках з водою.[NEWLINE][ICON_Bullet]+1 [ICON_AMENITIES] щастя від розкішного ресурсу поряд центрального району.</Text>
+		</Row>
+
+		<!-- Maya: District Info -->
+		<Row Tag="LOC_DISTRICT_OBSERVATORY_NAME">
+			<Text>Обсерваторія</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION">
+			<Text>Унікальний район майя, що будується швидше ніж студмістечко котре замінює.[NEWLINE][NEWLINE]+2 [ICON_Science] науки поряд плантації.[NEWLINE]+1 [ICON_Science] науки від кожних двох ферм чи районів поряд.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Science] Science bonus for each adjacent Plantation. Minor [ICON_Science] Science bonus for adjacent Farm or district tiles</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PLANTATION_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Plantation {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FARM_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Farm {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+
+		<!-- Maya: Leader Info -->
+		<Row Tag="LOC_LEADER_LADY_SIX_SKY_NAME">
+			<Text>Іш-Вак-Чан-Ахав</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY">
+			<Text>Lady Six Sky, great warrior mother of Dos Pilas and Wak Kab’nal, lead your people into a new dynasty. Let your reach grow long so you may conquer your enemies near and far. The Gods will guide you, and you will in turn guide your loyal citizens to victory.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MUTAL_NAME">
+			<Text>Ix Mutal Ajaw</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION">
+			<Text>[ICON_Bullet]+10% виробітку всього містам заснованим на віддалі не більше 6 ділянок від [ICON_Capital] столиці.[NEWLINE][ICON_Bullet]Місто засноване на віддалі не більше 6 ділянок від [ICON_Capital] столиці отримує вільних мастаків.[NEWLINE][ICON_Bullet]-15% виробітку всього у містах заснованих на віддалі більше 6 ділянок від [ICON_Capital] столиці.[NEWLINE][ICON_Bullet]+5 [ICON_Strength] бойова міць військовикам на віддалі 6 ділянок від [ICON_Capital] столиці.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME">
+			<Text>Mutal</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength to units within 6 tiles of the [ICON_Capital] Capital (Ix Mutal Ajaw)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength from the Mutal trait</Text>
+		</Row>
+
+		<!-- Maya: Unit Info -->
+		<Row Tag="LOC_UNIT_MAYAN_HULCHE_NAME">
+			<Text>Дротикометальники</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION">
+			<Text>Унікальний далекобійник майя древньої ери. Замінює лучників. Має збільшену [ICON_Ranged] далекобійну міць. +5 [ICON_Strength] бойова міць про поранених.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HULCHE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting a wounded opponent.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LAHORE_NIHANG_NAME">
+			<Text>Акалі</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION">
+			<Text>Унікальний сухопутник-штурмовик вільного міста Лахор, з власним деревом навичок. Створюється за [ICON_Faith] віру. [ICON_Strength] Бойова міць зростає в разі наявності казарми, арсеналу та військової академії.</Text>
+		</Row>
+		<!--Apocalypse: Unit Info-->
+		<Row Tag="LOC_UNIT_SOOTHSAYER_NAME">
+			<Text>Soothsayer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION">
+			<Text>An Apocalypse-mode-specific support unit.  Can use the Cause Disaster action to begin a random disaster in the hexes near the unit.  Doing so destroys the Soothsayer if it has no more charges.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FOREST_FIRE">
+			<Text>Forest Fires</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FOREST_FIRE_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>FOREST FIRE EVENT[NEWLINE][NEWLINE]When event occurs:[NEWLINE]- These start in a random Woods or Rainforest tile.[NEWLINE]- Spreads to adjacent Woods or Rainforest.[NEWLINE][NEWLINE]Tiles on fire will damage units and pillage improvements.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

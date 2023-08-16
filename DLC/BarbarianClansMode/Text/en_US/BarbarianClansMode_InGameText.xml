@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--REPLACEMENTS-->
+		<Delete Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION"/>
+		<Delete Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION"/>
+		<Delete Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION"/>
+		<Delete Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_NAME"/>
+		<Delete Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION"/>
+	</LocalizedText>
+	<EnglishText>
+		<!--REPLACEMENTS-->
+		<Row Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
+			<Text>+50 [ICON_Faith] віри з кожного зруйновано табору варварів.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
+			<Text>Зруйнувати табір клану варварів.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
+			<Text>When you disperse a Barbarian Outpost, receive a Tribal Village reward in addition to the usual [ICON_Gold] Gold. Pay half the usual cost to levy city-state units.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_NAME">
+			<Text>Зруйнувати табір варварів</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Зруйнувати табір [ICON_Barbarian] варварів у радіусі 5 ділянок від міста.</Text>
+		</Row>
+
+		<!--Clans-->
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_OPEN_1">
+			<Text>Лисиці</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_OPEN_2">
+			<Text>Дряпачі</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_OPEN_3">
+			<Text>Змієборці</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_OPEN_4">
+			<Text>Тигролови</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_OPEN_5">
+			<Text>Шуліки</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_OPEN_6">
+			<Text>Череполами</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_FOREST_1">
+			<Text>Ведмежатники</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_FOREST_2">
+			<Text>Лупаті</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_FOREST_3">
+			<Text>Гілкорізи</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_FOREST_4">
+			<Text>Факельники</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_FOREST_5">
+			<Text>Сови</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_FOREST_6">
+			<Text>Мурахожери</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_HILLS_1">
+			<Text>Східняки</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_HILLS_2">
+			<Text>Стерв'ятники</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_HILLS_3">
+			<Text>Дереволами</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_HILLS_4">
+			<Text>Скельники</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_HILLS_5">
+			<Text>Якцапи</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_MELEE_HILLS_6">
+			<Text>Кам'янолиці</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_OPEN_1">
+			<Text>Ворони</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_OPEN_2">
+			<Text>Сокироносці</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_OPEN_3">
+			<Text>Сокирники</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_OPEN_4">
+			<Text>Зоретруси</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_OPEN_5">
+			<Text>Місяцевклонники</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_OPEN_6">
+			<Text>Булавоносці</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_JUNGLE_1">
+			<Text>Yellow Tooth</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_JUNGLE_2">
+			<Text>Мавполиці</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_JUNGLE_3">
+			<Text>Fire Ant</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_JUNGLE_4">
+			<Text>White Lotus</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_JUNGLE_5">
+			<Text>Falling Water</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_JUNGLE_6">
+			<Text>Short Tusk</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_CHARIOT_1">
+			<Text>Night Thunder</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_CHARIOT_2">
+			<Text>Конепаси</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_CHARIOT_3">
+			<Text>Зламостріли</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_CHARIOT_4">
+			<Text>Two Arrows</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_CHARIOT_5">
+			<Text>Half Skull</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_CAVALRY_CHARIOT_6">
+			<Text>Bending Reed</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_NAVAL_1">
+			<Text>Вітрильники</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_NAVAL_2">
+			<Text>Акулоруби</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_NAVAL_3">
+			<Text>Бородані</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_NAVAL_4">
+			<Text>Прибережники</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_NAVAL_5">
+			<Text>Хвилерізи</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_NAVAL_6">
+			<Text>Рибожери</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_TYPE_MELEE_OPEN">
+			<Text>Рівнинний клан</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_TYPE_MELEE_FOREST">
+			<Text>Лісовий клан</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_TYPE_MELEE_HILLS">
+			<Text>Гірський клан</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_TYPE_CAVALRY_OPEN">
+			<Text>Кочівний клан</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_TYPE_CAVALRY_JUNGLE">
+			<Text>Клан джунглів</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_TYPE_CAVALRY_CHARIOT">
+			<Text>Клан колісниць</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLAN_TYPE_NAVAL">
+			<Text>Узбережний клан</Text>
+		</Row>
+
+		<!--Unit Actions-->
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_DISPERSE_DESCRIPTION">
+			<Text>Зруйнувати табір</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_DISPERSE_HELP">
+			<Text>Зруйнувати табір отримавши {1_XPAmount} досвіду.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_RAID_DESCRIPTION">
+			<Text>Відібрати награбоване</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_RAID_HELP">
+			<Text>Отримати {1_GoldAmount} [ICON_GOLD] золота. Табір лишиться неушкодженим але клан втратить {2_ProgressAmount} пунктів створення вільного міста. Це можливо один раз на {3_Turns} х.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_HIRE_DESCRIPTION">
+			<Text>Hire Clan</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_HIRE_HELP">
+			<Text>Витратити {1_GoldAmount} [ICON_Gold] золота аби найняти варварів цього клану: {4_UnitName}. {4_UnitName : plural 1?{4_UnitName : gender m?Він з'явиться; f?Вона з'явиться;}; 2?Вони з'являться;} поряд міста {5_CityName} цього ходу. Клан отримає {2_ProgressAmount} пунктів до створення вільного міста. Наймати людей клану можна раз на {3_Turns} х.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_RANSOM_DESCRIPTION">
+			<Text>Ransom Unit</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_RANSOM_HELP">
+			<Text>Spend {1_GoldAmount} [ICON_Gold] Gold to recover your captured {2_UnitName}. The clan will lose progress towards City-State conversion.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_BRIBE_DESCRIPTION">
+			<Text>Bribe Clan</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_BRIBE_HELP">
+			<Text>Витратити {1_GoldAmount} [ICON_Gold] золота задля гарантування ними ненападу на наші міста впродовж наступних {2_Turns} х. Клан отримає {3_ProgressAmount} пунктів до створення вільного міста.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_INCITE_DESCRIPTION">
+			<Text>Incite Clan</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_INCITE_HELP">
+			<Text>Spend {1_GoldAmount} [ICON_Gold] Gold to encourage this clan to attack {4_CivName}. The clan will lose {2_ProgressAmount} points towards City-State conversion. Clans can be incited once every {3_Turns} turns.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TREAT_WITH_CLAN_INCITE_HELP_GENERIC">
+			<Text>Витратити [ICON_Gold] золото аби заохотити до нападу на іншу державу або вільне місто. Клан втратить {1_ProgressAmount} пунктів до створення вільного міста. Заохочувати набіг можливо раз на {2_Turns} х.</Text>
+		</Row>
+		<!--Unit Action Result Strings-->
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_CLANS_NOT_ON_CAMP">
+			<Text>Must be located on a Barbarian Outpost.</Text>
+		</Row>
+		<Row Tag="LOC_OPERATION_FAILURE_NOT_ENOUGH_GOLD">
+			<Text>Бракує [ICON_Gold] золота.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_CLANS_GOLD_COST">
+			<Text>This action requires {1_GoldCost} [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_CLANS_RECENTLY_RAIDED">
+			<Text>Клан не має награбованого. Слід зачекати {1_Turns} х.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_CLANS_RECENTLY_HIRED">
+			<Text>This clan cannot be hired again for {1_Turns} {1_Turns: plural 1?turn; other?turns;}.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_CLANS_RECENTLY_INCITED">
+			<Text>This clan cannot be incited again for {1_Turns} {1_Turns: plural 1?turn; other?turns;}.</Text>
+		</Row>
+		<Row Tag="LOC_OPERATION_FAILURE_HAS_NOT_MET_INCITE_TARGET">
+			<Text>Нам не відомі інші держави чи вільні міста, що відомі цьому клану чи навпаки.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_CLANS_ACTIVE_BRIBE">
+			<Text>This clan is already bribed for {1_Turns} {1_Turns: plural 1?turn; other?turns;}.</Text>
+		</Row>
+
+		<!--UI-->
+		<Row Tag="LOC_TOOLTIP_BARBARIAN_CLAN_NAME">
+			<Text>Клан: {1_ClanName}</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_STATUS_BRIBED">
+			<Text>You bribed this unit. ({1_turnsRemaining} [ICON_Turn] {1_turnsRemaining : plural 1?Turn; other?Turns;} remaining)</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_STATUS_INCITED_BY_YOU">
+			<Text>You incited this clan against {1_playerName}.</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_STATUS_INCITED_AGAINST_YOU">
+			<Text>This clan was incited against you by {1_playerName}.</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_STATUS_INCITED_AGAINST_YOU_UNKNOWN">
+			<Text>This clan was incited against you by an unknown civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TRIBE_BANNER_CONVERSION_PERCENT">
+			<Text>Conversion Progress: {1_percent}%</Text>
+		</Row>
+		<Row Tag="LOC_TRIBE_BANNER_CONVERSION_TIP_TURNS">
+			<Text>Створення вільного міста за: {1_Turns}+ х.</Text>
+		</Row>
+		<Row Tag="LOC_TRIBE_BANNER_CONVERSION_TIP_IMMINENT">
+			<Text>Невдовзі з'явиться вільне місто.</Text>
+		</Row>
+		<Row Tag="LOC_TRIBE_BANNER_CONVERSION_TIP_DISABLED">
+			<Text>Зростання до вільного міста неможливе.</Text>
+		</Row>
+		<Row Tag="LOC_TRIBE_BANNER_CONVERSION_TIP_DISABLED_NO_CANDIDATES">
+			<Text>Зростання до вільного міста неможливе: вільних міст вже максимум.</Text>
+		</Row>
+		<Row Tag="LOC_TRIBE_BANNER_CONVERSION_TIP_DISABLED_INVALID_LOCATION">
+			<Text>Зростання до вільного міста неможливе: заблизько до вже існуючого міста.</Text>
+		</Row>
+
+		<!--Notifications-->
+		<Row Tag="LOC_NOTIFICATION_CLAN_CONVERTED_TO_CITY_STATE_MESSAGE">
+			<Text>Поява вільного міста</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_CONVERTED_TO_CITY_STATE_SUMMARY">
+			<Text>Клан варварів - {1_ClanName} заснував вільне місто! Це місто - {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_HIRED_MESSAGE">
+			<Text>Barbarians Hired</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_HIRED_SUMMARY">
+			<Text>{1_PlayerName} has hired military units from the Barbarian {2_ClanName} Clan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_UNIT_RANSOMED_MESSAGE">
+			<Text>Barbarians Ransom Paid</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_UNIT_RANSOMED_SUMMARY">
+			<Text>{1_PlayerName} has paid a ransom to the Barbarian {2_ClanName} Clan to recover their {3_UnitName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_BRIBED_MESSAGE">
+			<Text>Barbarians Bribed</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_BRIBED_SUMMARY">
+			<Text>Our cities are protected from the Barbarian {1_ClanName} Clan for {2_NumTurns} turns.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_BRIBE_EXPIRED_MESSAGE">
+			<Text>Barbarians Bribe Expired</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_BRIBE_EXPIRED_SUMMARY">
+			<Text>Our bribe for protection from the Barbarian {1_ClanName} Clan has expired!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_INCITED_MESSAGE">
+			<Text>Barbarians Incited</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_INCITED_AGAINST_CIV_SUMMARY">
+			<Text>We have incited the Barbarian {1_ClanName} Clan against {2_CivName}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_INCITED_BY_UNKNOWN_SUMMARY">
+			<Text>An unknown civilization has incited the Barbarian {1_ClanName} Clan against us!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_INCITED_BY_CIV_SUMMARY">
+			<Text>{1_CivName} has incited the Barbarian {2_ClanName} Clan against us!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_RAID_REPRISAL_UNIT_MOVED_MESSAGE">
+			<Text>Відступ</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_RAID_REPRISAL_UNIT_MOVED_SUMMARY">
+			<Text>{1_UnitName} {1_UnitName : plural 1?{1_UnitName : gender m?був змушений; f?була змушена;}; 2?були змушені;} відступити з табору варварів клану: {2_ClanName}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_RAID_REPRISAL_UNIT_KILLED_MESSAGE">
+			<Text>Unit Killed in Reprisal</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_RAID_REPRISAL_UNIT_KILLED_SUMMARY">
+			<Text>Our {1_UnitName} was trapped and killed in a reprisal attack after our raid on the Barbarian {2_ClanName} Clan.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_DISPERSED_MESSAGE">
+			<Text>Знищення табору варварів</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAN_DISPERSED_SUMMARY">
+			<Text>Було зруйновано табір клану: {1_ClanName}!</Text>
+		</Row>
+		<!--Treat With Tribe Text-->		
+		<Row Tag="LOC_TRIBE_BANNER_TREAT_WITH_TRIBE_TT">
+			<Text>Звернутися до клану: {1_ClanName}.</Text>
+		</Row>
+		<Row Tag="LOC_TREAT_WITH_TRIBE_POPUP_TITLE">
+			<Text>Treat With Tribe</Text>
+		</Row>
+		<Row Tag="LOC_TREAT_WITH_NAMED_CLAN">
+			<Text>Перемовини з кланом:[NEWLINE]{1_ClanName}</Text>
+		</Row>
+		<Row Tag="LOC_TREAT_WITH_TRIBE_OPTION_HIRE">
+			<Text>Найняти</Text>
+		</Row>
+		<Row Tag="LOC_TREAT_WITH_TRIBE_OPTION_BRIBE">
+			<Text>Відкупитися</Text>
+		</Row>
+		<Row Tag="LOC_TREAT_WITH_TRIBE_OPTION_RANSOM">
+			<Text>Ransom</Text>
+		</Row>
+		<Row Tag="LOC_TREAT_WITH_TRIBE_OPTION_INCITE">
+			<Text>Заохотити</Text>
+		</Row>
+		<Row Tag="LOC_TREAT_WITH_TRIBE_INCITE_COST">
+			<Text>Ціна: [ICON_GOLD] {1_cost}</Text>
+		</Row>
+		<!--Barbarian Unit Status Text-->
+
+	</EnglishText>
+</GameData>

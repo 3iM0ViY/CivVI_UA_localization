@@ -1,0 +1,112 @@
+<GameData>
+	<EnglishText>
+		<!--Historic Agendas-->
+		<Row Tag="LOC_AGENDA_LADY_SIX_SKY_NAME">
+			<Text>Відлюдниця</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LADY_SIX_SKY_DESCRIPTION">
+			<Text>Селиться неподалік столиці.[NEWLINE][NEWLINE]Поважає нації, котрі не селяться поряд.[NEWLINE]Зневажає нації, котрі селяться на території майя.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SIMON_BOLIVAR_NAME">
+			<Text>Карабобо</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SIMON_BOLIVAR_DESCRIPTION">
+			<Text>Поважає нації з численною кількістю передових одиниць.[NEWLINE]Зневажає у протилежному випадку.</Text>
+		</Row>
+
+		<!--City-States-->
+		<Row Tag="LOC_CIVILIZATION_CAGUANA_NAME">
+			<Text>Кагуана</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAGUANA_DESCRIPTION">
+			<Text>вільного міста Кагуана</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAGUANA_ADJECTIVE">
+			<Text>Caguana</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAGUANA_NAME">
+			<Text>Caguana Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAGUANA_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні батеї.[NEWLINE][NEWLINE]+1 [ICON_Culture] культури.[NEWLINE]+1 [ICON_Culture] культури від кожного основного ресурсу чи розваги поряд (+2 [Icon_Culture] культури після вивчення дослідництва).[NEWLINE]Продукує [Icon_Tourism] туризм після відкриття польоту.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Відсутність поряд подібного покращення.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HUNZA_NAME">
+			<Text>Буріші</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HUNZA_DESCRIPTION">
+			<Text>Буріші</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HUNZA_ADJECTIVE">
+			<Text>Hunza</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HUNZA_NAME">
+			<Text>Hunza Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HUNZA_DESCRIPTION">
+			<Text>+1 [ICON_Gold] золота [ICON_TradeRoute] торговим шляхам за кожні 5 ділянок довжини шляху.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LAHORE_NAME">
+			<Text>Лахор</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LAHORE_DESCRIPTION">
+			<Text>вільного міста Лахор</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LAHORE_ADJECTIVE">
+			<Text>Lahori</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LAHORE_NAME">
+			<Text>Lahore Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LAHORE_DESCRIPTION">
+			<Text>Дає можливість створювати унікального сухопутника-штурмовика - Акалі.[NEWLINE][NEWLINE]Має унікальне дерево навичок. Створюється за [ICON_Faith] віру. [ICON_Strength] Бойова міць зростає в разі наявності казарми, арсеналу та військової академії.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SINGAPORE_NAME">
+			<Text>Сінґапур</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SINGAPORE_DESCRIPTION">
+			<Text>вільного міста Сінґапур</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SINGAPORE_ADJECTIVE">
+			<Text>Singaporean</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SINGAPORE_NAME">
+			<Text>Singapore Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SINGAPORE_DESCRIPTION">
+			<Text>+2 [ICON_Production] продукції за кожну націю з якою провадиться [ICON_TradeRoute] торговий шлях.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TARUGA_NAME">
+			<Text>Таруга</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TARUGA_DESCRIPTION">
+			<Text>вільного міста Таруга</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TARUGA_ADJECTIVE">
+			<Text>Taruga</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TARUGA_NAME">
+			<Text>Taruga Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TARUGA_DESCRIPTION">
+			<Text>+5% [ICON_SCIENCE] науки містам за кожний покращений тип стратегічних ресурсів.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VATICAN_CITY_NAME">
+			<Text>Ватикан</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VATICAN_CITY_DESCRIPTION">
+			<Text>вільного міста Ватикан</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VATICAN_CITY_ADJECTIVE">
+			<Text>Vatican</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VATICAN_CITY_NAME">
+			<Text>Vatican City Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VATICAN_CITY_DESCRIPTION">
+			<Text>Використання здібності [ICON_GreatPerson] видатних людей спричиняє релігійний вибух, це створює 400 одиниць релігійного тиску заснованої або домінуючої релігії на міста у радіусі 10 ділянок.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_SIMON_BOLIVAR">
+			<Text>Likes civilizations with more promoted units than him</Text>
+		</Row>
+	</EnglishText>
+</GameData>

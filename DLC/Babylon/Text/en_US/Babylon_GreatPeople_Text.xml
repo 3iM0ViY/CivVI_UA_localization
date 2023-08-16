@@ -1,0 +1,130 @@
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_NAME">
+			<Text>Matthew Perry</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_NAME">
+			<Text>Himerios</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_NAME">
+			<Text>Hanno the Navigator</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_NAME">
+			<Text>Kamāl ud-Dīn Behzād</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HASEGAWA_TOHAKU_NAME">
+			<Text>Hasegawa Tōhaku</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_NAME">
+			<Text>Wassily Kandinsky</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEPI_NAME">
+			<Text>Imhotep</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_NAME">
+			<Text>Shah Jahān</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KENZO_TANGE_NAME">
+			<Text>Kenzo Tange</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_NAME">
+			<Text>Dandara</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_NAME">
+			<Text>Trung Trac</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_NAME">
+			<Text>Tupac Amaru</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_NAME">
+			<Text>Zhou Daguan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_NAME">
+			<Text>Ibn Fadlan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_NAME">
+			<Text>Stamford Raffles</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_NAME">
+			<Text>Zhang Heng</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_NAME">
+			<Text>Ibn Khaldun</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARGARET_MEAD_NAME">
+			<Text>Margaret Mead</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DIMITRIE_CANTEMIR_NAME">
+			<Text>Dimitrie Cantemir</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCOTT_JOPLIN_NAME">
+			<Text>Scott Joplin</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_VALMIKIY_NAME">
+			<Text>Valmiki</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RUMI_NAME">
+			<Text>Rumi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_NAME">
+			<Text>Beatrix Potter</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GABRIELA_MISTRAL_NAME">
+			<Text>Gabriela Mistral</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_ACTIVE">
+			<Text>Створює монахів з вільною навичкою.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_PERMANENT_ACTIVE">
+			<Text>-25% втоми від війни.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_ACTIVE">
+			<Text>Створює мушкетерів у кожному районі міста без укріплень.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BOOST_OR_GRANT_MATHEMATICS">
+			<Text>Дає [ICON_TechBoosted] науковий прорив у дослідженні астронавігації, математики та інженерії. Якщо прорив вже здійснено - завершує дослідження.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CAMPUS_HOUSING">
+			<Text>+2 [ICON_Housing] житла та +1 [ICON_AMENITIES] щастя від обраного студмістечка. Вплив щастя на виробіток всього, окрім [ICON_Food] їжі, зростає на 40%.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_GRANT_LOTSO_SCIENCE">
+			<Text>Дає 1000 [ICON_SCIENCE] науки та [ICON_CULTURE] культури (за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_STATE_STEAL_ENVOYS">
+			<Text>Надає [ICON_ENVOY] посланців вільному місту необхідної кількості аби досягнути статусу сюзерена. Потім усуває чужих [ICON_ENVOY] посланців.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_ACTIVE">
+			<Text>Grants 1 promotion level and +25% combat experience to a military naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HIMERIOS_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+25% Earned experience from combat. (Himerios)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_FREE_UNIT">
+			<Text>Створює моряка-штурмовика з перевагою +2 до [ICON_Movement] рухливості.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEP_PRODUCTION_ANCIENT_CLASSICAL">
+			<Text>Дає 175 [ICON_Production] продукції будівництву дива та вдвічі більше будівництву дива древньої чи класичної ер.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_WONDER_PURCHASE">
+			<Text>Grants [ICON_Production] Production towards wonder construction, capped at half of your current treasury. Then reduces your [ICON_Gold] Gold by twice the amount of purchased [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DISTRICT_SCIENCE_ADJACENCY_AS_TOURISM">
+			<Text>Дає [ICON_Tourism] туризм кожному району міста у кількості рівній перевазі від їхнього сусідства (удвічі менше [ICON_Gold] золота).</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GAIN_THREE_ENVOYS_HERE">
+			<Text>Створює 3 [ICON_ENVOY] посланців у цьому вільному місті.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HAVE_A_FREE_TRADE_ROUTE">
+			<Text>Increases [ICON_TradeRoute] Trade Route capacity by 1. Your [ICON_TradeRoute] Trade Routes to city-states now grant you +2 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_STATE_ABSORB_EXPANSIONS">
+			<Text>Absorbs this city-state into your empire. Grants you +10 Loyalty per turn in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_STATE_ABSORB_BASE_GAME">
+			<Text>Absorbs this city-state into your empire.</Text>
+		</Row>
+		<Row Tag ="LOC_GREATPERSON_IGNORE_CLOSED_BORDERS">
+			<Text>Ігнорує закритий кордон.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

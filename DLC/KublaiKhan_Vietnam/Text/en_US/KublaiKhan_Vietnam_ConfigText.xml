@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Dawn of Man text -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_KUBLAI_KHAN_CHINA">
+			<Text>Kublai Khan, grandson of Genghis Khan, you will amass an empire to rival his. You know when to bend and when to strike to gain the advantage. Your wit and political prowess will serve you, as will your martial skill in your conquests.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_KUBLAI_KHAN_MONGOLIA">
+			<Text>Kublai Khan, grandson of Genghis Khan, you will amass an empire to rival his. You know when to bend and when to strike to gain the advantage. Your wit and political prowess will serve you, as will your martial skill in your conquests.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LADY_TRIEU">
+			<Text>Bà Triệu, your people will remember you as a goddess. Stand against those who would try to rein in your storm, and raise your sword in defiance. Neither family nor foe will hold you back.</Text>
+		</Row>
+		<!-- Kublai Khan: Leader Info -->
+		<Row Tag="LOC_LEADER_KUBLAI_KHAN_C_NAME">
+			<Text>Хубілай (Китай)</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_LEADER_KUBLAI_KHAN_NAME">
+			<Text>Хубілай (Монголія)</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KUBLAI_NAME">
+			<Text>Gerege</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KUBLAI_DESCRIPTION">
+			<Text>[ICON_Bullet]+1 місце економічної політики.[NEWLINE][ICON_Bullet]Отримує [ICON_TechBoosted] науковий та [ICON_CivicBoosted] культурний прориви випадкових технології та вчення кожного разу коли створюється [ICON_TradingPost] торговий пост на території іншої нації вперше.</Text>
+		</Row>
+
+		<!-- Vietnam: District Info -->
+		<Row Tag="LOC_DISTRICT_THANH_NAME">
+			<Text>Загорожа</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THANH_DESCRIPTION">
+			<Text>Унікальний в'єтнамський район будівництва споруд військового призначення, що будується швидше за гарнізон котрій замінює.[NEWLINE][NEWLINE]+2 [ICON_CULTURE] культури від кожного району поряд.[NEWLINE]Продукує [ICON_TOURISM] туризм еквівалентно [ICON_CULTURE] культурі після завершення дослідження польоту.[NEWLINE]Цей район не є спеціальним, тому відсутня вимога за рівнем населення для будівництва.[NEWLINE]Не дає пункти появи [ICON_GreatPerson] видатної людини.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Відсутність центрального району поряд.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE_MAJOR">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
+
+		<!-- Vietnam: Civilization Info -->
+		<Row Tag="LOC_CIVILIZATION_VIETNAM_NAME">
+			<Text>В'єтнамці</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VIETNAM_DESCRIPTION">
+			<Text>В'єтнамська імперія</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VIETNAM_ADJECTIVE">
+			<Text>в'єтнамський|в'єтнамська|в'єтнамські</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_NAME">
+			<Text>Nine Dragon River Delta</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_DESCRIPTION">
+			<Text>[ICON_Bullet]Райони можливо будувати посеред джунглів, боліт та лісів.[NEWLINE][ICON_Bullet]+1 [ICON_CULTURE] культури районам збудованим у лісі.[NEWLINE][ICON_Bullet]+1 [ICON_SCIENCE] науки районам збудованим у джунглях.[NEWLINE][ICON_Bullet]+1 [ICON_PRODUCTION] продукції районам збудованим на болотах.[NEWLINE][ICON_Bullet]Вивчення пристосовності дає можливість мастакам висаджувати ліси.</Text>
+		</Row>
+
+		<!-- Vietnam: Leader Info -->
+		<Row Tag="LOC_LEADER_LADY_TRIEU_NAME">
+			<Text>Леді Тріу</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRIEU_NAME">
+			<Text>Drive Out The Aggressors</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRIEU_DESCRIPTION">
+			<Text>[ICON_Bullet]+5 [ICON_Strength] бойова міць сухопутників у лісі, болотах та джунглях.[NEWLINE][ICON_Bullet]+1 до [ICON_Movement] рухливості сухопутників, якщо рух починається з лісів, боліт та джунглів.[NEWLINE][ICON_Bullet]+10 [ICON_Strength] бойова міць сухопутників у лісі, болотах та джунглях на своїй території.[NEWLINE][ICON_Bullet]+2 до [ICON_Movement] рухливості сухопутників, якщо рух починається з лісів, боліт та джунглів на своїй території.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_FEATURES_NAME">
+			<Text>Drive Out The Aggressors</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_FEATURES_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength for units fighting in Rainforest, Marsh, or Woods tiles. +1 [ICON_Movement] Movement if they begin their turn there. Both these bonuses are doubled if the tile is your territory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_FRIENDLY_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength from the Drive Out The Aggressors trait</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_UNFRIENDLY_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength from the Drive Out The Aggressors trait</Text>
+		</Row>
+
+		<!-- Vietnam: Unit Info -->
+		<Row Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_NAME">
+			<Text>Бойовий слон</Text>
+			<Plurality>1</Plurality>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_DESCRIPTION">
+			<Text>Унікальний в'єтнамський далекобійник середньовіччя. Замінює арбалетників. Здатен обстрілювати після руху. Має більший радіус огляду, сильніший але довше створюється.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VOI_CHIEN_NAME">
+			<Text>Voi Chiến</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VOI_CHIEN_DESCRIPTION">
+			<Text>Can move after attacking.</Text>
+		</Row>
+
+		<!-- Preserve text-->
+		<Row Tag="LOC_DISTRICT_PRESERVE_NAME">
+			<Text>Заповідник</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PRESERVE_DESCRIPTION">
+			<Text>Дає до 3 [ICON_Housing] житла залежно від привабливості.[NEWLINE]Приєднує суміжні неосвоєні ділянки та підвищує їх привабливість на 1.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GROVE_NAME">
+			<Text>Гай</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GROVE_DESCRIPTION">
+			<Text>+1 [ICON_FOOD] їжі непокращеним прилеглим місцинам з гарною привабливістю.[NEWLINE]+1 [ICON_FAITH] віри непокращеним прилеглим місцинам з гарною привабливістю.[NEWLINE]+2 [ICON_FOOD] їжі непокращеним прилеглим місцинам з казковою привабливістю.[NEWLINE]+2 [ICON_FAITH] віри непокращеним прилеглим місцинам з казковою привабливістю.[NEWLINE]+2 [ICON_CULTURE] культури непокращеним прилеглим місцинам з казковою привабливістю.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SANCTUARY_NAME">
+			<Text>Притулок</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SANCTUARY_DESCRIPTION">
+			<Text>+1 [ICON_SCIENCE] науки непокращеним гарним ділянкам поряд.[NEWLINE]+1 [ICON_GOLD] золота непокращеним гарним ділянкам поряд.[NEWLINE]+2 [ICON_SCIENCE] науки непокращеним казковим ділянкам поряд.[NEWLINE]+2 [ICON_GOLD] золота непокращеним казковим ділянкам поряд.[NEWLINE]+2 [ICON_PRODUCTION] продукції непокращеним казковим ділянкам поряд.</Text>
+		</Row>
+
+		<!--Monopolies-->
+		<Row Tag="LOC_GAMEMODE_MONOPOLIES_NAME">
+			<Text>Монополії</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_MONOPOLIES_DESCRIPTION">
+			<Text>Цей ігровий режим розширює взаємодію з наземними розкішними ресурсами. Дає можливість будувати на них нові покращення та створювати унікальні вироби.[NEWLINE][NEWLINE][COLOR_RED]Увага! Цей режим прибирає всі морські розкішні ресурси, що значно ускладнює гру за орієнтовані на узбережжя нації, наприклад індонезійців. Та вочевидь, сильно знижує доцільність заснування прибережних міст.[ENDCOLOR]</Text>
+		</Row>
+	</EnglishText>
+</GameData>

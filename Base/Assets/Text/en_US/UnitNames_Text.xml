@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_UNITNAME_BASE_TEMPLATE">
+			<Text>{1_Prefix} {2_Suffix}</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_RANDOMIZE_BUTTON_TEXT">
+			<Text>Підібрати</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_CHOOSE_NAME">
+			<Text>Почесне найменування:</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_CONFIRM">
+			<Text>Підтвердити</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_RANDOM_FIRST">
+			<Text>Randomize First Name</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_RANDOM_SECOND">
+			<Text>Randomize Second Name</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_1ST">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_2ND">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_3RD">
+			<Text></Text>
+		</Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_4TH">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_AIMED">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ALPHA">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ALPINE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ANGEL">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ARMORED">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BIG_RED">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BLACK">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BLOOD">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BLOODY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BRAVE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BULL">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_CELESTIAL">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_COLONIAL">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_CRAZY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DEAD_CENTER">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DEADLY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DEATHS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DELTA">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DESERT">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DIRTY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DRAGON">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DRAWN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ELITE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_FIGHTING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_FLYING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GALLOPING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GHOST">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GLORY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GOLDEN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GREAT">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GREEN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GRIM">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HADES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HELLISH">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HELLS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HOLY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_INVINCIBLE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_IRON">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_JUNGLE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_KINGS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LAVA">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LIGHT">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LIGHTNING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LION">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LONG">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_MAGNIFICENT">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_MOUNTAIN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_MOUNTED">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_NOMADIC">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_OLD">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ORPHAN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_PARTISAN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_PRESIDENTS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_QUEENS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_RAGGED">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_RAINING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_REVOLUTIONARY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_RIVER">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ROCK">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ROYAL">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SACRED">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SALTY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SCREAMING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SEA">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SHARP">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SILENT">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SOARING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_STONE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_STONEWALL">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_STORM">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TALL">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TEN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TERRIBLE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_THUNDERING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TIMBER">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TROPIC">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TUNDRA">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WALKING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WAR">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WHITE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WILD">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WINDING">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARTISTS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BANNER">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BASTARDS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BATTALION">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BERETS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BODYGUARDS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOOTS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOYS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BRAVES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BRIGADE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BROTHERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BUTCHERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CAPS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CHAMPIONS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CIRCUS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_COMPANY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_COMRADES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CROSSES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CROWS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEAD">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEMONS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEVILS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DOGS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DOZEN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DRAGONS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EAGLES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EXCELLERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FORCE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FUSILIERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GAMBLERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GANG">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GARDE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GIANTS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GOONS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GRENADIERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUARD">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUARDIANS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HATS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HELMETS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORDE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HOUNDS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HUNTERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_IMMORTALS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INFANTRY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_IRONS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KILLERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KINGS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LADS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LAMBS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LEGION">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LIBERATORS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LINE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LIONS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_MARTYRS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ONE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_OWN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PANTHERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PEACEMAKERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PHANTOMS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PROFESSIONALS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RAIDERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RAMPAGERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REDS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REGIMENT">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RELIABLES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SAINTS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SAVAGES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SEEKERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHIELDS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHIRTS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SONS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TIGERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TIMBERWOLVES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TOUGHS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TROOP">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VOLUNTEERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WARLORDS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WATCH">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WIDOWMAKERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WOLFHOUNDS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WOLVES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_APES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BLADES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_COMMANDOS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EYES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_JACKETS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KNIVES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_MARAUDERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_NOMADS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_OUTLAWS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PATHFINDERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RANGERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RECON">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RUNNERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SCOUTS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SNAKES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WANDERERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARROWS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARTILLERY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BATTERY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BLAZERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOMBARDIERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOWS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEATH">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FIRE_BREATHERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUNNERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KNOCKERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_MARKSMEN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RAIN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHARPS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHARPSHOOTERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SLINGERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SNIPERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_STRIKERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DRAGOONS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FEATHERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FOXES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HAMMER">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORSE">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORSEMEN">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HUSSARS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KNIGHTS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KORPS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LANCERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PONIES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RIDERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_STEEDS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VANGUARD">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WARHORSES">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARMADA">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOUNTY">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BUCCANEERS">
+			<Text></Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CONQUEROR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_DREADNOUGHT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_EEL">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_ENDEAVOR">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_FLAGSHIP">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_FLOTILLA">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_INTREPID">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_INVINCIBLE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_IRONSIDES">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_NARWHAL">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_ORCA">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_REDOUBTABLE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_RESOLUTION">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_REVENGE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_SEAWOLVES">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_SHARK">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_STRIKE_GROUP">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_TRIDENT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_VICTORY">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_WHALE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_ACES">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_AIRMEN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_ANGELS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_BIRDS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_FALCONS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_FLYERS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_GUNFIGHTERS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_GUNS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_HAWKS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_HORNETS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_INTERCEPTORS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_INTRUDERS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_NIGHTSTALKERS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_SQUADRON">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_THUNDERBOLTS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_VAMPIRES">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_WARHAWKS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_WING">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_HEAVENLY">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_BRIGHT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_HIDDEN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_JADE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_CRIMSON">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_SPIRIT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_ETERNAL">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_NORTHERN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_SOUTHERN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_EASTERN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_WESTERN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_EARTHEN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_GALE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_FIRE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_METAL">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_WATER">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_BOXING">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_OPEN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_RAGING">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_CALM">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_PREFIX_SLEEPING">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_FLAMES">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_WINDS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_FLOODS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_MONKEYS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_CRANES">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_MANTIS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_PANDAS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_ORDER">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_HAND">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_FIST">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_CLAW">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_STARS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_PALM">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_MENDICANTS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_PILGRIMS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_TEACHERS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_MASTERS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_SWEEPERS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_FOOT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_SUFFIX_GRASSHOPPERS">
+			<Text></Text>
+		</Row>
+	</BaseGameText>
+</GameData>

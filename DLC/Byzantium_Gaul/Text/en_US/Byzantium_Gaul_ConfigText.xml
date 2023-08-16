@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Dramatic Ages Civ Ability Override -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION">
+			<Text>While in a Golden Age, gains an extra Wildcard Policy Slot, and may use Dark Age Policies. +50% [ICON_Production] Production towards defensive buildings.</Text>
+		</Row>
+
+		<!-- Byzantium: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_BYZANTIUM_NAME">
+			<Text>Візантійці</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION">
+			<Text>Візантійська імперія</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE">
+			<Text>Byzantine</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME">
+			<Text>Taxis</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION">
+			<Text>[ICON_Bullet]+3 [ICON_Strength] бойова міць чи [ICON_Religion] сила віри за кожне навернене до власної релігії святе місто (включно з власним).[NEWLINE][ICON_Bullet]Власна релігія поширюється на ближні міста, щоразу як ворожа одиниця іншої нації чи вільного міста зазнає поразки.[NEWLINE][ICON_Bullet]+1 пункт появи [ICON_GreatProphet] пророка від кожного міста зі святинею.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME">
+			<Text>Holy City Combat</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION">
+			<Text>Receive +3 [ICON_Strength] Combat Strength for each Holy City converted to your Religion and Byzantium's Religion is spread to nearby cities when a major civilization's unit is defeated (Taxis)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC">
+			<Text>+{1_Amount} Combat Strength from the Taxis trait</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME">
+			<Text>Holy City Religious Strength</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION">
+			<Text>Receive +3 [ICON_RELIGION] Religious Strength for each Holy City converted to your Religion.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC">
+			<Text>+{1_Amount} Religious Strength from the Taxis trait</Text>
+		</Row>
+
+		<!-- Byzantium: District Info -->
+		<Row Tag="LOC_DISTRICT_HIPPODROME_NAME">
+			<Text>Іподром</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION">
+			<Text>Унікальний візантійський район, що будується швидше за розвагу.[NEWLINE]+3 [ICON_Amenities] щастя.[NEWLINE]По завершенню будівництва району та його споруд отримується важкий вершник.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION">
+			<Text>A district unique to Byzantium. Replaces the Entertainment Complex district, provides +3 [ICON_Amenities] Amenities, and is cheaper to build. When the Hippodrome and buildings in this district are constructed, receive a Heavy Cavalry unit. Cannot be built in a city with a Water Park.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION">
+			<Text>A district unique to Byzantium. Replaces the Entertainment Complex district, provides +3 [ICON_Amenities] Amenities, and is cheaper to build. When the Hippodrome and buildings in this district are constructed, receive a Heavy Cavalry unit. Units granted from this district do not have a resource maintenance cost. Cannot be built in a city with a Water Park.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME">
+			<Text>Hippodrome</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION">
+			<Text>This unit does not cost Strategic Resources per turn from the Hippodrome district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Hippodrome district.</Text>
+		</Row>
+
+		<!-- Byzantium: Leader Info -->
+		<Row Tag="LOC_LEADER_BASIL_NAME">
+			<Text>Василій II</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BASIL_NAME">
+			<Text>Porphyrogénnētos</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION">
+			<Text>[ICON_Bullet]Вершники завдають містам, зі спільною домінуючою релігією, повної шкоди.[NEWLINE][ICON_Bullet]Дає можливість створювати тагмарів за [ICON_Faith] віру після вивчення божественного права.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_BASIL">
+			<Text>Your enemies will fear you, King Basil II, for you were forged in the fire. Let your cunning and ambition sharpen your blade. Protect your pride and stand against your foes, both within your walls and beyond.</Text>
+		</Row>
+
+		<!-- Byzantium: Unit Info -->
+		<Row Tag="LOC_UNIT_BYZANTINE_DROMON_NAME">
+			<Text>Дромон</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION">
+			<Text>Унікальний візантійський моряк-далекобійник класичної ери. Замінює важку галеру. +1 [ICON_Range] відстань атаки. +10 [ICON_Strength] бойова міць проти одиниць.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DROMON_NAME">
+			<Text>Greek Fire</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DROMON_DESCRIPTION">
+			<Text>Receive +10 [ICON_Strength] Combat Strength against units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength against units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME">
+			<Text>Тагмари</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION">
+			<Text>Унікальний візантійський вершник середньовіччя. Замінює лицарів. +4 [ICON_Strength] бойова міць сухопутників поряд. +4 [ICON_RELIGION] сила віри релігійників поряд.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_NAME">
+			<Text>Tagma</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_DESCRIPTION">
+			<Text>Land units within 1 tile of the Tagma receive +4 [ICON_Strength] Combat Strength or [ICON_RELIGION] Religious Strength.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME">
+			<Text>Tagma Combat Strength</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Combat Strength when within 1 tile of the Tagma.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength when within 1 tile of the Tagma.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME">
+			<Text>Tagma Religious Strength</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION">
+			<Text>+4 [ICON_RELIGION] Religious Strength when within 1 tile of the Tagma.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION">
+			<Text>+{1_Amount} Religious Strength when within 1 tile of the Tagma.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME">
+			<Text>Porphyrogénnētos</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION">
+			<Text>Does full damage against cities following the same religion as Byzantium (Porphyrogénnētos)</Text>
+		</Row>
+
+		<!-- Gaul: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_GAUL_NAME">
+			<Text>Галлійці</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION">
+			<Text>Галлійська імперія</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE">
+			<Text>галлійський|галлійська|галлійські</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME">
+			<Text>Спадок Халлстату</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION">
+			<Text>[ICON_Bullet]Шахти дають незначну перевагу суміжним районам.[NEWLINE][ICON_Bullet]+1 [ICON_CULTURE] культури від шахт.[NEWLINE][ICON_Bullet]Будівництво шахт спричиняє культурний вибух (освоюються незайняті ділянки довкола у кількості залежно від відстані до центрального району).[NEWLINE][ICON_Bullet]Спеціальні райони не отримують переваг сусідства з іншими та не можуть бути зведені поряд центрального.</Text>
+		</Row>
+
+		<!-- Gaul: District Info -->
+		<Row Tag="LOC_DISTRICT_OPPIDUM_NAME">
+			<Text>Опід</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION">
+			<Text>Унікальний галлійський район, що будується швидше ніж промзона.[NEWLINE]Має захист та можливість обстрілу.[NEWLINE]Перший завершений опід розблоковує дослідження учнівства.</Text>
+		</Row>
+		<!-- Gaul: Leader Info -->
+		<Row Tag="LOC_LEADER_AMBIORIX_NAME">
+			<Text>Амбіорікс</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME">
+			<Text>Культура ебуронів</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION">
+			<Text>[ICON_Bullet][ICON_CULTURE] Культура за створення військовиків, у обсязі 20% від вартості.[NEWLINE][ICON_Bullet]+2 [ICON_Strength] бойова міць штурмовиків, верхобійників та далекобійників за кожного військовика поряд.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME">
+			<Text>Ambiorix</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION">
+			<Text>+2 [ICON_Strength] бойова міць за кожного військовика поряд (Культура ебуронів).</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount}: Культура ебуронів</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_AMBIORIX">
+			<Text>Your wits will serve you well, Ambiorix. Where the size of your armies fail, use your head and gilded tongue to reclaim your land. Your allies will follow your lead and your strong spear arm will shatter the resistance of your enemies.  Fight, great warrior-king!</Text>
+		</Row>
+
+		<!-- Gaul: Unit Info -->
+		<Row Tag="LOC_UNIT_GAUL_GAESATAE_NAME">
+			<Text>Гесати</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION">
+			<Text>Унікальний галлійський штурмовик древньої ери. Замінює воїнів. Має більшу вартість створення. +10 [ICON_Strength] бойова міць у бою з сильнішим за себе ворогом. +5 [ICON_Strength] бойова міць проти укріплень районів.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_NAME">
+			<Text>Gaesatae</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] бойова міць проти сильніших за себе військовиків.[NEWLINE][ICON_Bullet]+5 [ICON_Strength] бойова міць проти захищених районів.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount}: Сильний ворог</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength vs. district defenses.</Text>
+		</Row>
+		<!-- Highlands-->
+		<Row Tag="LOC_MAP_HIGHLANDS_NAME">
+			<Text>Highlands</Text>
+		</Row>
+		<Row Tag="LOC_MAP_HIGHLANDS_DESCRIPTION">
+			<Text>A large region dominated by hills and mountain ranges.</Text>
+		</Row>
+		<!-- Dramatic Ages Mode -->
+		<Row Tag="LOC_GAMEMODE_DRAMATICAGES_NAME">
+			<Text>Dramatic Ages Mode</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION">
+			<Text>This game mode makes Dark Ages and Golden Ages more potent than ever. Heroic Ages are removed, and players can only be in a Normal Age in the first era. After that, they will either earn a Dark or a Golden Age.[NEWLINE][NEWLINE]Instead of making Dedications, players get access to powerful new Social Policies based on their Age. Dark Policies make a return with refreshed powerful effects. Brand new Golden Policies are available to those who make it to a Golden Age. To keep earning Era Score, complete Techs and Civics and earn military unit promotions.[NEWLINE][NEWLINE]Dark Ages are particularly dangerous. Players in Dark Ages will have a portion of their empire immediately fall into Free Cities, and Free Cities can exert pressure on other cities. On easier difficulty settings, AI players lose a lot of cities. On harder difficulty settings, human players do. On Prince, they lose an equal amount.[NEWLINE][NEWLINE]Georgia's civilization unique ability is brand new, to match the mode's unique rules.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIFFICULTY_SETTLER_NAME">
+			<Text>Поселенець</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
+			<Text>Вождь</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_WARLORD_NAME">
+			<Text>Полководець</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_PRINCE_NAME">
+			<Text>Принц</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_KING_NAME">
+			<Text>Король</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_EMPEROR_NAME">
+			<Text>Імператор</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_IMMORTAL_NAME">
+			<Text>Невмирущий</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_DEITY_NAME">
+			<Text>Божество</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

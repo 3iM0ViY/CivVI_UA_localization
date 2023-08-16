@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Civics-->
+		<Row Tag="LOC_CIVIC_FOREIGN_TRADE_DESCRIPTION">
+			<Text>Дає можливість запроваджувати [ICON_TradeRoute] торгові шляхи.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRADITION_DESCRIPTION">
+			<Text>Дає можливість військовикам користатися фланговими та підтримуючими перевагами у бою.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EARLY_EMPIRE_DESCRIPTION">
+			<Text>Дає можливість контролювати прохід свого кордону іншими державами.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MYSTICISM_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THEOLOGY_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
+			<Text>+1 [ICON_Food] їжі від ферми, якщо поряд ще дві.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
+			<Text>Allows Alliances.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCENARIES_DESCRIPTION">
+			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
+			<Text>Pasture improvements receive +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
+			<Text>Дає можливість створювати шпигунів.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
+			<Text>+1 [ICON_Production] продукції та +1 [ICON_Food] їжі від таборів.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
+			<Text>Релігійний [ICON_Tourism] туризм інших держав діє на наших людей вдвічі слабше.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
+			<Text>Awards 2 [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати ферми на зелених та степових пагорбах.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
+			<Text>Дає можливість мати додаткового шпигуна.[NEWLINE]Дає можливість об'єднувати військовиків у корпуси та флоти.[NEWLINE]Дає можливість використовувати технологічну перевагу в якості приводу оголошення війни.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
+			<Text>Awards 2 [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
+			<Text>Reveals [ICON_RESOURCE_ANTIQUITY_SITE] Antiquity Sites. Allows construction of Archaeologists. Awards 2 [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
+			<Text>Awards 2 [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
+			<Text>Дає можливість будувати національні парки.[NEWLINE]Дає можливість вимолювати природознавців за [ICON_Faith] віру.[NEWLINE]Дає можливість мастакам висаджувати ліси.[NEWLINE]+1 привабливість від старих (невисаджених) лісів.[NEWLINE]Стіни підвищують [ICON_TOURISM] туризм.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Дає можливість об'єднувати військовиків у армії та армади.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
+			<Text>Дає можливість створити додаткового шпигуна.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLD_WAR_DESCRIPTION">
+			<Text>Дає можливість створити додаткового шпигуна.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION">
+			<Text>Reveals [ICON_RESOURCE_SHIPWRECK] Shipwrecks, and allows Archaeologists to extract [ICON_GreatWork_Artifact] Artifacts from them. Awards 3 [ICON_Envoy] Envoys. </Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION">
+			<Text>Дає можливість авіатранспортування будь-яких сухопутних одиниць між аеродромами з аеропортами.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
+			<Text>+2 [ICON_Gold] золота від плантацій.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Може бути багаторазово вивчене. Збільшує рахунок, величина якого визначає переможця в разі підсумкової перемоги.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ENVOY_AWARDED_TOOLTIP">
+			<Text>Надає {1_NumOfEnvoys} [ICON_Envoy] {1_NumOfEnvoys : plural 1?посланця; other?посланців;}</Text>
+		</Row>
+
+		<!-- Civic Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
+			<Text>Збудувати 3 покращення.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_FOREIGN_TRADE">
+			<Text>Відкрити інший регіон.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
+			<Text>Зруйнувати табір варварів.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
+			<Text>Збудувати будь-який особливий район.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
+			<Text>Досягнути 6 населення нації.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MYSTICISM">
+			<Text>Заснувати пантеон.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GAMES_RECREATION">
+			<Text>Дослідити технологію - конструювання.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY">
+			<Text>Знайти 3 вільних міста.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DRAMA_POETRY">
+			<Text>Збудувати диво.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TRAINING">
+			<Text>Збудувати гарнізон.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS">
+			<Text>Стати ціллю оголошення війни.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RECORDED_HISTORY">
+			<Text>Збудувати 2 студмістечка.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_THEOLOGY">
+			<Text>Заснувати релігію.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NAVAL_TRADITION">
+			<Text>Знищити ворога важкою галерою.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_FEUDALISM">
+			<Text>Збудувати 6 ферм.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
+			<Text>Досягнути 10 населення міста.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MERCENARIES">
+			<Text>Залучити до війська щонайменше 8 сухопутників.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
+			<Text>Запровадити 4 торгові маршрути.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUILDS">
+			<Text>Збудувати 2 ринки.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DIVINE_RIGHT">
+			<Text>Збудувати 2 храми.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_EXPLORATION">
+			<Text>Збудувати 2 каравели.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_HUMANISM">
+			<Text>Отримати митця.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE">
+			<Text>Створити альянс з іншою нацією.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
+			<Text>Розповсюдити свою релігію на 6 міст.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
+			<Text>Отримати крамаря.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
+			<Text>Створити 3 видатні людини.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
+			<Text>Збудувати 7 різних районів.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NATIONALISM">
+			<Text>Оголосити війну маючи привід.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
+			<Text>Збудувати музей мистецтв.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COLONIALISM">
+			<Text>Дослідити астрономію.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NATURAL_HISTORY">
+			<Text>Збудувати археологічний музей.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_URBANIZATION">
+			<Text>Досягнути 15 населення міста.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
+			<Text>Створити 2 гармати.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CONSERVATION">
+			<Text>Збудувати околиці з казковою привабливістю.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
+			<Text>Сформувати 3 корпуси.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
+			<Text>Винайти радіо.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CAPITALISM">
+			<Text>Збудувати 3 фондові біржі.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM">
+			<Text>Збудувати дослідну лабораторію.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SUFFRAGE">
+			<Text>Збудувати 4 каналізації.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_TOTALITARIANISM">
+			<Text>Збудувати 3 військові академії.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CLASS_STRUGGLE">
+			<Text>Збудувати 3 фабрики.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COLD_WAR">
+			<Text>Винайти поділ ядра.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS">
+			<Text>Збудувати 4 райони розваг.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CULTURAL_HERITAGE">
+			<Text>Зібрати тематичну виставку надбань.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT">
+			<Text>Збудувати аеродром чи злітно-посадкову смугу поза рідного регіону.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SPACE_RACE">
+			<Text>Збудувати район космопорту.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GLOBALIZATION">
+			<Text>Збудувати 3 аеропорти.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SOCIAL_MEDIA">
+			<Text>Дослідити телекомунікації.</Text>
+		</Row>
+
+		<!-- Civic Boosts Long Descriptions-->
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
+			<Text>Робота над покращеннями дала розуміння необхідності прискорення темпів створення наших мастаків та військовиків.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
+			<Text>Відкриття іншого регіону дало розуміння необхідності розвитку міждержавної торгівлі.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
+			<Text>Знищення варварського табору дало розуміння необхідності покращення тактики бою.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
+			<Text>Будівництво додаткового району міста дало розуміння необхідності змін управління містом та державою у цілому.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
+			<Text>Досягнення чималого населення дало розуміння необхідності покращення методів керування державою.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
+			<Text>Заснування пантеону дало розуміння необхідності упорядкування вчень про незбагненне та надприродне.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
+			<Text>Дослідження конструювання дало розуміння можливості широкого застосування даних знань у галузі розваг.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
+			<Text>Знаходження 3 вільних міст дало розуміння необхідності покращення управління власними людьми.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY">
+			<Text>Завершення будівництва дива дало нашим людям натхнення створювати нові драматургічні твори.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
+			<Text>Завершення будівництва гарнізону дало нашим людям розуміння необхідності військового виховання.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
+			<Text>Оголошення нам війни дало розуміння необхідності планування захисних дій аби це не повторилося.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
+			<Text>With plans to house many scrolls in the libraries of your campuses, your people begin to record the history of your empire.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
+			<Text>Заснування власної релігії дало нашим людям натхнення для подальших різноманітних праць релігійного спрямування.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
+			<Text>Нещодавня битва надихнула людей займатися морською справою.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
+			<Text>Будівництво багатьох ферм дало розуміння необхідності ефективного керування ними.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
+			<Text>Досягнення чималої кількості населення міста дало розуміння необхідності створення приватних служб.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
+			<Text>Керування чималою армією дало розуміння необхідності пошуку альтернативних способів утримання.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
+			<Text>Запровадження великої кількості торгових шляхів дало розуміння можливості ефективнішого їх використання.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
+			<Text>The success of your commercial districts has spurred the growth of trade guilds.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
+			<Text>Будівництво храмів дало розуміння нашім людям потреби творити дива та захищати свої творіння.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
+			<Text>Керування флотом каравел дало розуміння можливості покращення методами керування.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
+			<Text>The inspiration provided by your newly-acquired Great Artist is awakening our people to the power of the individual.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
+			<Text>Створення альянсу дало розуміння необхідності покращити нашу дипломатію.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
+			<Text>Розповсюдження нашої релігії у багатьох містах дало розуміння необхідності реформування нашої церкви.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
+			<Text>Поява крамаря дала розуміння інших підходів та методів боротьби з нашими економічними конкурентами.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
+			<Text>Поява кількох видатних людей позитивно вплинула на всі напрями діяльності нашої нації.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
+			<Text>Дослідження астрономії дало розуміння можливості пришвидшення зростання нашої імперії.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
+			<Text>Будівництво великої кількості різноманітних районів дало розуміння необхідності вдосконалення методів будівництва.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
+			<Text>Оголошення війни з приводу дало розуміння необхідності посилення нашої національної єдності.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
+			<Text>The unveiling of a new museum is drawing people to the arts. Perhaps dance and opera are next?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
+			<Text>Будівництво археологічного музею дало поштовх археологічних досліджень.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
+			<Text>Досягнення нашим містом такої кількості населення дало розуміння необхідності подбати про його розселення.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
+			<Text>Створення гармат дало розуміння можливості використання, нехай й вельми суперечливої, нової тактики ведення війни.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
+			<Text>The residents of your breathtaking new neighborhood clamor for a plan to conserve all the world’s natural treasures.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
+			<Text>Винайдення радіо дало поштовх до вдосконалення наших методів розповсюдження інформації.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
+			<Text>Створення кількох корпусів дало розуміння необхідності покращення методів формування військових з'єднань.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
+			<Text>With stock exchanges springing up in several cities, investment capital is plentiful and a market economy is ready to emerge.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
+			<Text>Будівництво дослідної лабораторії призвело до прискорення досліджень, зокрема ядерної галузі.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
+			<Text>Масштабне будівництво каналізаційних мереж дало розуміння нашим людям їхньої важливості у прийнятті рішень шляху розвитку нашого суспільства.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
+			<Text>The discipline instilled by your military academies is now second nature to your citizens.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
+			<Text>Будівництво фабрик дало розуміння необхідності боротьби за класову рівність.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
+			<Text>Винайдення поділу ядра призвело до розуміння необхідності бути сильнішим за інші нації.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
+			<Text>Будівництво кількох районів розваг дало поштовх розвитку спорту.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
+			<Text>Виставка добірки артефактів пробудила цікавість нашої нації до охорони власної спадщини.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
+			<Text>With air bases now spanning the globe, our military is ready to be deployed anywhere in the world at a moment's notice.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
+			<Text>Будівництво космопорту дало розуміння можливості освоєння космосу.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
+			<Text>With so many airports in place, the world is truly becoming a smaller place.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
+			<Text>Поява телекомунікацій дала поштовх розвитку поширення інформації.</Text>
+		</Row>
+
+		<!-- Governments -->
+		<Row Tag="LOC_GOVERNMENT_OF">
+			<Text>Government of {1_civ}</Text>
+		</Row>
+		<Row Tag="LOC_CHANGE_GOVERNMENT">
+			<Text>Change Government</Text>
+		</Row>
+		<Row Tag="LOC_MY_GOVERNMENT">
+			<Text>My Government</Text>
+		</Row>
+		<Row Tag="LOC_policIES">
+			<Text>policies</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENTS">
+			<Text>Governments</Text>
+		</Row>
+		<Row Tag="LOC_CULTURE_PER_TURN">
+			<Text>Culture Per Turn: +{1_Culture}</Text>
+		</Row>
+		<Row Tag="LOC_MILITARY">
+			<Text>Military</Text>
+		</Row>
+		<Row Tag="LOC_ECONOMIC">
+			<Text>Economic</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMATIC">
+			<Text>Diplomatic</Text>
+		</Row>
+		<Row Tag="LOC_WILDCARD">
+			<Text>Wildcard</Text>
+		</Row>
+		<Row Tag="LOC_EMPTY_POLICY_SLOT">
+			<Text>Empty {1_policyType} policy Slot</Text>
+		</Row>
+		<Row Tag="LOC_NO_AVAIL_policIES">
+			<Text>No Available policies</Text>
+		</Row>
+		<Row Tag="LOC_VIEW_LOCKED_policIES">
+			<Text>View Locked policies</Text>
+		</Row>
+		<!-- Government Effects-->
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
+			<Text>No Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
+			<Text>Capital receives +1 boost to all yields.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
+			<Text>+4 [ICON_Strength] бойова міць сухопутників-штурмовиків.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
+			<Text>+1 [ICON_Amenities] щастя кожному місту з районом.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
+			<Text>+50% [ICON_Production] продукції під час будівництва захисних споруд. +1 [ICON_Housing] житло за кожен рівень стін.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
+			<Text>Можливість створювати сухопутників за [ICON_Faith] віру. +5 [ICON_Religion] релігійна міць релігійникам під час релігійної битви.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
+			<Text>+2 [ICON_TradeRoute] торгові шляхи.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
+			<Text>+5 [ICON_Strength] бойова міць військовиків.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
+			<Text>+4 [ICON_Strength] бойова міць сухопутникам у захисті.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
+			<Text>Отримання видатних людей за [ICON_Gold] золото дешевшає на 50%.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
+			<Text>No Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
+			<Text>Прискорення будівництва див.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
+			<Text>Прискорення навчання військ.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
+			<Text>Прискорення появи видатних людей.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
+			<Text>Прискорення появи посланців.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
+			<Text>Зниження вартості створення за віру.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
+			<Text>Зниження вартості створення за золото.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
+			<Text>Прискорення створення одиниць.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
+			<Text>Прискорення виробництва.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
+			<Text>Прискорення районних проєктів.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
+			<Text>No Bonus.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
+			<Text>Збільшення [ICON_Production] продукції під час будівництва див (10%, плюс 1% кожного 20 ходу за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
+			<Text>Збільшення бойового досвіду (20%, плюс 1% кожного 5 ходу за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
+			<Text>Прискорення появи [ICON_GreatPerson] видатних людей (15%, плюс 1% кожного 15 ходу за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
+			<Text>Прискорення появи [ICON_Envoy] посланців (20%, плюс 1% кожного 10 ходу за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
+			<Text>Зниження ціни придбань за [ICON_Faith] віру (15%, плюс 1% кожного 15 ходу за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
+			<Text>Збільшення виробітку [ICON_Gold] золота (15%, плюс 1% кожного 15 ходу за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
+			<Text>Збільшення [ICON_Production] продукції під час створення одиниць (20%, плюс 1% кожного 10 ходу за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
+			<Text>Збільшення [ICON_Production] продукції під час створення будь-чого (10%, плюс 1% кожного 20 ходу за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
+			<Text>Збільшення переваг від проєктів районів (30%, плюс 1% кожного 10 ходу за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
+			<Text>No more {1_policyName} can be set for this government.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
+			<Text>No {1_policyName} can be set under this government.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
+			<Text>Можливо запровадити - {2_policyName}: {1_Num: number #}</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
+			<Text>{2_policyName}, максимально можлива кількість запровадження: {1_Num: number #}.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
+			<Text>+{1_InfluencePointRate} впливу [ICON_Turn] що ходу.[NEWLINE]Необхідно {2_InfluencePointThreshold} впливу задля отримання {3_EnvoysPerThreshold} [ICON_Envoy] посланця (за умов звичайного темпу гри).</Text>
+		</Row>
+
+		<!-- Policy Descriptions-->
+		<Row Tag="LOC_POLICY_PLACEHOLDER_DESC">
+			<Text>Placeholder.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
+			<Text>+100% переваг від виставок.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AGOGE_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення сухопутних штурмовиків, верхобійників та далекобійників древньої і класичної ер.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>+2 [ICON_Food] їжі та +2 [ICON_Production] продукції від наших [ICON_TradeRoute] торгових шляхів до союзних міст.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
+			<Text>+6 [ICON_Strength] захисна міць оборонців міст.[NEWLINE]+5 [ICON_Ranged] далекобійна міць оборонців міст.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
+			<Text>+2 [ICON_Gold] золота з кожного [ICON_TradeRoute] торгового шляху.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
+			<Text>+2 впливу отримання [ICON_Envoy] посланців що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення легких та важких вершників індустріальної ери.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
+			<Text>+5% [ICON_Culture] культури з вільного міста у статусі сюзерена.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
+			<Text>+4 [ICON_Food] їжі від внутрішніх [ICON_TradeRoute] торгових шляхів.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>+15% росту міст розміщених поза регіону [ICON_Capital] столиці.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>+25% [ICON_Gold] золота з міст розміщених поза регіону [ICON_Capital] столиці.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення поселенців.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
+			<Text>Утримання військовиків знижується на 1 [ICON_Gold] золота.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
+			<Text>Кожен [ICON_Envoy] посланець до вільного міста рахується за двох, якщо сюзерен міста має відмінний від вашого уряд.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CORVEE_DESCRIPTION">
+			<Text>+15% [ICON_Production] під час будівництва див древньої та класичної ер.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
+			<Text>+100% переваг від промзон.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
+			<Text>-2 рівень ворожих шпигунів, що діють на вашій території.[NEWLINE]+1 рівень шпигунів, що діють на чужій території.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
+			<Text>Відсутня втома від війни в разі боїв на своїй території.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
+			<Text>Кожний перший відправлений до вільного міста [ICON_Envoy] посланець має вплив на нього як 2 [ICON_Envoy] посланці.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] бойова міць проти варварів.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
+			<Text>+5 [ICON_Production] продукції та +10 [ICON_Gold] золота від зовнішніх [ICON_TradeRoute] торгових шляхів.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
+			<Text>+100% переваг від торговиць та гаваней.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення поселенців. Вартість придбання зменшено на 20%.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення штурмовиків, верхобійників та далекобійників древньої ери, класичної ери, середньовіччя та ренесансу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення літаків сучасної та атомної ер.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
+			<Text>+100% переваг від студмістечок та промзон.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>+100% [ICON_Gold] золота від споруд торговиць.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
+			<Text>+2 пункти появи [ICON_GreatArtist] митця що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
+			<Text>+1 [ICON_Faith] віра у [ICON_Capital] столиці.[NEWLINE]+1 [ICON_Gold] золото у [ICON_Capital] столиці.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
+			<Text>+15% [ICON_Production] продукції під час будівництва див ренесансу, середньовіччя, класичної та древньої ер.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення штурмовиків, верхобійників та далекобійників починаючи з індустріальної ери.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>+100% [ICON_Culture] культури від споруд виставок.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
+			<Text>Відкритий кордон з усіма вільними містами.[NEWLINE]+4 впливу отримання [ICON_Envoy] посланців що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
+			<Text>+100% [ICON_Tourism] туризму від [ICON_GreatWork_Landscape] творів мистецтва та [ICON_GreatWork_Artifact] артефактів.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ILKUM_DESCRIPTION">
+			<Text>+30% [ICON_Production] продукції під час створення мастаків.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
+			<Text>+2 пункти появи [ICON_GreatScientist] науковця що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INSULAE_DESCRIPTION">
+			<Text>+1 [ICON_Housing] житло у містах з принаймні 2 районами.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
+			<Text>+15% [ICON_Production] продукції на космічні проєкти, якщо місто має військову академію або порт.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
+			<Text>+5% [ICON_Science] науки з вільного міста у статусі сюзерена.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
+			<Text>+100% [ICON_Production] продукції під час створення моряків, окрім авіаносців.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVENTION_DESCRIPTION">
+			<Text>+2 пункти появи [ICON_GreatEngineer] інженера що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
+			<Text>+4 пункти появи [ICON_GreatMerchant] крамаря що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
+			<Text>Знижує вартість придбання ділянки на 20%.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
+			<Text>Утримання військовиків знижується на 2 [ICON_Gold] золота.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] щастя у містах з щонайменше 2 спеціальними районами.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення вершників.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIMES_DESCRIPTION">
+			<Text>+100% [ICON_Production] продукції під час будівництва оборонних споруд.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
+			<Text>+2 пункти появи [ICON_GreatWriter] письменника що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
+			<Text>+1 до [ICON_Movement] рухливості, якщо рух починається на дружній території.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення шпигунів.[NEWLINE]-25% тривалості таємних завдань.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення вершників древньої та класичної ер.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
+			<Text>+100% [ICON_Production] продукції під час створення моряків древньої та класичної ер.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
+			<Text>Зовнішні [ICON_TradeRoute] торгові шляхи отримують +1 [ICON_Gold] золота з кожного джерела розкішних чи стратегічних ресурсів місця призначення, а також +2 [ICON_Culture] культури та +2 [ICON_Science] науки.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>-25% втоми від війни.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
+			<Text>+2 [ICON_Housing] житла у містах з принаймні 3 районами.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Gold] золота з кожного [ICON_Envoy] посланця до вільних міст.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
+			<Text>+1 [ICON_Culture] культури з кожного спеціального району.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення штурмовиків, верхобійників та далекобійників.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
+			<Text>+4 пункти появи [ICON_GreatGeneral] полководця що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
+			<Text>+1 [ICON_Science] науки від військових академій та портів.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
+			<Text>-50% зниження [ICON_Strength] бойової моці через поранення.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
+			<Text>Перемога над одиницями минулих ер продукує [ICON_Gold] золото у кількості 50% [ICON_Strength] бойової моці (за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
+			<Text>+100% переваг від студмістечок.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
+			<Text>+100% переваг від гаваней.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
+			<Text>+2 пункти появи [ICON_GreatAdmiral] флотоводця що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
+			<Text>+4 [ICON_Housing] житла, +2 [ICON_Amenities] щастя, -8 [ICON_Gold] золота у містах з щонайменше 3 спеціальними районами.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
+			<Text>+4 пункти появи [ICON_GreatScientist] науковця що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
+			<Text>Крадіжка шпигуном розробки, призводить до [ICON_TechBoosted] наукового прориву двох технологій замість однієї, якщо шпигуна не спіймали.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
+			<Text>+50% [ICON_Tourism] зовнішнього туризму до націй з якими запроваджено [ICON_TradeRoute] торгові шляхи.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
+			<Text>+100% [ICON_Production] продукції під час створення помічників сучасної, атомної та інформаційної ер.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>-2 рівні ворожим шпигунам на всій території.[NEWLINE]-1 [ICON_Amenities] щастя у всіх містах.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
+			<Text>+100% [ICON_Production] продукції під час створення моряків починаючи від індустріальної ери.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
+			<Text>-50% вартість переозброєння.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
+			<Text>-25% втоми від війни.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
+			<Text>Отримується 50 [ICON_Gold] золота з кожного рівня привабливості ділянки в разі заміни ферми на околицю.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
+			<Text>+30% [ICON_Production] продукції під час створення мастаків.[NEWLINE]+2 роботи мастакам.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAJ_DESCRIPTION">
+			<Text>+2 [ICON_Science] науки, [ICON_Culture] культури, [ICON_Faith] віри та [ICON_Gold] золота з кожного вільного міста де маємо статус сюзерена.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAID_DESCRIPTION">
+			<Text>Здобуток від пограбувань покращень подвоюється.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>+100% [ICON_Science] науки від споруд студмістечок.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
+			<Text>+5 [ICON_Religion] релігійна міць релігійникам.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
+			<Text>Для створення одиниць достатньо одного джерела відповідного ресурсу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] щастя у містах з гарнізоном.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REVELATION_DESCRIPTION">
+			<Text>+2 пункти появи [ICON_GreatProphet] пророка що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SACK_DESCRIPTION">
+			<Text>Здобуток від пограбування районів подвоюється.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
+			<Text>+200% [ICON_Tourism] туризму від [ICON_GreatWork_Music] музичних творів.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
+			<Text>+100% переваг від святинь.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
+			<Text>Мастаки виконують на 2 роботи більше.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>Виробіток [ICON_Faith] віри спорудами святинь подвоюється.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
+			<Text>+15% [ICON_Production] продукції під час будівництва див.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
+			<Text>+100% переваг від виставок.[NEWLINE]+1 [ICON_Amenities] щастя від стадіонів.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
+			<Text>+50% [ICON_Production] продукції під час створення літаків та авіаносців.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
+			<Text>+2 пункти появи [ICON_GreatGeneral] полководця що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SURVEY_DESCRIPTION">
+			<Text>Подвоюється досвід розвідників.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
+			<Text>+4 пункти появи [ICON_GreatMusician] музиканта що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] золота від дослідних лабораторій, військових академій та електростанцій.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
+			<Text>Кількість здобичі від грабунку подвоюється.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
+			<Text>+100% переваг від торговиць.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
+			<Text>+1 [ICON_Culture] культури та +1 [ICON_Science] науки від міжнаціональних [ICON_TradeRoute] торгових шляхів.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
+			<Text>+2 пункти появи [ICON_GreatMerchant] крамаря що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] золота та +1 [ICON_Faith] віри з кожного [ICON_TradeRoute] торгового шляху.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
+			<Text>+1 [ICON_Production] продукції кожному місту.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_VETERANCY_DESCRIPTION">
+			<Text>+30% [ICON_Production] продукції під час будівництва гарнізонів та споруд цього району.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
+			<Text>+4 [ICON_Strength] бойова міць військовикам та розвідникам у бою з нацією іншої релігії.</Text>
+		</Row>
+
+		<!-- Preview Text -->
+		<Row Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
+			<Text>+4 Oligarchy bonus</Text>
+		</Row>
+
+		<!-- Temporary UI -->
+		<Row Tag="LOC_CIVIC_STARTED">
+			<Text>Progress started toward Civic: {1_CivicName}</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COMPLETE">
+			<Text>Civic complete: {1_CivicName}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

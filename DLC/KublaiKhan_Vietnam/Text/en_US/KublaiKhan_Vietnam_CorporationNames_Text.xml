@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_CORPORATIONNAME_BASE_TEMPLATE">
+			<Text>{1_Prefix} {2_Suffix}</Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_ACME">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_NO_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_BEST_LUCKY">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_UNCLE_DENNIS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_PARAGON_NEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_HUNAHPU_AND_XBALANQUE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_CONSOLIDATED_TRUST">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_UNITY_NEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_MAMAS_FAVORITE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_ATLAS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_GOLDEN_MILL">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_WORLDWIDE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_PRINCE_FELDGES">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_STRENGERS_OWN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_SIDS_CHOICE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_NEW_WORLD">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_CLASSIC">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_GRAYHEAD">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_EDS_DISCOUNT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_MADAME_LUXORS_SELECT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_KING">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_ELEPHANT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_ROYAL_SELECT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_KAPITAL">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_MCM">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_IMPERIAL">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_MONOCORP">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_DYNASIM">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_SYNTHETIC">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_COLLOIDAL">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_CONGRUENT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_RETICULATED">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_CROWN_PRODUCTS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_NEW_LAND">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_DIVINE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_CIVTECH">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_AZIMUTH">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_ICHIBAN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_KAEONA">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_NEW_DAWN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_RED_SUN">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_TOMORROW_TECH">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_MINERVA">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_HERMES">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_SANGUINE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_VOIDTECH">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_RORSARCH">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_KARATANI">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_PURE_LAND">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_ARCADIA">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_SAVANNAPHUMI">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_TRUTRUST">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_INCORPORATED">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_CONGLOMERATED">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_UNITED">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_DIVISION">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_SYNDICATE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_LIMITED">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_UNLIMITED">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_FAMILY">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_HYPERCORPORATION">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_CORPORATION">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_MEGACORP">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_TRADING_COMPANY">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_COMPANY">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_MERCHANTILE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_MERCHANT_CORPORATION">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_ASSIMILATED">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_COMBINE">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_ZAIBATSU">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_TONG">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_CHAEBOL">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_PRODUCTIONS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_QUALITY_GOODS">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_HEAVY_INDUSTRIES">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_LIMITED_LIABILITY_COMPANY">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_CORPORATIONNAME_SUFFIX_KOMBINAT">
+			<Text></Text>
+		</Row>
+	</EnglishText>
+</GameData>

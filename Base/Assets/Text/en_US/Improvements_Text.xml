@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!--Improvements Description-->
+		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Creates additional Barbarians.[ICON_Gold] Gold award if destroyed. -1 Appeal</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати курорти.[NEWLINE][NEWLINE]Продукує [ICON_Tourism] туризм у кількості відповідно привабливості місцини.[NEWLINE]Може будуватися на прибережних пустелі, рівнині чи луках за умови казкової привабливості місцини.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct Farms.[NEWLINE][NEWLINE]+1 [ICON_Food] Food. Can only be built on Grassland or Plains.[NEWLINE][NEWLINE]Constructing farms adjacent to other Farms provides bonuses to Housing.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати шахти.[NEWLINE][NEWLINE]+1 [ICON_Production] продукції.[NEWLINE]-1 привабливість.[NEWLINE]Може будуватися на пагорбах та місцях ресурсів.[NEWLINE][NEWLINE]Будівництво на розкішних чи стратегічних ресурсах - надає даний ресурс місту.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати кар'єри.[NEWLINE][NEWLINE]+1 [ICON_Production] продукції.[NEWLINE]-1 привабливість.[NEWLINE]Може будуватися виключно на місцях ресурсів.[NEWLINE][NEWLINE]Будівництво на розкішному ресурсі - надає даний ресурс місту.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати рибальські промисли.[NEWLINE][NEWLINE]+1 [ICON_Food] їжі.[NEWLINE]Може будуватися виключно на місцях ресурсів.[NEWLINE][NEWLINE]Будівництво на розкішному ресурсі - надає даний ресурс місту.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати загони.[NEWLINE][NEWLINE]+1 [ICON_Production] продукції[NEWLINE]Може будуватися виключно на місцях ресурсів.[NEWLINE][NEWLINE]Будівництво на ресурсі - надає даний ресурс місту.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати плантації.[NEWLINE][NEWLINE]+2 [ICON_Gold] золота.[NEWLINE]Може будуватися виключно на місцях ресурсів.[NEWLINE][NEWLINE]Будівництво на розкішному ресурсі - надає даний ресурс місту.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати табори.[NEWLINE][NEWLINE]+1 [ICON_Gold] золота.[NEWLINE]Може будуватися виключно на місцях ресурсів.[NEWLINE][NEWLINE]Будівництво на розкішному ресурсі - надає даний ресурс місту.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати лісопильні.[NEWLINE][NEWLINE]+1 [ICON_Production] продукції.[NEWLINE]+1 [ICON_Production] продукції, якщо поряд річка..[NEWLINE]Може будуватися виключно у лісі.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати нафтовидобувні установки.[NEWLINE][NEWLINE]-1 привабливість. Будівництво лише на [ICON_RESOURCE_OIL] нафтових родовищах суходолу.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати нафтовидобувні платформи.[NEWLINE][NEWLINE]-1 привабливість. Будівництво лише на [ICON_RESOURCE_OIL] нафтових родовищах озера чи моря.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
+			<Text>+4 [ICON_Strength] захисна міць розміщеної одиниці та автоматична оборона впродовж 2 ходів.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
+			<Text>Дає можливість технікам будувати злітно-посадкові смуги.[NEWLINE]-1 привабливість.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.</Text>
+		</Row>
+
+		<!--Unique Improvements Description-->
+		<Row Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні французькі шато.[NEWLINE][NEWLINE]+2 [ICON_Culture] культури.[NEWLINE]+1 [ICON_Gold] золота.[NEWLINE]+1 привабливість.[NEWLINE]+1 [ICON_Culture] культури за кожне диво поряд.[NEWLINE]+1 [ICON_Culture] культури за кожне диво поряд після дослідження польоту.[NEWLINE]+2 [ICON_Gold] золота в разі знаходження у місцині облямованій річкою.[NEWLINE]Продукує [ICON_TOURISM] туризм від [ICON_CULTURE] культури після дослідження польоту.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Поряд основного або розкішного ресурсу.[NEWLINE][ICON_Bullet]Відсутність шато поряд.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Colossal Head.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +1 [ICON_Faith] Faith for every 2 adjacent Rainforest. +1 [ICON_Faith] Faith for every 2 adjacent Woods. Cannot be built on Snow or Snow Hills.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальну китайську велику стіну, за наявності щонайменше 2 міст у імперії.[NEWLINE][NEWLINE]Збільшує [ICON_Strength] бойову міць у захисті.[NEWLINE]Підвищує виробіток [ICON_Gold] золота, якщо поряд інший сегмент великої стіни.[NEWLINE]З відкриттям технологій зростає виробіток [ICON_Culture] культури та [ICON_Tourism] туризму, якщо поряд інший сегмент великої стіни.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Ділянки власної території вздовж кордону.[NEWLINE][ICON_Bullet]Відсутність ресурсів.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні скіфські кургани.[NEWLINE][NEWLINE]+1 [ICON_Faith] віри.[NEWLINE]+3 [ICON_Gold] золота.[NEWLINE]+1 [ICON_Faith] віри від кожного загону поряд (+2 [ICON_Faith] віри після винайдення збруі).[NEWLINE]Продукує [ICON_TOURISM] туризм еквівалентно [ICON_FAITH] віри після дослідження польоту.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Рівні місцини.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні іспанські місії.[NEWLINE][NEWLINE]+2 [ICON_Faith] віри.[NEWLINE]+2 [ICON_SCIENCE] науки після вивчення охорони спадщини.[NEWLINE]+2 [ICON_Faith] віри, +1 [ICON_PRODUCTION] продукції та +1 [ICON_FOod] їжі, якщо знаходиться поза рідного регіону.[NEWLINE]+1 [ICON_Science] науки за кожне студмістечко та святиню поряд.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
+			<Text>Unlocks the Roman Legion ability to construct a Roman Fort, unique to Rome.[NEWLINE][NEWLINE]Occupying unit receives +4 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні єгипетські сфінкси.[NEWLINE][NEWLINE]+1 [ICON_Faith] віри.[NEWLINE]+1 [ICON_Culture] культури.[NEWLINE]+1 привабливість.[NEWLINE]+2 [ICON_Faith] віри, якщо поряд диво.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Відсутність поряд сфінкса.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні індуські східчасті джерела.[NEWLINE][NEWLINE]+1 [ICON_Food] їжі.[NEWLINE]+1 [ICON_Housing] житло.[NEWLINE]+1 [ICON_Faith] віри поряд святині.[NEWLINE]+1 [ICON_Food] їжі поряд ферми.[NEWLINE]З відкриттям технологій та вчень зростає [ICON_Housing] житло, виробіток [ICON_Faith] віри та [ICON_Food] їжі.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.[NEWLINE][ICON_Bullet]Відсутність східчастого джерела поряд.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні шумерські зіггурати.[NEWLINE][NEWLINE]+2 [ICON_Science] науки.[NEWLINE]+1 [ICON_Culture] культури, якщо поряд є річка.[NEWLINE][NEWLINE]Не може будуватися серед пагорбів.</Text>
+		</Row>
+
+		<!--Goody Huts -->
+		<Row Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
+			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} реліквія[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Отримано розвідника[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Your unit has been upgraded.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Отримано досвід[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Зцілення[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
+			<Text>[COLOR_FLOAT_SCIENCE]One free Technology.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
+			<Text>+{1_Num} житель</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
+			<Text>+{1_Num} {1_Num: plural 1?одиниця; other?одиниці;}</Text>
+		</Row>
+
+		<!--Barbarian Camps -->
+		<Row Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+		</Row>
+
+		<!--Nuclear -->
+		<Row Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
+			<Text>Дає можливість технікам будувати ракетні бункери.[NEWLINE][NEWLINE]Являє собою засіб розміщення та запуску ядерних та термоядерних ракет.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

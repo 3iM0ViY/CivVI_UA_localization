@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!--Instance Names-->
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
+			<Text>Створити - {1_UnitName}</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME">
+			<Text>Збудувати - {1_DistrictName}</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
+			<Text>Науковий прорив технології - {1_TechName}</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
+			<Text>Культурний прорив вчення - {1_CivicName}</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
+			<Text>Отримати видатну людину з кола: {1_GreatPersonClassName}</Text>
+		</Row>
+
+		<!--Descriptions-->
+		<Row Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION">
+			<Text>Поширювати у вільному місті свою [ICON_Religion] релігію, доки вона не стане домінуючою.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
+			<Text>Запровадити [ICON_TradeRoute] торговий шлях з їхнім вільним містом.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Destroy one [ICON_Barbarian] Barbarian Outpost within 5 tiles of the city.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION">
+			<Text>Train a randomly selected military [ICON_Unit] unit type.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION">
+			<Text>Construct a randomly selected specialty [ICON_District] district type.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
+			<Text>Trigger a randomly selected [ICON_TechBoosted] Eureka moment.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
+			<Text>Trigger a randomly selected [ICON_CivicBoosted] Inspiration moment.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
+			<Text>Recruit a randomly selected [ICON_GreatPerson] Great Person class.</Text>
+		</Row>
+
+		<!--Instance Descriptions-->
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Створити військовика - {1_UnitName}, у будь-якому місті.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Збудувати на території будь-якого міста район - {1_DistrictName}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Виконати умови необхідні для [ICON_TechBoosted] наукового прориву у дослідженні технології - {1_TechnologyName}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Виконати умови необхідні для [ICON_CivicBoosted] культурного прориву в опануванні вчення - {1_CivicName}.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
+			<Text>Отримати будь-яким шляхом одну видатну людину з кола: {1_IconString} {2_GreatPersonClassName}.</Text>
+		</Row>
+
+		<!--Rewards-->
+		<Row Tag="LOC_QUEST_REWARD_ENVOYS">
+			<Text>[ICON_Envoy] Envoys</Text>
+		</Row>
+		<!--Instance Rewards-->
+		<Row Tag="LOC_QUEST_REWARD_ENVOYS_NUMBER">
+			<Text>[ICON_Envoy] {1_Amount} {1_Amount : plural 1?посланець; other?посланці;}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

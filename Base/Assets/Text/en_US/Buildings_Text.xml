@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+			<Text>+50% досвіду літакам створеним у цьому місті.[NEWLINE]+2 авіамісткість.[NEWLINE]Дає можливість авіапереброски сухопутників між аеродромами, що мають аеропорти, після вивчення авіарозгортання.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
+			<Text>+25% досвіду сухопутникам створеним у цьому місті.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
+			<Text>+25% досвіду сухопутним штурмовикам та далекобійникам створеним у даному місті.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
+			<Text>Підвищує укріплення.[NEWLINE]+2 [ICON_TOURISM] туризм після вивчення охорони старовини.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
+			<Text>Унікальна японська споруда.[NEWLINE]+4 [ICON_Production] продукції центральних районів у радіусі 6 ділянок.[NEWLINE]+4 [ICON_Culture] культури після дослідження електрифікації. Перевага діє на всі центральні райони міст у радіусі 6 ділянок, і не накладається і разі будівництва інших фабрик електроніки неподалік.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
+			<Text>Перевага діє на всі центральні райони міст у радіусі 6 ділянок, і не накладається і разі будівництва інших фабрик неподалік.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
+			<Text>Унікальна американська споруда.[NEWLINE]+100% [ICON_Tourism] туристичного тиску міста де збудована на інші держави впродовж сучасної ери.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+			<Text>+25% досвіду літаків створених у цьому місті.[NEWLINE]+2 авіамісткість аеродрому.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
+			<Text>+25% досвіду, створених у цьому ж місті, моряків.[NEWLINE]+1 [ICON_FOOD] їжі від прибережних ділянок моря.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
+			<Text>Унікальна арабська споруда.[NEWLINE][NEWLINE]Продукує [ICON_Faith] віру еквівалентно перевазі за сусідство зі студмістечком.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
+			<Text>+25% досвіду сухопутників створених у цьому місті.[NEWLINE]Дає можливість вчити військовиків.[NEWLINE]Вартість навчання зменшується на 25%.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
+			<Text>Missionary and Apostles created here have +1 spread.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
+			<Text>+1 additional [ICON_FAITH] Faith for each era since constructed or last repaired.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
+			<Text>Забезпечує виставкові місця для [ICON_GreatWork_Landscape] творів мистецтв.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">
+			<Text>Забезпечує виставкові місця для [ICON_GreatWork_Artifact] артефактів.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
+			<Text>Перевага діє на всі центральні райони міст у радіусі 6 ділянок, і не накладається і разі будівництва інших електростанцій неподалік.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
+			<Text>+25% досвіду морякам створеним у цьому місті.[NEWLINE]Дає можливість створювати флоти та армади безпосередньо та з 25% знижкою.[NEWLINE]+2 [ICON_GOLD] золота від усіх ділянок узбережжя міста.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+			<Text>Дає можливість за [ICON_Faith] віру створювати місіонерів.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STABLE_DESCRIPTION">
+			<Text>+25% досвіду вершникам та осадникам створеним у даному місті.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
+			<Text>+25% досвіду морякам створеним у даному місті.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
+			<Text>Перевага діє на всі центральні райони міст у радіусі 6 ділянок, і не накладається і разі будівництва інших стадіонів неподалік.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+			<Text>Максимально зміцнює укріплення міста.[NEWLINE]Продукує 3 [ICON_TOURISM] туризму після вивчення охорони старовини.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
+			<Text>Унікальна споруда вікінгів.[NEWLINE]Дає можливість за [ICON_Faith] віру створювати апостолів та інквізиторів.[NEWLINE]Святиня отримує додаткову перевагу від сусідства з лісом.[NEWLINE]+1 [ICON_PRODUCTION] продукції за кожне прибережне джерело ресурсів міста.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+			<Text>Дає можливість за [ICON_Faith] віру створювати апостолів, духівників, інквізиторів та монахів.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WALLS_DESCRIPTION">
+			<Text>Додає стіну навколо центрального району та гарнізону міста.[NEWLINE]Дає можливість [ICON_Ranged] обстрілювати ворогів з центру міста та гарнізону.[NEWLINE]+1 [ICON_TOURISM] туризм.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
+			<Text>+1 [ICON_Food] їжі від ферм основних ресурсів.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ZOO_DESCRIPTION">
+			<Text>Перевага діє на всі центральні райони міст у радіусі 6 ділянок, і не накладається і разі будівництва інших зоопарків неподалік.</Text>
+		</Row>
+
+		<!-- Wonders -->
+		<Row Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
+			<Text>+1 місце військової політики.[NEWLINE][NEWLINE]Забезпечує укріплення рівня форту.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Пагорби.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+			<Text>+1 місце економічної політики.[NEWLINE][NEWLINE]Подвоює скарбницю на момент завершення будівництва.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
+			<Text>Дає 2 вільних вчення по завершенні будівництва.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
+			<Text>+20% [ICON_Culture] культури міста.[NEWLINE]Дає [ICON_CivicBoosted] культурний прорив випадкового вчення атомної ери.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
+			<Text>+2 [ICON_Culture] культури від джунглів міста.[NEWLINE]+1 [ICON_Production] продукції від джунглів міста.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Джунглі.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>Переваги цього дива діють на всі міста у радіусі 6 ділянок.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] торговий шлях.[NEWLINE]Створює караванника.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
+			<Text>[ICON_Tourism] Туризм від [ICON_GreatWork_Relic] святих реліквій та святинь не зменшується іншими державами після появи вчення - просвітництво.[NEWLINE]+100% [ICON_Tourism] туризму від курортів.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Пагорби.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
+			<Text>+2 привабливість кожної ділянки.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_DESCRIPTION">
+			<Text>+2 [ICON_Amenities] щастя кожному місту.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
+			<Text>+1 мішана політика.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Рівна ділянка.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Дає [ICON_TechBoosted] науковий прорив випадкової технології древньої або класичної ер.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Рівна ділянка.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] рухливість моряків.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] торговий шлях.[NEWLINE][NEWLINE]+2 [ICON_Gold] золота за кожен основний ресурс у радіусі 3 ділянок від міста кожному [ICON_TradeRoute] торговому шляху з цього міста.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
+			<Text>Місіонери та Апостоли отримують додаткове проповідування.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+			<Text>+15% зростання міст імперії.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
+			<Text>Створює 2 апостолів.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Ліс.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
+			<Text>Апостоли отримують здібність - мученик.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Заплава або болото.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+			<Text>-25% [ICON_Faith] віри для створення видатних людей.[NEWLINE]+2 відповідних пункти появи [ICON_GreatPerson] видатних людей районам міста.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Пагорби.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
+			<Text>+20% [ICON_Science] науки місту.[NEWLINE]Дає 2 випадкові технології.[NEWLINE][NEWLINE]Вимога місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
+			<Text>+1 дипломатична політика.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Пагорби.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PETRA_DESCRIPTION">
+			<Text>+2 [ICON_Food] їжі з пустелі, окрім заплав.[NEWLINE]+2 [ICON_Gold] золота з пустелі, окрім заплав.[NEWLINE]+1 [ICON_Production] продукції з пустелі, окрім заплав.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.[NEWLINE][ICON_Bullet]Пустеля.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
+			<Text>Створює мастака.[NEWLINE]+1 покращення мастакам.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.[NEWLINE][ICON_Bullet]Пустеля.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RUHR_VALLEY_DESCRIPTION">
+			<Text>+20% [ICON_Production] продукції міста.[NEWLINE]+1 [ICON_Production] продукції від шахт та кар'єрів міста.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
+			<Text>Створює [ICON_GreatProphet] пророка.[NEWLINE]Дає можливість [ICON_GreatProphet] пророку започаткувати релігію без святині.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.[NEWLINE][ICON_Bullet]Поряд ресурсу [ICON_RESOURCE_STONE] граніт.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TERRACOTTA_ARMY_DESCRIPTION">
+			<Text>Всі одиниці отримують вільну навичку.[NEWLINE]Дає археологам право відкритих кордонів.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
+			<Text>Створюючи моряка, отримуєте два замість одного.</Text>
+		</Row>
+
+		<!--Theming Bonuses-->
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_ART">
+			<Text>Вірно підібрана, однотипна але з творів різних митців, тематика подвоює переваги від виставлених творів мистецтва.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_ARCHAEOLOGY">
+			<Text>Вірно підібрана, однієї ери різних націй, тематика подвоює переваги від виставлених [ICON_GreatWork_Artifact] артефактів.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
+			<Text>Theming bonus doubling output when museum is full.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

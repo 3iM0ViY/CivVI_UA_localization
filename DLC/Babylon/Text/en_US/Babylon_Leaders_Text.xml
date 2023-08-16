@@ -1,0 +1,109 @@
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_CIVILIZATION_AYUTTHAYA_NAME">
+			<Text>Аюттхая</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AYUTTHAYA_DESCRIPTION">
+			<Text>вільного міста Аюттхая</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AYUTTHAYA_ADJECTIVE">
+			<Text>Ayutthaya</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AYUTTHAYA_NAME">
+			<Text>Ayutthaya Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AYUTTHAYA_DESCRIPTION">
+			<Text>Дає [ICON_CULTURE] культуру еквівалентно 10% вартості споруди після завершення її будівництва.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINGUETTI_NAME">
+			<Text>Шинґетті</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINGUETTI_DESCRIPTION">
+			<Text>вільного міста Шинґетті</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINGUETTI_ADJECTIVE">
+			<Text>Chinguetti</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CHINGUETTI_NAME">
+			<Text>Chinguetti Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CHINGUETTI_DESCRIPTION">
+			<Text>+1 [ICON_FAITH] віри [ICON_TradeRoute] торговим шляхам за кожного вірянина нами заснованої або домінуючої релігії.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JOHANNESBURG_NAME">
+			<Text>Йоганнесбурґ</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JOHANNESBURG_DESCRIPTION">
+			<Text>Johannesburg city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JOHANNESBURG_ADJECTIVE">
+			<Text>Johannesburg</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JOHANNESBURG_NAME">
+			<Text>Johannesburg Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JOHANNESBURG_DESCRIPTION">
+			<Text>+1 [ICON_Production] продукції від кожного покращеного різновиду ресурсу міста.[NEWLINE]+2 [ICON_Production] продукції від кожного покращеного різновиду ресурсу міста, після дослідження індустріалізації.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NALANDA_NAME">
+			<Text>Наланда</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NALANDA_DESCRIPTION">
+			<Text>вільного міста Наланда</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NALANDA_ADJECTIVE">
+			<Text>Nalanda</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NALANDA_NAME">
+			<Text>Nalanda Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NALANDA_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні махавіхари.[NEWLINE][NEWLINE]+2 [ICON_SCIENCE] науки.[NEWLINE]+1 [Icon_Housing] житло.[NEWLINE]+1 [ICON_Faith] віри за кожну святиню поряд.[NEWLINE]+1 [ICON_Science] науки за кожне студмістечко поряд (+2 після дослідження наукової теорії).[NEWLINE]Після будівництва першої махавіхари отримується випадкова технологія.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Рівна місцина.[NEWLINE][ICON_Bullet]Відсутність поряд подібного покращення.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAMARKAND_NAME">
+			<Text>Самарканд</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAMARKAND_DESCRIPTION">
+			<Text>вільного міста Самарканд</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAMARKAND_ADJECTIVE">
+			<Text>Samarkand</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SAMARKAND_NAME">
+			<Text>Samarkand Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SAMARKAND_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні базари.[NEWLINE][NEWLINE]+2 [ICON_GOLD] золота.[NEWLINE]+1 [ICON_Gold] золота за кожен розкішний ресурс поряд.[NEWLINE]+1 [ICON_GOLD] золота до зовнішніх [ICON_TradeRoute] торгових шляхів з міста за кожен його базар.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Відсутність поряд подібного покращення.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WOLIN_NAME">
+			<Text>Волін</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WOLIN_DESCRIPTION">
+			<Text>вільного міста Волін</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WOLIN_ADJECTIVE">
+			<Text>Wolin</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_WOLIN_NAME">
+			<Text>Wolin Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_WOLIN_DESCRIPTION">
+			<Text>Отримуються пункти появи [ICON_GreatGeneral] полководця або [ICON_GreatAdmiral] флотоводця, коли сухопутник чи моряк знищує ворожу одиницю у бою у кількості 25% її сили відповідно (за умов звичайного темпу гри).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLIN_LAND_UNITS_NAME">
+			<Text>Great General Points</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLIN_LAND_UNITS_DESCRIPTION">
+			<Text>Receive [ICON_GreatGeneral] Great General points when a land unit defeats a major or minor civilization's unit equal to 25% of the opposing unit's strength (Standard Speed). (Wolin City-State)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLIN_NAVAL_UNITS_NAME">
+			<Text>Great Admiral Points</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLIN_NAVAL_UNITS_DESCRIPTION">
+			<Text>Receive [ICON_GreatAdmiral] Great Admiral points when a naval unit defeats a major or minor civilization's unit equal to 25% of the opposing unit's strength (Standard Speed). (Wolin City-State)</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HAMMURABI">
+			<Text>Great Hammurabi, your word is your law.  You live and lead by your code, and will make sure that your empire does too.  You see the world as a complex web of alliances, possibilities, and risks.  Weigh the odds carefully, as you build your empire to unite Mesopotamia.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

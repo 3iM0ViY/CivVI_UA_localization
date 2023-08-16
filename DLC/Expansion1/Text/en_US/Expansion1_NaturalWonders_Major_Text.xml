@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_DELICATE_ARCH_QUOTE">
+			<Text>"If Delicate Arch has any significance it lies, I will venture, in the power of the odd and unexpected to startle the senses and surprise the mind out of their ruts of habit."[NEWLINE]–Edward Abbey</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_QUOTE">
+			<Text>"Oddly, it appears not to be the scar of a meteorite but a deeply eroded dome, with a rainbow-inspired color scheme."[NEWLINE]–Chris Hadfield</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MATTERHORN_QUOTE">
+			<Text>"Let me ask leave, then, to pay a tribute of respect and admiration to the once desired Matterhorn, before his head has lost the last rays of a sun departing to gild loftier and more distant ranges."[NEWLINE]–F. Crauford Grove</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RORAIMA_QUOTE">
+			<Text>"It was a fantastic landscape, for all around were rocks of the weirdest forms standing in apparently impossible positions, some placed on or next to others, in ways that seemed to defy every law of gravity."[NEWLINE]–Goldthwaite’s Geographical Magazine</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_UBSUNUR_HOLLOW_QUOTE">
+			<Text>"The rising world of waters dark and deep, won from the void and formless infinite."[NEWLINE]–John Milton</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ZHANGYE_DANXIA_QUOTE">
+			<Text>"With the sun shining brightly, then dusk’s mists falling, at every turn, the scenery changes like magic."[NEWLINE]–Fan Zhongyan</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LAKE_RETBA_QUOTE">
+			<Text>"Water, water, everywhere, nor any drop to drink."[NEWLINE]–Samuel Taylor Coleridge, The Ancient Mariner</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- AI responses -->
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>*Вони перепрошують та обіцяють не засновувати міст поряд наших.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>*Вони стверджують, що їм потрібне місце для поселень. І вони селитимуться де захочуть.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY">
+			<Text>*Вони переймаються тим, що ми селимося надто близько.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>*Вони вдячні.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>*Вони обурені нашим ставленням.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Apologies, we were just looking for some Barbarians to hassle.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>I like marching my troops around, it shows how powerful I am if you get my drift.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Yes, you're right. I regret that I had to resort to such tactics. It won't happen again.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Hah! What makes you think I would make that kind of promise?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>I hadn't realized that you laid claim to these lands. It was a simple mistake.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>The mysteries of the past are free to everyone. You cannot claim them!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>*Вони розчаровані, але пообіцяли не поширювати свою релігію.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>*Вони відмовилися і вважають, що це піде нашим містам на користь.*</Text>
+		</Row>
+    
+		<!-- AI warns player -->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY">
+			<Text>Your troops tread too close to my borders. I hope it's just to view our picturesque countryside.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MVEMBA_ANY">
+			<Text>Ваша армія на моєму порозі. Гадаєте я сліпий? Заберіть її або я буду змушений діяти.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Гадаєте вам вдасться залякати мене грубою силою? Для вас це може погано скінчитися.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ANY">
+			<Text>Подібно до ока Ра, я бачу все. Гадали я не помічу вашу армію поряд мого кордону? Пропоную ям забратися.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BARBAROSSA_ANY">
+			<Text>If you think we are blind to your army, you are naive. Move them away from Germany, or suffer the consequences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GANDHI_ANY">
+			<Text>Будьте ласкаві, рухайте своїх солдатів подалі від наших кордонів. Через них мирні люди нервують.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GILGAMESH_ANY">
+			<Text>Гільгамеш розірве власними руками кожного солдата вашої армії, якщо вони не підуть подалі від мого кордону!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GORGO_ANY">
+			<Text>Move your army from our borders or we will move them for you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HARDRADA_ANY">
+			<Text>Не пригадую, що хотів бачити ваших солдат. Чи вони давно не отримували прочуханки?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HOJO_ANY">
+			<Text>Do not show your blade unless you mean to strike. Move your soldiers from our lands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PEDRO_ANY">
+			<Text>Ваші солдати рухаються надто близько від мого кордону. Сподіваюся, вони лише заблукали.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PERICLES_ANY">
+			<Text>If you are trying to intimidate us with your army, it’s not working. Move them, or face the consequences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PETER_GREAT_ANY">
+			<Text>Твая салдатня чойта разбєгалась подлє маіх граніц... Думаєш, я толька буду сідєть і чєсать сваю рєпу?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PHILIP_II_ANY">
+			<Text>Ваші солдати не зможуть перебувати на моєму кордоні без наслідків. Відведіть їх доки не пізно.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ANY">
+			<Text>Your army has relinquished any advantage of surprise. Withdraw your forces, and rethink your strategy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SALADIN_ANY">
+			<Text>I would be blind to not see your army in front of me. Please, move them from our borders, unless… you anticipate war?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ANY">
+			<Text>You march your troops so close to our borders that I am beginning to question your integrity.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOMYRIS_ANY">
+			<Text>Your troops tread too close to my borders. I hope it's just to view our picturesque countryside.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TRAJAN_ANY">
+			<Text>Your soldiers are only a few steps from being invaders. Move them from our borders at once!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VICTORIA_ANY">
+			<Text>Your army is not welcome at our borders. Remove them at once.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Добре.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY">
+		  <Text>I should have known you'd stoop so low as to use espionage against me. Remove your spies at once!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>I will remember this insult. You can be sure of that!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY">
+		  <Text>Our cultural history is not yours to plunder. It is time for you to leave our lands!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>Thank you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>If you cannot respect our lands, then I will not respect you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY">
+		  <Text>*Вони не бажають аби наші релігійники перебували на їхній території.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>*Вони вдячні.*</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>*Вони невдоволені нашою відмовою поступитися.*</Text>
+		</Row>
+
+		<!-- Human Choices -->
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>Мої люди селяться там - де вважають за потрібне!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Вибачте, ми врахуємо це у майбутньому.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>(Декларувати війну) Мої війська прийшли по вас, захищайтеся!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Наші солдати просто проходять повз вас.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
+		  <Text>I cannot promise that.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
+		  <Text>I apologize, I will cease these operations at once.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
+		  <Text>You cannot lay claim to history. I will dig where I please.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
+		  <Text>Apologies, I will move my Archaeologists elsewhere.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
+		  <Text>Присутність наших релігійників не стане на заваді вашій вірі, якщо вона сильна. А якщо слабка - то їм саме там і місце.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
+		  <Text>Даруйте, гадалося мої люди не заважатимуть. Певно ми помилилися.</Text>
+		</Row>
+    
+		<!-- Confirmation of War -->
+		<Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
+			<Text>Making this move will start a war with {1_CivName}!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO_MULTIPLE">
+			<Text>Це почне війну з нацією:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
+			<Text>Making this move will strike your own territory.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STRIKE_AFFECTS_ALLY">
+			<Text>Making this attack will have consequences with one of your allies.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BLIND_ATTACK">
+			<Text>Making this blind attack may result in unintended consequences.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
+		  <Text>Are you sure you want to do this?</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_VISIBILITY_NONE_NAME">
+			<Text>Відсутній</Text>
+		</Row>
+		<Row Tag="LOC_VISIBILITY_LIMITED_NAME">
+			<Text>Поверхневий</Text>
+		</Row>
+		<Row Tag="LOC_VISIBILITY_FULL_NAME">
+			<Text>Обмежений</Text>
+		</Row>
+		<Row Tag="LOC_VISIBILITY_SECRET_NAME">
+			<Text>Неповний</Text>
+		</Row>
+		<Row Tag="LOC_VISIBILITY_TOP_SECRET_NAME">
+			<Text>Повний</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_FULL_STRING">
+			<Text>{1_SourceText} {2GossipText}</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_ALLIED">
+			<Text>Альянси</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CHANGE_GOVERNMENT">
+			<Text>Зміни уряду</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CONQUER_CITY">
+			<Text>Розмір території</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CONSTRUCT_DISTRICT">
+			<Text>Завершення будівництва районів</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CULTURVATE_CIVIC">
+			<Text>Завершені вчення</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_CITY_STATE_INFLUENCE">
+			<Text>Вплив на вільні міста</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_DENOUNCED">
+			<Text>Звинувачення</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_FOUND_CITY">
+			<Text>Заснування міст</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_FOUND_RELIGION">
+			<Text>Засновану релігію</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_GREATPERSON_CREATED">
+			<Text>Вербування видатних людей</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_MAKE_DOW">
+			<Text>Оголошені війни</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_POLICY_ENACTED">
+			<Text>Приховану рису лідера</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_RESEARCH_TECH">
+			<Text>Досліджені технології</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_TRADE_DEAL">
+			<Text>Укладені торгові угоди</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_TRADE_RENEGE">
+			<Text>Порушені торгові угоди</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_TRAIN_SETTLER">
+			<Text>Створення поселенців</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_WMD_BUILT">
+			<Text>Weapon of Mass Destruction Built</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_WMD_STRIKE">
+			<Text>Зброю масового ураження</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_WONDER_STARTED">
+			<Text>Початок будівництва див</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_ATTACK_LAUNCHED">
+			<Text>Attacks Launched</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_PROJECT_STARTED">
+			<Text>Projects Started</Text>
+		</Row>
+    <Row Tag="LOC_GOSSIPDESC_SPACE_RACE_PROJECT_COMPLETED">
+      <Text>Завершені космічні проєкти</Text>
+    </Row>
+		<Row Tag="LOC_GOSSIPDESC_VICTORY_STRATEGY_CHANGED">
+			<Text>Victory Strategy Changed</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIPDESC_WAR_PREPARATION">
+			<Text>War Preparations</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_AGENDA_KUDOS">
+			<Text>{1_LeaderName} {1_LeaderName : gender m?висловив; f?висловила;} повагу {2_LeaderName : gender m?іншому лідеру; f?іншій лідерці;} через свою рису - {3_AgendaName}. Напевно, це - {2_LeaderName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_AGENDA_WARNING">
+			<Text>{1_LeaderName} {1_LeaderName : gender m?висловив; f?висловила;} зневагу {2_LeaderName : gender m?іншому лідеру; f?іншій лідерці;} через свою рису - {3_AgendaName}. Напевно, це - {2_LeaderName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ALLIED">
+			<Text>{1_CivName} щойно отримали нового союзника. І це {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ANARCHY_BEGINS">
+			<Text>There has been a coup d'état in {LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} removing the regime of {2_Government}. Anarchy has begun.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ARTIFACT_EXTRACTED">
+			<Text>{1_CivName} провели археологічні розкопки. Знайдено артефакт - {2_GreatWork}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_BARBARIAN_INVASION_STARTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?is; other?are;} facing a barbarian invasion at {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_BARBARIAN_RAID_STARTED">
+			<Text>{1_CivName} помітили варварів неподалік свого міста - {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_BEACH_RESORT_CREATED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} heard that the sunbathing is great at the new seaside resort outside {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CHANGE_GOVERNMENT">
+			<Text>{1_CivName} змінили уряд. Тепер у них - {2_Government}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CITY_BESIEGED">
+			<Text>місто {1_CityName} взято у облогу.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CITY_LIBERATED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}}} {1_CivName : plural 1?has; other?have;} just liberated {2_CityName} giving it back to {LOC_GRAMMAR_CIVNAME &lt;&lt; {3_CivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CITY_RAZED">
+			<Text>{1_CivName} знесли нещодавно захоплене місто. Колишні його господарі - {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CLEAR_CAMP">
+			<Text>{2_UnitName} {2_UnitName : plural 1?{2_UnitName : gender m?зруйнував; f?зруйнувала;}; 2?зруйнували;} {3_ImprovementName}. Це були - {1_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CITY_STATE_INFLUENCE">
+			<Text>{1_CivName} відрядили посланців до вільного міста {2_CityState}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CONQUER_CITY">
+			<Text>{1_CivName} завоювали {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CONQUER_CAPITAL_CITY">
+			<Text>{1_CivName} завоювали {3_CityName}! Це початкова {2_CivAdjective[2]} столиця.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CONSTRUCT_BUILDING">
+			<Text>{1_CivName} завершили будівництво у місті {3_CityName}. Це - {2_BuildingName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CONSTRUCT_DISTRICT">
+			<Text>{1_CivName} збудували район - {2_DistrictName} міста {3_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CREATE_PANTHEON">
+			<Text>{1_CivName} започаткували пантеон - {2_BeliefName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_CULTURVATE_CIVIC">
+			<Text>{1_CivName} опанували вчення - {2_CivicName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_DECLARED_FRIENDSHIP">
+			<Text>{1_CivName} та {2_CivName} оголосили про договір дружби між своїми націями.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_DELEGATION">
+			<Text>{1_CivName} прийняли у себе делегацію іншої нації. Це - {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_DENOUNCED">
+			<Text>{1_CivName} звинуватили інших. І це - {2_CivName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_EMBASSY">
+			<Text>A new building has appeared in the capital of {LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}}: a permanent embassy from {LOC_GRAMMAR_CIVNAME &lt;&lt; {2_CivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ERA_CHANGED">
+			<Text>{1_CivName} полишивши епоху - {2_OldEra} вступили до епохи - {3_NewEra}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_FIND_NATURAL_WONDER">
+			<Text>{1_CivName} відкрили для себе диво природи - {2_NWName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_FOUND_CITY">
+			<Text>{1_CivName} заснували нове місто - {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_FOUND_RELIGION">
+			<Text>{1_CivName} заснували нову релігію - {2_ReligionName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_GREATPERSON_CREATED">
+			<Text>{1_CivName} тепер мають видатну людину: {2_unit}, {3_GreatPerson}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_LAUNCHING_ATTACK">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?is; other?are;} beginning a military assault on {LOC_GRAMMAR_CIVNAME &lt;&lt; {2_CivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_WAR_PREPARATION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?is; other?are;} considering a war on {LOC_GRAMMAR_CIVNAME &lt;&lt; {2_CivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_INQUISITION_LAUNCHED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} launched an inquisition rooting out heretics opposed to {2_ReligionName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_LAND_UNIT_LEVEL">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} a {2_UnitName} that just earned the {3_PromotionName} promotion.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_MAKE_DOW">
+			<Text>{1_CivName} оголосили війну! Тепер {1_CivName} та {2_OtherPlayer} - воюють!</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_NATIONAL_PARK_CREATED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} just created {2_NationalParkName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_NAVAL_UNIT_LEVEL">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} a {2_UnitName} that just earned the {3_PromotionName} promotion.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_NEW_RELIGIOUS_MAJORITY">
+			<Text>{1_CivName} здебільшого сповідують {2_ReligionName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_PILLAGE">
+			<Text>{1_CivName} розграбували вороже покращення - {2_TargetName}. {3_UnitName : plural 1?{3_UnitName : gender m?Помічено їхній; f?Помічено їхню;}; 2?Помічені їхні;} {3_UnitName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_POLICY_ENACTED">
+			<Text>{1_CivName} оновили політики уряду. {2_SlotName} політика була впроваджена. Це - {3_PolicyName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RECEIVE_DOW">
+			<Text>{1_CivName} збираються воювати. Їх ціль - {2_OtherPlayer}!</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RELIC_RECEIVED">
+			<Text>Pilgrims from {LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} are now flocking to see the holy relic: {2_RelicName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RESEARCH_AGREEMENT">
+			<Text>Scientists from {LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} and {2_CivName} have formed a scientific partnership.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RESEARCH_TECH">
+			<Text>{1_CivName} завершили дослідження. Це - {2_TechName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_CAPTURED">
+			<Text>{3_SpyPlayer} had their spy in {2_CityName} captured by {LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_DISRUPT_ROCKETRY_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had their Spaceport in {2_CityName} sabotaged by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_DISRUPT_ROCKETRY_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had their Spaceport in {2_CityName} sabotaged by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_GREAT_WORK_HEIST_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had a Great Work in {2_CityName} stolen by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_GREAT_WORK_HEIST_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had a Great Work in {2_CityName} stolen by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?is; other?are;} trying to put down partisans in {2_CityName} that were recruited by {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_RECRUIT_PARTISANS_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?is; other?are;} trying to put down partisans in {2_CityName} that were recruited by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_SABOTAGE_PRODUCTION_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had their Industrial Zone in {2_CityName} sabotaged by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_SABOTAGE_PRODUCTION_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had their Industrial Zone in {2_CityName} sabotaged by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_SIPHON_FUNDS_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had funds stolen in {2_CityName} by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_SIPHON_FUNDS_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had funds stolen in {2_CityName} by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had technology plans stolen in {2_CityName} by a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_STEAL_TECH_BOOST_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had technology plans stolen in {2_CityName} by an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRADE_DEAL">
+			<Text>{1_CivName} та {2_CivName} почали торгувати між собою.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRADE_RENEGE">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} reneged on a deal with {LOC_GRAMMAR_CIVNAME &lt;&lt; {2_CivName}}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRAIN_SETTLER">
+			<Text>{1_CivName} збираються шукати місце під майбутнє місто. {2_UnitName} вже готові.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRAIN_UNIT">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} just finished training the world's first {2_UnitName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_TRAIN_UNIQUE_UNIT">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} trained a unique unit, the {2_UnitName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_PROJECT_STARTED">
+			<Text>{1_CivName} почали роботу над проєктом - {2_ProjectType}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPACE_RACE_PROJECT_COMPLETED">
+			<Text>{1_CivName} завершили проєкт - {2_ProjectType}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_START_VICTORY_STRATEGY">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?is; other?are;} seeking {LOC_GRAMMAR_A_AN &lt;&lt; {2_VictoryName}}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_STOP_VICTORY_STRATEGY">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?is; other?are;} no longer seeking a {2_VictoryType}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_WMD_BUILT">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} just built {2_WMDCount} WMDs.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_WMD_STRIKE">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} just unleashed a Weapon of Mass Destruction! A {2_UnitName}! Duck and cover!</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_WONDER_STARTED">
+			<Text>{1_CivName} звільнили ділянку землі біля міста {2_CityName} для масштабного будівництва. Напевно, це - {3_BuildingName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_RUMOR">
+			<Text>Подейкують, що</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_TECH">
+			<Text>Нещодавно стало відомо, що</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_TRADER">
+			<Text>Наш торговець {1_Name} дізнався, що</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_DELEGATE">
+			<Text>Наш посол {1_Name} повідомляє, що</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_TRAIT">
+			<Text>Your lady-in-waiting, {1_Name}, heard at the court ball that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_ALLY">
+			<Text>Наші союзники повідомляють, що</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_SPY">
+			<Text>Your Spy, {1_Name}, uncovered news that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SOURCE_GREAT_PERSON_JOURNALISM">
+			<Text>{1_Name : gender m?Наш безстрашний репортер; f?Наша безстрашна репортерка;} {1_Name} {1_Name : gender m?зв'ясував; f?зв'ясувала;}, що</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_LOST_CITY">
+			<Text>та знесли якесь місто</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_TECH">
+			<Text>Printing technology researched</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_TRADER">
+			<Text>Trade Route established</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_DELEGATE">
+			<Text>Делегація чи посольство працює</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_TRAIT">
+			<Text>Catherine's Flying Squadron</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ALLY">
+			<Text>Діє угода альянсу</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_SPY">
+			<Text>Задіяно шпигуна</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_GREAT_PERSON_JOURNALISM">
+			<Text>Mary Katherine Goddard's Great Merchant effect</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_TECH">
+			<Text>Research the Printing technology.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_TRADER">
+			<Text>Establish a Trade Route.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_DELEGATE">
+			<Text>Send a delegation or establish an embassy.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_TRAIT">
+			<Text>Play as Catherine de Medici.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_ALLY">
+			<Text>Become allies (requires Civil Service).</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_SPY">
+			<Text>Send a Spy on a Listening Post mission.</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_GREAT_PERSON_JOURNALISM">
+			<Text>Use Mary Katherine Goddard's Great Merchant ability.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

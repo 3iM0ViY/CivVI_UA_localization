@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
+			<Text>RESEARCH COMPLETE</Text>
+		</Row>
+		<Row Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
+			<Text>Congratulations!  You've researched {1_TechnologyName}!</Text>
+		</Row>
+		<Row Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
+			<Text>CIVIC COMPLETE</Text>
+		</Row>
+		<Row Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE_BLURB">
+			<Text>Озброївшись новим вченням - "{1_CivicName}", ми отримали змогу змінити власний урядовий устрій.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

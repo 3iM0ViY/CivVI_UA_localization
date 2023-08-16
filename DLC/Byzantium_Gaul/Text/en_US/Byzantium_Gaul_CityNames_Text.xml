@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Byzantium Cities-->
+		<Row Tag="LOC_CITY_NAME_CONSTANTINOPLE">
+			<Text>Constantinople</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THESSALONICA">
+			<Text>Thessalonica</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ADRIANOPLE">
+			<Text>Adrianople</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NICAEA">
+			<Text>Nicaea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANTIOCH_BYZANTIUM">
+			<Text>Antioch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NICOMEDIA">
+			<Text>Nicomedia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TREBIZOND">
+			<Text>Trebizond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANCYRA">
+			<Text>Ancyra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EDESSA">
+			<Text>Edessa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SINOPE">
+			<Text>Sinope</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMASEIA">
+			<Text>Amaseia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHERSON">
+			<Text>Cherson</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DYRRACHIUM">
+			<Text>Dyrrachium</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NICOPOLIS">
+			<Text>Nicopolis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SELEUCIA">
+			<Text>Seleucia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ICONIUM">
+			<Text>Iconium</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MELITENE">
+			<Text>Melitene</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARI">
+			<Text>Bari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DORYLAEUM">
+			<Text>Dorylaeum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMORIUM">
+			<Text>Amorium</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOLONEIA">
+			<Text>Koloneia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TYANA">
+			<Text>Tyana</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATTALEA">
+			<Text>Attalea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEBASTEIA">
+			<Text>Sebasteia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THEODOSIOPOLIS">
+			<Text>Theodosiopolis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MESEMBRIA">
+			<Text>Mesembria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARCADIOPOLIS">
+			<Text>Arcadiopolis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOUNT_ATHOS">
+			<Text>Mount Athos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DORYSTOLON">
+			<Text>Dorystolon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZARA">
+			<Text>Zara</Text>
+		</Row>
+		<!-- Gaul Cities-->
+		<Row Tag="LOC_CITY_NAME_ADUATUCA">
+			<Text>Адуатука</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BIBRAX">
+			<Text>Бібракс</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOVIODUNUM">
+			<Text>Новіодунум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAMAROBRIVA">
+			<Text>Самаробріва</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUROCORTERON">
+			<Text>Дурокортерон</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RATUMACOS">
+			<Text>Ратумакос</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TERVANNA">
+			<Text>Терванна</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAGACUM">
+			<Text>Багакум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DIVODURUM">
+			<Text>Діводурум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALESIA">
+			<Text>Алусія</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AVARICUM">
+			<Text>Аварікум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LISIEUX">
+			<Text>Лісіеукс</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LUTETIA">
+			<Text>Лутетія</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LUGUDUNON">
+			<Text>Лугудунон</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CENABUM">
+			<Text>Кенабум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MELEDUNUM">
+			<Text>Меледунум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TURONES">
+			<Text>Туронес</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AUTRICUM">
+			<Text>Аутрікум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BIBRACTE">
+			<Text>Бібракте</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARIORITUM">
+			<Text>Даріорітум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UXELLODUNUM">
+			<Text>Укселлодунум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GERGOVIA">
+			<Text>Герговія</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VESONTIO">
+			<Text>Весонтіо</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRENODURUM">
+			<Text>Бренодурум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CROCIATONUM">
+			<Text>Срокіатонум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AGEDINCUM">
+			<Text>Агедінкум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIMONUM">
+			<Text>Лімонум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANDEMATUNNUM">
+			<Text>Андематуннум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CONDATE">
+			<Text>Кондате</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AREGENUA">
+			<Text>Арегенуа</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANICIUM">
+			<Text>Анікіум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RUSCINO">
+			<Text>Раскіно</Text>
+		</Row>
+	</EnglishText>
+</GameData>

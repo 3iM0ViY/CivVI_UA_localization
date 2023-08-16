@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GAMEMODE_BARBARIAN_CLANS_NAME">
+			<Text>Варварські клани</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_BARBARIAN_CLANS_DESCRIPTION">
+			<Text>Цей ігровий режим урізноманітнює стандартних варварів різноманітними кланами, кожен з яких засновує свої табори серед певних місцин та має певні переваги. Додається можливість гравцю мирної взаємодії з варварськими кланами, котра впливає на темп їхнього розвитку до вільного міста.[NEWLINE][NEWLINE][COLOR_FLOAT_GOLD]Спостереження! Війська вільного міста, створеного з варварського клану, не атакують варварів, а варвари їх.[ENDCOLOR]</Text>
+		</Row>
+
+		<!--Mode Text Updates-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_CLANS_MODE_DESCRIPTION">
+			<Text>When you disperse a Barbarian Outpost, receive a Tribal Village reward in addition to the usual Experience Points. Pay half the usual cost to levy city-state units.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

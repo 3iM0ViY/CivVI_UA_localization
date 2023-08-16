@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_UI_FEATURE_NATURAL_WONDER_DISCOVERY">
+			<Text>Знайдено диво природи!</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_NATURAL_WONDER_DESCRIPTION">
+			<Text>The discovery of a natural wonder gives Scouts bonus experience. Natural wonders also give an adjacency bonus to Holy Site districts. All adjacent tiles receive +2 Appeal.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BARRIER_REEF_DESCRIPTION">
+			<Text>+3 [ICON_Food] їжі.[NEWLINE]+2 [ICON_Science] науки.[NEWLINE]Дає перевагу сусідства зі студмістечком.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CLIFFS_DOVER_DESCRIPTION">
+			<Text>+3 [ICON_Culture] культури.[NEWLINE]+3 [ICON_Gold] золота.[NEWLINE]+2 [ICON_Food] їжі.[NEWLINE]Унеможливлює заснування міста чи будь-які будівництво.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION">
+			<Text>+5 [ICON_Faith] віри місцинам поряд.[NEWLINE]+1 [ICON_Science] науки місцинам поряд.[NEWLINE]Прісна вода місцинам поряд.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEAD_SEA_DESCRIPTION">
+			<Text>+2 [ICON_Faith] віри.[NEWLINE]+2 [ICON_Culture] культури.[NEWLINE]Одиниця поряд цілковито лікуються впродовж ходу.[NEWLINE]Не забезпечує водою.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EVEREST_DESCRIPTION">
+			<Text>+1 [ICON_Faith] віри місцинам поряд.[NEWLINE]Релігійники, котрі відвідають диво, отримують здатність не втрачати [ICON_Movement] рухливості рухаючись пагорбами.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GALAPAGOS_DESCRIPTION">
+			<Text>+2 [ICON_Science] науки місцинам поряд.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KILIMANJARO_DESCRIPTION">
+			<Text>+2 [ICON_Food] їжі місцинам поряд.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PANTANAL_DESCRIPTION">
+			<Text>+2 [ICON_Food] їжі.[NEWLINE]+2 [ICON_Culture] культури.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PIOPIOTAHI_DESCRIPTION">
+			<Text>+1 [ICON_Culture] культури місцинам поряд.[NEWLINE]+1 [ICON_Gold] золота місцинам поряд.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION">
+			<Text>Подвоює виробіток місцинам поряд.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TSINGY_DESCRIPTION">
+			<Text>+1 [ICON_Culture] культури місцинам поряд.[NEWLINE]+1 [ICON_Science] науки місцинам поряд.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_YOSEMITE_DESCRIPTION">
+			<Text>+1 [ICON_Gold] золота місцинам поряд.[NEWLINE]+1 [ICON_Science] науки місцинам поряд.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

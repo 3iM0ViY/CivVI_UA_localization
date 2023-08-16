@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DISTRICT_DIPLOMATIC_QUARTER_NAME">
+			<Text>Дипквартал</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DIPLOMATIC_QUARTER_DESCRIPTION">
+			<Text>+1 [ICON_CULTURE] культури за кожну делегацію або посольство від інших націй через дипломатію.[NEWLINE]+1 [ICON_ENVOY] посланець, якщо збудовано поряд центрального району.[NEWLINE]-2 рівня ворожим шпигунам, що діють у цьому та суміжних районах.[NEWLINE][NEWLINE]Такий район може бути лише один.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DIPLOMATIC_QUARTER_EXPANSION2_DESCRIPTION">
+			<Text>Your civilization receives +1 [ICON_FAVOR] Diplomatic Favor for each Delegation or Embassy from a foreign civilization through diplomacy. +1 [ICON_ENVOY] Envoy if built next to the city center. Enemy Spies operate at 2 levels below normal targeting this district and adjacent districts. Only 1 can exist in your empire at a time.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

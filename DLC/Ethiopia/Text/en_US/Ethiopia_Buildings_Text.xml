@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_CONSULATE_NAME">
+			<Text>Консульство</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHANCERY_NAME">
+			<Text>Канцелярія</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CONSULATE_DESCRIPTION">
+			<Text>+2 пункти впливу що ходу.[NEWLINE]-1 рівень ворожим шпигунам у цьому місті та інших містах з гарнізоном.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHANCERY_DESCRIPTION">
+			<Text>+3 пункти впливу що ходу.[NEWLINE]+50 [ICON_Science] науки з кожного рівня схопленого чи вбитого ворожого шпигуна.</Text>
+		</Row>
+
+		<!--City-States changed by these buildings-->
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Science] науки у [ICON_Capital] столиці.[NEWLINE]+1 [ICON_Science] науки від бібліотек.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] науки від університетів та консульств.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Science] науки від дослідних лабораторій та канцелярій.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Faith] віри у [ICON_Capital] столиці.[NEWLINE]+1 [ICON_Faith] віри від вівтарів.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] віри від храмів.[NEWLINE]+2 [ICON_Faith] віри від консульств.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Faith] віри від особливих релігійних споруд.[NEWLINE]+3 [ICON_Faith] віри від канцелярій.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Gold] золота у [ICON_Capital] столиці.[NEWLINE]+2 [ICON_Gold] золота від ринків та маяків.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] золота від банків, верфі та консульств.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+6 [ICON_Gold] золота від фондових бірж, портів та канцелярій.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Culture] культури у [ICON_Capital] столиці.[NEWLINE]+1 [ICON_Culture] культури від амфітеатрів.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] культури від музеїв мистецтв, археологічних музеїв та консульств.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Culture] культури від центрів мистецтв та канцелярій.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Production] продукції у [ICON_Capital] столиці під час створення одиниць.[NEWLINE]+1 [ICON_Production] продукції від казарм чи стайнь під час створення одиниць.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] продукції від арсеналів або консульств під час створення одиниць.[NEWLINE]+4 [ICON_Production] продукції за наявності обох споруд.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Production] продукції від військових академій або канцелярій під час створення одиниць.[NEWLINE]+6 [ICON_Production] продукції за наявності обох споруд.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+1 [ICON_Production] продукції у [ICON_Capital] столиці під час будівництва див, споруд або районів.[NEWLINE]+1 [ICON_Production] продукції від майстерень під час будівництва див, споруд або районів.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] продукції від фабрик або консульств під час будівництва див, споруд або районів.[NEWLINE]+4 [ICON_Production] продукції за наявності обох споруд.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+3 [ICON_Production] продукції від канцелярій або електростанцій під час будівництва див, споруд або районів.[NEWLINE]+6 [ICON_Production] продукції за наявності обох споруд.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_ETHIOPIA">
+			<Text>+1 виробіток кожного типу кожної споруди урядового та дипломатичного районів та палацу.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

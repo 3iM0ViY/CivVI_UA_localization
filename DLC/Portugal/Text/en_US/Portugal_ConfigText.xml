@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Portugal: Building Info -->
+		<Row Tag="LOC_BUILDING_NAVIGATION_SCHOOL_NAME">
+			<Text>Навігаційна школа</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NAVIGATION_SCHOOL_DESCRIPTION">
+			<Text>Унікальна португальська споруда.[NEWLINE]+25% [ICON_PRODUCTION] продукції під час створення моряків у місті.[NEWLINE]+1 [ICON_SCiENCE] науки за кожні 2 ділянки моря або озера міста.[NEWLINE]+1 пункт появи [ICON_GreatAdmiral] флотоводця що ходу.[NEWLINE]+1 пункт появи [ICON_GreatScientist] науковця що ходу.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_TERRAIN_TOOLTIP">
+			<Text>{Value : number +#.#;-#.#} from Terrain</Text>
+		</Row>
+
+		<!-- Portugal: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_PORTUGAL_NAME">
+			<Text>Португальці</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PORTUGAL_DESCRIPTION">
+			<Text>Португальська імперія</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PORTUGAL_ADJECTIVE">
+			<Text>Portuguese</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PORTUGAL_NAME">
+			<Text>Casa da Índia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PORTUGAL_DESCRIPTION">
+			<Text>[ICON_Bullet]Зовнішні [ICON_TradeRoute] торгові шляхи обмежені прибережними містами або такими що мають гавань.[NEWLINE][ICON_Bullet]+50% вигоди від зовнішніх [ICON_TradeRoute] торгових шляхів.[NEWLINE][ICON_Bullet]+50% віддаль морського шляху караванникам.</Text>
+		</Row>
+
+		<!-- Portugal: Improvement Info -->
+		<Row Tag="LOC_IMPROVEMENT_FEITORIA_NAME">
+			<Text>Факторія</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FEITORIA_DESCRIPTION">
+			<Text>Дає можливість каракам будувати унікальні португальські факторії.[NEWLINE][NEWLINE]+4 [ICON_Gold] золота.[NEWLINE]+1 [ICON_Production] продукції.[NEWLINE][ICON_TradeRoute] Торгові шляхи з Португалії до міста з факторією отримують +4 [ICON_GOLD] золота та +1 [ICON_PRODUCTION] продукції.[NEWLINE]Факторію неможливо переміщати.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Ділянки основних або розкішних ресурсів інших націй чи вільних міст за умови відкритих кордонів.[NEWLINE][ICON_Bullet]Узбережжя моря або озера.[NEWLINE][ICON_Bullet]Відсутність інших факторій поряд.</Text>
+		</Row>
+
+		<!-- Portugal: Leader Info -->
+		<Row Tag="LOC_LEADER_JOAO_III_NAME">
+			<Text>Жуан III</Text>
+			<Gender>m</Gender>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JOAO_III">
+			<Text>João III, you stand firm in your beliefs and guide others to them. As you spread your religion and your trade networks beyond your shores, bring prosperity back to your people, so that they may experience new ways of being unlike any seen before.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JOAO_III_NAME">
+			<Text>Жага мандрів</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JOAO_III_DESCRIPTION">
+			<Text>[ICON_Bullet]+1 до радіусу огляду всіх одиниць.[NEWLINE][ICON_Bullet]+1 [ICON_TradeRoute] торговий шлях після кожної зустрічі іншої нації.[NEWLINE][ICON_Bullet]Відкриті кордони з вільними містами.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PORTA_DO_CERCO_EXTRA_SIGHT_NAME">
+			<Text>Porta do Cerco</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PORTA_DO_CERCO_EXTRA_SIGHT_DESCRIPTION">
+			<Text>+1 до радіусу огляду (Жага мандрів).</Text>
+		</Row>
+
+		<!-- Portugal: Unit Info -->
+		<Row Tag="LOC_UNIT_PORTUGUESE_NAU_NAME">
+			<Text>Караки</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_PORTUGUESE_NAU_DESCRIPTION">
+			<Text>Унікальний португальський моряк-штурмовик. Замінює каравели. Починає з вільною навичкою та має дешевше утримання. Будує факторії.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAU_NAME">
+			<Text>Nau</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAU_DESCRIPTION">
+			<Text>Starts with 1 free promotion.</Text>
+		</Row>
+
+		<!-- Portugal: Game mode info -->
+		<Row Tag="LOC_GAMEMODE_TOWERDEFENSE_NAME">
+			<Text>Зомбоапокаліпсис</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_TOWERDEFENSE_DESCRIPTION">
+			<Text>Цей ігровий режим додає випадкову появу зомбяків! Також, до гри додаються захисні покращення території та можливість маніпулювання зомбяками.[NEWLINE][NEWLINE][COLOR_RED]Увага! Це суттєво ускладнює гру.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_ZOMBIES_KILLED">
+			<Text>Zombies Killed</Text>
+		</Row>
+
+		<!-- Highlands-->
+		<Row Tag="LOC_MAP_WETLANDS_NAME">
+			<Text>Wetlands</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WETLANDS_DESCRIPTION">
+			<Text>A continents map flooded with rivers and marsh. There are extra Woods, Flood Plains, and Rainforests as well.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

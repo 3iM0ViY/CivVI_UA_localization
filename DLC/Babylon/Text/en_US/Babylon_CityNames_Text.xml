@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_CITY_NAME_BABYLON_STK">
+			<Text>Вавилон</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BORSIPPA">
+			<Text>Борсіппа</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MASHKAN_SHAPIR">
+			<Text>Вашуканні</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESHNUNNA">
+			<Text>Ешнунна</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALGIUM">
+			<Text>Пальміра</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUR_KURIGALZU">
+			<Text>Ніневія</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARI">
+			<Text>Марі</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KARKAR">
+			<Text>Хатра</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAPIQUM">
+			<Text>Рапікум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DURMUTI">
+			<Text>Ассур</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUTTUL">
+			<Text>Нузі</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAR_SHAMASH">
+			<Text>Аккад</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OPIS">
+			<Text>Багдад</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHADUPPUM">
+			<Text>Шадуппум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NERIBTUM">
+			<Text>Неребтум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARADUM">
+			<Text>Кербела</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANA">
+			<Text>Наджаф</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUTUB">
+			<Text>Тутуб</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIT">
+			<Text>Басра</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAZALLU">
+			<Text>Казаллу</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DINIKTUM">
+			<Text>Ахваз</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DER">
+			<Text>Дер</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAMSUM">
+			<Text>Мосул</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TERQA">
+			<Text>Уруа</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARBU">
+			<Text>Харбу</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAKKULATUM">
+			<Text>Каккулатум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELIP">
+			<Text>Еліп</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YABLIYA">
+			<Text>Ублія</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIRITUM">
+			<Text>Гірітум</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TELL_WILAYA">
+			<Text>Тель</Text>
+		</Row>
+
+		<!-- City-States-->
+		<Row Tag="LOC_CITY_NAME_AYUTTHAYA">
+			<Text>Аюттхая</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHINGUETTI">
+			<Text>Шинґетті</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JOHANNESBURG">
+			<Text>Йоганнесбурґ</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NALANDA">
+			<Text>Наланда</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAMARKAND">
+			<Text>Самарканд</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WOLIN">
+			<Text>Волін</Text>
+		</Row>
+
+		<!-- AI Agenda Text -->
+		<Row Tag="LOC_AGENDA_HAMMURABI_DISTRICTS_NAME">
+			<Text>Колекціонер</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_HAMMURABI_DISTRICTS_DESCRIPTION">
+			<Text>Прагне збудувати кожний існуючий тип району.[NEWLINE][NEWLINE]Поважає нації, котрі будують всі доступні райони.[NEWLINE]Зневажає нації, котрі не будують райони попри можливість.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_POSITIVE">
+			<Text>Hammurabi likes civilizations who have lots of districts of different types</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_NEGATIVE">
+			<Text>Hammurabi dislikes civilizations who do not have many districts or who specialize in one type</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT">
+			<Text>Hammurabi likes civilizations who have lots of districts of different types</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_KUDO_EXIT_HAMMURABI_ANY">
+			<Text>Your civilization thrives through its diversity of structures</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_WARNING_EXIT_HAMMURABI_ANY">
+			<Text>Overspecialization is a curse to all manking</Text>
+		</Row>
+	</EnglishText>
+</GameData>

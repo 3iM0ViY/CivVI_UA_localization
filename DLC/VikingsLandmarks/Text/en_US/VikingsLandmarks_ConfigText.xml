@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_NAME">
+			<Text>Ейяф'ятлайокютль</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_NAME">
+			<Text>Сходи гігантів</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_NAME">
+			<Text>Люсе-фіорд</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_DESCRIPTION">
+			<Text>+1 [ICON_Culture] культури місцинам поряд.[NEWLINE]+2 [ICON_Food] їжі місцинам поряд.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_DESCRIPTION">
+			<Text>+5 [ICON_Strength] бойова міць сухопутників (здібність "Спис Фіони"), котрі відвідали диво.[NEWLINE]+1 [ICON_Culture] культури місцинам поряд.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_DESCRIPTION">
+			<Text>Надає вільну навичку морякам-штурмовикам, котрі відвідали диво.[NEWLINE]+1 [ICON_Production] продукції місцинам поряд.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

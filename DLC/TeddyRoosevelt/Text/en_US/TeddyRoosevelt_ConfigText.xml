@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME">
+			<Text>Теодор Рузвельт "Ковбой"</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME">
+			<Text>Теодор Рузвельт</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME">
+			<Text>Традиції та парки</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION">
+			<Text>[ICON_Bullet]+2 [ICON_SCIENCE] науки від казкових місцин поряд див природи.[NEWLINE][ICON_Bullet]+2 [ICON_SCIENCE] науки від казкових місцин поряд гір.[NEWLINE][ICON_Bullet]+2 [ICON_CULTURE] культури від казкових місцин поряд див.[NEWLINE][ICON_Bullet]+2 [ICON_CULTURE] культури від казкових місцин поряд лісів.[NEWLINE][ICON_Bullet]+1 привабливість ділянок національного парку.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION">
+			<Text>[ICON_Bullet]+5 [ICON_Strength] бойова міць військовиків на території рідного регіону.[NEWLINE][ICON_Bullet]Відправлений [ICON_Envoy] посланець до вільного міста з котрим існує зовнішній [ICON_TradeRoute] торговий шлях впливає на нього як два.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL">
+			<Text>They admire the many appealing areas within your empire</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL">
+			<Text>They are disappointed that your empire lacks appealing areas</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_NUBIA_NAME">
+			<Text>Нубійці</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME">
+			<Text>Ta-Seti</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION">
+			<Text>[ICON_Bullet]+30% [ICON_Production] продукції під час створення далекобійників.[NEWLINE][ICON_Bullet]+50% досвіду далекобійникам.[NEWLINE][ICON_Bullet]+1 [ICON_Production] продукції від шахт стратегічних ресурсів.[NEWLINE][ICON_Bullet]+2 [ICON_Gold] золота від шахт основних та розкішних ресурсів.</Text>
+		</Row>
+
+		<!-- Improvement Info-->
+		<Row Tag="LOC_IMPROVEMENT_PYRAMID_NAME">
+			<Text>Нубійська піраміда</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION">
+			<Text>Дає можливість мастакам будувати унікальні нубійські піраміди.[NEWLINE]+2 [ICON_Faith] віри.[NEWLINE]+2 [ICON_Food] їжі.[NEWLINE]Отримує переваги від районів поряд.[NEWLINE]+1 [ICON_Food] їжі, якщо поряд центральний район.[NEWLINE]+1 виробітку сусіднім районам.[NEWLINE][NEWLINE]Може будуватися серед пустелі, пустельних пагорбів та заплав.</Text>
+		</Row>
+
+		<!-- Leader Info-->
+		<Row Tag="LOC_LEADER_AMANITORE_NAME">
+			<Text>Аманітора</Text>
+			<Gender>f</Gender>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME">
+			<Text>Kandake of Meroë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION">
+			<Text>[ICON_Bullet]+20% [ICON_Production] продукції під час будівництва районів.[NEWLINE][ICON_Bullet]+20% [ICON_Production] продукції під час будівництва районів, якщо поряд центрального району є нубійська піраміда.</Text>
+		</Row>
+
+		<!-- Unit Info-->
+		<Row Tag="LOC_UNIT_NUBIAN_PITATI_NAME">
+			<Text>Лучники Пітаті</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION">
+			<Text>Унікальний нубійський далекобійник древньої ери. Замінює лучників. Сильніший та [ICON_Movement] швидший.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION">
+			<Text>+50% Earned experience from combat. (Ta-Seti)</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

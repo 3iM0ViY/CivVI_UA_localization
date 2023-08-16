@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Tree Randomizer -->
+		<Row Tag="LOC_GAMEMODE_TREE_RANDOMIZER_NAME">
+			<Text>Дослідницький хаос</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_TREE_RANDOMIZER_DESCRIPTION">
+			<Text>Цей ігровий режим перетасовує взаємне розміщення технологій та вчень відповідних дерев. Також, дерева будуть приховані за виключенням технологій та вчень наступних за вже відомими.[NEWLINE][NEWLINE][COLOR_RED]Увага![NEWLINE][ICON_Bullet]Помічені "стрибки" технологій або вчень між ерами.[NEWLINE][ICON_Bullet]Помічені випадки, коли для здійснення прориву технології чи вчення було необхідне знання ще прихованої технології чи вчення, що унеможливлювало досягнення прориву.[ENDCOLOR]</Text>
+		</Row>
+	</EnglishText>
+</GameData>
