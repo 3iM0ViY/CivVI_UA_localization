@@ -1023,7 +1023,7 @@
 			<Text>Осака</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAGOYA">
-			<Text>Нагоя</Text>
+			<Text>Наґоя</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_FUKUOKA">
 			<Text>Фукуока</Text>
@@ -1032,7 +1032,7 @@
 			<Text>Сендай</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SHIZUOKA">
-			<Text>Шідзуока</Text>
+			<Text>Сідзуока</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OKAYAMA">
 			<Text>Окаяма</Text>
@@ -1044,10 +1044,10 @@
 			<Text>Йокогама</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_GIFU">
-			<Text>Гіфу</Text>
+			<Text>Ґіфу</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAGANO">
-			<Text>Нагано</Text>
+			<Text>Наґано</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TAKASAKI">
 			<Text>Такасакі</Text>
@@ -1071,31 +1071,31 @@
 			<Text>Кобе</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HAMAMATSU">
-			<Text>Хакамацу</Text>
+			<Text>Хамамацу</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OKAZAKI">
-			<Text>Оказакі</Text>
+			<Text>Окадзакі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_FUKUI">
 			<Text>Фукуй</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_YAMAGATA">
-			<Text>Ямагата</Text>
+			<Text>Ямаґата</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KAGOSHIMA">
-			<Text>Кагошіма</Text>
+			<Text>Каґосіма</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HIROSHIMA">
 			<Text>Хіросіма</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HIMEJI">
-			<Text>Гімежі</Text>
+			<Text>Хімедзі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MATSUMOTO">
 			<Text>Мацумото</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OTA">
-			<Text>Ойта</Text>
+			<Text>Оїта</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NUMAZU">
 			<Text>Нумадзу</Text>
@@ -1104,13 +1104,13 @@
 			<Text>Саппоро</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAGASAKI">
-			<Text>Нагасакі</Text>
+			<Text>Наґасакі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TOTTORI">
 			<Text>Тотторі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAGAHAMA">
-			<Text>Нагахама</Text>
+			<Text>Наґахама</Text>
 		</Row>
 		<!--Kongo-->
 		<Row Tag="LOC_CITY_NAME_MBANZA_KONGO">
