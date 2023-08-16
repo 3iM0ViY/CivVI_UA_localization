@@ -923,94 +923,94 @@
 		</Row>
 		<!--India-->
 		<Row Tag="LOC_CITY_NAME_DELHI">
-			<Text>Delhi</Text>
+			<Text>Делі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MUMBAI">
-			<Text>Mumbai</Text>
+			<Text>Мумбай</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CALCUTTA">
-			<Text>Calcutta</Text>
+			<Text>Колката</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AGRA">
-			<Text>Agra</Text>
+			<Text>Агра</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MADURAI">
-			<Text>Madurai</Text>
+			<Text>Мадурай</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CHENNAI">
-			<Text>Chennai</Text>
+			<Text>Ченнай</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PATNA">
-			<Text>Patna</Text>
+			<Text>Патна</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HYDERABAD">
-			<Text>Hyderabad</Text>
+			<Text>Гайдарабад</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_JABALPUR">
-			<Text>Jabalpur</Text>
+			<Text>Джабалпур</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MYSORE">
-			<Text>Mysore</Text>
+			<Text>Майсуру</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SRINAGAR">
-			<Text>Srinagar</Text>
+			<Text>Срінаґар</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AHMADABAD">
-			<Text>Ahmadabad</Text>
+			<Text>Ахмадабад</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BANGALORE">
-			<Text>Bangalore</Text>
+			<Text>Бенгалуру</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TRIVANDRUM">
-			<Text>Trivandrum</Text>
+			<Text>Тіруванантапурам</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KOLAR">
-			<Text>Kolar</Text>
+			<Text>Колар</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KOZHIKODE">
-			<Text>Kozhikode</Text>
+			<Text>Кожикоде</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_RANCHI">
-			<Text>Ranchi</Text>
+			<Text>Ранчі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_WARANGAL">
-			<Text>Warangal</Text>
+			<Text>Варангал</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LUCKNOW">
-			<Text>Lucknow</Text>
+			<Text>Лакхнау</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAGPUR">
-			<Text>Nagpur</Text>
+			<Text>Наґпур</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MATHURA">
-			<Text>Mathura</Text>
+			<Text>Матхура</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_RAJAHMUNDRY">
-			<Text>Rajahmundry</Text>
+			<Text>Раджахмундрі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CUTTACK">
-			<Text>Cuttack</Text>
+			<Text>Каттак</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_THANJAVUR">
-			<Text>Thanjavur</Text>
+			<Text>Тханджавур</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VARANASI">
-			<Text>Varanasi</Text>
+			<Text>Варанасі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ALLAHABAD">
-			<Text>Allahabad</Text>
+			<Text>Праяградж</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AMRITSAR">
-			<Text>Amritsar</Text>
+			<Text>Амритсар</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KOLHAPUR">
-			<Text>Kolhapur</Text>
+			<Text>Колхапур</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUNE">
-			<Text>Pune</Text>
+			<Text>Пуне</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_IMPHAL">
-			<Text>Imphal</Text>
+			<Text>Імпхал</Text>
 		</Row>
 		<!--Japan-->
 		<Row Tag="LOC_CITY_NAME_KYOTO">
