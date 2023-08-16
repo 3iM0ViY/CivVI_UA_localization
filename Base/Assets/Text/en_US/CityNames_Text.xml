@@ -532,10 +532,10 @@
 			<Text>Бірмінгем</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LEEDS">
-			<Text>Leeds</Text>
+			<Text>Лідс</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SHEFFIELD">
-			<Text>Sheffield</Text>
+			<Text>Шеффілд</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BRISTOL">
 			<Text>Бристоль</Text>
@@ -544,82 +544,82 @@
 			<Text>Плімут</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NEWCASTLE_UPON_TYNE">
-			<Text>Newcastle upon Tyne</Text>
+			<Text>Ньюкасл-апон-Тайн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BRADFORD">
-			<Text>Bradford</Text>
+			<Text>Бредфорд</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_STOKE_UPON_TRENT">
-			<Text>Stoke-upon-Trent</Text>
+			<Text>Сток-он-Трент</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HULL">
-			<Text>Hull</Text>
+			<Text>Кінгстон-апон-Галл</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PORTSMOUTH">
-			<Text>Portsmouth</Text>
+			<Text>Портсмут</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PRESTON">
-			<Text>Preston</Text>
+			<Text>Престон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SUNDERLAND">
-			<Text>Sunderland</Text>
+			<Text>Сандерленд</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BRIGHTON">
-			<Text>Brighton</Text>
+			<Text>Брайтон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NORWICH">
-			<Text>Norwich</Text>
+			<Text>Норвіч</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NOTTINGHAM">
-			<Text>Nottingham</Text>
+			<Text>Ноттінгем</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_YORK">
-			<Text>York</Text>
+			<Text>Йорк</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LEICESTER">
-			<Text>Leicester</Text>
+			<Text>Лестер</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BLACKBURN">
-			<Text>Blackburn</Text>
+			<Text>Блекберн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_WOLVERHAMPTON">
-			<Text>Wolverhampton</Text>
+			<Text>Вулвергемптон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BATH">
-			<Text>Bath</Text>
+			<Text>Бат</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_COVENTRY">
-			<Text>Coventry</Text>
+			<Text>Ковентрі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_EXETER">
-			<Text>Exeter</Text>
+			<Text>Ексетер</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LINCOLN">
-			<Text>Lincoln</Text>
+			<Text>Лінкольн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CANTERBURY">
-			<Text>Canterbury</Text>
+			<Text>Кентербері</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_IPSWICH">
-			<Text>Ipswich</Text>
+			<Text>Іпсвіч</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_DOVER">
-			<Text>Dover</Text>
+			<Text>Дувр</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HASTINGS">
-			<Text>Hastings</Text>
+			<Text>Гастінгс</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OXFORD">
-			<Text>Oxford</Text>
+			<Text>Оксфорд</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SHREWSBURY">
-			<Text>Shrewsbury</Text>
+			<Text>Шрусбері</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CAMBRIDGE">
-			<Text>Cambridge</Text>
+			<Text>Кембридж</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NEWCASTLE">
-			<Text>Newcastle</Text>
+			<Text>Честер</Text>
 		</Row>
 
 		<!--France-->
