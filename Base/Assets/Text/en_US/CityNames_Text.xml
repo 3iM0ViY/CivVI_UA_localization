@@ -728,28 +728,28 @@
 			<Text>Аахен</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_COLOGNE">
-			<Text>Cologne</Text>
+			<Text>Кельн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_FRANKFURT">
-			<Text>Франкфурт</Text>
+			<Text>Франкфурт-на-Майні</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MAGDEBURG">
 			<Text>Магдебург</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MAINZ">
-			<Text>Мейнц</Text>
+			<Text>Майнц</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HEIDELBERG">
-			<Text>Heidelberg</Text>
+			<Text>Гайдельберг</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TRIER">
-			<Text>Trier</Text>
+			<Text>Трір</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BERLIN">
 			<Text>Берлін</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ULM">
-			<Text>Ulm</Text>
+			<Text>Ульм</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HAMBURG">
 			<Text>Гамбург</Text>
@@ -758,64 +758,64 @@
 			<Text>Дортмунд</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NUREMBERG">
-			<Text>Nuremberg</Text>
+			<Text>Нюрнберг</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BREMEN">
 			<Text>Бремен</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AUGSBURG">
-			<Text>Augsburg</Text>
+			<Text>Аугсбург</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MUNSTER">
-			<Text>Münster</Text>
+			<Text>Мюнстер</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_REGENSBURG">
-			<Text>Regensburg</Text>
+			<Text>Ратісбона</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ERFURT">
-			<Text>Erfurt</Text>
+			<Text>Ерфурт</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LUBECK">
-			<Text>Lübeck</Text>
+			<Text>Любек</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_FREIBURG">
-			<Text>Freiburg</Text>
+			<Text>Фрайбург</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_WURZBURG">
-			<Text>Würzburg</Text>
+			<Text>Вюрцбург</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HANOVER">
-			<Text>Hanover</Text>
+			<Text>Ганновер</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ROSTOCK">
-			<Text>Rostock</Text>
+			<Text>Росток</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SCHWERIN">
-			<Text>Schwerin</Text>
+			<Text>Шверін</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LEIPZIG">
-			<Text>Leipzig</Text>
+			<Text>Лейпциг</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BONN">
-			<Text>Bonn</Text>
+			<Text>Бонн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ESSEN">
-			<Text>Essen</Text>
+			<Text>Ессен</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_STUTTGART">
-			<Text>Stuttgart</Text>
+			<Text>Штутгарт</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_DRESDEN">
-			<Text>Dresden</Text>
+			<Text>Дрождяни</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_DUSSELDORF">
-			<Text>Düsseldorf</Text>
+			<Text>Дюссельдорф</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_WORMS">
-			<Text>Worms</Text>
+			<Text>Вормс</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_POTSDAM">
-			<Text>Potsdam</Text>
+			<Text>Потсдам</Text>
 		</Row>
 
 		<!--Greece-->
