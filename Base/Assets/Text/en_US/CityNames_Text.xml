@@ -752,7 +752,7 @@
 			<Text>Ульм</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HAMBURG">
-			<Text>Гамбург</Text>
+			<Text>Гамбурґ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_DORTMUND">
 			<Text>Дортмунд</Text>
@@ -820,106 +820,106 @@
 
 		<!--Greece-->
 		<Row Tag="LOC_CITY_NAME_ATHENS">
-			<Text>Athens</Text>
+			<Text>Афіни</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SPARTA">
-			<Text>Sparta</Text>
+			<Text>Спарта</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CORINTH">
-			<Text>Corinth</Text>
+			<Text>Коринф</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_EPHESUS">
-			<Text>Ephesus</Text>
+			<Text>Ефес</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ARGOS">
-			<Text>Argos</Text>
+			<Text>Аргос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KNOSSOS">
-			<Text>Knossos</Text>
+			<Text>Кносс</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MYCENAE">
-			<Text>Mycenae</Text>
+			<Text>Мікени</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PHARSALOS">
-			<Text>Pharsalos</Text>
+			<Text>Фарсал</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_RHODES">
-			<Text>Rhodes</Text>
+			<Text>Родос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OLYMPIA">
-			<Text>Olympia</Text>
+			<Text>Олімпія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ERETRIA">
-			<Text>Eretria</Text>
+			<Text>Еретрія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PERGAMON">
-			<Text>Pergamon</Text>
+			<Text>Пергам</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MILETOS">
-			<Text>Miletos</Text>
+			<Text>Мілет</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MEGARA">
-			<Text>Megara</Text>
+			<Text>Мегара</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PHOCAEA">
-			<Text>Phocaea</Text>
+			<Text>Фокея</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SICYON">
-			<Text>Sicyon</Text>
+			<Text>Сікіон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TIRYNS">
-			<Text>Tiryns</Text>
+			<Text>Тиринф</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SAMOS">
-			<Text>Samos</Text>
+			<Text>Самос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MYTILENE">
-			<Text>Mytilene</Text>
+			<Text>Мітіліні</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CHIOS">
-			<Text>Chios</Text>
+			<Text>Хіос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PAROS">
-			<Text>Paros</Text>
+			<Text>Парос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TEGEA">
-			<Text>Tegea</Text>
+			<Text>Тегея</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SYRACUSE">
-			<Text>Syracuse</Text>
+			<Text>Сиракуза</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_DELPHI">
-			<Text>Delphi</Text>
+			<Text>Дельфи</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_GORTYN">
-			<Text>Gortyn</Text>
+			<Text>Гортин</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CHALKIS">
-			<Text>Chalkis</Text>
+			<Text>Халкіда</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PYLOS">
-			<Text>Pylos</Text>
+			<Text>Пілос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAXOS">
-			<Text>Naxos</Text>
+			<Text>Наксос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LARISSA">
-			<Text>Larissa</Text>
+			<Text>Лариса</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PATRAS">
-			<Text>Patras</Text>
+			<Text>Патри</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LAMIA">
-			<Text>Lamia</Text>
+			<Text>Ламія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MARATHON">
-			<Text>Marathon</Text>
+			<Text>Марафон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAFPLION">
-			<Text>Nafplion</Text>
+			<Text>Нафпліон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_APOLYTON">
-			<Text>Apolyton</Text>
+			<Text>Аполліон</Text>
 		</Row>
 		<!--India-->
 		<Row Tag="LOC_CITY_NAME_DELHI">
