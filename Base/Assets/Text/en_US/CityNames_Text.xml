@@ -1418,19 +1418,19 @@
 			<Text>Масква</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NOVGOROD">
-			<Text>Новгарад</Text>
+			<Text>Новгарадъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KAZAN">
 			<Text>Рязань</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ASTRAKHAN">
-			<Text>Магадан</Text>
+			<Text>Магаданъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_YAROSLAVL">
 			<Text>Яраславль</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SMOLENSK">
-			<Text>Смаленск</Text>
+			<Text>Смалєнськъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VORONEZH">
 			<Text>Варонєж</Text>
@@ -1439,73 +1439,73 @@
 			<Text>Тула</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SOLIKAMSK">
-			<Text>Салікамск</Text>
+			<Text>Салікамськъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TVER">
 			<Text>Твєрь</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NIZHNIY_NOVGOROD">
-			<Text>Владівасток</Text>
+			<Text>Владівастокъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ARKHANGELSK">
-			<Text>Архангельск</Text>
+			<Text>Архангєльскъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VOLOGDA">
 			<Text>Волагда</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OLONETS">
-			<Text>Мурманск</Text>
+			<Text>Мурманскъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SARATOV">
-			<Text>Саратав</Text>
+			<Text>Саратавъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TAMBOV">
-			<Text>Тамбов</Text>
+			<Text>Тамбувъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PSKOV">
-			<Text>Пськов</Text>
+			<Text>Пськовъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KRASNOYARSK">
-			<Text>Краснаярск</Text>
+			<Text>Краснаярскъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_IRKUTSK">
-			<Text>Іркутск</Text>
+			<Text>Іркутскъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_YEKATERINBURG">
-			<Text>Єкатєрінбург</Text>
+			<Text>Єкатєрінбургъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ROSTOV">
 			<Text>Мурам</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BRYANSK">
-			<Text>Аренбург</Text>
+			<Text>Арєнбурґъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_YAKUTSK">
-			<Text>Волгаград</Text>
+			<Text>Волгаградъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_STARAYA_RUSSA">
-			<Text>Курск</Text>
+			<Text>Курськъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PERM">
-			<Text>Пермь</Text>
+			<Text>Пєрмь</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PETROZAVODSK">
-			<Text>Петразаводск</Text>
+			<Text>Петразаводськъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OKHOTSK">
-			<Text>Томск</Text>
+			<Text>Томськъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KOSTROMA">
 			<Text>Кастрама</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NIZHNEKOLYMSK">
-			<Text>Ніжнєкамск</Text>
+			<Text>Ніжнєкамскъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SERGIYEV_POSAD">
-			<Text>Хабаравск</Text>
+			<Text>Хабаравскъ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OMSK">
-			<Text>Омск</Text>
+			<Text>Омскъ</Text>
 		</Row>
 		<!--Scythia-->
 		<Row Tag="LOC_CITY_NAME_POKROVKA">
