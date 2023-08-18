@@ -1223,100 +1223,100 @@
 		</Row>
 		<!--Norway-->
 		<Row Tag="LOC_CITY_NAME_NIDAROS">
-			<Text>Nidaros</Text>
+			<Text>Нідарос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OSLO">
-			<Text>Oslo</Text>
+			<Text>Осло</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BERGEN">
-			<Text>Bergen</Text>
+			<Text>Берген</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_STAVANGER">
-			<Text>Stavanger</Text>
+			<Text>Ставангер</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KRISTIANSAND">
-			<Text>Kristiansand</Text>
+			<Text>Крістіансанн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SKEDSMO">
-			<Text>Skedsmo</Text>
+			<Text>Шедсмо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SARPSBORG">
-			<Text>Sarpsborg</Text>
+			<Text>Сарпсборг</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TROMSO">
-			<Text>Tromsø</Text>
+			<Text>Тромсе</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ALESUND">
-			<Text>Ålesund</Text>
+			<Text>Олесунн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HAMAR">
-			<Text>Hamar</Text>
+			<Text>Гамар</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SKIEN">
-			<Text>Skien</Text>
+			<Text>Шієн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BJARKOY">
-			<Text>Bjarkøy</Text>
+			<Text>Б'ярькой</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_DRAMMEN">
-			<Text>Drammen</Text>
+			<Text>Драммен</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAMSOS">
-			<Text>Namsos</Text>
+			<Text>Намсус</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AVALDSNES">
-			<Text>Avaldsnes</Text>
+			<Text>Авальдснес</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SOGNDAL">
-			<Text>Sogndal</Text>
+			<Text>Согндал</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TONSBERG">
-			<Text>Tønsberg</Text>
+			<Text>Тенсберґ</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KARMOY">
-			<Text>Karmøy</Text>
+			<Text>Кармей</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_FROSTA">
-			<Text>Frosta</Text>
+			<Text>Фроста</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KVITSOY">
-			<Text>Kvitsøy</Text>
+			<Text>Квітсей</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_STIKLESTAD">
-			<Text>Stiklestad</Text>
+			<Text>Стіклестад</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HUNDORP">
-			<Text>Hundorp</Text>
+			<Text>Гундорп</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_STANGE">
-			<Text>Stange</Text>
+			<Text>Станґе</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_REYKJAVIK">
-			<Text>Reykjavík</Text>
+			<Text>Рейк'явік</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TJOTTA">
-			<Text>Tjøtta</Text>
+			<Text>Тьєтта</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VERDAL">
-			<Text>Verdal</Text>
+			<Text>Вердал</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BRATTAHLID">
-			<Text>Brattahlíð</Text>
+			<Text>Браттаглід</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KRISTIANSUND">
-			<Text>Kristiansund</Text>
+			<Text>Крістіансунн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_RINGERIKE">
-			<Text>Ringerike</Text>
+			<Text>Рінґеріке</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SANDNAES">
-			<Text>Sandnæs</Text>
+			<Text>Саннес</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MOSTER">
-			<Text>Moster</Text>
+			<Text>Мостер</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VINLAND">
-			<Text>Vinland</Text>
+			<Text>Вінланд</Text>
 		</Row>
 		<!--Rome-->
 		<Row Tag="LOC_CITY_NAME_ROME">
