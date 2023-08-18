@@ -1114,112 +1114,112 @@
 		</Row>
 		<!--Kongo-->
 		<Row Tag="LOC_CITY_NAME_MBANZA_KONGO">
-			<Text>Mbanza Kongo</Text>
+			<Text>Мбанза-Конго</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBUMBI">
-			<Text>Mbumbi</Text>
+			<Text>Мбумбі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBAMBA">
-			<Text>Mbamba</Text>
+			<Text>Мбамба</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBANZA_NSUNDI">
-			<Text>Mbanza Nsundi</Text>
+			<Text>Нсунді</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBWILA">
-			<Text>Mbwila</Text>
+			<Text>Мбвіла</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MPINDA">
-			<Text>Mpinda</Text>
+			<Text>Мпінда</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KWILA">
-			<Text>Kwila</Text>
+			<Text>Куїлу</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBANZA_MBATA">
-			<Text>Mbanza Mbata</Text>
+			<Text>Мбанза-Мбата</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KINCHASSA">
-			<Text>Kinchassa</Text>
+			<Text>Кіншаса</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KWANGO">
-			<Text>Kwango</Text>
+			<Text>Кванго</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBUJI_MAYI">
-			<Text>Mbuji-Mayi</Text>
+			<Text>Мбужі-Маї</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBANZA_MPANGU">
-			<Text>Mbanza Mpangu</Text>
+			<Text>Мбанза-Нгунгу</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BAKAVU">
-			<Text>Bakavu</Text>
+			<Text>Букаву</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SANGA">
-			<Text>Sanga</Text>
+			<Text>Санга</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KATANGO">
-			<Text>Katango</Text>
+			<Text>Катанга</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBANZA_WEMBO">
-			<Text>Mbanza Wembo</Text>
+			<Text>Мбанза-Вембо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBAMBA_LOVATA">
-			<Text>Mbamba Lovata</Text>
+			<Text>Мбамба-Ловата</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NKUNGA">
-			<Text>Nkunga</Text>
+			<Text>Нкунку</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NKONDO">
-			<Text>Nkondo</Text>
+			<Text>Нкондо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LEMBA_BULA">
-			<Text>Lemba-Bula</Text>
+			<Text>Лемба-Була</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KIBANGU">
-			<Text>Kibangu</Text>
+			<Text>Кібангу</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MANGA">
-			<Text>Manga</Text>
+			<Text>Маланже</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBANZA_MPEMBA">
-			<Text>Mbanza Mpemba</Text>
+			<Text>Мбанза-Мвемба</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MULUMBI">
-			<Text>Mulumbi</Text>
+			<Text>Мулумбі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MAKUTA">
-			<Text>Makuta</Text>
+			<Text>Бандунду</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ZOMBO">
-			<Text>Zombo</Text>
+			<Text>Кіквіт</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BANZA">
-			<Text>Banza</Text>
+			<Text>Банза</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_UMPUKA">
-			<Text>Umpuka</Text>
+			<Text>Умпука</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MATADI">
-			<Text>Matadi</Text>
+			<Text>Матаді</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBANDAKA">
-			<Text>Mbandaka</Text>
+			<Text>Мбандака</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LUBUMBASHI">
-			<Text>Lubumbashi</Text>
+			<Text>Лубумбаші</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MBANZA_SOYO">
-			<Text>Mbanza Soyo</Text>
+			<Text>Сойо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KINDU">
-			<Text>Kindu</Text>
+			<Text>Кінду</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KALEMIE">
-			<Text>Kalemie</Text>
+			<Text>Калеміє</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KIKWIT">
-			<Text>Kikwit</Text>
+			<Text>Кіквіт</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_POPOKABAKA">
-			<Text>Popokabaka</Text>
+			<Text>Попокабака</Text>
 		</Row>
 		<!--Norway-->
 		<Row Tag="LOC_CITY_NAME_NIDAROS">
