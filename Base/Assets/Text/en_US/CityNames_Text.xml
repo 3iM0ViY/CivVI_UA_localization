@@ -1749,7 +1749,7 @@
 			<Text>Джемдет-Наср</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NINA">
-			<Text>Ніна</Text>
+			<Text>Ур-Нанше</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KUARA">
 			<Text>Куара</Text>
@@ -1767,10 +1767,10 @@
 			<Text>Забалам</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KISURRA">
-			<Text>Кісурра</Text>
+			<Text>Кісура</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PAZURISH_DAGAN">
-			<Text>Пазуріш-Даган</Text>
+			<Text>Пузріш-Даган</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HARBIDUM">
 			<Text>Харбідум</Text>
@@ -1779,7 +1779,7 @@
 			<Text>Кеш</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_FAILAKA">
-			<Text>Дальмун</Text>
+			<Text>Дільмун</Text>
 		</Row>
 
 		<!--City-States-->
@@ -1805,10 +1805,10 @@
 			<Text>Буенос-Айрес</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CARTHAGE_1">
-			<Text>Карфаген</Text>
+			<Text>Картаген</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CARTHAGE">
-			<Text>Карфаген</Text>
+			<Text>Картаген</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_GENEVA_1">
 			<Text>Женева</Text>
@@ -1865,10 +1865,10 @@
 			<Text>Ла Вента</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LISBON_1">
-			<Text>Моґадішо</Text>
+			<Text>Могадішо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LISBON">
-			<Text>Моґадішо</Text>
+			<Text>Могадішо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MOHENJO_DARO_1">
 			<Text>Мохенджо-Даро</Text>
@@ -1877,10 +1877,10 @@
 			<Text>Мохенджо-Даро</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PRESLAV_1">
-			<Text>Преслав</Text>
+			<Text>Великий Преслав</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PRESLAV">
-			<Text>Преслав</Text>
+			<Text>Великий Преслав</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NAN_MADOL_1">
 			<Text>Нан-Мадол</Text>
@@ -1889,10 +1889,10 @@
 			<Text>Нан-Мадол</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SEOUL_1">
-			<Text>Сеул</Text>
+			<Text>Соуль</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SEOUL">
-			<Text>Сеул</Text>
+			<Text>Соуль</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_STOCKHOLM_1">
 			<Text>Стокгольм</Text>
@@ -1925,10 +1925,10 @@
 			<Text>Єреван</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ZANZIBAR_1">
-			<Text>Занзібар</Text>
+			<Text>Занзібарський султанат</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ZANZIBAR">
-			<Text>Занзібар</Text>
+			<Text>Занзібарський султанат</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
