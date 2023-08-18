@@ -1600,94 +1600,94 @@
 		</Row>
 		<!--Spain-->
 		<Row Tag="LOC_CITY_NAME_MADRID">
-			<Text>Madrid</Text>
+			<Text>Мадрид</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SEVILLE">
-			<Text>Seville</Text>
+			<Text>Севілья</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BARCELONA">
-			<Text>Barcelona</Text>
+			<Text>Барселона</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TOLEDO">
-			<Text>Toledo</Text>
+			<Text>Толедо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CORDOBA">
-			<Text>Córdoba</Text>
+			<Text>Кордоба</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VALENCIA">
-			<Text>Valencia</Text>
+			<Text>Валенсія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ZARAGOZA">
-			<Text>Zaragoza</Text>
+			<Text>Сарагоса</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VALLADOLID">
-			<Text>Valladolid</Text>
+			<Text>Вальядолід</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BILBAO">
-			<Text>Bilbao</Text>
+			<Text>Більбао</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_A_CORUNA">
-			<Text>A Coruña</Text>
+			<Text>Ла-Корунья</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CARTAGENA">
-			<Text>Cartagena</Text>
+			<Text>Картахена</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CADIZ">
-			<Text>Cádiz</Text>
+			<Text>Кадіс</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SALAMANCA">
-			<Text>Salamanca</Text>
+			<Text>Саламанка</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LAS_PALMAS">
-			<Text>Las Palmas</Text>
+			<Text>Лас-Пальмас</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MURCIA">
-			<Text>Murcia</Text>
+			<Text>Мурсія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PAMPLONA">
-			<Text>Pamplona</Text>
+			<Text>Памплона</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VIGO">
-			<Text>Vigo</Text>
+			<Text>Віґо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ORAN">
-			<Text>Oran</Text>
+			<Text>Оран</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VITORIA_GASTEIZ">
-			<Text>Vitoria-Gasteiz</Text>
+			<Text>Віторія-Гастейс</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OVIEDO">
-			<Text>Oviedo</Text>
+			<Text>Ов'єдо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MALAGA">
-			<Text>Málaga</Text>
+			<Text>Малага</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HAVANA">
-			<Text>Havana</Text>
+			<Text>Гавана</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_JAEN">
-			<Text>Jaen</Text>
+			<Text>Хаен</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MANILA">
-			<Text>Manila</Text>
+			<Text>Маніла</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SANTANDER">
-			<Text>Santander</Text>
+			<Text>Сантандер</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ALMERIA">
-			<Text>Almeria</Text>
+			<Text>Альмерія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ALICANTE">
-			<Text>Alicante</Text>
+			<Text>Аліканте</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BADALONA">
-			<Text>Badalona</Text>
+			<Text>Бадалона</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BURGOS">
-			<Text>Burgos</Text>
+			<Text>Бургос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_GIJON">
-			<Text>Gijón</Text>
+			<Text>Хіхон</Text>
 		</Row>
 
 		<!--Sumeria-->
