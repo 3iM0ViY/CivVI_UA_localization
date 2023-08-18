@@ -1509,94 +1509,94 @@
 		</Row>
 		<!--Scythia-->
 		<Row Tag="LOC_CITY_NAME_POKROVKA">
-			<Text>Pokrovka</Text>
+			<Text>Неаполь Скіфський</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ISSYK">
-			<Text>Issyk</Text>
+			<Text>Нечаєва Могила</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KUL_OBA">
-			<Text>Kul Oba</Text>
+			<Text>Куль-Оба</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_GELONUS">
-			<Text>Gelonus</Text>
+			<Text>Гелон</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PAZYRYK">
-			<Text>Pazyryk</Text>
+			<Text>Пазирик</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CHERTOMLYK">
-			<Text>Chertomlyk</Text>
+			<Text>Чортомлик</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NEAPOLIS">
-			<Text>Neapolis</Text>
+			<Text>Мамай-гора</Text>Мамай-гора
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KOSTROMSKAYA">
-			<Text>Kostromskaya</Text>
+			<Text>Огуз</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MYRIV">
-			<Text>Myriv</Text>
+			<Text>Немирівське городище</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SOLOKHA">
-			<Text>Solokha</Text>
+			<Text>Солоха</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MAIKOP">
-			<Text>Maikop</Text>
+			<Text>Мелітополь</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KAMIANKA_DNIPROVSKA">
-			<Text>Kamianka-Dniprovska</Text>
+			<Text>Кам'янка-Дніпровська</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TOLSTAYA">
-			<Text>Tolstaya</Text>
+			<Text>Товста могила</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SEVEN_BROTHERS">
-			<Text>Seven Brothers</Text>
+			<Text>Семибратнє городище</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OLBIA">
-			<Text>Olbia</Text>
+			<Text>Ольвія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KELERMES">
-			<Text>Kelermes</Text>
+			<Text>Діїв</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SOLOCHA">
-			<Text>Solocha</Text>
+			<Text>Мар'ївка</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ULSKI">
-			<Text>Ulski</Text>
+			<Text>Гайманове поле</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ARZHAN">
-			<Text>Arzhan</Text>
+			<Text>Аржан</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ELIZAVETOVSKAYA">
-			<Text>Elizavetovskaya</Text>
+			<Text>Гладківщина</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MELGUNOV">
-			<Text>Melgunov</Text>
+			<Text>Лита Могила</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PANTICAPAEUM">
-			<Text>Panticapaeum</Text>
+			<Text>Пантікапей</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TSARSKAYA">
-			<Text>Tsarskaya</Text>
+			<Text>Дорт-Оба</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OGUZ">
-			<Text>Ogüz</Text>
+			<Text>Жовтокам'янка</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TANAIS">
-			<Text>Tanais</Text>
+			<Text>Іссик</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ALEXANDROPOL">
-			<Text>Alexandropol</Text>
+			<Text>Олександрополь</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KURDZHIPS">
-			<Text>Kurdzhips</Text>
+			<Text>Переп'ятиха</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TSYMBALKA">
-			<Text>Tsymbalka</Text>
+			<Text>Цимбалка</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_THEODOSIA">
-			<Text>Theodosia</Text>
+			<Text>Феодосія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_KOZEL">
-			<Text>Kozel</Text>
+			<Text>Козел</Text>
 		</Row>
 		<!--Spain-->
 		<Row Tag="LOC_CITY_NAME_MADRID">
