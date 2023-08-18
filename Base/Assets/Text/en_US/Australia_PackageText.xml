@@ -5,19 +5,19 @@
 			<Text>Додаток "Австралія"</Text>
 		</Row>
 		<Row Tag="LOC_AUSTRALIA_MOD_TEASER">
-			<Text>New Civilization and Leader - John Curtin of Australia</Text>
+			<Text>Нова цивілізація та лідер - Джон Кертін, Прем'єр-міністр Австралії</Text>
 		</Row>
 		<Row Tag="LOC_AUSTRALIA_MOD_DESCRIPTION">
-			<Text>Contains a new civilization and leader.</Text>
+			<Text>Містить нову цивілізацію та лідера.</Text>
 		</Row>
 		<Row Tag="LOC_MOD_AUSTRALIA_SCENARIO_TITLE">
-			<Text>Сценарій "Скарби безлюддя"</Text>
+			<Text>Сценарій "Магнат безлюддя"</Text>
 		</Row>
 		<Row Tag="LOC_MOD_AUSTRALIA_SCENARIO_TEASER">
-			<Text>Which colony will make the most of Australia's natural riches?</Text>
+			<Text>Котра з колоній найкраще скористається природніми багатствами Австралії?</Text>
 		</Row>
 		<Row Tag="LOC_MOD_AUSTRALIA_SCENARIO_DESCRIPTION">
-			<Text>In this 60 turn scenario, you race to explore Australia, find its natural resources, and use them to enrich your colony. This competitive economic scenario has no combat. It emphasizes exploration and territorial expansion to increase your Gold Per Turn net income, which is your score.[NEWLINE][NEWLINE]Single-player: Each difficulty has a Gold Per Turn threshold. Exceed that number before the end of the game to win.[NEWLINE][NEWLINE]Multiplayer: The player with the highest Gold Per Turn at end of the game is the winner.</Text>
+			<Text>У цьому сценарії на 60 ходів, Ви вступаєте в перегони з дослідження Австралії, пошуку її природніх ресурсів та збагачення своєї колонії. В цьому змагальному економічному сценарії немає битв: він наголошує на територіальній експансії та розвідці, заради збільшення чистого доходу Золота За Хід. Цей дохід і є Вашим рахунком.[NEWLINE][NEWLINE]Однокористувацька гра: Кожна складність має поріг Золота За Хід. Перевищте це число до кінця гри, щоб перемогти.[NEWLINE][NEWLINE]Багатокористувацька гра: Гравець з найбільшою кількістю Золота За Хід наприкінці гри стає переможцем.</Text>
 		</Row>
    </EnglishText>
 </GameData>
