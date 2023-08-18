@@ -1320,94 +1320,94 @@
 		</Row>
 		<!--Rome-->
 		<Row Tag="LOC_CITY_NAME_ROME">
-			<Text>Rome</Text>
+			<Text>Рим</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_OSTIA">
-			<Text>Ostia</Text>
+			<Text>Остія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ANTIUM">
-			<Text>Antium</Text>
+			<Text>Анціо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CUMAE">
-			<Text>Cumae</Text>
+			<Text>Куми</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_AQUILEIA">
-			<Text>Aquileia</Text>
+			<Text>Аквілея</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_RAVENNA">
-			<Text>Ravenna</Text>
+			<Text>Равенна</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PUTEOLI">
-			<Text>Puteoli</Text>
+			<Text>Поццуолі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ARRETIUM">
-			<Text>Arretium</Text>
+			<Text>Ареццо</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MEDIOLANUM">
-			<Text>Mediolanum</Text>
+			<Text>Мілан</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LUGDUNUM">
-			<Text>Lugdunum</Text>
+			<Text>Луґдунум</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ARPINUM">
-			<Text>Arpinum</Text>
+			<Text>Арпіно</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SETIA">
-			<Text>Setia</Text>
+			<Text>Сецце</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VELITRAE">
-			<Text>Velitrae</Text>
+			<Text>Веллетрі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_DUROCORTORUM">
-			<Text>Durocortorum</Text>
+			<Text>Дурокортор</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_BRUNDISIUM">
-			<Text>Brundisium</Text>
+			<Text>Бриндізі</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CAESARAUGUSTA">
-			<Text>Caesaraugusta</Text>
+			<Text>Цезар-Августа</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PALMYRA">
-			<Text>Palmyra</Text>
+			<Text>Пальміра</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HISPALIS">
-			<Text>Hispalis</Text>
+			<Text>Гіспаліс</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CAESAREA">
-			<Text>Caesarea</Text>
+			<Text>Кесарія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ARTAXATA">
-			<Text>Artaxata</Text>
+			<Text>Арташат</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_PAPHOS">
-			<Text>Paphos</Text>
+			<Text>Пафос</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SALONAE">
-			<Text>Salonae</Text>
+			<Text>Салона</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_EBURACUM">
-			<Text>Eburacum</Text>
+			<Text>Еборакум</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_LAURIACUM">
-			<Text>Lauriacum</Text>
+			<Text>Лауріакум</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_VERONA">
-			<Text>Verona</Text>
+			<Text>Верона</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_COLONIA_AGRIPPINA">
-			<Text>Colonia Agrippina</Text>
+			<Text>Колонія</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_NARBO">
-			<Text>Narbo</Text>
+			<Text>Нарбонн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TINGI">
-			<Text>Tingi</Text>
+			<Text>Тінгіс</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SARMIZEGETUSA">
-			<Text>Sarmizegetusa</Text>
+			<Text>Сармізегетуза</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_SIRMIUM">
-			<Text>Sirmium</Text>
+			<Text>Сірмій</Text>
 		</Row>
 
 		<!--Russia-->
