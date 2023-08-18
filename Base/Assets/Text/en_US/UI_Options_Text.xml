@@ -2,106 +2,106 @@
 <GameData>
 	<FrontEndText>
 		<Row Tag="LOC_OPTIONS_TITLE">
-			<Text>OPTIONS</Text>
+			<Text>НАЛАШТУВАННЯ</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
-			<Text>This will reset ALL options to their default values.[NEWLINE][NEWLINE][COLOR_RED]Some changes may not take effect until you restart the application.[ENDCOLOR][NEWLINE][NEWLINE]Reset options?</Text>
+			<Text>Це скине ВСІ параметри до значень за замовчуванням.[NEWLINE][NEWLINE][COLOR_RED]Деякі зміни можуть не набувати чинності, доки ви не перезапустите застосунок.[ENDCOLOR][NEWLINE][NEWLINE]Скинути налаштування?</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART">
-			<Text>Some changes may not take effect until you restart the application.</Text>
+			<Text>Деякі зміни можуть не набувати чинності, доки ви не перезапустите застосунок.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_CHANGES_REQUIRE_GAME_RESTART">
-			<Text>Some changes may not take effect until you restart the current game.</Text>
+			<Text>Деякі зміни можуть не набувати чинності, доки ви не перезапустите гру.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESOLUTION_OK">
-			<Text>Do you want to keep the current resolution settings?</Text>
+			<Text>Бажаєте зберегти поточні налаштування роздільної здатності?</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_OK">
-			<Text>OK</Text>
+			<Text>ОК</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_YES">
-			<Text>Yes</Text>
+			<Text>Так</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_NO">
-			<Text>No</Text>
+			<Text>Ні</Text>
 		</Row>
 
 		<!-- Option Enums -->
 
 		<Row Tag="LOC_OPTIONS_ENABLED">
-			<Text>Enabled</Text>
+			<Text>Увімк</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_DISABLED">
-			<Text>Disabled</Text>
+			<Text>Вимк</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_MINIMUM">
-			<Text>Minimum</Text>
+			<Text>Мінмум</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LOW">
-			<Text>Low</Text>
+			<Text>Низькі</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_MEDIUM">
-			<Text>Medium</Text>
+			<Text>Середні</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HIGH">
-			<Text>High</Text>
+			<Text>Високі</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_ULTRA">
-			<Text>Ultra</Text>
+			<Text>Ультра</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_CUSTOM">
-			<Text>Custom</Text>
+			<Text>Власні</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_NONE">
-			<Text>None</Text>
+			<Text>Аж ніяк</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_REAL_LIFE">
-			<Text>Match local time</Text>
+			<Text>Відповідність місцевого часу</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_X_TURNS">
-			<Text>Every {1_num} turns</Text>
+			<Text>Кожні {1_num} ходів</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_10_TURNS">
-			<Text>Every 10 turns</Text>
+			<Text>Кожні 10 ходів</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
-			<Text>As eras progress</Text>
+			<Text>З плином епох</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_NEVER">
-			<Text>Never</Text>
+			<Text>Ніколи</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_ALWAYS">
-			<Text>Always</Text>
+			<Text>Завжди</Text>
 		</Row>
 
 		<!-- Gameplay Panel -->
 		<Row Tag="LOC_OPTIONS_TUTORIAL_EXPERIENCED_PLAYER">
-			<Text>Experienced Player</Text>
+			<Text>Досвідчений гравець</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUTORIAL_NEW_TO_XP2">
-			<Text>New to Civilization VI - Gathering Storm</Text>
+			<Text>Новачок в Civilization VI - Gathering Storm</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUTORIAL_NEW_TO_XP1">
-			<Text>New to Civilization VI - Rise and Fall</Text>
+			<Text>Новачок в Civilization VI - Rise and Fall</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
-			<Text>New to Civilization VI</Text>
+			<Text>Новачок в Civilization VI</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY">
-			<Text>New to Civilization</Text>
+			<Text>Взагалі в Civilization</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
-			<Text>New to turn-based strategy</Text>
+			<Text>Взагалі новачок у покрокових стратегіях</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
-			<Text>Animated Time of Day:</Text>
+			<Text>Анімований час доби:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HISTORIC_MOMENT_ANIMATION">
-			<Text>Historic Moment Reveal Animation:</Text>
+			<Text>Анімація розкриття історичного моменту:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TOUCH_ENABLED">
-			<Text>Touch Input Enabled</Text>
+			<Text>Увімкнення сенсорного введення</Text>
 		</Row>
 		<!-- Graphics Panel - Option Enums -->
 
@@ -116,13 +116,13 @@
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
-			<Text>Windowed</Text>
+			<Text>У вікні</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WINDOW_MODE_FULLSCREEN">
-			<Text>Full Screen</Text>
+			<Text>На повний екран</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_WINDOW_MODE_BORDERLESS">
-			<Text>Borderless Window</Text>
+			<Text>Вікно без рамки</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_MSAA_2X">
@@ -183,33 +183,33 @@
 		</Row>
 			
 		<Row Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
-			<Text>Low (Memory-Optimized)</Text>
+			<Text>Низький (оптимізовано для пам'яті)</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LOW_PERFORMANCE_OPTIMIZED">
-			<Text>Low (Performance-Optimized)</Text>
+			<Text>Низький (оптимізований для продуктивності)</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_MEDIUM_MEMORY_OPTIMIZED">
-			<Text>Medium (Memory-Optimized)</Text>
+			<Text>Середній (оптимізовано для пам'яті)</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED">
-			<Text>Medium (Performance-Optimized)</Text>
+			<Text>Середній (оптимізований для продуктивності)</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_REFLECTION_1PASS">
-			<Text>1 Pass</Text>
+			<Text>1 Прохід</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_REFLECTION_2PASSES">
-			<Text>2 Passes</Text>
+			<Text>2 Проходи</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_REFLECTION_3PASSES">
-			<Text>3 Passes</Text>
+			<Text>3 Проходи</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_REFLECTION_4PASSES">
-			<Text>4 Passes</Text>
+			<Text>4 Проходи</Text>
 		</Row>
 
 		<Row Tag="LOC_OPTIONS_LEADERS_STATIC">
-			<Text>Static (No Audio)</Text>
+			<Text>Статичні (без звуку)</Text>
 		</Row>
     
 		<Row Tag="LOC_OPTIONS_100_PERCENT">
@@ -225,13 +225,13 @@
 		<!-- Graphics Panel - Main -->
 
 		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
-			<Text>GPU Selection:</Text>
+			<Text>Вибір GPU:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP">
-			<Text>Tells the game which graphics card to use.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
+			<Text>Вказує грі, яку відеокарту використовувати.[NEWLINE][NEWLINE][COLOR_RED]Потрібний перезапуск програми![ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TEXT">
-			<Text>Split-screen Multi-GPU</Text>
+			<Text>Мульти-GPU із розділеним екраном</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TOOLTIP">
 			<Text>Only available on DX12 multi-GPU setups.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
