@@ -5,34 +5,34 @@
 			<Text>Несподівана війна</Text>
 		</Row>
 		<Row Tag="LOC_FORMAL_WAR_NAME">
-			<Text>Formal War</Text>
+			<Text>Декларація війни</Text>
 		</Row>
 		<Row Tag="LOC_HOLY_WAR_NAME">
-			<Text>Holy War</Text>
+			<Text>Священна війна</Text>
 		</Row>
 		<Row Tag="LOC_RECONQUEST_WAR_NAME">
-			<Text>Reconquest War</Text>
+			<Text>Реконкіста</Text>
 		</Row>
 		<Row Tag="LOC_LIBERATION_WAR_NAME">
-			<Text>Liberation War</Text>
+			<Text>Визвольна війна</Text>
 		</Row>
 		<Row Tag="LOC_DEFENSIVE_PACT_NAME">
-			<Text>Defensive Pact</Text>
+			<Text>Договір про оборону</Text>
 		</Row>
 		<Row Tag="LOC_JOINT_WAR_NAME">
-			<Text>Joint War</Text>
+			<Text>Спільна війна</Text>
 		</Row>
 		<Row Tag="LOC_SUZERAIN_WAR_NAME">
-			<Text>Suzerain War</Text>
+			<Text>Війна за сюзеренітет</Text>
 		</Row>
 		<Row Tag="LOC_PROTECTORATE_WAR_NAME">
-			<Text>Protectorate War</Text>
+			<Text>Протектораторська війна</Text>
 		</Row>
 		<Row Tag="LOC_COLONIAL_WAR_NAME">
-			<Text>Colonial War</Text>
+			<Text>Колоніальна війна</Text>
 		</Row>
 		<Row Tag="LOC_TERRITORIAL_WAR_NAME">
-			<Text>Territorial War</Text>
+			<Text>Експансійна війна</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

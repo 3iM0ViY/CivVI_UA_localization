@@ -2,16 +2,16 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION">
-			<Text>Can be constructed through [ICON_TradeRoute] Trade Routes or by Military Engineers. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
+			<Text>Може бути побудований [ICON_TradeRoute] Торговими Шляхами або Військовими Інженерами. Покращує швидкість [ICON_Movement] Руху будь-якої одиниці, що переміщується з однієї плитки дороги на іншу.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION">
-			<Text>Can be constructed through [ICON_TradeRoute] Trade Routes or by Military Engineers. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
+			<Text>Може бути побудований [ICON_TradeRoute] Торговими Шляхами або Військовими Інженерами. Покращує швидкість [ICON_Movement] Руху будь-якої одиниці, що переміщується з однієї плитки дороги на іншу.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION">
-			<Text>Can be constructed through [ICON_TradeRoute] Trade Routes or by Military Engineers. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
+			<Text>Може бути побудований [ICON_TradeRoute] Торговими Шляхами або Військовими Інженерами. Покращує швидкість [ICON_Movement] Руху будь-якої одиниці, що переміщується з однієї плитки дороги на іншу.</Text>
 		</Row>
 		<Row Tag="LOC_ROUTE_MODERN_ROAD_DESCRIPTION">
-			<Text>Can be constructed through [ICON_TradeRoute] Trade Routes or by Military Engineers. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
+			<Text>Може бути побудований [ICON_TradeRoute] Торговими Шляхами або Військовими Інженерами. Покращує швидкість [ICON_Movement] Руху будь-якої одиниці, що переміщується з однієї плитки дороги на іншу.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

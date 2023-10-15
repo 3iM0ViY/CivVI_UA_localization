@@ -20,7 +20,7 @@
 			<Text>Дає можливість мастакам збирати [ICON_RESOURCE_STONE] граніт.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
-			<Text>Дає можливість мастакам вирубати джунглі.[NEWLINE]Відкриває ресурс - [ICON_RESOURCE_IRON] залізо.</Text>
+			<Text>Дає можливість мастакам вирубувати джунглі.[NEWLINE]Відкриває ресурс - [ICON_RESOURCE_IRON] залізо.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
 			<Text>Дає можливість будь-яким сухопутникам вантажитись на кораблі.</Text>
@@ -53,7 +53,7 @@
 			<Text>Дає додатковий рівень дипломатичного доступу до всіх націй.[NEWLINE]Виробіток [ICON_Tourism] туризму від [ICON_GreatWork_Writing] літературних надбань подвоюється.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_RADIO_DESCRIPTION">
-			<Text>Reveals [ICON_RESOURCE_ALUMINUM] Aluminum.</Text>
+			<Text>Виявляє [ICON_RESOURCE_ALUMINUM] Алюміній.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
 			<Text>+1 [ICON_Production] продукції від шахт.</Text>
@@ -206,7 +206,7 @@
 			<Text>Знищити ворога лицарями.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
-			<Text>Збудувати 2 верфі.</Text>
+			<Text>Збудувати 2 корабельні.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_SANITATION">
 			<Text>Збудувати 2 околиці.</Text>
@@ -221,7 +221,7 @@
 			<Text>Збудувати диво індустріальної ери або більш пізнє.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
-			<Text>Створити 3 гвардійця.</Text>
+			<Text>Створити 3 гвардійці.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_STEEL">
 			<Text>Збудувати вугільну шахту та броненосець.</Text>
@@ -299,7 +299,7 @@
 			<Text>Будівництво ресурсної шахти дало розуміння необхідності винайдення досконаліших способів транспортування.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
-			<Text>Your fishermen are learning how to guide their travels based on studying the night sky.</Text>
+			<Text>Ваші рибалки вчаться керувати у своїх подорожах на основі вивчення нічного неба.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
 			<Text>Запровадження [ICON_TradeRoute] торгового шляху дало розуміння необхідності спрощення торгових відносин.</Text>
@@ -323,7 +323,7 @@
 			<Text>Будівництво стіни дало розуміння необхідності створення нових методів водовідведення та засобів її подолання.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
-			<Text>Your spearmen are proving effective, but now your opponents are stronger and faster. Perhaps a longer weapon is needed?</Text>
+			<Text>Ваші списоносці виявилися ефективними, але тепер ваші супротивники швидші та сильніші. Можливо, потрібна довша зброя?</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
 			<Text>Будівництво кількох шахт дало розуміння необхідності організації підготовки робітників.</Text>
@@ -344,7 +344,7 @@
 			<Text>Поява настільки різностороннього уряду дала розуміння необхідності будівництва надійного захисту нашого способу життя.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
-			<Text>With so many ships leaving the harbors of your empire you long to document your explorations.</Text>
+			<Text>В ті часи як так багато кораблів покидають гавані вашої імперії, ви прагнете задокументовувати свої дослідження.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
 			<Text>Будівництво лісопильні дало розуміння необхідності покращення методів керування великою кількістю працівників.</Text>
@@ -356,10 +356,10 @@
 			<Text>Будівництво арсеналу та його подальше використання дало розуміння необхідності створення досконалішої запалювальної суміші.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
-			<Text>Out of necessity your scholars are devising methods for quickly copying books.</Text>
+			<Text>У вчених є потреба створити методи швидкого копіювання книжок.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
-			<Text>The success of your Musketmen on land has spurred a new idea: what if we upgrade to gunpowder weaponry at sea?</Text>
+			<Text>Успіх ваших Мушкетників на землі зґенерував нову ідею: що як ми почнемо використовувати порох і на морі?</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
 			<Text>Будівництво університету у гірській місцевості суттєво прискорило астрономічні дослідження.</Text>
@@ -368,10 +368,10 @@
 			<Text>Застосування арбалетного обстрілу укріплень дало розуміння необхідності винайдення кращої зброї дистанційного ураження.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
-			<Text>After creating bombards you realize that castles are not impregnable – you need a stauncher defense!.</Text>
+			<Text>Створивши бомбарди, ви розумієте що замки не такі вже й непохитні – потрібна стійкіша оборона!</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
-			<Text>The busy workshops of your empire hint at greatness to come. Is an Industrial Revolution about to commence?</Text>
+			<Text>Зайняті майстерні натякають на наближення величі. Чи не за горами Індустріальна Революція?</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
 			<Text>Просвітницький погляд наших людей дав поштовх розвитку наукової теорії.</Text>
@@ -383,10 +383,10 @@
 			<Text>Знищення ворога лицарями дало розуміння необхідності створення закладу військового навчання.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
-			<Text>Let us apply our industrial acumen to your newly-constructed shipyards. Steam-powered naval vessels could rule the seas.</Text>
+			<Text>Спрямуймо на виробничу кмітливість до новозбудованих корабелень. Парові судна могли б панувати на морях.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
-			<Text>With the introduction of neighborhoods, our cities are growing larger than ever before.  Developing a sanitation plan is crucial.</Text>
+			<Text>Із запровадженням житлових кварталів, наші міста стають більшими, ніж будь-коли раніше. Створити план санітарного очищення надважливо.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
 			<Text>Будівництво банків дало поштовх до розвитку економічних відносин.</Text>
@@ -404,13 +404,13 @@
 			<Text>Будівництво вугільної шахти та броненосця дало можливість та необхідність у винайденні досконаліших сплавів заліза.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
-			<Text>Your crafty privateers are intrigued by the discovery of electric current. Could they use this to create stealthy propulsion?</Text>
+			<Text>Ваші вправні капери заінтриговані відкриттям електричного струму. Чи могли б вони його використати для створення менш помітних рушіїв?</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
 			<Text>Створення національного парку дало розуміння необхідності шукати нових способів розповсюдження інформації.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
-			<Text>Joining forces with other nations has started a chain reaction of scientific advances.  Will the next push be in chemistry?</Text>
+			<Text>Об'єднання сил із іншими народами розпочало ланцюгову реакцію наукового прогресу. Чи не буде наступний поштовх у хімії?</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
 			<Text>Знахідка артефакта наштовхнула на ідею принципу нового двигуна.</Text>
@@ -422,7 +422,7 @@
 			<Text>Будівництво електростанцій дало поштовх покращенню та виробництву озброєння і боєприпасів до нього.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
-			<Text>Now that your military has expanded could it be further enhanced with a new resource?</Text>
+			<Text>Тепер, коли ваша військова справа розширилися, чи можна було б її ще покращити новим ресурсом?</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
 			<Text>Будівництво нафтовидобувної установки дало поштовх у дослідженнях корисних властивостей нафти.</Text>
@@ -431,25 +431,25 @@
 			<Text>Становлення уряду з великою кількістю політик дало розуміння необхідності у потужних обчислювальних приладах.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
-			<Text>With facilities for aircrafts in multiple cities, your aeronautic industry is taking off.</Text>
+			<Text>Із наявністю об'єктів авіаіндустрії в декількох містах, ваша аерокосмічна індустрія взлітає вгору.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
-			<Text>With your pioneers in radio and television leading the way, you’ve grown adept at transmitting data quickly.</Text>
+			<Text>Ваші першовідкривачі радіо та телебачення прокладають шлях, і ви набуваєте майстерності в швидкісній передачі даних.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
-			<Text>Your military has defeated an enemy plane. Now it is time to have the best defense against enemy aircraft.</Text>
+			<Text>Ваші війська знищили літак суперника. Настав час розвинути найкращу систему протиповітряної оборони.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
-			<Text>Tanks have been the backbone of your army so your scientists are striving for a more advanced model.</Text>
+			<Text>Танки складали кістяк вашої армії, тому ваші вчені прагнуть створити більш досконалу модель.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
-			<Text>Having a diverse set of metals to experiment on will help your scientists push into new fields.</Text>
+			<Text>Маючи різноманітний вибір металів для експериментів, ваші вчені розвиватимуть науку в нових напрямках.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
 			<Text>Будівництво алюмінієвої шахти дало можливість створення різноманітного обладнання.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
-			<Text>A team member has shared their research notes for a recently acquired technology. Their innovation will improve our own progress dramatically.</Text>
+			<Text>Один з членів команди поділився виписками на тему нещодавно здобутої технології. Ці інновації суттєво покращать наш прогрес.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
