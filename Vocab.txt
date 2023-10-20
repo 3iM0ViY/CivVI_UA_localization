@@ -1,0 +1,22 @@
+tile = плитка
+Appeal = Привабливість
+Adjacency = суміжність
+bonus = бонус (плюсик)
+Faith, Gold, Science, Culture, Diplomacy = віра, золото (гривні), наука, культура, дипломатія
+
+Production = Продукція (виробництво)
+
+City centre = центр міста
+Commercial Hub = комерційний центр
+Harbor = гавань
+Shipyard – Корабельня
+Royal Navy Dockyard = корабельня королівського військово-морського флоту
+Mine = Шахта (-копальня)
+Quarry = Кар'єр
+farm = ферма (хутір, господарство)
+plantation = плантація
+
+Hills - пагорби
+rainforest = тропічний ліс
+Tundra = тундра
+desert = пустеля
