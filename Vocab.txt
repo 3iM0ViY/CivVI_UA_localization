@@ -5,6 +5,8 @@ bonus = бонус (плюсик)
 Faith, Gold, Science, Culture, Diplomacy = віра, золото (гривні), наука, культура, дипломатія
 
 Production = Продукція (виробництво)
+Great Works = видатні праці
+Minor civ = Мала цивілізація
 
 City centre = центр міста
 Commercial Hub = комерційний центр
