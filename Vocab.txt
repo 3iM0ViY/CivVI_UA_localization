@@ -1,3 +1,4 @@
+world builder = світобудівництво
 tile = плитка
 Appeal = Привабливість
 Adjacency = суміжність

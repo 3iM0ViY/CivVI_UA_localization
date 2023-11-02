@@ -18,13 +18,13 @@
 			<Text>Гаразд</Text>
 		</Row>
 		<Row Tag="LOC_DEFAULT_BUTTON">
-			<Text>Default</Text>
+			<Text>За змовчуванням</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_CONFIRM_BUTTON">
-			<Text>Confirm</Text>
+			<Text>Підтвердити</Text>
 		</Row>
 		<Row Tag="LOC_SELECTION_NOTHING">
-			<Text>Nothing</Text>
+			<Text>Нічого</Text>
 		</Row>
 		<Row Tag="LOC_SELECTION_EVERYTHING">
 			<Text>Всі</Text>
@@ -36,83 +36,83 @@
 			<Text>Обрати всі</Text>
 		</Row>
 		<Row Tag="LOC_SELECT_NONE">
-			<Text>Обрати жоден</Text>
+			<Text>Не обирати жодного</Text>
 		</Row>
 		
 		<!-- Front End Popups -->
 		<Row Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
-			<Text>Failed to determine graphics device capabilities.[NEWLINE][NEWLINE]Please set your graphics options manually.</Text>
+			<Text>Не вдалося виначити графічні можливості пристрою.[NEWLINE][NEWLINE]Будь ласка, вкажіть ваші графічні налаштування власноруч.</Text>
 		</Row>
 		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
-			<Text>Your graphics driver is older than the minimum recommended version.[NEWLINE][NEWLINE]Please update your driver to the latest version.</Text>
+			<Text>Ваш графічний драйвер старіший за мінімальну рекомендовану версію.[NEWLINE][NEWLINE]Будь ласка, оновіть ваш драйвер до найновішої версії.</Text>
 		</Row>
 		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
-			<Text>Don't Bug Me Again.</Text>
+			<Text>Не турбуй мене знову.</Text>
 		</Row>
 		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
-			<Text>Remind Me Next Time.</Text>
+			<Text>Нагадай наступного разу.</Text>
 		</Row>
 		<Row Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
-			<Text>Graphics settings have been adjusted. You may review or change these settings in the Options menu.</Text>
+			<Text>Графічні налаштування було скореговано. Ви можете переглянути чи змінити ці налаштування у відповідному меню.</Text>
 		</Row>
 
 		<!-- Main Menu-->
 		<Row Tag="LOC_MAIN_MENU_RESUME_GAME">
-			<Text>Продовження гри</Text>
+			<Text>Продовжити гру</Text>
 		</Row>
 		<Row Tag="LOC_PLAY_CIVILIZATION_6">
-			<Text>Негайна гра</Text>
+			<Text>Зіграти негайно</Text>
 		</Row>
 		<Row Tag="LOC_SINGLE_PLAYER">
-			<Text>ГРА НАОДИНЦІ</Text>
+			<Text>Гра наодинці</Text>
 		</Row>
 		<Row Tag="LOC_PLAY_MULTIPLAYER">
-			<Text>Multiplayer</Text>
+			<Text>Мережевий режим</Text>
 		</Row>
 		<Row Tag="LOC_LOAD_GAME">
-			<Text>Завантаження гри</Text>
+			<Text>Завантажити гру</Text>
 		</Row>
 		<Row Tag="LOC_LOAD_CONFIG">
 			<Text>Завантажити конфігурацію</Text>
 		</Row>
 		<Row Tag="LOC_LOAD_MAP">
-			<Text>Load Map</Text>
+			<Text>Завантажити мапу</Text>
 		</Row>
 		<Row Tag="LOC_LOAD_TILED">
-			<Text>Import Map from Editor</Text>
+			<Text>Імпортувати мапу з редактора</Text>
 		</Row>
 		<Row Tag="LOC_OPEN_DIRECTORY">
-			<Text>Open</Text>
+			<Text>Відкрити</Text>
 		</Row>
 		<Row Tag="LOC_NO_FILE_SELECTED">
-			<Text>No file currently selected</Text>
+			<Text>Наразі жодного файлу не обрано</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_OPTIONS">
-			<Text>НАЛАШТУВАННЯ</Text>
+			<Text>Налаштування</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_MODS">
-			<Text>Додатки</Text>
+			<Text>Доповнення</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_MODS_AND_DLC">
-			<Text>Mods and DLC</Text>
+			<Text>Моди та DLC</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_MODS_AND_DLC_TT">
-			<Text>Modifications and downloadable content to expand and enhance Civilization VI.</Text>
+			<Text>Модифікації та завантажуваний зміст що розширює та покращює Civilization VI.</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_MY2K_LOGIN">
-			<Text>My2K Login</Text>
+			<Text>Вхід до 2K</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
-			<Text>ВИХІД</Text>
+			<Text>Вийти</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_BENCH">
-			<Text>ТЕСТУВАННЯ</Text>
+			<Text>Бенчмарк</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_CREDITS">
-			<Text>Credits</Text>
+			<Text>Титри</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_TUTORIAL">
-			<Text>НАВЧАННЯ</Text>
+			<Text>Навчання</Text>
 		</Row>
 
 		<!-- Load / Save Menus -->
@@ -120,31 +120,31 @@
 			<Text>Видалити</Text>
 		</Row>
 		<Row Tag="LOC_BACK_BUTTON">
-			<Text>Back</Text>
+			<Text>Назад</Text>
 		</Row>
 		<Row Tag="LOC_AUTOSAVES">
 			<Text>Автозбереження</Text>
 		</Row>
 		<Row Tag="LOC_STEAMCLOUD">
-			<Text>Хмара</Text>
+			<Text>Хмара Steam</Text>
 		</Row>
 		<Row Tag="LOC_2K_CLOUD">
-			<Text>Multiplatform Cloud</Text>
+			<Text>Хмара 2K</Text>
 		</Row>
 		<Row Tag="LOC_STANDARD_CLOUD_SAVES_HELP">
-			<Text>Standard Cloud Saves - compatible with PC, Mac, and Linux versions of Civilization VI</Text>
+			<Text>Стандартні хмарні збереження - сумісні з ПК, Mac, та Linux версіями Civilization VI</Text>
 		</Row>
 		<Row Tag="LOC_2K_CLOUD_SAVES_HELP">
-			<Text>Multiplatform Cloud Saves - compatible with supported platforms (Requires enabling a 2K account on the Main Menu)</Text>
+			<Text>Мультиплатформенні хмарні збереження - сумісні з підтримуваними платформами (Потребують увімкнення обліковошо запису 2K в головному меню)</Text>
 		</Row>
 		<Row Tag="LOC_NO_SAVED_GAMES">
-			<Text>No saved games</Text>
+			<Text>Нема збережених ігор</Text>
 		</Row>
 		<Row Tag="LOC_NO_SAVED_CONFIGS">
-			<Text>No saved configurations</Text>
+			<Text>Нема збережених конфігурацій</Text>
 		</Row>
 		<Row Tag="LOC_NO_SAVED_MAPS">
-			<Text>No saved maps</Text>
+			<Text>Нема збережених мап</Text>
 		</Row>
 		<Row Tag="LOC_SORTBY_NAME">
 			<Text>Сортувати за назвою</Text>
@@ -153,76 +153,76 @@
 			<Text>Сортувати за давністю</Text>
 		</Row>
 		<Row Tag="LOC_LOAD_MENU_MODS">
-			<Text>MODS</Text>
+			<Text>Моди</Text>
 		</Row>
 		<Row Tag="LOC_LOAD_MENU_DLC">
 			<Text>DLC</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_GAME">
-			<Text>Save Game</Text>
+			<Text>Зберегти гру</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_MAP_BUTTON">
-			<Text>Save Map</Text>
+			<Text>Зберегти мапу</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_CONFIG">
 			<Text>Зберегти конфігурацію</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_OBSERVER_MODE_TT">
-			<Text>Unable to save while in Observer mode.</Text>
+			<Text>Неможливо зберегти в режимі Спостерігача.</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
-			<Text>You've reached the maximum number of Cloud saves. Overwrite or delete a save.</Text>
+			<Text>Ви досягли межі по кількостям хмарних збережень. Перезапишіть або видаліть деякі збереження.</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
-			<Text>Invalid file name.</Text>
+			<Text>Некоректне ім'я для файлу.</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
-			<Text>Waiting for cloud save list.</Text>
+			<Text>Очікування на список хмарних збережень.</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_TITLE_TXT">
-			<Text>Підтвердження перезапису</Text>
+			<Text>Підтвердити перезапис</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
-			<Text>Confirm Delete</Text>
+			<Text>Підтвердити видалення</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_CHOICE">
 			<Text>Впевнені?</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_EXIT_TXT">
-			<Text>Are you sure you want to exit the game?</Text>
+			<Text>Впевнені, що бажаєте вийти з гри?</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_TXT">
-			<Text>This will permanently delete your save file. Are you sure you want to do this?</Text>
+			<Text>Це назавжди видалить ваш файл збереження. Впевнені, що бажаєте це зробити?</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
-			<Text>Підтвердження завантаження</Text>
+			<Text>Підтвердити завантаження</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_LOAD_TXT">
 			<Text>Незбережене проходження гри буде втрачено. Ви впевнені?</Text>
 		</Row>
 		<Row Tag="LOC_OVERWRITE_TXT">
-			<Text>Обраний сніп-збереження буде перезаписано. Ви впевнені?</Text>
+			<Text>Обране сніп-збереження буде перезаписано. Ви впевнені?</Text>
 		</Row>
 		<Row Tag="LOC_DELETE_MOD_TXT">
-			<Text>This will permanently delete this Mod. Are you sure you want to do this?</Text>
+			<Text>Це назавжди видалить оцього мода. Впевнені, що бажаєте це зробити?</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_DISABLE_MOD">
-			<Text>Are you sure you wish to disable this mod?</Text>
+			<Text>Впевнені, що хочете вимкнути цей мод?</Text>
 		</Row>
 		<Row Tag="LOC_WILL_ALSO_DISABLE_MODS">
-			<Text>This will also disable the following mods:</Text>
+			<Text>Ця дія також вимкне наступні моди:</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_ENABLE_MOD">
-			<Text>Are you sure you wish to enable this mod?</Text>
+			<Text>Впевнені, що бажаєте ввімкнути цей мод?</Text>
 		</Row>
 		<Row Tag="LOC_WILL_ALSO_ENABLE_MODS">
-			<Text>This will also enable the following mods:</Text>
+			<Text>Ця дія також увімкне наступні моди:</Text>
 		</Row>
 		<Row Tag="LOC_EFFECTED_MODS_TXT">
 			<Text>Effected Mods:</Text>
 		</Row>
 		<Row Tag="LOC_MOD_VERSION_AVAILABLE">
-			<Text>Version {1_VersionNumber} is available.</Text>
+			<Text>Версія {1_VersionNumber} доступна.</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_CURRENT_TURN">
 			<Text>Хід: [ICON_Turn] {1}</Text>
@@ -234,28 +234,29 @@
 			<Text>Параметри гри</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_RULESET_TYPE_TITLE">
-			<Text>Ruleset:</Text>
+			<Text>Набір правил:</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
-			<Text>Map Type:</Text>
+			<Text>Тип мапи:</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
-			<Text>Map Size:</Text>
+			<Text>Розмір мапи:</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
-			<Text>World Age:</Text>
+			<Text>Старість планети:</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
-			<Text>Saved By Version:</Text>
+			<Text>Збереження за версією:</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
-			<Text>Advanced Options:</Text>
+			<Text>Просунуті налаштування:</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_NO_MAP_DATA">
-			<Text>NO MAP DATA</Text>
+			<Text>Нема даних про мапу</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
-			<Text>Tuner Active:</Text>
+			<!-- <Text>Tuner Active:</Text> -->
+			<Text>Активний тюнер:</Text>
 		</Row>
 		<Row Tag="LOC_LOADSAVE_QUICK_SAVE">
 			<Text>(Швидке збереження)</Text>
@@ -263,23 +264,23 @@
 
 		<!-- Advanced Game Setup -->
 		<Row Tag="LOC_NETWORK_NAME_TT">
-			<Text>Network Name[NEWLINE]This is how your name will appear to other players.</Text>
+			<Text>Ім'я в мережі[NEWLINE]Це ім'я буде відображатись іншим гаравцям.</Text>
 		</Row>
 		<Row Tag="LOC_NUMBER_OF_CIVILIZATIONS">
-			<Text>Number of Civilizations</Text>
+			<Text>Кількість цивілізацій</Text>
 		</Row>
 		<Row Tag="LOC_PLAYERS">
 			<Text>Гравці</Text>
 		</Row>
 		<Row Tag="LOC_TEAM">
-			<Text>Team|Teams</Text>
+			<Text>Команда|Команди</Text>
 			<Plurality>1|2</Plurality>
 		</Row>
 		<Row Tag="LOC_TEAM_GENERIC_NAME">
-			<Text>Team {1_Number}</Text>
+			<Text>Команда {1_Number}</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_UNKNOWN_NAME">
-			<Text>Unknown Team</Text>
+			<Text>Невідома команда</Text>
 		</Row>
 		<Row Tag="LOC_BACK">
 			<Text>Назад</Text>
@@ -291,282 +292,284 @@
 			<Text>Параметри</Text>
 		</Row>
 		<Row Tag="LOC_MAP_OPTIONS">
-			<Text>Map Options</Text>
+			<Text>Налаштування мапи</Text>
 		</Row>
 
 		<!-- Multiplayer Game Abandoned Popup -->
 		<Row Tag="LOC_GAME_ABANDONED_KICKED">
-			<Text>You have been kicked from the game by the host.</Text>
+			<Text>Ви були вигнані з гри організатором.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
-			<Text>Kicked!</Text>
+			<Text>Вигнано!</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
-			<Text>Network connection to host has been lost.</Text>
+			<Text>Мережне підключення до хоста втрачено.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE">
-			<Text>Host Connection Lost</Text>
+			<Text>З’єднання з хостом втрачено</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_ROOM_FULL">
-			<Text>The game has the maximum number of players.</Text>
+			<Text>У грі максимальна кількість гравців.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE">
-			<Text>Full Game</Text>
+			<Text>Повна гра</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
-			<Text>Version mismatch with host.</Text>
+			<Text>Версія не збігається з тою в хоста.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
-			<Text>Version Mismatch</Text>
+			<Text>Розбіжність версій</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_ERROR">
-			<Text>Unable to apply additional content.</Text>
+			<Text>Не вдалося застосувати додатковий контент.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE">
-			<Text>Mod Error</Text>
+			<Text>Помилка модифікації</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING">
-			<Text>Additional content is required but either has not been purchased or is not installed.[NEWLINE]Content:[NEWLINE]</Text>
+			<Text>Потрібен додатковий вміст, але його не придбано або не встановлено.[NEWLINE]Вміст:[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING_TITLE">
-			<Text>Mod Missing</Text>
+			<Text>Мод відсутній</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
-			<Text>Steam Workshop denied access to required additional content.[NEWLINE]Content:[NEWLINE]</Text>
+			<Text>Майстерня Steam відмовила в доступі до необхідного додаткового вмісту.[NEWLINE]Вміст:[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
-			<Text>This game requires additional content that is not installed.  The automatic download of additional content is currently disabled.  Automatic downloads can be enabled in Game Options.[NEWLINE]Content:[NEWLINE]</Text>
+			<Text>Ця гра потребує додаткового вмісту, який не встановлено. Автоматичне завантаження додаткового вмісту наразі вимкнено. Автоматичне завантаження можна ввімкнути в налаштуваннях гри.[NEWLINE]Вміст:[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
-			<Text>Network connection has been lost.</Text>
+			<Text>З'єднання з мережею втрачено.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE">
-			<Text>Disconnected</Text>
+			<Text>З'єднання втрачено</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
-			<Text>Error joining Multiplayer session.</Text>
+			<Text>Помилка приєднання до багатокористувацького сеансу.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE">
-			<Text>Join Failed</Text>
+			<Text>Не вдалося приєднатися</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MATCH_DELETED">
-			<Text>The host deleted the game.</Text>
+			<Text>Організатор видалив гру.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_ABANDONED_MATCH_DELETED_TITLE">
-			<Text>Game Deleted</Text>
+			<Text>Гру було видалено</Text>
 		</Row>
 
 		<!-- Multiplayer PlayByCloud End Turn Error Popup -->
 		<Row Tag="LOC_GAME_CLOUD_END_TURN_FAILED">
-			<Text>The game was unable to process your game turn due to an error. Check your internet connection and try again.[NEWLINE]Error Code: {1_ErrorCode}</Text>
+			<Text>Гра не змогла обробити ваш ігровий хід через помилку. Перевірте підключення до Інтернету та повторіть спробу.[NEWLINE]Error Code: {1_ErrorCode}</Text>
 		</Row>
 		<Row Tag="LOC_GAME_CLOUD_END_TURN_FAILED_TITLE">
-			<Text>End Turn Failed</Text>
+			<Text>Не вдалося завершити хід</Text>
 		</Row>
 
 		<!-- Multiplayer Select Screen-->
 		<Row Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
-			<Text>{1_PlayerName}'s Game</Text>
+			<Text>Гра гравця {1_PlayerName}</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_STANDARD_GAME">
-			<Text>Standard</Text>
+			<Text>Звичайна</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
-			<Text>Play a multiplayer game where players take turns continuously with each other.</Text>
+			<Text>Зіграйте в багатокористувацьку гру, в якій гравці ходять неперервно й одночасно.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME">
-			<Text>Internet</Text>
+			<Text>Інтернет</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
-			<Text>[ICON_CheckFail] Internet</Text>
+			<Text>[ICON_CheckFail] Інтернет</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
-			<Text>Play a multiplayer game on the internet.</Text>
+			<Text>Зіграйте в багатокористувацьку гру в інтернеті.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
-			<Text>Internet games are not available while Steam is offline.</Text>
+			<Text>Інтернет-ігри недоступні, поки Steam офлайн.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LAN_GAME">
-			<Text>Local Network</Text>
+			<Text>Локальна мережа</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
-			<Text>Play a multiplayer game on the local network.</Text>
+			<Text>Зіграйте в гру для кількох гравців у локальній мережі.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
-			<Text>Hot Seat</Text>
+			<Text>"Гаряче місце"</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
-			<Text>Play a multiplayer game where players take alternating turns on this machine.</Text>
+			<Text>Зіграйте багатокористувацьку гру, де гравці по черзі грають на цьому пристрої.</Text>
 		</Row>
 		<Row Tag="LOC_MENU_BACK">
-			<Text>Back</Text>
+			<Text>Назад</Text>
 		</Row>
 
 		<!-- Multiplayer Chat Commands -->
 		<Row Tag="LOC_CHAT_HELP_COMMAND_HINT">
-			<Text>[COLOR:ChatMessage_Help]Type /help for chat command help.[ENDCOLOR]</Text>
+			<Text>[COLOR:ChatMessage_Help]Впишіть /help аби отримати довідку щодо команд чату.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_CHAT_HELP_COMMAND_TEXT">
-			<Text>[COLOR:ChatMessage_Help]CHAT COMMANDS[NEWLINE]/t Send a message to a team channel[NEWLINE]/g Send a message to a global channel[NEWLINE]/w [PlayerName] Whisper a message to a player[NEWLINE]/r Reply to a whisper[NEWLINE]/help Displays this help message[ENDCOLOR]</Text>
+			<Text>[COLOR:ChatMessage_Help]Команди чатику[NEWLINE]/t Надіслати повідомлення до каналу команди[NEWLINE]/g Надіслати повідомлення до глобального каналу[NEWLINE]/w [PlayerName] Пошепки повідомлення гравцеві на вушко[NEWLINE]/r Прошепотіти у відповідь[NEWLINE]/help Відображає це довідкове повідомлення[ENDCOLOR]</Text>
 		</Row>
 
 		<!-- Multiplayer Lobby Screen -->
 		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
-			<Text>REFRESH</Text>
+			<Text>Оновити</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
-			<Text>Retrieve the latest game list information.</Text>
+			<!-- <Text>Retrieve the latest game list information.</Text> -->
+			<Text>Отримати останню інформацію про список ігор.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
-			<Text>STOP REFRESH</Text>
+			<Text>Зупинити оновлення</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
-			<Text>Stop the game list information retrieval.</Text>
+			<!-- <Text>Stop the game list information retrieval.</Text> -->
+			<Text>Зупинити пошук інформації про список ігор.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_BACK">
-			<Text>НАЗАД</Text>
+			<Text>Назад</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_END_GAME">
-			<Text>DELETE</Text>
+			<Text>Видалити</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_TITLE">
-			<Text>Delete Game</Text>
+			<Text>Видалити гру</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
-			<Text>Ending Game...</Text>
+			<Text>Закінчення гри...</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_TITLE">
-			<Text>Delete Error</Text>
+			<Text>Помилка видалення</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
-			<Text>Error while ending game.</Text>
+			<Text>Помилка під час завершення гри.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
-			<Text>Ok</Text>
+			<Text>Ок</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_TITLE">
-			<Text>Launch Error</Text>
+			<Text>Помилка запуску</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
-			<Text>Game failed to launch.</Text>
+			<Text>Не вдалося запустити гру.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT">
-			<Text>Ok</Text>
+			<Text>Ок</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_JOIN_GAME">
-			<Text>Join Game</Text>
+			<Text>Долучитись до гри</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_JOIN_GAME_TT">
-			<Text>Join an existing multiplayer game.</Text>
+			<Text>Приєднайтеся до існуючої багатокористувацької гри.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_JOIN_CODE">
-			<Text>Use Join Code</Text>
+			<Text>Використати код приєднання</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_JOIN_CODE_TT">
-			<Text>Join an existing multiplayer game using a Join Code.</Text>
+			<Text>Приєднатися до існуючої багатокористувацької гри за допомогою коду приєднання.</Text>
 		</Row>
 		<Row Tag="LOC_MISC_BACK">
-			<Text>Back</Text>
+			<Text>Назад</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
-			<Text>Connect to IP Address</Text>
+			<Text>Підключення до IP-адреси</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
-			<Text>Connect to a pitboss game at a given public IP address.</Text>
+			<Text>Підключитися до гри Pitboss за вказаною загальнодоступною IP-адресою.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CREATE_GAME">
-			<Text>Create Game</Text>
+			<Text>Створити гру</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
-			<Text>Confirm Settings</Text>
+			<Text>Підтвердити налаштування</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOST_GAME">
-			<Text>MULTIPLAYER GAME SETUP</Text>
+			<Text>Налаштування багатокористувацької гри</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
-			<Text>Start a new multiplayer game.</Text>
+			<Text>Розпочати нову багатокористувацьку гру.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
-			<Text>Create a multiplayer game from an existing save.</Text>
+			<Text>Створити багатокористувацьку гру з наявного збереження.</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_FRIENDS">
-			<Text>Friends</Text>
+			<Text>Друзі</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
-			<Text>Show Friends List</Text>
+			<Text>Відобразити список друзів</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_GAME_SETUP">
-			<Text>GAME SETUP</Text>
+			<Text>Налаштування гри</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
-			<Text>GAME SUMMARY</Text>
+			<Text>Підсумки гри</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_GAME_NAME">
-			<Text>Game Name</Text>
+			<Text>Назва гри</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_GAME_RULESET">
-			<Text>Rule Set</Text>
+			<Text>Набір правил</Text>
 		</Row>
 		<Row Tag="LOC_AD_SETUP_MAP_TYPE">
-			<Text>Map Type</Text>
+			<Text>Тип мапи</Text>
 		</Row>
 		<Row Tag="LOC_AD_SETUP_GAME_SPEED">
-			<Text>Game Speed</Text>
+			<Text>Швидкість гри</Text>
 		</Row>
 		<Row Tag="LOC_AD_SETUP_MAP_SIZE">
-			<Text>Map Size</Text>
+			<Text>Розмір мапи</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_PLAYERS">
-			<Text>Players</Text>
+			<Text>Гравці</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_DLCHOSTED">
 			<Text>DLC</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_MODSHOSTED">
-			<Text>Mods</Text>
+			<Text>Моди</Text>
 		</Row>
 		<Row Tag="LOC_STAGING_ROOM_LOADING_SAVE">
-			<Text>Loading Save Game</Text>
+			<Text>Завантаження збереження</Text>
 		</Row>
 		<Row Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
-			<Text>Game in Progress</Text>
+			<Text>Гра триває</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
-			<Text>INTERNET GAMES</Text>
+			<Text>Гра в інтернеті</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LAN_LOBBY">
-			<Text>LOCAL NETWORK GAMES</Text>
+			<Text>Гра в локальній мережі</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS">
-			<Text>Additional Content</Text>
+			<Text>Додатковий вміст</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LOBBY_GAMEMODES_OFFICIAL">
-			<Text>Official Game Modes:</Text>
+			<Text>Офіційні ігрові режими:</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
-			<Text>Official Content:</Text>
+			<Text>Офіційний контент:</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY">
-			<Text>Community Content:</Text>
+			<Text>Вміст спільноти:</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_UNKNOWN">
-			<Text>Unknown</Text>
+			<Text>Невідомо</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE">
-			<Text>Unknown Map Size</Text>
+			<Text>Невідомий розмір мапи</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_TRUE">
-			<Text>True</Text>
+			<Text>Правда</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_FALSE">
-			<Text>False</Text>
+			<Text>Хиба</Text>
 		</Row>
 		<!-- Options -->
 		<Row Tag="LOC_CONFIRM_KEY_BINDING">
-			<Text>Confirm Key Binding</Text>
+			<Text>Підтвердити прив'язку клавіш</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM">
-			<Text>Confirm</Text>
+			<Text>Підтвердити</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_GAME">
 			<Text>Гра</Text>
@@ -593,19 +596,19 @@
 			<Text>Налаштування гри</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
-			<Text>Graphics Options</Text>
+			<Text>Налаштування графіки</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_AUDIO_OPTIONS">
-			<Text>Audio Options</Text>
+			<Text>Налаштування аудіо</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
-			<Text>Language Options</Text>
+			<Text>Налаштування мови</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
-			<Text>Interface Options</Text>
+			<Text>Налаштування інтерфейсу</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
-			<Text>Key Bindings</Text>
+			<Text>Прив'язка клавіш</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_QUICK_COMBAT">
 			<Text>Швидкий бій:</Text>
@@ -623,332 +626,332 @@
 			<Text>В разі дозволу, можливість обстрілу з міста буде блокувати завершення ходу.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TIME_OF_DAY">
-			<Text>Time of Day:</Text>
+			<Text>Час доби:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUNER">
-			<Text>Tuner (disables achievements):</Text>
+			<Text>Тюнер (вимикає досягнення):</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TUTORIAL">
-			<Text>Advisor:</Text>
+			<Text>Радник:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
-			<Text>Turns between autosaves:</Text>
+			<Text>Кількість ходів між автозбереженнями:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
-			<Text>Number of autosaves to keep:</Text>
+			<Text>Кількість автозбережень, які потрібно пам'ятати:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
-			<Text>Local Network Player Name:</Text>
+			<Text>Ім'я гравця в локальній мережі:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
-			<Text>Auto Download Additional Content:</Text>
+			<Text>Автоматичне завантаження додаткового вмісту:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
-			<Text>Automatically download community made additional content when it is required to join a multiplayer game.</Text>
+			<Text>Автоматично завантажувати додатковий вміст, створений спільнотою, коли це потрібно для приєднання до багатокористувацької гри.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
-			<Text>Steam Controller configuration happens inside the Steam client and not within this UI.  The escape, left mouse button, and right mouse button are reserved and cannot be bound.</Text>
+			<Text>Конфігурація контролера Steam відбувається всередині клієнта Steam, а не в цьому інтерфейсі користувача. Esc, ЛКМ та ПКМ зарезервовані та не можуть бути переприв"язані.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
-			<Text>Primary binding</Text>
+			<Text>Первинна налаштування клавіш</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_BIND_HEADER_ALT">
-			<Text>Alternative binding</Text>
+			<Text>Альтернативна прив'язка</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
-			<Text>Application Options</Text>
+			<Text>Параметри програми</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
-			<Text>Spoken Language:</Text>
+			<Text>Розмовна мова:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
-			<Text>Start in Strategic View:</Text>
+			<Text>Починати в режимі стратегічного перегляду:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
-			<Text>Display Language:</Text>
+			<Text>Мова відображення:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_MASTER_VOLUME">
-			<Text>Master Volume:</Text>
+			<Text>Головна гучність:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_MUSIC_VOLUME">
-			<Text>Music Volume:</Text>
+			<Text>Гучність музики:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_EFFECTS_VOLUME">
-			<Text>Sound Effects Volume:</Text>
+			<Text>Гучність звукових ефектів:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_AMBIENT_VOLUME">
-			<Text>Ambient Sounds Volume:</Text>
+			<Text>Гучність навколишніх звуків:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_SPEECH_VOLUME">
-			<Text>Speech Volume:</Text>
+			<Text>Гучність мовлення:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_MUTE_FOCUS">
-			<Text>Mute when the game window is inactive:</Text>
+			<Text>Вимикати звук, коли ігрове вікно неактивне:</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_CLEAR">
-			<Text>Clear</Text>
+			<Text>Ясно</Text>
 		</Row>
 
 		<!-- Front End Popop -->
 		<Row Tag="LOC_CLOSE">
-			<Text>Close</Text>
+			<Text>Закрити</Text>
 		</Row>
 
 		<!-- Multiplayer Joining Room Screen -->
 		<Row Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
-			<Text>PLEASE WAIT</Text>
+			<Text>Прошу, зачекайте</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_JOINING_ROOM">
-			<Text>Joining Room...</Text>
+			<Text>Приєднання до кімнати...</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_JOINING_HOST">
-			<Text>Retrieving Host Information...</Text>
+			<Text>Отримання відомостей про хоста...</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
-			<Text>Configuring Game Content...</Text>
+			<Text>Налаштування вмісту гри...</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
-			<Text>Connecting to Players...</Text>
+			<Text>Підключення до гравців...</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_MATCHMAKING">
-			<Text>Finding a Game...</Text>
+			<Text>Пошук гри...</Text>
 		</Row>
 		<Row Tag="LOC_MP_ROOM_FULL">
-			<Text>Unable to join game. The game has the maximum number of players.</Text>
+			<Text>Не вдалося приєднатися до гри. У грі максимальна кількість гравців.</Text>
 		</Row>
 		<Row Tag="LOC_MP_ROOM_FULL_TITLE">
-			<Text>Full Game</Text>
+			<Text>Повна гра</Text>
 		</Row>
 		<Row Tag="LOC_MP_JOIN_FAILED">
-			<Text>Error joining multiplayer session.</Text>
+			<Text>Помилка приєднання до багатокористувацького сеансу.</Text>
 		</Row>
 		<Row Tag="LOC_MP_JOIN_FAILED_TITLE">
-			<Text>Join Failed</Text>
+			<Text>Не вдалося приєднатися</Text>
 		</Row>
 		<Row Tag="LOC_MP_ROOM_GAME_STARTED">
-			<Text>Unable to join game. The game has already been started.</Text>
+			<Text>Не вдалося приєднатися до гри. Гру вже розпочато.</Text>
 		</Row>
 		<Row Tag="LOC_MP_ROOM_GAME_STARTED_TITLE">
-			<Text>Join Failed</Text>
+			<Text>Не вдалося приєднатися</Text>
 		</Row>
 
 		<!-- Multiplayer Staging Room Screen -->
 		<Row Tag="LOC_MP_SWAP_PLAYER">
-			<Text>Swap</Text>
+			<Text>Помінятись місцями</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
-			<Text>Swap to this player slot.</Text>
+			<Text>Перейти на це місце.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
-			<Text>Swap to this player slot only if the other player also chooses to swap.</Text>
+			<Text>Перейти на це місце, тільки якщо інший гравець також вирішить помінятись місцями.</Text>
 		</Row>
 		<Row Tag="LOC_MP_KICK_PLAYER">
-			<Text>Kick Player</Text>
+			<Text>Вигнати гравця</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_STAGING_ROOM">
-			<Text>Staging Room</Text>
+			<Text>Кімната збору</Text>
 		</Row>
 		<Row Tag="LOC_READY_BUTTON">
-			<Text>Ready</Text>
+			<Text>Готовий(-а)</Text>
 		</Row>
 		<Row Tag="LOC_ARE_YOU_READY">
-			<Text>Are you ready?</Text>
+			<Text>Ви готові?</Text>
 		</Row>
 		<Row Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
-			<Text>Game Settings</Text>
+			<Text>Налаштування гри</Text>
 		</Row>
 		<Row Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
-			<Text>Additional Content</Text>
+			<Text>Додатковий вміст</Text>
 		</Row>
 		<!-- Multiplayer Status Strings -->
 		<Row Tag="LOC_READY_LABEL">
-			<Text>Ready!</Text>
+			<Text>Готовий(-а)!</Text>
 		</Row>
 		<Row Tag="LOC_NOT_READY">
-			<Text>Not Ready</Text>
+			<Text>Не готовий(-а)</Text>
 		</Row>
 		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE">
-			<Text>[COLOR:StagingStatus_Invalid]Invalid for Map Size[ENDCOLOR]</Text>
+			<Text>[COLOR:StagingStatus_Invalid]Неправильний розмір мапи[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
-			<Text>This player slot is unavailable for the current map size. Have the host increase the map size or swap to an available player slot.</Text>
+			<Text>Це місце гравця недоступне для поточного розміру мапи. Попросіть організатора збільшити розмір мапи аби перейти на доступне місце.</Text>
 		</Row>
 		<Row Tag="LOC_INVALID_SLOT_HUMAN_REQUIRED">
-			<Text>[COLOR:StagingStatus_Invalid]Needs Player[ENDCOLOR]</Text>
+			<Text>[COLOR:StagingStatus_Invalid]Потрібен гравець[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_INVALID_SLOT_HUMAN_REQUIRED_TT">
-			<Text>This player slot needs occupied by a human player to start the game.</Text>
+			<Text>Щоб розпочати гру, цей слот гравця має бути зайнятий людиною.</Text>
 		</Row>
 
 		<!-- Multiplayer Status Strings END -->
 		<Row Tag="LOC_JOIN">
-			<Text>Join!</Text>
+			<Text>Приєднатися!</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_OPEN">
-			<Text>Open</Text>
+			<Text>Відкрити</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_OPEN_TT">
-			<Text>Open slots can be occupied by joining players.</Text>
+			<Text>Відкриті місця можуть бути зайняті гравцями що доєднуються.</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMANREQ">
-			<Text>Open</Text>
+			<Text>Відкрити</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMANREQ_TT">
-			<Text>Open slots require a human player before the game can start.</Text>
+			<Text>Щоб розпочати гру, вільні місця гравців мають бути зайняті людьми.</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_OBSERVER">
-			<Text>Observer</Text>
+			<Text>Спостерігач</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_OBSERVER_TT">
-			<Text>Observe the game rather than directly participating.</Text>
+			<Text>Спостерігайте за грою без безпосередньої участі.</Text>
 		</Row>		
 		<Row Tag="LOC_SLOTLABEL_HOST">
-			<Text>[ICON_Host] Host</Text>
+			<Text>[ICON_Host] Хост</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_PLAYER">
-			<Text>Player</Text>
+			<Text>Гравець</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_COMPUTER">
-			<Text>Computer</Text>
+			<Text>Комп'ютер</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_OPEN">
-			<Text>Open</Text>
+			<Text>Відкрити</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_OBSERVER">
-			<Text>Observer</Text>
+			<Text>Спостерігач</Text>
 		</Row>
 		<Row Tag="LOC_SLOTLABEL_OBSERVER_HOST">
-			<Text>[ICON_Host] Observer</Text>
+			<Text>[ICON_Host] Спостерігач</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_AI">
-			<Text>AI</Text>
+			<Text>ШІ</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_AI_TT">
-			<Text>AI Player</Text>
+			<Text>Гравець ШІ</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_CLOSED">
-			<Text>Closed</Text>
+			<Text>Зайнято</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_CLOSED_TT">
-			<Text>Closed slots can not be used by players.</Text>
+			<Text>Гравці не можуть використовувати зайняті місця.</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMAN">
-			<Text>Human</Text>
+			<Text>Людина</Text>
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_HUMAN_TT">
-			<Text>Human Player</Text>
+			<Text>Гравець людина</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
-			<Text>None</Text>
+			<Text>Хтось</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
 			<Text>{1_Num}</Text>
 		</Row>
 		<Row Tag="LOC_CREATE_NEW_TEAM">
-			<Text>New</Text>
+			<Text>Створити нову</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_TEAM_HEADER">
-			<Text>Team</Text>
+			<Text>Команда</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
-			<Text>Difficulty</Text>
+			<Text>Складність</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_READY_HEADER">
-			<Text>Ready?</Text>
+			<Text>Готові?</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
-			<Text>Civilization and Leader</Text>
+			<Text>Цивілізація та лідер</Text>
 		</Row>
 		<Row Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
-			<Text>Game Starting</Text>
+			<Text>Початок гри</Text>
 		</Row>
 		<Row Tag="LOC_READY_COUNTDOWN_FORMAT">
-			<Text>Get Ready</Text>
+			<Text>Приготуйтесь</Text>
 		</Row>
 		<Row Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_FORMAT">
-			<Text>Waiting for Players</Text>
+			<Text>Очікування на гравців</Text>
 		</Row>
 		<Row Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
-			<Text>Player</Text>
+			<Text>Гравець</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
-			<Text>Password</Text>
+			<Text>Пароль</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
-			<Text>Retype</Text>
+			<Text>Введіть повторно</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
-			<Text>Match</Text>
+			<Text>Відповідність</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
-			<Text>Passwords Don't Match.</Text>
+			<Text>Паролі не збігаються</Text>
 		</Row>
 
 		<!-- Staging Room Ready Button-->
 		<Row Tag="LOC_READY_UNSUPPORTED">
-			<Text>Unsupported.</Text>
+			<Text>Не підтримується.</Text>
 		</Row>
 		<Row Tag="LOC_READY_UNSUPPORTED_TT">
-			<Text>Unsupported amount of players.</Text>
+			<Text>Кількість гравців не підтримується.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
-			<Text>Invalid Teams</Text>
+			<Text>Неприпустимі команди</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
-			<Text>Cannot start game. All civilizations are on the same team.</Text>
+			<Text>Не вдається почати гру. Усі цивілізації в одній команді.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
-			<Text>Cannot start game. Players are joining the game.</Text>
+			<Text>Не вдається почати гру. До гри приєднуються гравці.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
-			<Text>Map Size Issue</Text>
+			<Text>Проблема з розміром мапи</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
-			<Text>Can not start game. A player is in an invalid player slot for the current map size. The current map only supports {1_number} players.</Text>
+			<Text>Не вдається почати гру. Гравець знаходиться в недійсному слоті гравця для поточного розміру мапи. Поточна мапа підтримує лише {1_number} гравців.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
-			<Text>Not Enough Players</Text>
+			<Text>Недостатньо гравців</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
-			<Text>Cannot start game. Two players are required to start.</Text>
+			<Text>Не вдається почати гру. Для старту потрібно два гравці.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
-			<Text>Players Joining Game</Text>
+			<Text>Гравці приєднуються до гри</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
-			<Text>Waiting for players joining into the game.</Text>
+			<Text>Чекаємо на гравців, які приєднаються до гри.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
-			<Text>Player Missing Mods</Text>
+			<Text>Як мінімум в одного з гравців немає модів потрібних для старту</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
-			<Text>Waiting on players who do not have the mods required for this game.</Text>
+			<Text>Чекаємо на гравців, які не мають модів, необхідних для цієї гри.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
-			<Text>Password Mismatch</Text>
+			<Text>Пароль не збігається</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
-			<Text>All passwords must match.</Text>
+			<Text>Усі паролі повинні співпадати.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
-			<Text>No Human Players</Text>
+			<Text>Нема гравців-людей</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
-			<Text>Need at least 1 human player</Text>
+			<Text>Потрібен щонайменше 1 гравець-людина</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
-			<Text>Invalid Teams</Text>
+			<Text>Неприпустимі команди</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
-			<Text>At least 2 players need to be on different teams</Text>
+			<Text>Принаймні 2 гравці повинні бути в різних командах</Text>
 		</Row>
 
 		<!-- Staging Room Invite Button -->
 		<Row Tag="LOC_INVITE_BUTTON">
-			<Text>Invite Friends</Text>
+			<Text>Запросити друзів</Text>
 		</Row>
 		<Row Tag="LOC_INVITE_BUTTON_TT">
-			<Text>Invite friends from your Steam friends list to this game.</Text>
+			<Text>Запросити до цієї гри своїх друзів Steam.</Text>
 		</Row>
 
 		<!-- Confirm Kick Popup -->
@@ -956,10 +959,10 @@
 			<Text>Скасувати</Text>
 		</Row>
 		<Row Tag="LOC_ACCEPT_BUTTON">
-			<Text>Accept</Text>
+			<Text>Прийняти</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
-			<Text>Are you sure you wish to kick {1_player} from the game?</Text>
+			<Text>Ви впевнені, що бажаєте вигнати гравця {1_player}?</Text>
 		</Row>
 
 		<!-- Edit Hotseat Player Popup -->
@@ -970,159 +973,159 @@
 			<Text>Edit Hot Seat Player</Text>
 		</Row>
 		<Row Tag="LOC_HOTSEAT_PLAYER_NAME">
-			<Text>Player Name:</Text>
+			<Text>Ім'я гравця:</Text>
 		</Row>
 		<Row Tag="LOC_HOTSEAT_PASSWORD">
-			<Text>Password:</Text>
+			<Text>Пароль:</Text>
 		</Row>
 		<Row Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
-			<Text>Retype Password:</Text>
+			<Text>Введіть повторно:</Text>
 		</Row>
 
 		<!-- Network Connection Status -->
 		<Row Tag="LOC_MP_PLAYER_CONNECTED">
-			<Text>Player is currently in-game.</Text>
+			<Text>Гравець зараз у грі.</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_Connected]Connected[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Підключено[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED">
-			<Text>Player is not connected.</Text>
+			<Text>Гравець не підключився.</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_Offline]Offline[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Offline]Офлайн[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_CONNECTING">
-			<Text>Player is joining the game.</Text>
+			<Text>Гравець доєднується до гри.</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_Connecting]Joining[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connecting]Доєднання[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_NOT_MOD_READY">
-			<Text>Player does not have the mods required to play in this game.</Text>
+			<Text>У гравця немає модів, необхідних для участі в цій грі.</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_NOT_MOD_READY_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_NotModReady]Mods Missing[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_NotModReady]Модифікації відсутні[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_RESYNCING">
-			<Text>Player is reloading to correct a desync.</Text>
+			<Text>Гравець перезавантажується, щоб виправити десинхронізацію.</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_RESYNCING_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_Resyncing]Resyncing[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Resyncing]Синхронізація[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_TIME_MILLISECONDS">
-			<Text>ms</Text>
+			<Text>мс</Text>
 		</Row>
 		<Row Tag="LOC_TIME_SECONDS">
-			<Text>s</Text>
+			<Text>с</Text>
 		</Row>
 
 		<!-- Friend Actions  -->
 		<Row Tag="LOC_FRIEND_ACTION_PROFILE">
-			<Text>Steam Profile</Text>
+			<Text>Профіль Steam</Text>
 		</Row>
 		<Row Tag="LOC_FRIEND_ACTION_PROFILE_TT">
-			<Text>View this friend's profile page.</Text>
+			<Text>Переглянути сторінку профілю друга.</Text>
 		</Row>
 		<Row Tag="LOC_FRIEND_ACTION_CHAT">
-			<Text>Send Message</Text>
+			<Text>Надіслати повідомлення</Text>
 		</Row>
 		<Row Tag="LOC_FRIEND_ACTION_CHAT_TT">
-			<Text>Send a message to this friend.</Text>
+			<Text>Надіслати повідомлення цьому другові.</Text>
 		</Row>
 		<Row Tag="LOC_FRIEND_ACTION_INVITE">
-			<Text>Invite to Game</Text>
+			<Text>Запросити до гри</Text>
 		</Row>
 		<Row Tag="LOC_FRIEND_ACTION_INVITE_TT">
-			<Text>Invite this friend to play.</Text>
+			<Text>Запросити друга до гри.</Text>
 		</Row>
 
 		<!-- Friend Status  -->
 		<Row Tag="LOC_PRESENCE_ONLINE">
-			<Text>[COLOR:ButtonCS]Online[ENDCOLOR]</Text>
+			<Text>[COLOR:ButtonCS]Онлайн[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_IN_SHELL">
-			<Text>[COLOR:ConnectionStatus_Connected]Main Menu[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]В головному меню[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_HOSTING_GAME">
-			<Text>[COLOR:ConnectionStatus_Connected]Hosting Game[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Хостить гру[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_IN_STAGING_ROOM">
-			<Text>[COLOR:ConnectionStatus_Connected]Staging Room[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Кімната збору[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_IN_GAME_SP">
-			<Text>[COLOR:ConnectionStatus_Connected]Single Player[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Однокористувацька гра[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_IN_GAME_ONLINE">
-			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Online)[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Багатокористувацька (Онлайн)[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_IN_GAME_LAN">
-			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (LAN)[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Багатокористувацька (LAN)[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
-			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Hot Seat)[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Багатокористувацька (Hot Seat)[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_IN_GAME_PLAYBYCLOUD">
-			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Play By Cloud)[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Багатокористувацька (Хмарне підключення)[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_INVITED_ONLINE">
-			<Text>[COLOR:ConnectionStatus_Connected]Invited[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Запрошено[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_INVITED_OFFLINE">
-			<Text>[COLOR:ButtonCS]Invited[ENDCOLOR]</Text>
+			<Text>[COLOR:ButtonCS]Запрошено[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_PRESENCE_WORLD_BUILDER">
-			<Text>[COLOR:ConnectionStatus_Connected]World Builder[ENDCOLOR]</Text>
+			<Text>[COLOR:ConnectionStatus_Connected]Створює світ[ENDCOLOR]</Text>
 		</Row>
 
 	<!-- Player Connection EVents -->
 		<Row Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
-			<Text>Connected</Text>
+			<Text>Підключено</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
-			<Text>Disconnected</Text>
+			<Text>Від'єднався(-лась)</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
-			<Text>Is Now the Host</Text>
+			<Text>зараз хост</Text>
 		</Row>
 		<Row Tag="LOC_MP_PLAYER_KICKED_CHAT">
-			<Text>Was Kicked</Text>
+			<Text>вигнали</Text>
 		</Row>
 
 		<!-- Multiplayer Chat -->
 		<Row Tag="LOC_MULTIPLAYER_CHAT">
-			<Text>CHAT</Text>
+			<Text>Чат</Text>
 		</Row>
 		<Row Tag="LOC_MULTIPLAYER_TO_ALL">
-			<Text>To All:</Text>
+			<Text>Всім:</Text>
 		</Row>
 
 		<!-- Multiplayer Mod Downloads -->
 		<Row Tag="LOC_BYTES">
-			<Text>b</Text>
+			<Text>б</Text>
 		</Row>
 		<Row Tag="LOC_KILOBYTES">
-			<Text>Kb</Text>
+			<Text>Кб</Text>
 		</Row>
 		<Row Tag="LOC_MEGABYTES">
-			<Text>Mb</Text>
+			<Text>Мб</Text>
 		</Row>
 
 		<!-- Setup -->
 		<Row Tag="LOC_SETUP_CREATE_GAME">
-			<Text>Створення гри</Text>
+			<Text>Створити гру</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_CHOOSE_RULESET">
 			<Text>Оберіть набір правил</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_CHOOSE_SCENARIO">
-			<Text>Choose Scenario</Text>
+			<Text>Оберіть Сценарій</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_SCENARIOS">
 			<Text>Сценарії</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_SCENARIO">
-			<Text>Scenario</Text>
+			<Text>Сценарій</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_CIVILIZATION">
 			<Text>Оберіть націю</Text>
@@ -1140,10 +1143,10 @@
 			<Text>Оберіть розмір мапи</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_MODE_SELECT">
-			<Text>Додаткові режими</Text>
+			<Text>Додаткові цікавинки</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_NO_GAME_MODES">
-			<Text>No Game Modes available.</Text>
+			<Text>Немає доступних ігрових режимів.</Text>
 		</Row>
 		<Row Tag="LOC_DELETE_AI">
 			<Text>Викреслити</Text>
@@ -1161,13 +1164,13 @@
 			<Text>Додатково</Text>
 		</Row>
 		<Row Tag="LOC_EDIT_BUTTON">
-			<Text>Edit</Text>
+			<Text>Змінити</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ADD_PLAYER">
-			<Text>Add Player</Text>
+			<Text>Додати гравця</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ADD_PLAYER_TT">
-			<Text>Add a player to the game.</Text>
+			<Text>Додати гравця до гри.</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ADD_AI_PLAYER">
 			<Text>Додати "штучного" гравця</Text>
@@ -1179,22 +1182,22 @@
 			<Text>Усталено</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
-			<Text>Restore all parameters to their default values.</Text>
+			<Text>Відновити всі параметри до значень за замовчуванням.</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_MAP_MAP_SELECT">
-			<Text>Map Select</Text>
+			<Text>Вибір мапи</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_MAP_CREATE_GAME_SELECT_MAP">
 			<Text>Вибір мапи</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_MAP_SELECT_MAP">
-			<Text>Select Map</Text>
+			<Text>Вибір мапи</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_MAP_OFFICIAL_MAPS">
 			<Text>Офіційні</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_MAP_FIRAXIS_MAPS">
-			<Text>Firaxis Maps</Text>
+			<Text>Мапи Firaxis</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_MAP_FIRAXIS_MAPS_TOOLTIP">
 			<Text>Показати лише офіційні мапи від Firaxis.</Text>
@@ -1215,76 +1218,76 @@
 			<Text>Про мапу</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_MAP_SELECTED_MAP">
-			<Text>Selected Map</Text>
+			<Text>Обрана мапа</Text>
 		</Row>
 		<Row Tag="LOC_START_GAME">
 			<Text>Запустити гру</Text>
 		</Row>
 		<Row Tag="LOC_START_WORLD_BUILDER">
-			<Text>Start World Builder</Text>
+			<Text>Запустити світобудівництво</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_BUILDER_START_NEW">
-			<Text>New Map</Text>
+			<Text>Нова мапа</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_BUILDER_LOAD">
-			<Text>Load Map</Text>
+			<Text>Завантажити мапу</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_BUILDER_IMPORT">
-			<Text>Import Map from Editor</Text>
+			<Text>Імпорт мапи з редактора</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_BUILDER_START_NEW_TOOLTIP">
-			<Text>Creates a new blank or generated World Builder map to edit.</Text>
+			<Text>Створює нову пусту чи згенеровану мапу для подальшого редагування.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_BUILDER_LOAD_TOOLTIP">
-			<Text>Loads a previously saved World Builder map.</Text>
+			<Text>Завантажує раніше збережену мапу з режиму світобудівництва.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_BUILDER_IMPORT_TOOLTIP">
-			<Text>Converts a properly structured .TMX map file into a World Builder map.</Text>
+			<Text>Перетворює належним чином структурований файл мапи .TMX у мапу для світобудівництва.</Text>
 		</Row>
 		<Row Tag="LOC_RANDOM_LEADER">
 			<Text>Випадковий лідер</Text>
 		</Row>
 		<Row Tag="LOC_RANDOM_CIVILIZATION">
-			<Text>Random Civilization</Text>
+			<Text>Випадкова цивілізація</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
-			<Text>No Duplicate Leaders</Text>
+			<Text>Без дубльованих лідерів</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_NO_DUPLICATE_CIVILIZATIONS">
-			<Text>No Duplicate Civilizations</Text>
+			<Text>Без дубльованих цивілізацій</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
-			<Text>Awaiting Additional Players</Text>
+			<Text>Очікуємо додаткових гравців</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED_TT">
-			<Text>Cannot start game. All Open player slots must be occupied before the game can begin.</Text>
+			<Text>Не вдається почати гру. Усі місця для гравців мають бути зайняті перед початком гри.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_READY_COUNTDOWN_TT">
-			<Text>Cannot start game. Waiting for Ready Countdown or full, readied up game.</Text>
+			<Text>Не вдається почати гру. Очікування зворотнього відліку або повністю готової гри.</Text>
 		</Row>
 		<Row Tag="LOC_READY_COUNTDOWN_TT">
-			<Text>You will be set to ready at the end of this countdown. Click to toggle ready now.</Text>
+			<Text>Вас буде встановлено готовим в кінці цього відліку. Натисніть, якщо готові вже зараз.</Text>
 		</Row>
 		<Row Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_TT">
-			<Text>Waiting for additional players. Game will start at the end of the countdown or once the game is full of ready players.</Text>
+			<Text>Очікуємо на додаткових гравців. Гра почнеться в кінці зворотнього відліку або коли всі гравці будуть готові.</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_INVALID_OPTION">
-			<Text>Invalid Option</Text>
+			<Text>Неприпустимий варіант</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
-			<Text>Not Owned</Text>
+			<Text>Нема у власності</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_PARAMETER_ERROR">
-			<Text>One or more options are invalid.</Text>
+			<Text>Один або декілька параметрів недійсні.</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
-			<Text>One or more player options are invalid.</Text>
+			<Text>Один або декілька параметрів гравців недійсні..</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR_POPUP">
-			<Text>This is usually caused by selecting duplicate leaders or civilizations when the game options are set not to allow duplicates.</Text>
+			<Text>Зазвичай це спричинено вибором одних і тих самих лідерів або цивілізацій, коли параметри гри цього не дозволяють.</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_PLAYER_COLOR_COLLISION">
-			<Text>This civilization's colors may conflict with those of another civilization.  You may choose an alternate color scheme from the drop-down list if you wish.</Text>
+			<Text>Кольори цієї цивілізації можуть конфліктувати з кольорами іншої цивілізації. Ви можете вибрати альтернативну кольорову схему зі списку, якщо бажаєте.</Text>
 		</Row>
 
 		<!-- Configuration Parameters.  Move these to a better location -->
@@ -1936,7 +1939,7 @@
 
 		<!-- Copyright screen -->
 		<Row Tag="LOC_COPYRIGHT_TEXT">
-			<Text>© 1991 – 2020 Take-Two Interactive Software, Inc. Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier’s Civilization VI, Sid Meier’s Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Uses Bink Video. Copyright © 1997 – 2020 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999 – 2020 by RAD Game Tools Inc. Powered by WWise © 2006- 2020 Audiokinetic Inc. All rights reserved. Fork Copyright © 2020 Fork Particle, Inc. Sid Meier’s Civilization VI uses Havok®. © 1999 – 2020 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994 – 2020 Lua.org, PUC-Rio. All other marks and trademarks are property of their respective owners. All rights reserved. The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game’s historical setting.[NEWLINE][NEWLINE][COLOR_GREEN]Творчий переклад від Nifael.[ENDCOLOR]</Text>
+			<Text>© 1991 – 2020 Take-Two Interactive Software, Inc. Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier’s Civilization VI, Sid Meier’s Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Uses Bink Video. Copyright © 1997 – 2020 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999 – 2020 by RAD Game Tools Inc. Powered by WWise © 2006- 2020 Audiokinetic Inc. All rights reserved. Fork Copyright © 2020 Fork Particle, Inc. Sid Meier’s Civilization VI uses Havok®. © 1999 – 2020 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994 – 2020 Lua.org, PUC-Rio. All other marks and trademarks are property of their respective owners. All rights reserved. The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game’s historical setting.[NEWLINE][NEWLINE][COLOR_GREEN]Творчий переклад від Nifael та 3iM0ViY_B0N60n.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>Continue</Text>
