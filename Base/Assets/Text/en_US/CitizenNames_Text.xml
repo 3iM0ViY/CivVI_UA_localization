@@ -125,2066 +125,2066 @@
 
 		<!-- Arabia -->
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_1">
-			<Text>Abdullah</Text>
+			<Text>Абдулла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_2">
-			<Text>Abubakr</Text>
+			<Text>Абубакр</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_3">
-			<Text>Barrani</Text>
+			<Text>Баррані</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_4">
-			<Text>Dammar</Text>
+			<Text>Даммар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_5">
-			<Text>El-marees</Text>
+			<Text>Ель-мареес</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_6">
-			<Text>Faisal</Text>
+			<Text>Фейсал</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_7">
-			<Text>Jafar</Text>
+			<Text>Джафар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_8">
-			<Text>Kasim</Text>
+			<Text>Касим</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_9">
-			<Text>Rabbani</Text>
+			<Text>Раббані</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MALE_10">
-			<Text>Siraj</Text>
+			<Text>Сіраж</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_1">
-			<Text>Aaleyah</Text>
+			<Text>Аалея</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_2">
-			<Text>Amatullah</Text>
+			<Text>Аматулла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_3">
-			<Text>Azizah</Text>
+			<Text>Азіза</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_4">
-			<Text>Bashima</Text>
+			<Text>Басіма</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_5">
-			<Text>Damis</Text>
+			<Text>Даміс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_6">
-			<Text>Fatimah</Text>
+			<Text>Фатіма</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_7">
-			<Text>Habibah</Text>
+			<Text>Хабіба</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_8">
-			<Text>Izdihar</Text>
+			<Text>Іздигар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_9">
-			<Text>Mawiyah</Text>
+			<Text>Мавія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_FEMALE_10">
-			<Text>Rihana</Text>
+			<Text>Ріанна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_1">
-			<Text>Abd-al-Bari</Text>
+			<Text>Абд аль-Барі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_2">
-			<Text>Arif</Text>
+			<Text>Аріф</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_3">
-			<Text>Diya-al-Din</Text>
+			<Text>Дія-аль-Дін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_4">
-			<Text>Gadi</Text>
+			<Text>Гаді</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_5">
-			<Text>Hakim</Text>
+			<Text>Хакім</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_6">
-			<Text>Hassan</Text>
+			<Text>Хасан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_7">
-			<Text>Musad</Text>
+			<Text>Мусад</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_8">
-			<Text>Nadir</Text>
+			<Text>Надір</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_9">
 			<Text>Qssim</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_MALE_10">
-			<Text>Tarik</Text>
+			<Text>Тарік</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_1">
-			<Text>Cantara</Text>
+			<Text>Кантара</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_2">
-			<Text>Jamilah</Text>
+			<Text>Джаміля</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_3">
-			<Text>Khalidah</Text>
+			<Text>Халіда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_4">
-			<Text>Leilah</Text>
+			<Text>Лейла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_5">
-			<Text>Nada</Text>
+			<Text>Нада</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_6">
 			<Text>Qitarah</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_7">
-			<Text>Shakira</Text>
+			<Text>Шакіра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_8">
-			<Text>Widad</Text>
+			<Text>Відад</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_9">
-			<Text>Yasmin</Text>
+			<Text>Ясмін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ARABIA_MODERN_FEMALE_10">
-			<Text>Zia</Text>
+			<Text>Зіяа</Text>
 		</Row>    
 		<!-- Brazil -->
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_1">
-			<Text>Adao</Text>
+			<Text>Адам</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_2">
-			<Text>Augusto</Text>
+			<Text>Август</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_3">
-			<Text>Casimiro</Text>
+			<Text>Казимира</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_4">
-			<Text>Emilio</Text>
+			<Text>Еміліо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_5">
-			<Text>Gilberto</Text>
+			<Text>Гілберто</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_6">
-			<Text>Henriques</Text>
+			<Text>Енрікес</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_7">
-			<Text>Jorge</Text>
+			<Text>Джордж</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_8">
-			<Text>Miguel</Text>
+			<Text>Мігель</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_9">
-			<Text>Renato</Text>
+			<Text>Ренато</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MALE_10">
-			<Text>Sergio</Text>
+			<Text>Сергій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_1">
-			<Text>Benedita</Text>
+			<Text>Бенедіта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_2">
-			<Text>Carlota</Text>
+			<Text>Карлота</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_3">
-			<Text>Elivra</Text>
+			<Text>Елівра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_4">
-			<Text>Filomena</Text>
+			<Text>Філомена</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_5">
-			<Text>Gracinha</Text>
+			<Text>милий</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_6">
-			<Text>Inez</Text>
+			<Text>Інес</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_7">
-			<Text>Magdalena</Text>
+			<Text>Магдалина</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_8">
-			<Text>Ofélia</Text>
+			<Text>Офелія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_9">
-			<Text>Safira</Text>
+			<Text>Сапфір</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_FEMALE_10">
-			<Text>Valéria</Text>
+			<Text>Валерія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_1">
-			<Text>Bento</Text>
+			<Text>Бенедикт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_2">
-			<Text>Cézar</Text>
+			<Text>Цезар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_3">
-			<Text>Donato</Text>
+			<Text>Донато</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_4">
-			<Text>Félix</Text>
+			<Text>Фелікс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_5">
-			<Text>Guilherme</Text>
+			<Text>Вільям</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_6">
-			<Text>Leandro</Text>
+			<Text>Леандро</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_7">
-			<Text>Nico</Text>
+			<Text>Ніко</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_8">
-			<Text>Paulo</Text>
+			<Text>Павло</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_9">
-			<Text>Túlio</Text>
+			<Text>Тулій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_MALE_10">
-			<Text>Xavier</Text>
+			<Text>Ксав'єр</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_1">
-			<Text>Beatriz</Text>
+			<Text>Беатріс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_2">
-			<Text>Clara</Text>
+			<Text>ясно</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_3">
-			<Text>Gabriela</Text>
+			<Text>Габріела</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_4">
-			<Text>Lorena</Text>
+			<Text>Лотарингія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_5">
-			<Text>Luiza</Text>
+			<Text>Луїза</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_6">
-			<Text>Fernanda</Text>
+			<Text>Фернанда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_7">
-			<Text>Nuria</Text>
+			<Text>Нурія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_8">
-			<Text>Rafaela</Text>
+			<Text>Рафаела</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_9">
-			<Text>Talita</Text>
+			<Text>Таліта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_BRAZIL_MODERN_FEMALE_10">
-			<Text>Tereza</Text>
+			<Text>Тереза</Text>
 		</Row>
 		<!-- China-->
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_1">
-			<Text>Chen</Text>
+			<Text>Чен</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_2">
-			<Text>Fai</Text>
+			<Text>Фай</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_3">
-			<Text>Kong</Text>
+			<Text>Конг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_4">
-			<Text>Kuan-yin</Text>
+			<Text>Гуань-інь</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_5">
-			<Text>Lei</Text>
+			<Text>Лей</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_6">
-			<Text>Long</Text>
+			<Text>Довго</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_7">
-			<Text>Shaiming</Text>
+			<Text>Шеймінг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_8">
-			<Text>Shen</Text>
+			<Text>Шен</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_9">
-			<Text>Shing</Text>
+			<Text>Шинг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MALE_10">
-			<Text>Sying</Text>
+			<Text>Сайінг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_1">
-			<Text>Chan-juan</Text>
+			<Text>Чан-джуань</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_2">
-			<Text>Chang</Text>
+			<Text>Чанг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_3">
-			<Text>Fang-yin</Text>
+			<Text>Фан-інь</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_4">
-			<Text>Huan-Yue</Text>
+			<Text>Хуань-Юе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_5">
-			<Text>Jiang-li</Text>
+			<Text>Цзян-лі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_6">
-			<Text>Li-mei</Text>
+			<Text>Лі-мей</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_7">
-			<Text>Ming-ue</Text>
+			<Text>Мін-уе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_8">
-			<Text>Qing-yuan</Text>
+			<Text>Цин-юань</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_9">
-			<Text>Shuang</Text>
+			<Text>Шуан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_FEMALE_10">
-			<Text>Xin-qian</Text>
+			<Text>Сінь-цянь</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_1">
-			<Text>Bingwen</Text>
+			<Text>Бінгвень</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_2">
-			<Text>Changpu</Text>
+			<Text>Чангпу</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_3">
-			<Text>Dingxiang</Text>
+			<Text>Дінсян</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_4">
-			<Text>Guiren</Text>
+			<Text>Гуйрен</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_5">
-			<Text>Huizhong</Text>
+			<Text>Хуейчжун</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_6">
-			<Text>Longwei</Text>
+			<Text>Лонгвей</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_7">
-			<Text>Shanyuan</Text>
+			<Text>Шаньюань</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_8">
-			<Text>Tingfeng</Text>
+			<Text>Тінфен</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_9">
-			<Text>Yanlin</Text>
+			<Text>Яньлінь</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_MALE_10">
-			<Text>Zedong</Text>
+			<Text>Цзедун</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_1">
-			<Text>Changying</Text>
+			<Text>Зміна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_2">
-			<Text>Daxia</Text>
+			<Text>Даксія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_3">
-			<Text>Dongmei</Text>
+			<Text>Дунмей</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_4">
-			<Text>Liling</Text>
+			<Text>Лілінг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_5">
-			<Text>Meifeng</Text>
+			<Text>Мейфен</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_6">
-			<Text>Mingxia</Text>
+			<Text>Мінся</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_7">
-			<Text>Mingzhu</Text>
+			<Text>Мінчжу</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_8">
-			<Text>Qiaolian</Text>
+			<Text>Цяолян</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_9">
-			<Text>Xingjuan</Text>
+			<Text>Синцзюань</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_CHINA_MODERN_FEMALE_10">
-			<Text>ZhenZhen</Text>
+			<Text>ЧженьЖень</Text>
 		</Row>
 		<!-- Egypt-->
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_1">
-			<Text>Ahmes</Text>
+			<Text>Яхмос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_2">
-			<Text>Apis</Text>
+			<Text>Апіс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_3">
-			<Text>Benipe</Text>
+			<Text>Беніпе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_4">
-			<Text>Canopus</Text>
+			<Text>Канопус</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_5">
-			<Text>Kames</Text>
+			<Text>Камес</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_6">
-			<Text>Kanebti</Text>
+			<Text>Канебті</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_7">
-			<Text>Nahab</Text>
+			<Text>Нахаб</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_8">
-			<Text>Pasupti</Text>
+			<Text>Пасупті</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_9">
-			<Text>Rimes</Text>
+			<Text>Рими</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MALE_10">
-			<Text>Seker</Text>
+			<Text>Шукач</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_1">
-			<Text>Amaunet</Text>
+			<Text>Амаунет</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_2">
-			<Text>Berenice</Text>
+			<Text>Береніс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_3">
-			<Text>Hasina</Text>
+			<Text>Хасіна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_4">
-			<Text>Hatasu</Text>
+			<Text>Хатасу</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_5">
-			<Text>Heqet</Text>
+			<Text>Хекет</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_6">
-			<Text>Hotep</Text>
+			<Text>Хотеп</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_7">
-			<Text>Layla</Text>
+			<Text>Лейла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_8">
-			<Text>Merit</Text>
+			<Text>Заслуги</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_9">
-			<Text>Nanu</Text>
+			<Text>Нану</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_FEMALE_10">
-			<Text>Titi</Text>
+			<Text>Тіті</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_1">
-			<Text>Abubakar</Text>
+			<Text>Абубакар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_2">
-			<Text>Amsu</Text>
+			<Text>Амсу</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_3">
-			<Text>Chibale</Text>
+			<Text>Чибале</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_4">
-			<Text>Gahiji</Text>
+			<Text>Гахіджі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_5">
-			<Text>Hamadi</Text>
+			<Text>Хамаді</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_6">
-			<Text>Husani</Text>
+			<Text>Хусані</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_7">
 			<Text>Okpara</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_8">
-			<Text>Rashidi</Text>
+			<Text>Рашиді</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_9">
-			<Text>Tut</Text>
+			<Text>Тут</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_MALE_10">
-			<Text>Zuberi</Text>
+			<Text>Зубері</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_1">
-			<Text>Aziza</Text>
+			<Text>Азіза</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_2">
-			<Text>Bahiti</Text>
+			<Text>Баїті</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_3">
-			<Text>Dendera</Text>
+			<Text>Дендера</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_4">
-			<Text>Femi</Text>
+			<Text>Фемі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_5">
-			<Text>Hehet</Text>
+			<Text>Хехет</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_6">
-			<Text>Kamilah</Text>
+			<Text>Каміла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_7">
-			<Text>Nakia</Text>
+			<Text>Накія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_8">
-			<Text>Qibilah</Text>
+			<Text>Кібіла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_9">
-			<Text>Sanura</Text>
+			<Text>Санура</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_EGYPT_MODERN_FEMALE_10">
-			<Text>Urbi</Text>
+			<Text>Урбі</Text>
 		</Row>
 		<!-- England-->
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_1">
-			<Text>Aelfraed</Text>
+			<Text>Ельфрад</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_2">
-			<Text>Cyneric</Text>
+			<Text>Цинерик</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_3">
-			<Text>Deorwine</Text>
+			<Text>Деорвайн</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_4">
-			<Text>Ecgberht</Text>
+			<Text>Егберхт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_5">
-			<Text>Hrodulf</Text>
+			<Text>Гродульф</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_6">
-			<Text>Osgar</Text>
+			<Text>Осгар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_7">
-			<Text>Sigeberht</Text>
+			<Text>Зіґеберхт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_8">
-			<Text>Swidhun</Text>
+			<Text>Свідхун</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_9">
-			<Text>Wigstan</Text>
+			<Text>Вігстан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MALE_10">
-			<Text>Wulfric</Text>
+			<Text>Вульфрік</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_1">
-			<Text>Aelfthryth</Text>
+			<Text>Ельфтріт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_2">
-			<Text>Cyneburga</Text>
+			<Text>Цинебурга</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_3">
 			<Text>Eadgyd</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_4">
-			<Text>Frideswide</Text>
+			<Text>Фрайдесвайд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_5">
-			<Text>Godgifu</Text>
+			<Text>Годгіфу</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_6">
-			<Text>Hildraed</Text>
+			<Text>Хільдраед</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_7">
-			<Text>Leofflaed</Text>
+			<Text>Леофлейд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_8">
-			<Text>Mildgyd</Text>
+			<Text>Мілдгид</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_9">
-			<Text>Sunngifu</Text>
+			<Text>Суннгіфу</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_FEMALE_10">
-			<Text>Wilburh</Text>
+			<Text>Вілбурх</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_1">
-			<Text>Aidan</Text>
+			<Text>Ейдан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_2">
-			<Text>Byrne</Text>
+			<Text>Бірн</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_3">
-			<Text>Daulton</Text>
+			<Text>Долтон</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_4">
-			<Text>Emory</Text>
+			<Text>Еморі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_5">
-			<Text>Garrett</Text>
+			<Text>Гаррет</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_6">
-			<Text>Kendal</Text>
+			<Text>Кендал</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_7">
-			<Text>Montgomery</Text>
+			<Text>Монтгомері</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_8">
-			<Text>Radcliff</Text>
+			<Text>Редкліфф</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_9">
-			<Text>Sheldon</Text>
+			<Text>Шелдон</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_MALE_10">
-			<Text>Thurmond</Text>
+			<Text>Термонд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_1">
-			<Text>Alice</Text>
+			<Text>Аліса</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_2">
-			<Text>Brittaney</Text>
+			<Text>Бріттані</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_3">
-			<Text>Carleigh</Text>
+			<Text>Карлі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_4">
-			<Text>Florence</Text>
+			<Text>Флоренція</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_5">
-			<Text>Haylie</Text>
+			<Text>Хейлі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_6">
-			<Text>Lyndsay</Text>
+			<Text>Ліндсей</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_7">
-			<Text>Millicent</Text>
+			<Text>Міллісент</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_8">
-			<Text>Robynn</Text>
+			<Text>Робінн</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_9">
-			<Text>Sidney</Text>
+			<Text>Сідні</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ENGLAND_MODERN_FEMALE_10">
-			<Text>Whitney</Text>
+			<Text>Вітні</Text>
 		</Row>
 		<!--France-->
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_1">
-			<Text>Alban</Text>
+			<Text>Альбан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_2">
-			<Text>Benoit</Text>
+			<Text>Бенуа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_3">
-			<Text>Christophe</Text>
+			<Text>Крістоф</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_4">
-			<Text>Corentin</Text>
+			<Text>Корентін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_5">
-			<Text>Déodat</Text>
+			<Text>Деодат</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_6">
-			<Text>Émeric</Text>
+			<Text>Емерик</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_7">
-			<Text>Judicael</Text>
+			<Text>Жудікаель</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_8">
-			<Text>Laurent</Text>
+			<Text>Лоран</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_9">
-			<Text>Renaud</Text>
+			<Text>Рено</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MALE_10">
-			<Text>Yves</Text>
+			<Text>Ів</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_1">
-			<Text>Aalis</Text>
+			<Text>Ааліс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_2">
-			<Text>Adélaide</Text>
+			<Text>Аделаїда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_3">
-			<Text>Blanche</Text>
+			<Text>Бланш</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_4">
-			<Text>Céleste</Text>
+			<Text>Целест</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_5">
-			<Text>Daphné</Text>
+			<Text>Дафна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_6">
-			<Text>Élise</Text>
+			<Text>Еліза</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_7">
-			<Text>Geneviève</Text>
+			<Text>Женев'єв</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_8">
-			<Text>Jocelyne</Text>
+			<Text>Джоселін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_9">
-			<Text>Solange</Text>
+			<Text>Соланж</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_10">
-			<Text>Tiphaine</Text>
+			<Text>Тіфайн</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_11">
-			<Text>Charlotte</Text>
+			<Text>Шарлотта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_FEMALE_12">
-			<Text>Isabelle</Text>
+			<Text>Ізабель</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_1">
-			<Text>Antoine</Text>
+			<Text>Ентоні</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_2">
-			<Text>Armand</Text>
+			<Text>Арманд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_3">
-			<Text>Claude</Text>
+			<Text>Клод</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_4">
-			<Text>Dacey</Text>
+			<Text>Дейсі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_5">
-			<Text>Jerome</Text>
+			<Text>Джером</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_6">
-			<Text>Marcel</Text>
+			<Text>Марсель</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_7">
-			<Text>Orvil</Text>
+			<Text>Орвіл</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_8">
-			<Text>Percival</Text>
+			<Text>Персіваль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_9">
-			<Text>Tristan</Text>
+			<Text>Трістан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_MALE_10">
-			<Text>Verne</Text>
+			<Text>Верн</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_1">
-			<Text>Babette</Text>
+			<Text>Бабетта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_2">
-			<Text>Delphine</Text>
+			<Text>Дельфіна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_3">
-			<Text>Gabrielle</Text>
+			<Text>Габріель</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_4">
-			<Text>Honoré</Text>
+			<Text>Заслужений</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_5">
-			<Text>Linette</Text>
+			<Text>Лінетт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_6">
-			<Text>Noelle</Text>
+			<Text>Ноель</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_7">
-			<Text>Odette</Text>
+			<Text>Одетта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_8">
-			<Text>Renée</Text>
+			<Text>Рене</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_9">
-			<Text>Severin</Text>
+			<Text>Северин</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_FRANCE_MODERN_FEMALE_10">
-			<Text>Yevette</Text>
+			<Text>Єветта</Text>
 		</Row>
 		<!--Germany-->
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_1">
-			<Text>Abelard</Text>
+			<Text>Абеляр</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_2">
-			<Text>Giomar</Text>
+			<Text>Гіомар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_3">
-			<Text>Hunfried</Text>
+			<Text>Хунфрід</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_4">
-			<Text>Konrad</Text>
+			<Text>Конрад</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_5">
-			<Text>Odbart</Text>
+			<Text>Одбарт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_6">
-			<Text>Rupert</Text>
+			<Text>Руперт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_7">
-			<Text>Tibalt</Text>
+			<Text>Тібальт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_8">
-			<Text>Vermados</Text>
+			<Text>Вермадос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_9">
-			<Text>Wilhelm</Text>
+			<Text>Вільгельм</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MALE_10">
-			<Text>Wolfric</Text>
+			<Text>Вольфрик</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_1">
-			<Text>Binga</Text>
+			<Text>Бінга</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_2">
-			<Text>Herta</Text>
+			<Text>Герта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_3">
-			<Text>Johanna</Text>
+			<Text>Джоанна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_4">
-			<Text>Lorelei</Text>
+			<Text>Лорелея</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_5">
-			<Text>Porsche</Text>
+			<Text>Порше</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_6">
-			<Text>Ruomhildi</Text>
+			<Text>Руомхільді</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_7">
-			<Text>Sigfriede</Text>
+			<Text>Зігфріда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_8">
-			<Text>Trude</Text>
+			<Text>Труд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_9">
-			<Text>Winifred</Text>
+			<Text>Вініфред</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_FEMALE_10">
-			<Text>Yseult</Text>
+			<Text>Ісолт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_1">
-			<Text>Dieter</Text>
+			<Text>Дітер</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_2">
-			<Text>Egon</Text>
+			<Text>Егон</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_3">
-			<Text>Ernst</Text>
+			<Text>Серйозно</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_4">
-			<Text>Falken</Text>
+			<Text>Яструби</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_5">
-			<Text>Hanz</Text>
+			<Text>Ганц</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_6">
-			<Text>Jurgen</Text>
+			<Text>Юрген</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_7">
-			<Text>Kiefer</Text>
+			<Text>Щелепа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_8">
-			<Text>Klaus</Text>
+			<Text>Клаус</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_9">
-			<Text>Maximilian</Text>
+			<Text>Максиміліан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_MALE_10">
-			<Text>Ulrich</Text>
+			<Text>Ульріх</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_1">
-			<Text>Dagmar</Text>
+			<Text>Дагмар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_2">
-			<Text>Etta</Text>
+			<Text>Етта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_3">
-			<Text>Frieda</Text>
+			<Text>Фріда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_4">
-			<Text>Gretchen</Text>
+			<Text>Гретхен</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_5">
-			<Text>Heidi</Text>
+			<Text>Хайді</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_6">
-			<Text>Isolde</Text>
+			<Text>Ізольда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_7">
-			<Text>Nixie</Text>
+			<Text>Ніксі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_8">
-			<Text>Tresa</Text>
+			<Text>Треза</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_9">
-			<Text>Verina</Text>
+			<Text>Веріна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GERMANY_MODERN_FEMALE_10">
-			<Text>Wanda</Text>
+			<Text>Ванда</Text>
 		</Row>
 		<!--Greece-->
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_1">
-			<Text>Agapetos</Text>
+			<Text>Агапетос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_2">
-			<Text>Alcibiades</Text>
+			<Text>Алківіад</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_3">
-			<Text>Demokritos</Text>
+			<Text>Демокріт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_4">
-			<Text>Diogenes</Text>
+			<Text>Діоген</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_5">
-			<Text>Heracleitos</Text>
+			<Text>Геракліт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_6">
-			<Text>Hippolytos</Text>
+			<Text>Іполитос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_7">
-			<Text>Nereus</Text>
+			<Text>Нерей</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_8">
-			<Text>Phaidros</Text>
+			<Text>Федр</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_9">
-			<Text>Sosigenes</Text>
+			<Text>Созіген</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MALE_10">
-			<Text>Zotikos</Text>
+			<Text>Зотікос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_1">
-			<Text>Apollonia</Text>
+			<Text>Аполлонія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_2">
-			<Text>Chloe</Text>
+			<Text>Хлоя</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_3">
-			<Text>Eudoxia</Text>
+			<Text>Євдоксія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_4">
-			<Text>Hypatia</Text>
+			<Text>Гіпатія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_5">
-			<Text>Kallisto</Text>
+			<Text>Каллісто</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_6">
-			<Text>Ligeia</Text>
+			<Text>Лігея</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_7">
-			<Text>Lysistrate</Text>
+			<Text>Лізістрат</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_8">
-			<Text>Pelagia</Text>
+			<Text>Пелагія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_9">
-			<Text>Sappho</Text>
+			<Text>Сапфо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_FEMALE_10">
-			<Text>Xanthe</Text>
+			<Text>Ксанте</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_1">
-			<Text>Aristides</Text>
+			<Text>Арістід</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_2">
-			<Text>Basil</Text>
+			<Text>Василь</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_3">
-			<Text>Demetri</Text>
+			<Text>Деметрій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_4">
-			<Text>Gregorios</Text>
+			<Text>Грегоріос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_5">
-			<Text>Herakles</Text>
+			<Text>Геракл</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_6">
-			<Text>Kristos</Text>
+			<Text>Крістос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_7">
-			<Text>Matthias</Text>
+			<Text>Матіас</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_8">
-			<Text>Pavlos</Text>
+			<Text>Павлось</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_9">
-			<Text>Silvanos</Text>
+			<Text>Сільванос</Text>
 		</Row>
-    <Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_10">
-      <Text>Vasilis</Text>
-    </Row>
+		<Row Tag="LOC_CITIZEN_GREECE_MODERN_MALE_10">
+			<Text>Василія</Text>
+		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_1">
-			<Text>Alethea</Text>
+			<Text>Алетея</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_2">
-			<Text>Callista</Text>
+			<Text>Калліста</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_3">
-			<Text>Electra</Text>
+			<Text>Електра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_4">
-			<Text>Hera</Text>
+			<Text>Гера</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_5">
-			<Text>Io</Text>
+			<Text>Іо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_6">
-			<Text>Marina</Text>
+			<Text>Марина</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_7">
-			<Text>Melina</Text>
+			<Text>Меліна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_8">
-			<Text>Nike</Text>
+			<Text>Найк</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_9">
-			<Text>Rhea</Text>
+			<Text>Рея</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_GREECE_MODERN_FEMALE_10">
-			<Text>Thetis</Text>
+			<Text>Фетіда</Text>
 		</Row>
 		<!--India-->
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_1">
-			<Text>Darshan</Text>
+			<Text>Даршан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_2">
-			<Text>Govind</Text>
+			<Text>Говінд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_3">
-			<Text>Kuruvilla</Text>
+			<Text>Курувілла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_4">
-			<Text>Krishna</Text>
+			<Text>Крішна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_5">
-			<Text>Narayan</Text>
+			<Text>Нараян</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_6">
-			<Text>Paramveer</Text>
+			<Text>Парамвеер</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_7">
-			<Text>Pulkit</Text>
+			<Text>Пулькіт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_8">
-			<Text>Purshotam</Text>
+			<Text>Пуршотам</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_9">
-			<Text>Surya</Text>
+			<Text>Сурья</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MALE_10">
-			<Text>Uday</Text>
+			<Text>Удай</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_1">
-			<Text>Anasuya</Text>
+			<Text>Анасуя</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_2">
-			<Text>Asha</Text>
+			<Text>Аша</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_3">
-			<Text>Bhadraa</Text>
+			<Text>Бхадраа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_4">
-			<Text>Dakshina</Text>
+			<Text>Дакшина</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_5">
-			<Text>Kerani</Text>
+			<Text>Керані</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_6">
-			<Text>Lajila</Text>
+			<Text>Ладжіла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_7">
-			<Text>Reeya</Text>
+			<Text>Рея</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_8">
-			<Text>Savatari</Text>
+			<Text>Саватарі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_9">
-			<Text>Sita</Text>
+			<Text>Сіта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_FEMALE_10">
-			<Text>Vineeta</Text>
+			<Text>Вінетта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_1">
-			<Text>Ameretat</Text>
+			<Text>Амеретат</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_2">
-			<Text>Armaan</Text>
+			<Text>Армаан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_3">
-			<Text>Dhruv</Text>
+			<Text>Дхрув</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_4">
-			<Text>Jaskirit</Text>
+			<Text>Яскірит</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_5">
-			<Text>Krishna</Text>
+			<Text>Крішна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_6">
-			<Text>Pranay</Text>
+			<Text>Пранай</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_7">
-			<Text>Rayansh</Text>
+			<Text>Раянш</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_8">
-			<Text>Tanish</Text>
+			<Text>Таніш</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_9">
-			<Text>Utkarsh</Text>
+			<Text>Уткарш</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_MALE_10">
-			<Text>Vivaan</Text>
+			<Text>Віваан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_1">
-			<Text>Aanya</Text>
+			<Text>Аня</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_2">
-			<Text>Aarohi</Text>
+			<Text>Аарохі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_3">
-			<Text>Diya</Text>
+			<Text>Дія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_4">
-			<Text>Lakshya</Text>
+			<Text>Лакшья</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_5">
-			<Text>Mrinalini</Text>
+			<Text>Мріналіні</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_6">
 			<Text>Navya</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_7">
-			<Text>Priyanka</Text>
+			<Text>Приянка</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_8">
-			<Text>Tanvi</Text>
+			<Text>Танві</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_9">
-			<Text>Sushma</Text>
+			<Text>Сушма</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_INDIA_MODERN_FEMALE_10">
-			<Text>Vaani</Text>
+			<Text>Ваані</Text>
 		</Row>
 		<!--Japan-->
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_1">
-			<Text>Akeno</Text>
+			<Text>Акено</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_2">
-			<Text>Benjiro</Text>
+			<Text>Бенджіро</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_3">
-			<Text>Hiroshi</Text>
+			<Text>Хіроші</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_4">
-			<Text>Jomei</Text>
+			<Text>Джомей</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_5">
-			<Text>Kaage</Text>
+			<Text>Кааге</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_6">
-			<Text>Kaemon</Text>
+			<Text>Каемон</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_7">
-			<Text>Mashiro</Text>
+			<Text>Маширо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_8">
-			<Text>Renjiro</Text>
+			<Text>Рендзіро</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_9">
-			<Text>Sachiro</Text>
+			<Text>Сачіро</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MALE_10">
-			<Text>Teijo</Text>
+			<Text>Тейо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_1">
-			<Text>Akiko</Text>
+			<Text>Акіко</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_2">
-			<Text>Chiyo</Text>
+			<Text>Чіо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_3">
-			<Text>Emiko</Text>
+			<Text>Еміко</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_4">
-			<Text>Hoshiko</Text>
+			<Text>Хошіко</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_5">
-			<Text>Kameko</Text>
+			<Text>Камеко</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_6">
-			<Text>Kashiya</Text>
+			<Text>Кашия</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_7">
-			<Text>Kimiko</Text>
+			<Text>Кіміко</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_8">
-			<Text>Natsuko</Text>
+			<Text>Нацуко</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_9">
-			<Text>Sakura</Text>
+			<Text>Сакура</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_FEMALE_10">
-			<Text>Yumiko</Text>
+			<Text>Юміко</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_1">
-			<Text>Akira</Text>
+			<Text>Акіра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_2">
-			<Text>Haruta</Text>
+			<Text>Харута</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_3">
-			<Text>Hiroto</Text>
+			<Text>Хірото</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_4">
-			<Text>Masa</Text>
+			<Text>Маса</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_5">
-			<Text>Ren</Text>
+			<Text>Рен</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_6">
-			<Text>Sho</Text>
+			<Text>Шо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_7">
-			<Text>Sora</Text>
+			<Text>Сора</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_8">
-			<Text>Tatsuo</Text>
+			<Text>Тацуо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_9">
-			<Text>Yamato</Text>
+			<Text>Ямато</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_MALE_10">
-			<Text>Yuki</Text>
+			<Text>Юкі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_1">
-			<Text>Aoi</Text>
+			<Text>Аой</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_2">
-			<Text>Hina</Text>
+			<Text>Хіна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_3">
-			<Text>Midori</Text>
+			<Text>Мідорі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_4">
-			<Text>Miu</Text>
+			<Text>Міу</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_5">
-			<Text>Miyu</Text>
+			<Text>Мію</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_6">
-			<Text>Nanami</Text>
+			<Text>Нанамі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_7">
-			<Text>Rin</Text>
+			<Text>Рін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_8">
-			<Text>Sakura</Text>
+			<Text>Айя</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_9">
-			<Text>Umi</Text>
+			<Text>Умі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_JAPAN_MODERN_FEMALE_10">
-			<Text>Yumi</Text>
+			<Text>Юмі</Text>
 		</Row>
 		<!--Kongo-->
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_1">
-			<Text>Alongi</Text>
+			<Text>Алонґі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_2">
-			<Text>Din</Text>
+			<Text>Дін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_3">
-			<Text>Elombe</Text>
+			<Text>Еломбе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_4">
-			<Text>Lumingu</Text>
+			<Text>Лумінгу</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_5">
-			<Text>Lumumba</Text>
+			<Text>Лумумба</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_6">
-			<Text>Mani</Text>
+			<Text>Мані</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_7">
-			<Text>Matadi</Text>
+			<Text>Матаді</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_8">
-			<Text>Ngweji</Text>
+			<Text>Нґведжі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_9">
-			<Text>Tshilongo</Text>
+			<Text>Тшилонго</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MALE_10">
-			<Text>Yerodin</Text>
+			<Text>Єродін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_1">
-			<Text>Bela</Text>
+			<Text>Бела</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_2">
-			<Text>Dinanga</Text>
+			<Text>Дінганга</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_3">
-			<Text>Kabanga</Text>
+			<Text>Кабанга</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_4">
-			<Text>Kayipu</Text>
+			<Text>Кайіпу</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_5">
-			<Text>Lola</Text>
+			<Text>Лола</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_6">
-			<Text>Makemba</Text>
+			<Text>Макемба</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_7">
-			<Text>Makiadi</Text>
+			<Text>Макіаді</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_8">
-			<Text>Mosantu</Text>
+			<Text>Святий</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_9">
-			<Text>Mwimpa</Text>
+			<Text>Мвімпа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_FEMALE_10">
-			<Text>Zola</Text>
+			<Text>Золя</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_1">
-			<Text>Bahari</Text>
+			<Text>Бахарі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_2">
-			<Text>Chiamaka</Text>
+			<Text>Чіамака</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_3">
-			<Text>Davu</Text>
+			<Text>Девід</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_4">
-			<Text>Faraji</Text>
+			<Text>Фараджі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_5">
-			<Text>Gazali</Text>
+			<Text>Газалі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_6">
-			<Text>Issay</Text>
+			<Text>Есе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_7">
-			<Text>Jumo</Text>
+			<Text>Джумо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_8">
-			<Text>Mablevi</Text>
+			<Text>Маблеві</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_9">
-			<Text>Naeem</Text>
+			<Text>Наїм</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_MALE_10">
-			<Text>Rafiki</Text>
+			<Text>Рафікі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_1">
-			<Text>Amandla</Text>
+			<Text>Повноваження</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_2">
-			<Text>Chalondra</Text>
+			<Text>Халондра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_3">
-			<Text>Ebere</Text>
+			<Text>Ебере</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_4">
-			<Text>Efia</Text>
+			<Text>Це означає</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_5">
-			<Text>Haracha</Text>
+			<Text>Харача</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_6">
-			<Text>Ifrah</Text>
+			<Text>Іфра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_7">
-			<Text>Kainda</Text>
+			<Text>Каїнда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_8">
-			<Text>Mandze</Text>
+			<Text>Мандзе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_9">
-			<Text>Nailah</Text>
+			<Text>Найла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_KONGO_MODERN_FEMALE_10">
-			<Text>Rahema</Text>
+			<Text>Рахема</Text>
 		</Row>
 		<!--Norway-->
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_1">
-			<Text>Asger</Text>
+			<Text>Асгер</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_2">
-			<Text>Bjarke</Text>
+			<Text>Б'ярке</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_3">
-			<Text>Brynjar</Text>
+			<Text>Бриньяр</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_4">
-			<Text>Dustin</Text>
+			<Text>Дастін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_5">
-			<Text>Eindride</Text>
+			<Text>Айнрайд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_6">
-			<Text>Fritjof</Text>
+			<Text>Фрітьоф</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_7">
-			<Text>Hakon</Text>
+			<Text>Хакон</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_8">
-			<Text>Knute</Text>
+			<Text>Кнютте</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_9">
-			<Text>Stian</Text>
+			<Text>Стіан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MALE_10">
-			<Text>Trygve</Text>
+			<Text>Тригве</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_1">
-			<Text>Asta</Text>
+			<Text>Аста</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_2">
-			<Text>Bergljot</Text>
+			<Text>Бергльот</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_3">
-			<Text>Eira</Text>
+			<Text>Ейра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_4">
-			<Text>Freja</Text>
+			<Text>Фрейя</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_5">
-			<Text>Gunborg</Text>
+			<Text>Гунборг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_6">
-			<Text>Helka</Text>
+			<Text>Хелка</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_7">
-			<Text>Inkeri</Text>
+			<Text>Інкері</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_8">
-			<Text>Magnhild</Text>
+			<Text>Магнхільд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_9">
-			<Text>Signe</Text>
+			<Text>Сігн</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_FEMALE_10">
-			<Text>Thyra</Text>
+			<Text>Тіра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_1">
-			<Text>Arne</Text>
+			<Text>Арне</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_2">
-			<Text>Donalt</Text>
+			<Text>Доналт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_3">
-			<Text>Einar</Text>
+			<Text>Ейнар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_4">
-			<Text>Garth</Text>
+			<Text>Гарт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_5">
-			<Text>Halvor</Text>
+			<Text>Халвор</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_6">
-			<Text>Lars</Text>
+			<Text>Ларс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_7">
-			<Text>Nels</Text>
+			<Text>Нельс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_8">
-			<Text>Oddvar</Text>
+			<Text>Віддвар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_9">
-			<Text>Sigurd</Text>
+			<Text>Сіґурд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_MALE_10">
-			<Text>Ulf</Text>
+			<Text>Ульф</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_1">
-			<Text>Astrid</Text>
+			<Text>Астрід</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_2">
-			<Text>Brita</Text>
+			<Text>Бріта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_3">
-			<Text>Dagmar</Text>
+			<Text>Дагмар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_4">
-			<Text>Greta</Text>
+			<Text>Грета</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_5">
-			<Text>Gunnhild</Text>
+			<Text>Гуннільда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_6">
-			<Text>Inga</Text>
+			<Text>Інґа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_7">
-			<Text>Liv</Text>
+			<Text>Лів</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_8">
-			<Text>Ragna</Text>
+			<Text>Рагна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_9">
-			<Text>Solveig</Text>
+			<Text>Сольвейг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_NORWAY_MODERN_FEMALE_10">
-			<Text>Valjeta</Text>
+			<Text>Валєта</Text>
 		</Row>
 		<!--Rome-->
 		<Row Tag="LOC_CITIZEN_ROME_MALE_1">
-			<Text>Acacius</Text>
+			<Text>Акацій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MALE_2">
-			<Text>Aetius</Text>
+			<Text>Аетій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MALE_3">
-			<Text>Brutus</Text>
+			<Text>Брут</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MALE_4">
-			<Text>Caelinus</Text>
+			<Text>Каелін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MALE_5">
-			<Text>Emidius</Text>
+			<Text>Емідій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MALE_6">
-			<Text>Flavius</Text>
+			<Text>Флавій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MALE_7">
-			<Text>Jovilius</Text>
+			<Text>Йовілій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MALE_8">
-			<Text>Manius</Text>
+			<Text>Маніус</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MALE_9">
-			<Text>Sophus</Text>
+			<Text>Софус</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MALE_10">
-			<Text>Timaeus</Text>
+			<Text>Тімей</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_1">
-			<Text>Abelia</Text>
+			<Text>Абелія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_2">
-			<Text>Chloris</Text>
+			<Text>Хлоріс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_3">
-			<Text>Clotho</Text>
+			<Text>Клото</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_4">
-			<Text>Eliana</Text>
+			<Text>Еліана</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_5">
-			<Text>Gracilia</Text>
+			<Text>Ґрацілія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_6">
-			<Text>Herta</Text>
+			<Text>Герта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_7">
-			<Text>Isidora</Text>
+			<Text>Ізидора</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_8">
-			<Text>Laetitia</Text>
+			<Text>Лаетітія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_9">
-			<Text>Melita</Text>
+			<Text>Меліта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_FEMALE_10">
-			<Text>Proserpina</Text>
+			<Text>Прозерпіна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_1">
-			<Text>Adolfo</Text>
+			<Text>Адольфо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_2">
-			<Text>Benito</Text>
+			<Text>Беніто</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_3">
-			<Text>Dario</Text>
+			<Text>Даріо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_4">
-			<Text>Elmo</Text>
+			<Text>Елмо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_5">
-			<Text>Federico</Text>
+			<Text>Фредеріко</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_6">
-			<Text>Guido</Text>
+			<Text>Ґвідо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_7">
-			<Text>Marzio</Text>
+			<Text>Марціо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_8">
-			<Text>Pasqualino</Text>
+			<Text>Паскуаліно</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_9">
-			<Text>Remo</Text>
+			<Text>Ремо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_MALE_10">
-			<Text>Umberto</Text>
+			<Text>Умберто</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_1">
-			<Text>Bambi</Text>
+			<Text>Бамбі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_2">
-			<Text>Bella</Text>
+			<Text>Белла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_3">
-			<Text>Caprice</Text>
+			<Text>Капріс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_4">
-			<Text>Donatella</Text>
+			<Text>Донателла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_5">
-			<Text>Francesca</Text>
+			<Text>Франческа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_6">
-			<Text>Laurenza</Text>
+			<Text>Лоуренца</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_7">
-			<Text>Lucrezia</Text>
+			<Text>Лукреція</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_8">
-			<Text>Ortensia</Text>
+			<Text>Гортензія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_9">
-			<Text>Sabrina</Text>
+			<Text>Сабріна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_ROME_MODERN_FEMALE_10">
-			<Text>Vitalia</Text>
+			<Text>Віталія</Text>
 		</Row>
 		<!--Russia-->
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_1">
-			<Text>Aleksai</Text>
+			<Text>Алєксєй</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_2">
-			<Text>Avel</Text>
+			<Text>Авель</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_3">
-			<Text>Dimitri</Text>
+			<Text>Дмітрій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_4">
-			<Text>Evgenii</Text>
+			<Text>Євґеній</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_5">
-			<Text>Gorya</Text>
+			<Text>Горя</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_6">
-			<Text>Igor</Text>
+			<Text>Іґорь</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_7">
-			<Text>Leonid</Text>
+			<Text>Лєонід</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_8">
-			<Text>Oleg</Text>
+			<Text>Олеґ</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_9">
-			<Text>Pavel</Text>
+			<Text>Павєл</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MALE_10">
-			<Text>Stenya</Text>
+			<Text>Стєня</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_1">
-			<Text>Agniya</Text>
+			<Text>Аґнія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_2">
-			<Text>Dushenka</Text>
+			<Text>Катька</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_3">
-			<Text>Ekaterina</Text>
+			<Text>Єкатєріна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_4">
-			<Text>Galina</Text>
+			<Text>Ґаліна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_5">
-			<Text>Irina</Text>
+			<Text>Іріна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_6">
-			<Text>Marishka</Text>
+			<Text>Марішка</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_7">
-			<Text>Sofiya</Text>
+			<Text>Софія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_8">
-			<Text>Svetlana</Text>
+			<Text>Свєтлана</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_9">
-			<Text>Valentina</Text>
+			<Text>Валєнтіна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_FEMALE_10">
-			<Text>Zinaida</Text>
+			<Text>Зінаїда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_1">
-			<Text>Andrei</Text>
+			<Text>Андрєй</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_2">
-			<Text>Gregori</Text>
+			<Text>Ґрєґорій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_3">
-			<Text>Karol</Text>
+			<Text>Кароль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_4">
-			<Text>Misha</Text>
+			<Text>Міша</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_5">
-			<Text>Nikolai</Text>
+			<Text>Ніколай</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_6">
-			<Text>Oral</Text>
+			<Text>Орал</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_7">
-			<Text>Ratmir</Text>
+			<Text>Ратмір</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_8">
-			<Text>Sasha</Text>
+			<Text>Саша</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_9">
-			<Text>Vasyl</Text>
+			<Text>Васілій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_MALE_10">
-			<Text>Umberto</Text>
+			<Text>Алєксандр</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_1">
-			<Text>Anastasia</Text>
+			<Text>Анастасія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_2">
-			<Text>Anichka</Text>
+			<Text>Анєчка</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_3">
-			<Text>Elena</Text>
+			<Text>Єлєна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_4">
-			<Text>Inessa</Text>
+			<Text>Іннесса</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_5">
-			<Text>Lyudmila</Text>
+			<Text>Людміла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_6">
-			<Text>Nadya</Text>
+			<Text>Над'я</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_7">
-			<Text>Natasha</Text>
+			<Text>Наташа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_8">
-			<Text>Tatiana</Text>
+			<Text>Тат'яна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_9">
-			<Text>Vanna</Text>
+			<Text>Ванька</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_RUSSIA_MODERN_FEMALE_10">
-			<Text>Yasmin</Text>
+			<Text>Каріна</Text>
 		</Row>
 		<!--Scythia-->
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_1">
-			<Text>Argimpas</Text>
+			<Text>Ішпакай</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_2">
-			<Text>Arimaspu</Text>
+			<Text>Анахурс</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_3">
-			<Text>Artimpada</Text>
+			<Text>Аріапейт</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_4">
-			<Text>Katiari</Text>
+			<Text>Каніта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_5">
-			<Text>Kolax</Text>
+			<Text>Кафак</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_6">
-			<Text>Leipoxis</Text>
+			<Text>Лік</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_7">
-			<Text>Scopasis</Text>
+			<Text>Скопасій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_8">
-			<Text>Szererce</Text>
+			<Text>Савлій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_9">
-			<Text>Tarxuta</Text>
+			<Text>Тархута</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MALE_10">
-			<Text>Turxu</Text>
+			<Text>Тануса</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_1">
-			<Text>Agathyrsi</Text>
+			<Text>Аргот</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_2">
-			<Text>Apia</Text>
+			<Text>Айлій</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_3">
-			<Text>Artimpasa</Text>
+			<Text>Атей</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_4">
-			<Text>Enaree</Text>
+			<Text>Орік</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_5">
-			<Text>Hestia</Text>
+			<Text>Гнур</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_6">
-			<Text>Issedo</Text>
+			<Text>Скілур</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_7">
-			<Text>Kollippi</Text>
+			<Text>Колліппі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_8">
-			<Text>Lewlelil</Text>
+			<Text>Левлеліль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_9">
-			<Text>Oirpata</Text>
+			<Text>Оірпата</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_FEMALE_10">
-			<Text>Temarun</Text>
+			<Text>Темарун</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_1">
-			<Text>Aabir</Text>
+			<Text>Аабір</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_2">
-			<Text>Cheragh</Text>
+			<Text>Чераг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_3">
-			<Text>Deepak</Text>
+			<Text>Діпак</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_4">
-			<Text>Ghufran</Text>
+			<Text>Гуфран</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_5">
-			<Text>Isar</Text>
+			<Text>Ісар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_6">
-			<Text>Javeed</Text>
+			<Text>Джавед</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_7">
-			<Text>Mallalai</Text>
+			<Text>Маллалай</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_8">
-			<Text>Mujtaba</Text>
+			<Text>Саріак</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_9">
-			<Text>Raafi</Text>
+			<Text>Савмак</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_MALE_10">
-			<Text>Warid</Text>
+			<Text>Варід</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_1">
-			<Text>Baheejah</Text>
+			<Text>Бахіджа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_2">
-			<Text>Delkash</Text>
+			<Text>Делкаш</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_3">
-			<Text>Fawza</Text>
+			<Text>Фавза</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_4">
-			<Text>Huzuz</Text>
+			<Text>Хузуз</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_5">
-			<Text>Khirad</Text>
+			<Text>Хірад</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_6">
-			<Text>Lale</Text>
+			<Text>Тюльпан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_7">
-			<Text>Nuzha</Text>
+			<Text>Нужа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_8">
-			<Text>Parivash</Text>
+			<Text>Паріваш</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_9">
-			<Text>Sumera</Text>
+			<Text>Сумера</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SCYTHIA_MODERN_FEMALE_10">
-			<Text>Teeha</Text>
+			<Text>Тіха</Text>
 		</Row>
 		<!--Spain-->
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_1">
-			<Text>Bernardo</Text>
+			<Text>Бернардо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_2">
-			<Text>Gualterio</Text>
+			<Text>Гуаьтеріо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_3">
-			<Text>Leandro</Text>
+			<Text>Леандро</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_4">
-			<Text>Maurio</Text>
+			<Text>Мауріо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_5">
-			<Text>Naldo</Text>
+			<Text>Налдо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_6">
-			<Text>Ramiro</Text>
+			<Text>Раміро</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_7">
-			<Text>Rufio</Text>
+			<Text>Руфіо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_8">
-			<Text>Teodoro</Text>
+			<Text>Теодоро</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_9">
-			<Text>Vicente</Text>
+			<Text>Вісенте</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MALE_10">
-			<Text>Xavier</Text>
+			<Text>Ксав'єр</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_1">
-			<Text>Agacia</Text>
+			<Text>Агація</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_2">
-			<Text>Carmita</Text>
+			<Text>Карміта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_3">
-			<Text>Joaquina</Text>
+			<Text>Хоакіна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_4">
-			<Text>Lupita</Text>
+			<Text>Люпіта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_5">
-			<Text>Paloma</Text>
+			<Text>Палома</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_6">
-			<Text>Ramona</Text>
+			<Text>Рамона</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_7">
-			<Text>Suelita</Text>
+			<Text>Суеліта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_8">
-			<Text>Ursulina</Text>
+			<Text>Урсуліна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_9">
-			<Text>Ventura</Text>
+			<Text>Вентура</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_FEMALE_10">
-			<Text>Zanetta</Text>
+			<Text>Занетта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_1">
-			<Text>Alejandro</Text>
+			<Text>Алехандро</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_2">
-			<Text>Carlos</Text>
+			<Text>Карлос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_3">
-			<Text>Duarte</Text>
+			<Text>Дуарте</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_4">
-			<Text>Ernesto</Text>
+			<Text>Ернесто</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_5">
-			<Text>Fidele</Text>
+			<Text>Фідель</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_6">
-			<Text>Hernando</Text>
+			<Text>Ернандо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_7">
-			<Text>Javier</Text>
+			<Text>Хав'єр</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_8">
-			<Text>Pancho</Text>
+			<Text>Панчо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_9">
-			<Text>Pepe</Text>
+			<Text>Пепе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_MALE_10">
-			<Text>Santos</Text>
+			<Text>Сантос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_1">
-			<Text>Benita</Text>
+			<Text>Беніта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_2">
-			<Text>Dolores</Text>
+			<Text>Долорес</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_3">
-			<Text>Evita</Text>
+			<Text>Евіта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_4">
-			<Text>Florida</Text>
+			<Text>Флорида</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_5">
-			<Text>Ignacia</Text>
+			<Text>Ігнасія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_6">
-			<Text>Madalena</Text>
+			<Text>Мадалена</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_7">
-			<Text>Nevada</Text>
+			<Text>Невада</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_8">
-			<Text>Seina</Text>
+			<Text>Сейна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_9">
-			<Text>Tabora</Text>
+			<Text>Табора</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SPAIN_MODERN_FEMALE_10">
-			<Text>Yoana</Text>
+			<Text>Йоана</Text>
 		</Row>
 		<!--Sumeria-->
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_1">
-			<Text>Alad</Text>
+			<Text>Алад</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_2">
-			<Text>Dari</Text>
+			<Text>Дарі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_3">
-			<Text>Izila</Text>
+			<Text>Ізіла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_4">
-			<Text>Kuliaana</Text>
+			<Text>Куляана</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_5">
-			<Text>Ludari</Text>
+			<Text>Лударі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_6">
-			<Text>Lusili</Text>
+			<Text>Люсілі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_7">
-			<Text>Meania</Text>
+			<Text>Меанія</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_8">
-			<Text>Sheshkala</Text>
+			<Text>Шешкала</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_9">
-			<Text>Sisig</Text>
+			<Text>Сісіг</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MALE_10">
-			<Text>Zimu</Text>
+			<Text>Зиму</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_1">
-			<Text>Amarezen</Text>
+			<Text>Амарезен</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_2">
-			<Text>Anusan</Text>
+			<Text>Анусан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_3">
-			<Text>Aradegi</Text>
+			<Text>Арадегі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_4">
-			<Text>Bauninsheg</Text>
+			<Text>Бауніньшег</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_5">
-			<Text>Garanda</Text>
+			<Text>Гаранда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_6">
-			<Text>Gemekala</Text>
+			<Text>Гемекала</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_7">
-			<Text>Nigbau</Text>
+			<Text>Нігбау</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_8">
-			<Text>Ninna</Text>
+			<Text>Ніна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_9">
-			<Text>Nintuda</Text>
+			<Text>Нінтуда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_FEMALE_10">
-			<Text>Sherzi</Text>
+			<Text>Шерзі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_1">
-			<Text>Aban</Text>
+			<Text>Абан</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_2">
-			<Text>Ali</Text>
+			<Text>Алі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_3">
-			<Text>Gabir</Text>
+			<Text>Габір</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_4">
-			<Text>Hakim</Text>
+			<Text>Хакім</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_5">
-			<Text>Hussein</Text>
+			<Text>Хусейн</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_6">
-			<Text>Malik</Text>
+			<Text>Малік</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_7">
-			<Text>Raheem</Text>
+			<Text>Рахім</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_8">
-			<Text>Uday</Text>
+			<Text>Удай</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_9">
-			<Text>Yusuf</Text>
+			<Text>Юсуф</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_MALE_10">
-			<Text>Zaid</Text>
+			<Text>Заїд</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_1">
-			<Text>Aasera</Text>
+			<Text>Аасера</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_2">
-			<Text>Aditi</Text>
+			<Text>Адіті</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_3">
-			<Text>Bedisa</Text>
+			<Text>Бедіса</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_4">
-			<Text>Dashenka</Text>
+			<Text>Ашена</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_5">
-			<Text>Farrah</Text>
+			<Text>Фарра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_6">
-			<Text>Leyla</Text>
+			<Text>Лейла</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_7">
-			<Text>Nadira</Text>
+			<Text>Надіра</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_8">
-			<Text>Razeena</Text>
+			<Text>Разіна</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_9">
-			<Text>Shabeen</Text>
+			<Text>Шабін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SUMERIA_MODERN_FEMALE_10">
-			<Text>Shada</Text>
+			<Text>Шада</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
