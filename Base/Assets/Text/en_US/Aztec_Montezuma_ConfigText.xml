@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_NAME">
-			<Text>Legend of the Five Suns</Text>
+			<Text>Легенда про п'ять сонць</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_DESCRIPTION">
 			<Text>[ICON_Bullet]Мастаки отримують здатність пришвидшувати зведення районів (20% за раз).</Text>
@@ -11,7 +11,7 @@
 			<Text>Дарунки Платоані</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_DESCRIPTION">
-			<Text>[ICON_Bullet]Розкішні ресурси підвищують [ICON_Amenities] щастя у 6 містах, замість 4.[NEWLINE][ICON_Bullet]+1 [ICON_Strength] бойова міць військовиків за кожен покращений власний розкішний ресурс.</Text>
+			<Text>[ICON_Bullet]Розкішні ресурси підвищують [ICON_Amenities] щастя у 6 містах, замість 4.[NEWLINE][ICON_Bullet]+1 [ICON_Strength] бойова міць військових за кожен покращений власний розкішний ресурс.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
 			<Text>Орлоносці</Text>
@@ -26,7 +26,7 @@
 			<Text>Унікальна ацтекська споруда.[NEWLINE][NEWLINE]+2 [ICON_Amenities] щастя.[NEWLINE]+1 [ICON_Culture] культури.[NEWLINE]+2 [ICON_Faith] віри.[NEWLINE]+1 пункт появи [ICON_GreatGeneral] полководця.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_TLACHTLI_XP1_DESCRIPTION">
-			<Text>A building unique to the Aztecs. Provides 2 [ICON_Amenities] Amenities, +2 [ICON_Culture] Culture, +2 [ICON_Faith] Faith, and a [ICON_GreatGeneral] Great General Point. Provides +1 [ICON_TOURISM] Tourism after advancing to the Conservation Civic.</Text>
+			<Text>Будівля, унікальна для ацтеків. Надає 2 [ICON_Amenities] Зручностей, +2 [ICON_Culture] Культури, +2 [ICON_Faith] Віри, та [ICON_GreatGeneral] очки Великого Генерала. Дає +1 [ICON_TOURISM] Туризму після відкриття інституту "Охорона Природи".</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
