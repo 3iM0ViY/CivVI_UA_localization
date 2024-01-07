@@ -41,10 +41,10 @@
 		
 		<!-- Front End Popups -->
 		<Row Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
-			<Text>Не вдалося виначити графічні можливості пристрою.[NEWLINE][NEWLINE]Будь ласка, вкажіть ваші графічні налаштування власноруч.</Text>
+			<Text>Не вдалося виначити графічні можливості пристрою.[NEWLINE][NEWLINE]Будь ласка, вкажіть Ваші графічні налаштування власноруч.</Text>
 		</Row>
 		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
-			<Text>Ваш графічний драйвер старіший за мінімальну рекомендовану версію.[NEWLINE][NEWLINE]Будь ласка, оновіть ваш драйвер до найновішої версії.</Text>
+			<Text>Ваш графічний драйвер старіший за мінімальну рекомендовану версію.[NEWLINE][NEWLINE]Будь ласка, оновіть Ваш драйвер до найновішої версії.</Text>
 		</Row>
 		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
 			<Text>Не турбуй мене знову.</Text>
@@ -192,7 +192,7 @@
 			<Text>Впевнені, що бажаєте вийти з гри?</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_TXT">
-			<Text>Це назавжди видалить ваш файл збереження. Впевнені, що бажаєте це зробити?</Text>
+			<Text>Це назавжди видалить Ваш файл збереження. Впевнені, що бажаєте це зробити?</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
 			<Text>Підтвердити завантаження</Text>
@@ -359,7 +359,7 @@
 
 		<!-- Multiplayer PlayByCloud End Turn Error Popup -->
 		<Row Tag="LOC_GAME_CLOUD_END_TURN_FAILED">
-			<Text>Гра не змогла обробити ваш ігровий хід через помилку. Перевірте підключення до Інтернету та повторіть спробу.[NEWLINE]Error Code: {1_ErrorCode}</Text>
+			<Text>Гра не змогла обробити Ваш ігровий хід через помилку. Перевірте підключення до Інтернету та повторіть спробу.[NEWLINE]Error Code: {1_ErrorCode}</Text>
 		</Row>
 		<Row Tag="LOC_GAME_CLOUD_END_TURN_FAILED_TITLE">
 			<Text>Не вдалося завершити хід</Text>
@@ -1661,7 +1661,7 @@
 			<Text>Мапа з випадковою кількістю ресурсів.</Text>
 		</Row>
 		<Row Tag="LOC_MAP_START_POSITION_DESCRIPTION">
-			<Text>Змінює значення вашої початкової позиції.</Text>
+			<Text>Змінює значення Вашої початкової позиції.</Text>
 		</Row>
 		<Row Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
 			<Text>Кожен гравець отримує однаково гарне стартове місце.</Text>
@@ -1693,7 +1693,7 @@
 			<Text>Ласкаво просимо до Цивілізації!</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
-			<Text>Тут починається наша подорож взрощування імперії з її скромних починань до величі — написання нашої власної версії історії.[NEWLINE][NEWLINE]Чи ви завоюєте світ у великих битвах, або ж станете першими, хто відправить своїх людей до зірок? Чи вплинете ви на світ культурою вашого народу, або ж ваші вірування поширяться до найвіддаленіших куточків світу?[NEWLINE][NEWLINE]Лише час покаже...[NEWLINE][NEWLINE]Всі великі цивілізації починаються з великого лідера. Оберіть цивілізацію знизу, якою бажаєте зіграти під час навчання.</Text>
+			<Text>Тут починається наша подорож взрощування імперії з її скромних починань до величі — написання нашої власної версії історії.[NEWLINE][NEWLINE]Чи Ви завоюєте світ у великих битвах, або ж станете першими, хто відправить своїх людей до зірок? Чи вплинете Ви на світ культурою Вашого народу, або ж Ваші вірування поширяться до найвіддаленіших куточків світу?[NEWLINE][NEWLINE]Лише час покаже...[NEWLINE][NEWLINE]Всі великі цивілізації починаються з великого лідера. Оберіть цивілізацію знизу, якою бажаєте зіграти під час навчання.</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_1">
 			<Text>Клеопатра з Єгипету керує цивілізацією сильних союзів і майстерних міських розбудов.</Text>
@@ -1742,28 +1742,28 @@
 			<Text>Настала Ваша пора вести Ваш народ до слави й створити цивілізацію, що витримає випробування часом.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
-			<Text>Героїчний Фредеріку, королю німців, Ваша справа - звести оточуючі Вас незалежні держави в єдину імперію. Ви вроджені бути великим віськовим головнокомандувачем - використовуйте Ваші навички для підкорення цих міст під вашу владу задля розбудови комерційних та індустріальних центрів. Авжеж барди тоді оспівають Вашу велич і Вашу червону бороду імператора Священної Римської імперії.</Text>
+			<Text>Героїчний Фредеріку, королю німців, Ваша справа - звести оточуючі Вас незалежні держави в єдину імперію. Ви вроджені бути великим військовим головнокомандувачем - використовуйте Ваші навички для підкорення цих міст під Вашу владу задля розбудови комерційних та індустріальних центрів. Авжеж барди тоді оспівають Вашу велич і Вашу червону бороду імператора Священної Римської імперії.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
-			<Text>Вам випадає, Катерино де Медічі, використовувати Ваші дари знання та мистецтв аби об'єднати своїх людей. Будьте обережні в ці смутні часи, Королево-мати Франції. Ви побудуєте привабливі чудеса, що заволікатимуть відвідувачів з усіх куточків світу. З Вашою обізнанністю всією, як публічною так і прихованою в тінях, сутністю справи, Ваша держава впевнено пройде усі виклики протягом століть.</Text>
+			<Text>Вам випадає, Катерино де Медічі, використовувати Ваші дари знання та мистецтв аби об'єднати своїх людей. Будьте обережні в ці смутні часи, Королево-мати Франції. Ви побудуєте привабливі чудеса, що заволікатимуть відвідувачів з усіх куточків світу. З Вашою обізнаністю всією, як публічною, так і прихованою в тінях, сутністю справи, Ваша держава впевнено пройде усі виклики протягом століть.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
-			<Text>Будуть ті що Вас недооцінюватимуть, але на них ще вистачить Вашої хитрості й лукавості, Пані Фараоне Клеопатро. Ваша врода допоможе заснувати незруйнівні союзи з найсильнішими лідерами світу. Тримайте друзів поруч і Ви усвідомите свою недоторканість. Тоді слава Єгипту буде гарантовано стане взірцем для світу.</Text>
+			<Text>Будуть ті що Вас недооцінюватимуть, але на них ще вистачить Вашої хитрості й лукавості, Пані Фараоне Клеопатро. Ваша врода допоможе заснувати незруйновні союзи з найсильнішими лідерами світу. Тримайте друзів поруч і Ви усвідомите свою недоторканість. Тоді слава Єгипту буде гарантовано стане взірцем для світу.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GANDHI">
 			<Text>Поширюйте добро, Ґанді Бапу, і Вас оточуватимуть справжні друзі. Тримайте індійське населення в безпеці, захищаючи своїх людей розкішними бойовими слонами. Ваша віра приведе Вас до миру й гармонії. Тримайте свій розум відкритим і будьте тією зміною що бажаєте побачити в світі.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
-			<Text>Багато чого лежить на Ваших плечах, царю Гільґамеше. Ваш народ, та безліч людей з усього світу, дивляться на Вас як на справжнього лідера. Проте Ви всього лиш людина й навантаження усього світу ніколи не змусять Вас вагатися. Надихайте шумерців оселяти родючі землі вздовж річок та сумлінно оберайте своїх союзників - завжди багато хто змагатимуться за шматок Вашої сили. Йдіть уперед без вагань - час починати Ваш епос.</Text>
+			<Text>Багато чого лежить на Ваших плечах, царю Гільгамеше. Ваш народ, та безліч людей з усього світу, дивляться на Вас як на справжнього лідера. Проте Ви всього лиш людина й навантаження усього світу ніколи не змусять Вас вагатися. Надихайте шумерів оселяти родючі землі вздовж річок та сумлінно обирайте своїх союзників - завжди багато хто змагатиметься за шматок Вашої сили. Йдіть уперед без вагань - час починати Ваш епос.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GORGO">
 			<Text>Горго, царице Спарти, слава тобі і твоїм вірним гоплітам! Греція тішиться благословенням Ареса, яке приносить кожну перемогу. А Ваш народ аплодує Вашому мудрому правлінню та культурним надбанням. Пишайтесь, адже про спадщину Греції та Ваші досягнення будуть розповідати знову і знову впродовж багатьох поколінь.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
-			<Text>Всі люди жахаються наближення Ваших кораблів, королю Гаральде з Норвегії, Громовержцю Півночі. Ваші баркаси панують над хвилями, завжди готові обрушити свої армії берсеркерів на беззахисні береги.  Нехай Одін благословить Ваше королівство, а скальди оспівають звитяги Ваших могутніх витязів.</Text>
+			<Text>Всі люди жахаються наближення Ваших кораблів, королю Гаральде з Норвегії, Громовержцю Півночі. Ваші баркаси панують над хвилями, завжди готові обрушити свої армії берсеркерів на беззахисні береги. Нехай Одін благословить Ваше королівство, а скальди оспівають звитяги Ваших могутніх витязів.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_HOJO">
-			<Text>Велика хвиля буддизму йде за Вами, сіккене Японії, Ходзьо Токімуне. Ваш народ дійсно усвідомлює, що значить дотримуватися гармонії, і навіть ваші найліпші самураї будуть добре освіченими та духовно зрілими. Будьте сильним, відкрийтеся божественному вітру, і Ви досягнете просвітлення.</Text>
+			<Text>Велика хвиля буддизму йде за Вами, сіккене Японії, Ходзьо Токімуне. Ваш народ дійсно усвідомлює, що значить дотримуватися гармонії, і навіть Ваші найліпші самураї будуть добре освіченими та духовно зрілими. Будьте сильним, відкрийтеся божественному вітру, і Ви досягнете просвітлення.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
 			<Text>Земля-мати підготувала багато дарів для Вас, королю Мвемба-а-Нзінґа. Ваш народ знає густі ліси та джунглі як свій дім і легко мандрує ними.  Чудовими є також гостинці, котрі прибувають від мандрівників з далеких земель. Тримайте свій світогляд відкритим, адже натхнення вільного світу дозволить нашим людям творити мистецтво владно і водночас шляхетно.</Text>
@@ -1775,10 +1775,10 @@
 			<Text>Ваше майстерне володіння словом - це неоціненний дар, Перікле срібноголосий, лідере еллінів. Завдяки йому Ви можете привернути до себе відданість цілої плеяди держав, огорнувши себе їхньою славою. Створюйте культурні пам'ятки вздовж скелястих берегів Еллади, аби об'єднати свій народ довкола міцного правління. Якщо все піде гаразд, сирени оспівуватимуть добу Перікла!</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
-			<Text>Ну й №:?*Y ви існуєте? Обіймати холодний вітер північної бідноти й погані, царьку Петре. Безграмотність, культурні апропріації та грабунок дійсно великих держав - все на чому ви тримаєтесь. Під вашим правлінням росісія неодмінно розквітне у лайні та бажатиме лиш розносити його далі до сусідів, в безнадійних потугах створити найбільшу імперію.</Text>
+			<Text>Ну й №:?*Y ви існуєте? Обіймати холодний вітер північної бідноти й погані, царьку Петре. Безграмотність, культурні апропріації та грабунок дійсно великих держав - все на чому ви тримаєтесь. Під Вашим правлінням росісія неодмінно розквітне у лайні та бажатиме лиш розносити його далі до сусідів, в безнадійних потугах створити найбільшу імперію.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
-			<Text>Вся Іспанія готова відгукнутися на ваші молитви, розсудливий королю Філіпе II. З вашого Ескоріальського королівського монастиря Ви можете відправляти своїх послідовників: місіонерів, апостолів і конкістадорів, що готові вирушити за океани, несучи благу вість про Вашу святу імперію. Нехай скарби, які вони знайдуть, сприятимуть вашому прагненню об'єднати світ під єдиною вірою і єдиною імперією, зробивши Вас воістину найкатоличнішим королем.</Text>
+			<Text>Вся Іспанія готова відгукнутися на Ваші молитви, розсудливий королю Філіпе II. З Вашого Ескоріальського королівського монастиря Ви можете відправляти своїх послідовників: місіонерів, апостолів і конкістадорів, що готові вирушити за океани, несучи благу вість про Вашу святу імперію. Нехай скарби, які вони знайдуть, сприятимуть Вашому прагненню об'єднати світ під єдиною вірою і єдиною імперією, зробивши Вас воістину найкатоличнішим королем.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_QIN">
 			<Text>У Вашому народі криється Ваша найбільша сила, імператоре Цінь Ши Хуан-ді. З усього світу люди приїжджатимуть, аби поглянути на великі стіни та високі будови Вашого об'єднаного Китаю. Нехай буде миска рис і руки Ваших людей ніколи не покриваються мозолями, поки вони наполегливо будують найбільш разючі споруди, що коли-небудь бачив світ. Бережіть їх, і Ви будете увіковічені назавжди.</Text>
@@ -1793,46 +1793,46 @@
 			<Text>Широко закидайте свої тенета, Траяне, імператоре великого Риму. Ваші легіони стоять напоготові, аби виступити в походи й заснувати найбільшу імперію, яку коли-небудь бачив світ. Якщо Вам справді вдасться зробити так, щоб усі дороги вели до Риму, Ваша держава буде сповнена багатств і розкоші. Наші громадяни тоді неодмінно проголосять Вас своїм кращим правителем, Optime Principe.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
-			<Text>And so it is upon your broad shoulders, Theodore Roosevelt, to charge forth and lead your people on their great adventure. Use your military might to give the peoples of your homeland the square deal they so desperately deserve. Surely you will raise America into the limelight and attract visitors from across the oceans just to see your lands. Bully for you, Mr. President.</Text>
+			<Text>І ось на Ваші широкі плечі, Теодоре Рузвельте, лягає обов'язок вести свій нарід назустріч його великій подорожі. Використовуйте свою мілітарну міць, щоб забезпечити людям Вашої батьківщини справедливий курс, на котрий вони так заслуговують. Без сумніву, Ви виведете Америку до центру світової уваги й закличете відвідувачів з-за океанів побачити Ваші землі. За Вас, пане Президенте.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
-			<Text>Your Majesty the Queen Victoria of England, extend your reach beyond your borders and across the face of the globe.  Worry not over the possibility of defeat for your loyal redcoats and overwhelming navy will surely carry the day. With your calm and steady touch you can bring all lands under England's sway, establishing a true Pax Britannica.</Text>
+			<Text>Ваша Величносте, королево Вікторіє, поширюйте свою владу за межі власних кордонів і через обличчя земної кулі. Не турбуйтеся про можливість поразки, адже Ваші вірні червономундирники та неперевершений флот неодмінно здобудуть лаври. Спокійною і врівноваженою рукою Ви підкорите всі землі англійській короні, встановлюючи Pax Britannica.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_ANCIENT_DESCRIPTION">
-			<Text>From the first stirrings of life beneath water… to the great beasts of the Stone Age… to man taking his first upright steps, you have come far.  Now begins your greatest quest: from this early cradle of civilization on towards the stars.</Text>
+			<Text>Від перших проявів життя під водою... до велетенських звірів кам'яного віку... до перших стійких кроків людини — Ви далеко пройшли. Тепер починається Ваша найбільша подорож: від цієї ранньої колиски цивілізації далі до зірок.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
-			<Text>From humble beginnings, you have shown remarkable growth. Leave your bronze for iron and rule with horse and sword. The sky above begins to reveal its secrets, a collection of heaven that uplifts our hearts and guides us to foreign shores.</Text>
+			<Text>Зі скромних починань, Ви показали неабиякий розвиток. Залиште бронзу заради заліза та пануйте верхи на коні й з мечем. Небо вгорі починає розкривати свої таємниці — зібрання небесних благ, які підносять наші серця та ведуть до чужоземних берегів.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
-			<Text>You have built great cities of stone and seen early empires rise and fall.  Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you grow to understand your place in this world.</Text>
+			<Text>Ви будували величні міста з каменю і бачили, як зароджувалися і занепадали ранні імперії. Незабаром Ви стоятимете під високими шпилями фортець разом зі своїми доблесними лицарями. Саме там буде написана історія Вашого народу. Подібно до того, як молодий джура вчиться тримати зброю в руках, так і Ви будете зростати, щоб усвідомити своє місце в цьому світі.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
-			<Text>New powers call forth, from the barrel of muskets to flowers of fire in the sky. Even the quiet words on newly printed pages hold great changes within. The world, once so vast and mysterious, has grown smaller and more familiar. Yet, there are always questions to be answered, faiths to be tested, and national identities to be formed.</Text>
+			<Text>Нові сили звучать, від пострілів мушкетів до вогняних квітів у небі. Навіть тихі слова на щойно надрукованих сторінках несуть у собі великі зміни. Світ, колись такий неосяжний і таємничий, став тіснішим і знайомішим. Але завжди залишаються питання, на які треба відповідати, віра, яку треба випробовувати, і національна ідентичність, яку потрібно формувати.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
-			<Text>The steady hum of machinery, the acrid smell of smoke, vision clouded by ash and soot - these are the signs of changing times. The lure of scientific and cultural advancement is the engine driving your realm forward.  Now your challenge is to maintain the delicate balance between earth and man, between peace and war.</Text>
+			<Text>Безперервний гул машин, їдкий сморід диму, затьмарений попелом і кіптявою зір - ось прикмети настання нових часів. Принада наукового та культурного прогресу - це двигун, що рухає Ваше королівство вперед. Тепер Ваше завдання підтримувати крихку рівновагу між землею і людиною, між миром і войною.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_MODERN_DESCRIPTION">
-			<Text>In the beginning, legends of flying men soared. And today, you are on the brink of transforming those legends into a reality. With flight and new forms of communication you can create a small and intimate world.  But at what cost? Our competing ideas of how to govern and how to live threaten to bring conflict on a global scale.  You must choose your own path through this rising din of ideological oratory.</Text>
+			<Text>Спочатку легенди про польоти буяли серед людей. І сьогодні Ви стоїте на порозі втілення цих легенд у реальність. З польотами і новими формами комунікації Ви можете створити маленький і інтимний світ. Але якою ціною? Наші суперечливі уявлення про те, як керувати державою і як жити, загрожують привести до конфліктів у глобальному масштабі. Ви повинні обрати свій шлях крізь цей зростаючий гомін ідеологічного словоблудства.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_ATOMIC_DESCRIPTION">
-			<Text>New frontiers of discovery expand our understanding, from the tiny atom to the majesty of outer space. Mysteries long tolerated are closer than ever to revealing their deepest secrets, beyond what we can easily see. You will choose how to use this knowledge, and push back the greatest darkness we have yet faced.</Text>
+			<Text>Нові рубежі досліджень розширюють наше розуміння речей - від крихітного атома до величі космічних просторів. Таємниці, яких довго замовчували, сьогодні як ніколи близькі до розкриття своїх найглибших секретів, навіть тих що ми й не уявляли. Ви обиратимете, як використовувати ці знання, і відкинете назад найглибшу темряву, з якою ми коли-небудь стикалися.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_INFORMATION_DESCRIPTION">
-			<Text>A world of information rests in the palm of your hand, and networks for instantaneous communication span the globe.  Yet a unified vision of our future has never been built.  We compete in technology, culture, and politics. We have deadly weapons that could destroy our planet. Lead us carefully, but boldly, and build a global community that can stand for years to come.</Text>
+			<Text>Світ інформації лежить на Вашій долоні, а мережі миттєвої взаємодії охоплюють всю планету. Однак так і не було сформовано єдиного бачення нашого майбутнього. Ми конкуруємо в технологіях, культурі та політиці. У нас є смертоносна зброя, здатна винищити нашу Землю. Ведіть нас обачно, але сміливо, і створіть глобальну спільноту, здатну вистояти впродовж багатьох років.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_DISABLE">
-			<Text>Disable advisor.</Text>
+			<Text>Вимкнути порадника.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
-			<Text>New to turn-based strategy.</Text>
+			<Text>Новачок до покрокових стратегій.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV">
-			<Text>New to Civilization</Text>
+			<Text>Новачок до Civilization</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
-			<Text>New to Civilization VI</Text>
+			<Text>Новачок до Civilization VI</Text>
 		</Row>
 		<Row Tag="LOC_NO_DUPLICATE_CIVILIZATIONS_NAME">
 			<Text>Без націй-двійників</Text>
@@ -1856,7 +1856,7 @@
 			<Text>Тривалість гри</Text>
 		</Row>
 		<Row Tag="LOC_LIMIT_TURNS_DESCRIPTION">
-			<Text>Limit the maximum number of turns</Text>
+			<Text>Обмежує максимальну кількість ходів.</Text>
 		</Row>
 		<Row Tag="LOC_TURNLIMIT_NONE_NAME">
 			<Text>Без обмежень</Text>
@@ -1907,78 +1907,78 @@
 			<Text>Грати, створити нову гру чи продовжити збережену.</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_MULTIPLAYER_TT">
-			<Text>Internet, network, and hot seat matches can be setup or joined here.</Text>
+			<Text>Тут можна налаштувати або приєднатися до інтернет-матчів, мережевих матчів та ігор з "гарячими місцями".</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
-			<Text>Settings for graphics, audio, key bindings, and more.</Text>
+			<Text>Налаштування графіки, звуку, прив'язки клавіш тощо.</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_MODS_TT">
-			<Text>Custom creations by fans to extend and expand Civilization VI.</Text>
+			<Text>Користувацькі творіння від фанатів, які розширюють і доповнюють Civilization VI.</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_TUTORIAL_TT">
-			<Text>Completely new to the franchise, or need a refresher? We're here to help!</Text>
+			<Text>Зовсім не знайомі з франшизою, або Вам потрібне повторне ознайомлення? Ми готові допомогти!</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_BENCHMARK_TT">
-			<Text>How does your hardware stack up?</Text>
+			<Text>Як працює Ваше апаратне забезпечення?</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_WORLDBUILDER_TT">
-			<Text>The World Builder map editor.</Text>
+			<Text>Конструктор світу - редактор мап.</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_CREDITS_TT">
-			<Text>Everyone who made contributions to Civilization VI.</Text>
+			<Text>Всім, хто зробив свій внесок у створенні Civilization VI.</Text>
 		</Row>
 		<Row Tag="LOC_MAINMENU_EXIT_GAME_TT">
-			<Text>Exit the game completely.</Text>
+			<Text>Повністю вийти з гри.</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_HALL_OF_FAME">
-			<Text>Hall of Fame</Text>
+			<Text>Зала слави</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_HALL_OF_FAME_TT">
-			<Text>Does your gameplay stand the test of time?</Text>
+			<Text>Чи проходить Ваш ігролад випробування часом?</Text>
 		</Row>
 
 		<!-- Copyright screen -->
 		<Row Tag="LOC_COPYRIGHT_TEXT">
-			<Text>© 1991 - 2020 Take-Two Interactive Software, Inc. Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier’s Civilization VI, Sid Meier’s Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Uses Bink Video. Copyright © 1997 - 2020 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999 - 2020 by RAD Game Tools Inc. Powered by WWise © 2006- 2020 Audiokinetic Inc. All rights reserved. Fork Copyright © 2020 Fork Particle, Inc. Sid Meier’s Civilization VI uses Havok®. © 1999 - 2020 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994 - 2020 Lua.org, PUC-Rio. All other marks and trademarks are property of their respective owners. All rights reserved. The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game’s historical setting.[NEWLINE][NEWLINE][COLOR_GREEN]Творчий переклад від Nifael та 3iM0ViY_B0N60n.[ENDCOLOR]</Text>
+			<Text>© 1991 - 2020 Take-Two Interactive Software, Inc. Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier’s Civilization VI, Sid Meier’s Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Uses Bink Video. Copyright © 1997 - 2020 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999 - 2020 by RAD Game Tools Inc. Powered by WWise © 2006- 2020 Audiokinetic Inc. All rights reserved. Fork Copyright © 2020 Fork Particle, Inc. Sid Meier’s Civilization VI uses Havok®. © 1999 - 2020 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994 - 2020 Lua.org, PUC-Rio. All other marks and trademarks are property of their respective owners. All rights reserved. The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game’s historical setting.[NEWLINE][NEWLINE][COLOR_BLUE]Творчий переклад від Nifael та 3iM0ViY_B0N60n.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_COPYRIGHT_ACCEPT">
-			<Text>Continue</Text>
+			<Text>Продовжити</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DEFAULT_NAME">
 			<Text>Перемога</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_HEADER">
-			<Text>VICTORY!</Text>
+			<Text>ПЕРЕМОГА!</Text>
 		</Row>
 		<Row Tag="LOC_DEFEATED_SUBHEADER">
-			<Text>DEFEATED</Text>
+			<Text>ПОРАЗКА</Text>
 		</Row>
 		<Row Tag="LOC_ELIMINATED_SUBHEADER">
-			<Text>ELIMINATED</Text>
+			<Text>ЛІКВІДОВАНО</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCORE_SUBHEADER">
-			<Text>SCORE VICTORY</Text>
+			<Text>ПІДСУМКОВА ПЕРЕМОГА</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
-			<Text>SCIENCE VICTORY</Text>
+			<Text>НАУКОВА ПЕРЕМОГА</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_CULTURE_SUBHEADER">
-			<Text>CULTURE VICTORY</Text>
+			<Text>КУЛЬТУРНА ПЕРЕМОГА</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
-			<Text>DOMINATION VICTORY</Text>
+			<Text>ЗАВОЙОВНИЦЬКА ПЕРЕМОГА</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
-			<Text>RELIGIOUS VICTORY</Text>
+			<Text>РЕЛІГІЙНА ПЕРЕМОГА</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
-			<Text>VICTORY: {1_ScenarioName}</Text>
+			<Text>ПЕРЕМОГА: {1_ScenarioName}</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
 			<Text>{1_ScenarioVictoryType}</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
-			<Text>GAME WINNER</Text>
+			<Text>ПЕРЕМОЖЕЦЬ ГРИ</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCORE_NAME">
 			<Text>Підсумкова перемога</Text>
@@ -1996,7 +1996,7 @@
 			<Text>Релігійна перемога</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCORE_TT">
-			<Text>Аби досягти перемоги цим шляхом, слід мати найвищий підсумковий рахунок с поміж всіх. Пріоритет відсутній - важливо майже все.</Text>
+			<Text>Аби досягти перемоги цим шляхом, слід мати найвищий підсумковий рахунок з поміж усіх. Пріоритет відсутній - важливо майже все.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_SCIENCE_TT">
 			<Text>Аби досягти перемоги цим шляхом, слід першим розгорнути колонію на Марсі. Пріоритет - наука та промисловість на останніх етапах гри.</Text>
@@ -2005,10 +2005,10 @@
 			<Text>Аби досягти перемоги цим шляхом, слід стати культурним маяком світу. Пріоритет - культура та туризм.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_DOMINATION_TT">
-			<Text>Аби досягти перемоги цим шляхом, слід здолати всіх отримавши контроль над столицями. Пріоритет - сильне військо.</Text>
+			<Text>Аби досягти перемоги цим шляхом, слід здолати всіх, отримавши контроль над їх столицями. Пріоритет - сильне військо.</Text>
 		</Row>
 		<Row Tag="LOC_VICTORY_RELIGIOUS_TT">
-			<Text>Аби досягти перемоги цим шляхом, слід заснувати та поширити релігію на весь світ. Пріоритет - віра.</Text>
+			<Text>Аби досягти перемоги цим шляхом, слід заснувати та поширити релігію усьому світові. Пріоритет - віра.</Text>
 		</Row>
 		<Row Tag="LOC_RULESET_NAME">
 			<Text>Усталені правила</Text>
@@ -2017,121 +2017,121 @@
 			<Text>Стандартний набір правил гри.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
-			<Text>Play as Cleopatra</Text>
+			<Text>Зіграйте за Клеопатру</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
-			<Text>Play as Gilgamesh</Text>
+			<Text>Зіграйте за Гільгамеша</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
-			<Text>РЕШТА</Text>
+			<Text>Інше</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
-			<Text>Additional content for Civilization VI.</Text>
+			<Text>Додатковий вміст для Civilization VI.</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_DEMO">
-			<Text>Demo</Text>
+			<Text>Демо</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
-			<Text>Buy It Now</Text>
+			<Text>Придбати зараз</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
-			<Text>Open Steam Store to purchase Sid Meier's Civilization VI</Text>
+			<Text>Відкрити Крамницю Steam, щоб купити Sid Meier's Civilization VI</Text>
 		</Row>
 		<Row Tag="LOC_DEMO_COMPLETE_CONTENT">
-			<Text>Congratulations! You have taken the first steps towards building a Civilization to stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people’s culture flourish? Your science enlighten? Your faith inspire? Your military dominate?[NEWLINE][NEWLINE]How will you lead in Sid Meier’s Civilization VI? Continue the journey now.[NEWLINE][NEWLINE]Build. Conquer. Inspire.</Text>
+			<Text>CВітаємо! Ви здійснили перші кроки до створення цивілізації, яка пройде випробування часом. Чи будете Ви продовжувати перевіряти себе на міцність, борючись з найвидатнішими лідерами історії? Чи зможе культура Вашого народу процвітати? Ваша наука просвітлювати? Ваша віра надихати? Ваше військо панувати?[NEWLINE][NEWLINE]Як Ви керуватимете у Sid Meier's Civilization VI? Продовжуйте свою подорож вже зараз.[NEWLINE][NEWLINE]Будуйте. Підкорюйте. Надихайте.</Text>
 		</Row>
 		<Row Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
-			<Text>Fade into History</Text>
+			<Text>Зникнути в історії</Text>
 		</Row>
 		<Row Tag="LOC_DEMO_COMPLETE_BUY">
-			<Text>Achieve Greatness</Text>
+			<Text>Досягнути величі</Text>
 		</Row>
 		<Row Tag="LOC_ARX_VICTORY_PROGRESS">
-			<Text>{1_CivName} Victory Progress</Text>
+			<Text>{1_CivName} - Шлях до перемоги</Text>
 		</Row>
 		<Row Tag="LOC_ARX_TOP_5">
-			<Text>Top 5</Text>
+			<Text>Топ-5</Text>
 		</Row>
 		<Row Tag="LOC_ARX_GOSSIP_LOG">
-			<Text>Gossip Log</Text>
+			<Text>Журнал чуток</Text>
 		</Row>
 		<!-- File Errors -->
 		<Row Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
-			<Text>Save cannot be loaded in this version of the game.</Text>
+			<Text>Збереження не може бути завантажене в цій версії гри.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
-			<Text>Unable to open save.</Text>
+			<Text>Не вдається відкрити збереження.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
-			<Text>Unable to write save.</Text>
+			<Text>Не вдається зберегти.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
-			<Text>Unable to read save.</Text>
+			<Text>Не вдається прочитати збереження.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
-			<Text>Unable to remove save.</Text>
+			<Text>Не вдається видалити збереження.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
-			<Text>File is not a save game.</Text>
+			<Text>Файл не є збереженням гри.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
-			<Text>Save game is corrupt.</Text>
+			<Text>Збереження гри пошкоджено.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
-			<Text>Save loading unexpectedly ended.</Text>
+			<Text>Завантаження файлу збереження раптово обірвалося.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
-			<Text>Unable to restore the game state.</Text>
+			<Text>Не вдається відновити стан гри.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
-			<Text>Unable find the path to the save.</Text>
+			<Text>Не вдається знайти шлях до збереження.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
-			<Text>The save device is invalid.</Text>
+			<Text>Пристрій збереження є недійсним.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
-			<Text>Unable to retrieve the save list from the device.</Text>
+			<Text>Не вдається отримати список збережень з пристрою.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
-			<Text>One or more required Mods for the save are not installed.</Text>
+			<Text>Один або декілька необхідних модифікацій для збереження не встановлено.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
-			<Text>One or more required DLC packages for the save are not installed.</Text>
+			<Text>Один або декілька необхідних DLC-пакетів для збереження не встановлено.</Text>
 		</Row>
 		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
 			<Text>One or more required Expansion packages for the save are not installed.</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_NAME_SELECT_TITLE">
-			<Text>Team Name</Text>
+			<Text>Назва команди</Text>
 		</Row>
 		<Row Tag="LOC_TEAM_NAME_ENTRY_TITLE">
-			<Text>Enter Team Name</Text>
+			<Text>Ввести назву команди</Text>
 		</Row>
 		<Row Tag="LOC_CHOOSE_TEAM_ICON">
-			<Text>Choose Team Icon</Text>
+			<Text>Обрати іконку команди</Text>
 		</Row>
 		<Row Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
-			<Text>Message of the Day:</Text>
+			<Text>Новина дня:</Text>
 		</Row>
 
 		<!-- -->
 		<Row Tag="LOC_GAME_START_ERROR_DESC">
-			<Text>There was an error starting the game.[NEWLINE][NEWLINE]We recommend disabling any mods and trying again.</Text>
+			<Text>Виникла помилка запуску гри.[NEWLINE][NEWLINE]Ми радимо вимкнути будь-які моди й повторити спробу.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_START_ERROR_CODE">
 			<Text>Error - {1_ErrorCode}</Text>
 		</Row>
 		<Row Tag="LOC_GAME_START_VIEW_MODS">
-			<Text>Manage Mods</Text>
+			<Text>Керування модифікаціями</Text>
 		</Row>
 		<Row Tag="LOC_GAME_START_ERROR_TITLE">
-			<Text>Error Starting Game</Text>
+			<Text>Помилка запуску гри</Text>
 		</Row>
 		<Row Tag="LOC_GAME_START_ERROR_UNKNOWN_VERSION">
-			<Text>Save version is incompatible.</Text>
+			<Text>Версія збереження несумісна.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_START_ERROR_MOD_CONTENT">
-			<Text>One or more Mods failed to load content.</Text>
+			<Text>Один або кілька модифікацій не змогли завантажити вміст.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_START_ERROR_MOD_CONFIG">
 			<Text>One or more Mods failed to configure content or database entries.</Text>
@@ -2143,37 +2143,37 @@
 			<Text>One or more of the startup scripts has an error. See lua.log</Text>
 		</Row>
 		<Row Tag="LOC_CLOUD_SAVES_REQUIRE_LINKED_ACCOUNT">
-			<Text>Cloud saves require a linked 2K Account.</Text>
+			<Text>Для збереження у хмарі потрібно прив'язаний обліковий запис 2K.</Text>
 		</Row>
 		<Row Tag="LOC_CLOUD_SAVES_SERVICE_NOT_CONNECTED">
 			<Text>Послуги хмари не задіяно.</Text>
 		</Row>
 		<Row Tag="LOC_PAUSEMENU_INFO_OVERVIEW_TOOLTIP">
-			<Text>Technical information about this game:</Text>
+			<Text>Технічна інформація про гру:</Text>
 		</Row>
 		<Row Tag="LOC_PAUSEMENU_INFO_VERSION_TOOLTIP">
-			<Text>Version: {1_Version}</Text>
+			<Text>Версія: {1_Version}</Text>
 		</Row>
 		<Row Tag="LOC_PAUSEMENU_INFO_MAP_SEED">
-			<Text>Map Seed: {1_MapSeed}</Text>
+			<Text>Зерно мапи: {1_MapSeed}</Text>
 		</Row>
 		<Row Tag="LOC_PAUSEMENU_INFO_GAME_SEED">
-			<Text>Game Seed: {1_GameSeed}</Text>
+			<Text>Зерно гри: {1_GameSeed}</Text>
 		</Row>
 		<Row Tag="LOC_PAUSEMENU_INFO_MOUSE_COPY_TOOLTIP">
-			<Text>Right click to copy information.</Text>
+			<Text>Клацніть правою клавішею миші, щоб скопіювати інформацію.</Text>
 		</Row>
 		<Row Tag="LOC_PAUSEMENU_INFO_TOUCH_COPY_TOOLTIP">
-			<Text>Hold for 5 seconds to copy information.</Text>
+			<Text>Утримуйте 5 секунд, щоб скопіювати дані.</Text>
 		</Row>
 		<Row Tag="LOC_MOD_SCOUT_CAT_TITLE">
-			<Text>Scout Cat</Text>
+			<Text>Кіт-розвідник.</Text>
 		</Row>
 		<Row Tag="LOC_MOD_SCOUT_CAT_TEASER">
-			<Text>Replaces the Scout's dog with a clowder of cats.</Text>
+			<Text>Замінює собаку розвідника на зграю котів.</Text>
 		</Row>
 		<Row Tag="LOC_MOD_SCOUT_CAT_DESCRIPTION">
-			<Text>Sometimes a player loves "Scout" the dog so much that they cannot stand to see Scout working so hard in the wild. So the obvious solution is to send in a clowder of cats so Scout can relax back at the village. Or, if you're a huge fan of felines, then this DLC is simply righting a wrong.</Text>
+			<Text>Інколи гравець так сильно любить собаку Скаута, що йому нестерпно бачити, як важко Скаут працює в дикій природі. Тому очевидним рішенням буде відправити натомість зграю котів, аби Скаут зміг відпочити в селі. Або, якщо Ви великий шанувальник котячих, то це доповнення просто виправляє становище.</Text>
 		</Row>
 
 		<!-- Leader Pools -->
@@ -2190,19 +2190,19 @@
 			<Text>Даний набір буде використано під час вибору випадкових лідерів (Набір 2).</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_POOL_COUNTER_WARNING">
-			<Text>[COLOR_RED]A miniumum of {1_Min} leaders need to be selected.[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Мінімум {1_Min} лідерів має бути обрано.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_POOL_PRESETS">
-			<Text>Presets:</Text>
+			<Text>Попередні налаштування:</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_PICK_PRESET_ALL">
-			<Text>All</Text>
+			<Text>Всі</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_PICK_PRESET_NONE">
-			<Text>None</Text>
+			<Text>Жодного</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_PICK_PRESET_NO_WINS">
-			<Text>Leaders with no wins</Text>
+			<Text>Лідери без перемог</Text>
 		</Row>
 		<Row Tag="LOC_RANDOM_LEADER_POOL_1">
 			<Text>Випадковий лідер (Набір 1)</Text>
@@ -2211,7 +2211,7 @@
 			<Text>Випадковий лідер (Набір 2)</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_POOL_TOO_FEW_WARNING">
-			<Text>One of the Leader Pools does not have enough leaders for each player that's selected that pool. If you proceed some of those players will be assigned leaders outside of that pool. Is this okay?</Text>
+			<Text>В одному з наборів лідерів не вистачає вибору для кожного гравця, що обрав його. Якщо Ви продовжите, деяким з цих гравців буде присвоєно лідерів за межами цього списку. Гаразд?</Text>
 		</Row>
 	</FrontEndText>
 </GameData>
