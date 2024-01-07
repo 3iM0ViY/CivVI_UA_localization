@@ -34,14 +34,14 @@
 			<Text>Цивілізація {1_CivName} перемогла за підсумковим рахунком!</Text>
 		</Row>
 		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_TECHNOLOGY">
-			<Text>Цивілізація {1_CivName} навчили себе бути переможцем!</Text>
+			<Text>Цивілізація {1_CivName} навчила себе бути переможцем!</Text>
 		</Row>
 		<!-- -->
 		<Row Tag="LOC_AUTONARRATE_MAKE_PEACE">
 			<Text>Цивілізація {1_CivName} уклала мир із {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_AUTONARRATE_DECLARE_WAR">
-			<Text>Цивілізація {1_CivName} оголовила війну {2_CivName}.</Text>
+			<Text>Цивілізація {1_CivName} оголосила війну {2_CivName}.</Text>
 		</Row>
 		<!-- Era Change -->
 		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_CHANGED">

@@ -38,10 +38,9 @@
 		<Row Tag="LOC_SELECT_NONE">
 			<Text>Не обирати жодного</Text>
 		</Row>
-		
 		<!-- Front End Popups -->
 		<Row Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
-			<Text>Не вдалося виначити графічні можливості пристрою.[NEWLINE][NEWLINE]Будь ласка, вкажіть Ваші графічні налаштування власноруч.</Text>
+			<Text>Не вдалося визначити графічні можливості пристрою.[NEWLINE][NEWLINE]Будь ласка, вкажіть Ваші графічні налаштування власноруч.</Text>
 		</Row>
 		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
 			<Text>Ваш графічний драйвер старіший за мінімальну рекомендовану версію.[NEWLINE][NEWLINE]Будь ласка, оновіть Ваш драйвер до найновішої версії.</Text>
@@ -55,7 +54,6 @@
 		<Row Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
 			<Text>Графічні налаштування було скореговано. Ви можете переглянути чи змінити ці налаштування у відповідному меню.</Text>
 		</Row>
-
 		<!-- Main Menu-->
 		<Row Tag="LOC_MAIN_MENU_RESUME_GAME">
 			<Text>Продовжити гру</Text>
@@ -114,7 +112,6 @@
 		<Row Tag="LOC_MAIN_MENU_TUTORIAL">
 			<Text>Навчання</Text>
 		</Row>
-
 		<!-- Load / Save Menus -->
 		<Row Tag="LOC_DELETE_BUTTON">
 			<Text>Видалити</Text>
@@ -171,7 +168,7 @@
 			<Text>Неможливо зберегти в режимі Спостерігача.</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
-			<Text>Ви досягли межі по кількостям хмарних збережень. Перезапишіть або видаліть деякі збереження.</Text>
+			<Text>Ви досягли межі по кількостях хмарних збережень. Перезапишіть або видаліть деякі збереження.</Text>
 		</Row>
 		<Row Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
 			<Text>Некоректне ім'я для файлу.</Text>
@@ -201,10 +198,10 @@
 			<Text>Незбережене проходження гри буде втрачено. Ви впевнені?</Text>
 		</Row>
 		<Row Tag="LOC_OVERWRITE_TXT">
-			<Text>Обране сніп-збереження буде перезаписано. Ви впевнені?</Text>
+			<Text>Обраний сніп-збереження буде перезаписано. Ви впевнені?</Text>
 		</Row>
 		<Row Tag="LOC_DELETE_MOD_TXT">
-			<Text>Це назавжди видалить оцього мода. Впевнені, що бажаєте це зробити?</Text>
+			<Text>Це назавжди видалить модифікацію. Впевнені, що бажаєте це зробити?</Text>
 		</Row>
 		<Row Tag="LOC_CONFIRM_DISABLE_MOD">
 			<Text>Впевнені, що хочете вимкнути цей мод?</Text>
@@ -261,7 +258,6 @@
 		<Row Tag="LOC_LOADSAVE_QUICK_SAVE">
 			<Text>(Швидке збереження)</Text>
 		</Row>
-
 		<!-- Advanced Game Setup -->
 		<Row Tag="LOC_NETWORK_NAME_TT">
 			<Text>Ім'я в мережі[NEWLINE]Це ім'я буде відображатись іншим гаравцям.</Text>
@@ -294,7 +290,6 @@
 		<Row Tag="LOC_MAP_OPTIONS">
 			<Text>Налаштування мапи</Text>
 		</Row>
-
 		<!-- Multiplayer Game Abandoned Popup -->
 		<Row Tag="LOC_GAME_ABANDONED_KICKED">
 			<Text>Ви були вигнані з гри організатором.</Text>
@@ -356,7 +351,6 @@
 		<Row Tag="LOC_GAME_ABANDONED_MATCH_DELETED_TITLE">
 			<Text>Гру було видалено</Text>
 		</Row>
-
 		<!-- Multiplayer PlayByCloud End Turn Error Popup -->
 		<Row Tag="LOC_GAME_CLOUD_END_TURN_FAILED">
 			<Text>Гра не змогла обробити Ваш ігровий хід через помилку. Перевірте підключення до Інтернету та повторіть спробу.[NEWLINE]Error Code: {1_ErrorCode}</Text>
@@ -364,7 +358,6 @@
 		<Row Tag="LOC_GAME_CLOUD_END_TURN_FAILED_TITLE">
 			<Text>Не вдалося завершити хід</Text>
 		</Row>
-
 		<!-- Multiplayer Select Screen-->
 		<Row Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
 			<Text>Гра гравця {1_PlayerName}</Text>
@@ -402,7 +395,6 @@
 		<Row Tag="LOC_MENU_BACK">
 			<Text>Назад</Text>
 		</Row>
-
 		<!-- Multiplayer Chat Commands -->
 		<Row Tag="LOC_CHAT_HELP_COMMAND_HINT">
 			<Text>[COLOR:ChatMessage_Help]Впишіть /help аби отримати довідку щодо команд чату.[ENDCOLOR]</Text>
@@ -410,7 +402,6 @@
 		<Row Tag="LOC_CHAT_HELP_COMMAND_TEXT">
 			<Text>[COLOR:ChatMessage_Help]Команди чатику[NEWLINE]/t Надіслати повідомлення до каналу команди[NEWLINE]/g Надіслати повідомлення до глобального каналу[NEWLINE]/w [PlayerName] Пошепки повідомлення гравцеві на вушко[NEWLINE]/r Прошепотіти у відповідь[NEWLINE]/help Відображає це довідкове повідомлення[ENDCOLOR]</Text>
 		</Row>
-
 		<!-- Multiplayer Lobby Screen -->
 		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
 			<Text>Оновити</Text>
@@ -650,10 +641,10 @@
 			<Text>Автоматично завантажувати додатковий вміст, створений спільнотою, коли це потрібно для приєднання до багатокористувацької гри.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
-			<Text>Конфігурація контролера Steam відбувається всередині клієнта Steam, а не в цьому інтерфейсі користувача. Esc, ЛКМ та ПКМ зарезервовані та не можуть бути переприв"язані.</Text>
+			<Text>Конфігурація контролера Steam відбувається всередині клієнта Steam, а не в цьому інтерфейсі користувача. Esc, ЛКМ та ПКМ зарезервовані та не можуть бути прив'язані наново.</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
-			<Text>Первинна налаштування клавіш</Text>
+			<Text>Первинні налаштування клавіш</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_BIND_HEADER_ALT">
 			<Text>Альтернативна прив'язка</Text>
@@ -691,12 +682,10 @@
 		<Row Tag="LOC_OPTIONS_CLEAR">
 			<Text>Ясно</Text>
 		</Row>
-
 		<!-- Front End Popop -->
 		<Row Tag="LOC_CLOSE">
 			<Text>Закрити</Text>
 		</Row>
-
 		<!-- Multiplayer Joining Room Screen -->
 		<Row Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
 			<Text>Прошу, зачекайте</Text>
@@ -734,7 +723,6 @@
 		<Row Tag="LOC_MP_ROOM_GAME_STARTED_TITLE">
 			<Text>Не вдалося приєднатися</Text>
 		</Row>
-
 		<!-- Multiplayer Staging Room Screen -->
 		<Row Tag="LOC_MP_SWAP_PLAYER">
 			<Text>Помінятись місцями</Text>
@@ -782,7 +770,6 @@
 		<Row Tag="LOC_INVALID_SLOT_HUMAN_REQUIRED_TT">
 			<Text>Щоб розпочати гру, цей слот гравця має бути зайнятий людиною.</Text>
 		</Row>
-
 		<!-- Multiplayer Status Strings END -->
 		<Row Tag="LOC_JOIN">
 			<Text>Приєднатися!</Text>
@@ -804,7 +791,7 @@
 		</Row>
 		<Row Tag="LOC_SLOTTYPE_OBSERVER_TT">
 			<Text>Спостерігайте за грою без безпосередньої участі.</Text>
-		</Row>		
+		</Row>
 		<Row Tag="LOC_SLOTLABEL_HOST">
 			<Text>[ICON_Host] Хост</Text>
 		</Row>
@@ -886,7 +873,6 @@
 		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
 			<Text>Паролі не збігаються</Text>
 		</Row>
-
 		<!-- Staging Room Ready Button-->
 		<Row Tag="LOC_READY_UNSUPPORTED">
 			<Text>Не підтримується.</Text>
@@ -945,7 +931,6 @@
 		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
 			<Text>Принаймні 2 гравці повинні бути в різних командах</Text>
 		</Row>
-
 		<!-- Staging Room Invite Button -->
 		<Row Tag="LOC_INVITE_BUTTON">
 			<Text>Запросити друзів</Text>
@@ -953,7 +938,6 @@
 		<Row Tag="LOC_INVITE_BUTTON_TT">
 			<Text>Запросити до цієї гри своїх друзів Steam.</Text>
 		</Row>
-
 		<!-- Confirm Kick Popup -->
 		<Row Tag="LOC_CANCEL_BUTTON">
 			<Text>Скасувати</Text>
@@ -964,7 +948,6 @@
 		<Row Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
 			<Text>Ви впевнені, що бажаєте вигнати гравця {1_player}?</Text>
 		</Row>
-
 		<!-- Edit Hotseat Player Popup -->
 		<Row Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
 			<Text>Edit Hot Seat Player.</Text>
@@ -981,7 +964,6 @@
 		<Row Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
 			<Text>Введіть повторно:</Text>
 		</Row>
-
 		<!-- Network Connection Status -->
 		<Row Tag="LOC_MP_PLAYER_CONNECTED">
 			<Text>Гравець зараз у грі.</Text>
@@ -1019,7 +1001,6 @@
 		<Row Tag="LOC_TIME_SECONDS">
 			<Text>с</Text>
 		</Row>
-
 		<!-- Friend Actions  -->
 		<Row Tag="LOC_FRIEND_ACTION_PROFILE">
 			<Text>Профіль Steam</Text>
@@ -1039,7 +1020,6 @@
 		<Row Tag="LOC_FRIEND_ACTION_INVITE_TT">
 			<Text>Запросити друга до гри.</Text>
 		</Row>
-
 		<!-- Friend Status  -->
 		<Row Tag="LOC_PRESENCE_ONLINE">
 			<Text>[COLOR:ButtonCS]Онлайн[ENDCOLOR]</Text>
@@ -1077,8 +1057,7 @@
 		<Row Tag="LOC_PRESENCE_WORLD_BUILDER">
 			<Text>[COLOR:ConnectionStatus_Connected]Створює світ[ENDCOLOR]</Text>
 		</Row>
-
-	<!-- Player Connection EVents -->
+		<!-- Player Connection EVents -->
 		<Row Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
 			<Text>Підключено</Text>
 		</Row>
@@ -1091,7 +1070,6 @@
 		<Row Tag="LOC_MP_PLAYER_KICKED_CHAT">
 			<Text>вигнали</Text>
 		</Row>
-
 		<!-- Multiplayer Chat -->
 		<Row Tag="LOC_MULTIPLAYER_CHAT">
 			<Text>Чат</Text>
@@ -1099,7 +1077,6 @@
 		<Row Tag="LOC_MULTIPLAYER_TO_ALL">
 			<Text>Всім:</Text>
 		</Row>
-
 		<!-- Multiplayer Mod Downloads -->
 		<Row Tag="LOC_BYTES">
 			<Text>б</Text>
@@ -1110,7 +1087,6 @@
 		<Row Tag="LOC_MEGABYTES">
 			<Text>Мб</Text>
 		</Row>
-
 		<!-- Setup -->
 		<Row Tag="LOC_SETUP_CREATE_GAME">
 			<Text>Створити гру</Text>
@@ -1263,13 +1239,13 @@
 			<Text>Не вдається почати гру. Усі місця для гравців мають бути зайняті перед початком гри.</Text>
 		</Row>
 		<Row Tag="LOC_READY_BLOCKED_READY_COUNTDOWN_TT">
-			<Text>Не вдається почати гру. Очікування зворотнього відліку або повністю готової гри.</Text>
+			<Text>Не вдається почати гру. Очікування зворотного відліку або повністю готової гри.</Text>
 		</Row>
 		<Row Tag="LOC_READY_COUNTDOWN_TT">
 			<Text>Вас буде встановлено готовим в кінці цього відліку. Натисніть, якщо готові вже зараз.</Text>
 		</Row>
 		<Row Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_TT">
-			<Text>Очікуємо на додаткових гравців. Гра почнеться в кінці зворотнього відліку або коли всі гравці будуть готові.</Text>
+			<Text>Очікуємо на додаткових гравців. Гра почнеться в кінці зворотного відліку або коли всі гравці будуть готові.</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_ERROR_INVALID_OPTION">
 			<Text>Неприпустимий варіант</Text>
@@ -1289,7 +1265,6 @@
 		<Row Tag="LOC_SETUP_PLAYER_COLOR_COLLISION">
 			<Text>Кольори цієї цивілізації можуть конфліктувати з кольорами іншої цивілізації. Ви можете вибрати альтернативну кольорову схему зі списку, якщо бажаєте.</Text>
 		</Row>
-
 		<!-- Configuration Parameters.  Move these to a better location -->
 		<Row Tag="LOC_RULESET">
 			<Text>Набір правил</Text>
@@ -1304,7 +1279,7 @@
 			<Text>Приватна гра</Text>
 		</Row>
 		<Row Tag="LOC_PRIVATE_GAME_DESC">
-			<Text>Приватні ігри не відображаються в багатокористувацьких лоббі. Приватна гра доступна лише через запрошення з гри або ж через список друзів Steam. Цей параметр не стосується ігор у локальній мережі.</Text>
+			<Text>Приватні ігри не показуються в багатокористувацьких лобі. Приватна гра доступна лише через запрошення з гри або ж через список друзів Steam. Цей параметр не стосується ігор у локальній мережі.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_VICTORY_TIME">
 			<Text>Час</Text>
@@ -1447,7 +1422,6 @@
 		<Row Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
 			<Text>Початкові місця, що попередньо визначені на мапі.</Text>
 		</Row>
-
 		<!--Game Speed Descriptions -->
 		<Row Tag="LOC_GAMESPEED_MARATHON_HELP">
 			<Text>Уповільнений на 200% темп гри.</Text>
@@ -1464,7 +1438,6 @@
 		<Row Tag="LOC_GAMESPEED_ONLINE_HELP">
 			<Text>Пришвидшений на 100% темп гри.</Text>
 		</Row>
-
 		<!-- Map Type Descriptions -->
 		<Row Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
 			<Text>Багато маленьких островків з кількома більшими островами.</Text>
@@ -1502,7 +1475,6 @@
 		<Row Tag="LOC_MAP_TERRA_DESCRIPTION">
 			<Text>Мапа континентів, де всі основні цивілізації починають на найбільшому континенті.</Text>
 		</Row>
-
 		<!-- Map Size Descriptions -->
 		<Row Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
 			<Text>Надзвичайно мала мапа для 2 гравців.</Text>
@@ -1522,7 +1494,6 @@
 		<Row Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
 			<Text>Велетенська мапа для 12 гравців.</Text>
 		</Row>
-
 		<!-- City-State Exclusion -->
 		<Row Tag="LOC_EXCLUDE_CITY_STATES_NAME">
 			<Text>Вибір вільних міст</Text>
@@ -1542,7 +1513,6 @@
 		<Row Tag="LOC_CITY_STATE_PICKER_COUNT_WARNING">
 			<Text>[COLOR_RED]Має бути обрано щонайменше {1_Min} {1_Min : plural 1?вільне місто; 2?вільних міста; 3?вільних міста; 4?вільних міста; other?вільних міст;}. Лишилося обрати міст: {2_Remaining}.[ENDCOLOR]</Text>
 		</Row>
-
 		<!-- Natural Wonder Exclusion -->
 		<Row Tag="LOC_EXCLUDE_NATURAL_WONDER_NAME">
 			<Text>Вибір див природи</Text>
@@ -1550,7 +1520,6 @@
 		<Row Tag="LOC_EXCLUDE_NATURAL_WONDER_DESC">
 			<Text>Обрати, які дива природи можуть з'явитися у грі.</Text>
 		</Row>
-
 		<!-- Turn Timer Settings -->
 		<Row Tag="LOC_TURNTIMER_NONE">
 			<Text>Без таймера ходу</Text>
@@ -1583,7 +1552,6 @@
 		<Row Tag="LOC_TURNPHASE_DYNAMIC_DESC">
 			<Text>Гравці в стані миру роблять свої ходи одночасно. Гравці в стані війни роблять свої ходи послідовно.</Text>
 		</Row>
-
 		<!-- Map Config Descriptions -->
 		<Row Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
 			<Text>Змінює висотну характеристику мапи (Пагорби і Гори).</Text>
@@ -1687,16 +1655,15 @@
 		<Row Tag="LOC_MAP_SCRIPT">
 			<Text>Тип мапи</Text>
 		</Row>
-
 		<!-- Tutorial Select Screen-->
 		<Row Tag="LOC_SETUP_TUTORIAL_TITLE">
 			<Text>Ласкаво просимо до Цивілізації!</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
-			<Text>Тут починається наша подорож взрощування імперії з її скромних починань до величі — написання нашої власної версії історії.[NEWLINE][NEWLINE]Чи Ви завоюєте світ у великих битвах, або ж станете першими, хто відправить своїх людей до зірок? Чи вплинете Ви на світ культурою Вашого народу, або ж Ваші вірування поширяться до найвіддаленіших куточків світу?[NEWLINE][NEWLINE]Лише час покаже...[NEWLINE][NEWLINE]Всі великі цивілізації починаються з великого лідера. Оберіть цивілізацію знизу, якою бажаєте зіграти під час навчання.</Text>
+			<Text>Тут починається наша подорож зрощування імперії з її скромних починань до величі — написання нашої власної версії історії.[NEWLINE][NEWLINE]Чи Ви завоюєте світ у великих битвах, або ж станете першими, хто відправить своїх людей до зірок? Чи вплинете Ви на світ культурою Вашого народу, або ж Ваші вірування поширяться до найвіддаленіших куточків світу?[NEWLINE][NEWLINE]Лише час покаже...[NEWLINE][NEWLINE]Всі великі цивілізації починаються з великого лідера. Оберіть цивілізацію знизу, якою бажаєте зіграти під час навчання.</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_1">
-			<Text>Клеопатра з Єгипету керує цивілізацією сильних союзів і майстерних міських розбудов.</Text>
+			<Text>Клеопатра з Єгипту керує цивілізацією сильних союзів і майстерної міської розбудови.</Text>
 		</Row>
 		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_2">
 			<Text>Гільгамеш - шумерський цар, що має владу над великими просторами та славу переможця й завойовника.</Text>
@@ -1742,7 +1709,7 @@
 			<Text>Настала Ваша пора вести Ваш народ до слави й створити цивілізацію, що витримає випробування часом.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
-			<Text>Героїчний Фредеріку, королю німців, Ваша справа - звести оточуючі Вас незалежні держави в єдину імперію. Ви вроджені бути великим військовим головнокомандувачем - використовуйте Ваші навички для підкорення цих міст під Вашу владу задля розбудови комерційних та індустріальних центрів. Авжеж барди тоді оспівають Вашу велич і Вашу червону бороду імператора Священної Римської імперії.</Text>
+			<Text>Героїчний Фредеріку, королю німців, Ваша справа - звести навколишні незалежні держави в єдину імперію. Ви вроджені бути великим військовим головнокомандувачем - використовуйте Ваші навички для підкорення цих міст під Вашу владу задля розбудови комерційних та індустріальних центрів. Авжеж барди тоді оспівають Вашу велич і Вашу червону бороду імператора Священної Римської імперії.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
 			<Text>Вам випадає, Катерино де Медічі, використовувати Ваші дари знання та мистецтв аби об'єднати своїх людей. Будьте обережні в ці смутні часи, Королево-мати Франції. Ви побудуєте привабливі чудеса, що заволікатимуть відвідувачів з усіх куточків світу. З Вашою обізнаністю всією, як публічною, так і прихованою в тінях, сутністю справи, Ваша держава впевнено пройде усі виклики протягом століть.</Text>
@@ -1751,13 +1718,13 @@
 			<Text>Будуть ті що Вас недооцінюватимуть, але на них ще вистачить Вашої хитрості й лукавості, Пані Фараоне Клеопатро. Ваша врода допоможе заснувати незруйновні союзи з найсильнішими лідерами світу. Тримайте друзів поруч і Ви усвідомите свою недоторканість. Тоді слава Єгипту буде гарантовано стане взірцем для світу.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GANDHI">
-			<Text>Поширюйте добро, Ґанді Бапу, і Вас оточуватимуть справжні друзі. Тримайте індійське населення в безпеці, захищаючи своїх людей розкішними бойовими слонами. Ваша віра приведе Вас до миру й гармонії. Тримайте свій розум відкритим і будьте тією зміною що бажаєте побачити в світі.</Text>
+			<Text>Поширюйте добро, Ґанді Бапу, і Вас оточуватимуть справжні друзі. Тримайте індійське населення в безпеці, захищаючи своїх людей розкішними бойовими слонами. Ваша віра приведе Вас до миру й гармонії. Тримайте свій розум відкритим і будьте тією зміною що бажаєте побачити у світі.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
 			<Text>Багато чого лежить на Ваших плечах, царю Гільгамеше. Ваш народ, та безліч людей з усього світу, дивляться на Вас як на справжнього лідера. Проте Ви всього лиш людина й навантаження усього світу ніколи не змусять Вас вагатися. Надихайте шумерів оселяти родючі землі вздовж річок та сумлінно обирайте своїх союзників - завжди багато хто змагатиметься за шматок Вашої сили. Йдіть уперед без вагань - час починати Ваш епос.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_GORGO">
-			<Text>Горго, царице Спарти, слава тобі і твоїм вірним гоплітам! Греція тішиться благословенням Ареса, яке приносить кожну перемогу. А Ваш народ аплодує Вашому мудрому правлінню та культурним надбанням. Пишайтесь, адже про спадщину Греції та Ваші досягнення будуть розповідати знову і знову впродовж багатьох поколінь.</Text>
+			<Text>Горго, царице Спарти, слава тобі й твоїм вірним гоплітам! Греція тішиться благословенням Ареса, яке приносить кожну перемогу. А Ваш народ аплодує Вашому мудрому правлінню та культурним надбанням. Пишайтесь, адже про спадщину Греції та Ваші досягнення будуть розповідати знову і знову впродовж багатьох поколінь.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
 			<Text>Всі люди жахаються наближення Ваших кораблів, королю Гаральде з Норвегії, Громовержцю Півночі. Ваші баркаси панують над хвилями, завжди готові обрушити свої армії берсеркерів на беззахисні береги. Нехай Одін благословить Ваше королівство, а скальди оспівають звитяги Ваших могутніх витязів.</Text>
@@ -1766,7 +1733,7 @@
 			<Text>Велика хвиля буддизму йде за Вами, сіккене Японії, Ходзьо Токімуне. Ваш народ дійсно усвідомлює, що значить дотримуватися гармонії, і навіть Ваші найліпші самураї будуть добре освіченими та духовно зрілими. Будьте сильним, відкрийтеся божественному вітру, і Ви досягнете просвітлення.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
-			<Text>Земля-мати підготувала багато дарів для Вас, королю Мвемба-а-Нзінґа. Ваш народ знає густі ліси та джунглі як свій дім і легко мандрує ними.  Чудовими є також гостинці, котрі прибувають від мандрівників з далеких земель. Тримайте свій світогляд відкритим, адже натхнення вільного світу дозволить нашим людям творити мистецтво владно і водночас шляхетно.</Text>
+			<Text>Земля-мати підготувала багато дарів для Вас, королю Мвемба-а-Нзінґа. Ваш народ знає густі ліси та джунглі як свій дім і легко мандрує ними.&#160; Чудовими є також гостинці, котрі прибувають від мандрівників з далеких земель. Тримайте свій світогляд відкритим, адже натхнення вільного світу дозволить нашим людям творити мистецтво владно і водночас шляхетно.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PEDRO">
 			<Text>Ваш народ покладається на Вас, імператоре Педру II, щоб вивести Бразилію на світову авансцену. Використовуйте свою репутацію мецената, покровителя митців, науковців та інженерів, аби залучати найкращі уми до нашої благодатної батьківщини. Адже саме в пишних тропічних лісах, що буяють життям, процвітає Ваш народ. Спостерігайте як вони танцюватимуть самбу під час карнавалу на відзнаку Ваших звершень, Педру Великодушний.</Text>
@@ -1775,7 +1742,7 @@
 			<Text>Ваше майстерне володіння словом - це неоціненний дар, Перікле срібноголосий, лідере еллінів. Завдяки йому Ви можете привернути до себе відданість цілої плеяди держав, огорнувши себе їхньою славою. Створюйте культурні пам'ятки вздовж скелястих берегів Еллади, аби об'єднати свій народ довкола міцного правління. Якщо все піде гаразд, сирени оспівуватимуть добу Перікла!</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
-			<Text>Ну й №:?*Y ви існуєте? Обіймати холодний вітер північної бідноти й погані, царьку Петре. Безграмотність, культурні апропріації та грабунок дійсно великих держав - все на чому ви тримаєтесь. Під Вашим правлінням росісія неодмінно розквітне у лайні та бажатиме лиш розносити його далі до сусідів, в безнадійних потугах створити найбільшу імперію.</Text>
+			<Text>Ну й No:?*Y ви існуєте? Обіймати холодний вітер північної бідноти й погані, царику Петре. Безграмотність, культурні апропріації та грабунок дійсно великих держав - все на чому ви тримаєтесь. Під Вашим правлінням росісія неодмінно розквітне у лайні та бажатиме лиш розносити його далі до сусідів, в безнадійних потугах створити найбільшу імперію.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
 			<Text>Вся Іспанія готова відгукнутися на Ваші молитви, розсудливий королю Філіпе II. З Вашого Ескоріальського королівського монастиря Ви можете відправляти своїх послідовників: місіонерів, апостолів і конкістадорів, що готові вирушити за океани, несучи благу вість про Вашу святу імперію. Нехай скарби, які вони знайдуть, сприятимуть Вашому прагненню об'єднати світ під єдиною вірою і єдиною імперією, зробивши Вас воістину найкатоличнішим королем.</Text>
@@ -1814,7 +1781,7 @@
 			<Text>Безперервний гул машин, їдкий сморід диму, затьмарений попелом і кіптявою зір - ось прикмети настання нових часів. Принада наукового та культурного прогресу - це двигун, що рухає Ваше королівство вперед. Тепер Ваше завдання підтримувати крихку рівновагу між землею і людиною, між миром і войною.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_MODERN_DESCRIPTION">
-			<Text>Спочатку легенди про польоти буяли серед людей. І сьогодні Ви стоїте на порозі втілення цих легенд у реальність. З польотами і новими формами комунікації Ви можете створити маленький і інтимний світ. Але якою ціною? Наші суперечливі уявлення про те, як керувати державою і як жити, загрожують привести до конфліктів у глобальному масштабі. Ви повинні обрати свій шлях крізь цей зростаючий гомін ідеологічного словоблудства.</Text>
+			<Text>Спочатку легенди про польоти буяли серед людей. І сьогодні Ви стоїте на порозі втілення цих легенд у реальність. З польотами й новими формами комунікації Ви можете створити маленький й інтимний світ. Але якою ціною? Наші суперечливі уявлення про те, як керувати державою і як жити, загрожують привести до конфліктів у глобальному масштабі. Ви повинні обрати свій шлях крізь цей наростальний гомін ідеологічного словоблудства.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_ATOMIC_DESCRIPTION">
 			<Text>Нові рубежі досліджень розширюють наше розуміння речей - від крихітного атома до величі космічних просторів. Таємниці, яких довго замовчували, сьогодні як ніколи близькі до розкриття своїх найглибших секретів, навіть тих що ми й не уявляли. Ви обиратимете, як використовувати ці знання, і відкинете назад найглибшу темряву, з якою ми коли-небудь стикалися.</Text>
@@ -1936,10 +1903,9 @@
 		<Row Tag="LOC_MAIN_MENU_HALL_OF_FAME_TT">
 			<Text>Чи проходить Ваш ігролад випробування часом?</Text>
 		</Row>
-
 		<!-- Copyright screen -->
 		<Row Tag="LOC_COPYRIGHT_TEXT">
-			<Text>© 1991 - 2020 Take-Two Interactive Software, Inc. Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier’s Civilization VI, Sid Meier’s Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Uses Bink Video. Copyright © 1997 - 2020 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999 - 2020 by RAD Game Tools Inc. Powered by WWise © 2006- 2020 Audiokinetic Inc. All rights reserved. Fork Copyright © 2020 Fork Particle, Inc. Sid Meier’s Civilization VI uses Havok®. © 1999 - 2020 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994 - 2020 Lua.org, PUC-Rio. All other marks and trademarks are property of their respective owners. All rights reserved. The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game’s historical setting.[NEWLINE][NEWLINE][COLOR_BLUE]Творчий переклад від Nifael та 3iM0ViY_B0N60n.[ENDCOLOR]</Text>
+			<Text>© 1991 - 2020 Take-Two Interactive Software, Inc. 2K, Firaxis Games, Sid Meier’s Civilization VI, Sid Meier’s Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Uses Bink Video. Copyright © 1997 - 2020 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999 - 2020 by RAD Game Tools Inc. Powered by WWise © 2006- 2020 Audiokinetic Inc. All rights reserved. Fork Copyright © 2020 Fork Particle, Inc. Sid Meier’s Civilization VI uses Havok®. © 1999 - 2020 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994 - 2020 Lua.org, PUC-Rio. All other marks and trademarks are property of their respective owners. All rights reserved. The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game’s historical setting.[NEWLINE][NEWLINE][COLOR_BLUE]Творчий переклад від Nifael та 3iM0ViY_B0N60n.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>Продовжити</Text>
@@ -2038,7 +2004,7 @@
 			<Text>Відкрити Крамницю Steam, щоб купити Sid Meier's Civilization VI</Text>
 		</Row>
 		<Row Tag="LOC_DEMO_COMPLETE_CONTENT">
-			<Text>CВітаємо! Ви здійснили перші кроки до створення цивілізації, яка пройде випробування часом. Чи будете Ви продовжувати перевіряти себе на міцність, борючись з найвидатнішими лідерами історії? Чи зможе культура Вашого народу процвітати? Ваша наука просвітлювати? Ваша віра надихати? Ваше військо панувати?[NEWLINE][NEWLINE]Як Ви керуватимете у Sid Meier's Civilization VI? Продовжуйте свою подорож вже зараз.[NEWLINE][NEWLINE]Будуйте. Підкорюйте. Надихайте.</Text>
+			<Text>Вітаємо! Ви здійснили перші кроки до створення цивілізації, яка пройде випробування часом. Чи будете Ви продовжувати перевіряти себе на міцність, борючись з найвидатнішими лідерами історії? Чи зможе культура Вашого народу процвітати? Ваша наука просвітлювати? Ваша віра надихати? Ваше військо панувати?[NEWLINE][NEWLINE]Як Ви керуватимете у Sid Meier's Civilization VI? Продовжуйте свою подорож вже зараз.[NEWLINE][NEWLINE]Будуйте. Підкорюйте. Надихайте.</Text>
 		</Row>
 		<Row Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
 			<Text>Зникнути в історії</Text>
@@ -2113,7 +2079,6 @@
 		<Row Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
 			<Text>Новина дня:</Text>
 		</Row>
-
 		<!-- -->
 		<Row Tag="LOC_GAME_START_ERROR_DESC">
 			<Text>Виникла помилка запуску гри.[NEWLINE][NEWLINE]Ми радимо вимкнути будь-які моди й повторити спробу.</Text>
@@ -2140,7 +2105,7 @@
 			<Text>One or more Mods has not been purchased.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_START_ERROR_SCRIPT_PROCESSING">
-			<Text>One or more of the startup scripts has an error. See lua.log</Text>
+			<Text>Один чи кілька скриптів запуску мають помилку. See lua.log</Text>
 		</Row>
 		<Row Tag="LOC_CLOUD_SAVES_REQUIRE_LINKED_ACCOUNT">
 			<Text>Для збереження у хмарі потрібно прив'язаний обліковий запис 2K.</Text>
@@ -2175,7 +2140,6 @@
 		<Row Tag="LOC_MOD_SCOUT_CAT_DESCRIPTION">
 			<Text>Інколи гравець так сильно любить собаку Скаута, що йому нестерпно бачити, як важко Скаут працює в дикій природі. Тому очевидним рішенням буде відправити натомість зграю котів, аби Скаут зміг відпочити в селі. Або, якщо Ви великий шанувальник котячих, то це доповнення просто виправляє становище.</Text>
 		</Row>
-
 		<!-- Leader Pools -->
 		<Row Tag="LOC_LEADER_POOL_1_NAME">
 			<Text>Набір лідерів 1</Text>
