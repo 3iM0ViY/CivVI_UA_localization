@@ -11,7 +11,7 @@
 			<Text>«Ніколи більше я не зможу дивитися на красиві куточки Землі й насолоджуватися ними як найкращими з того, що я коли-небудь бачив. Кратерне озеро — вище за них усіх.»[NEWLINE]– Джек Лондон</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_DEAD_SEA_QUOTE">
-			<Text>«Такі як яблука, що Мертве море родить на берегах своїх: розкусиш — попіл тілько!»[NEWLINE]– Лорд Байрон</Text>
+			<Text>«Такі як яблука, що Мертве море родить на берегах своїх: розкусиш — попіл тілько!»[NEWLINE]– Лорд Байрон (Панько Куліш)</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_EVEREST_QUOTE">
 			<Text>«Ми підкорюємо не гору, а самих себе.»[NEWLINE]– Сер Едмунд Гілларі</Text>
@@ -35,100 +35,100 @@
 			<Text>«Цінгі - це пастка для тигрів площею в 650 квадратних кілометрів, зроблена на масивних обелісках, пронизаних зубчастими списами. І так, вони поріжуть твоє гарненьке личко.»[NEWLINE]– Бад Еріксон</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_YOSEMITE_QUOTE">
-			<Text>«Yosemite Valley, to me, is always a sunrise, a glitter of green and golden wonder in a vast edifice of stone and space.»[NEWLINE]– Ansel Adams</Text>
+			<Text>«Долина Йосеміті для мене — це завжди схід сонця, блиск зеленого і золотого дива у величезній сполуці каменю і простору.»[NEWLINE]– Ансель Адамс</Text>
 		</Row>
 		<Row Tag="LOC_TECH_POTTERY_QUOTE_1">
-			<Text>"Жодна людина, намочивши глину, не зупинялася на цьому - ніби це була цеглина можливості чи удачі."[NEWLINE]- Плутарх</Text>
+			<Text>"Жодна людина ніколи не змочувала глину, а потім залишала її, ніби цеглини з'являться випадково і за бажанням долі."[NEWLINE]- Плутарх</Text>
 		</Row>
 		<Row Tag="LOC_TECH_POTTERY_QUOTE_2">
-			<Text>"Гадаю, глина радіє з того, що опиняється у руках майстра-гончара."[NEWLINE]– Жанет Фітч</Text>
+			<Text>"Гадаю, що глина повинна відчувати себе щасливою в руках хорошого гончара."[NEWLINE]– Жанет Фітч</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_QUOTE_1">
-			<Text>"Якщо собак немає у раю, то коли помру - бажаю потрапити туди де вони є."[NEWLINE]- Вілл Роджерс</Text>
+			<Text>"Якщо собак у раю немає, то коли помру, я хочу потрапити туди де вони є."[NEWLINE]- Вілл Роджерс</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_QUOTE_2">
-			<Text>"Люблю свиней. Собаки нам служать. Коти - зневажають. А свині нам рівня."[NEWLINE]- Вінстон Черчіль</Text>
+			<Text>"Люблю свиней. Собаки на нас звеличують. Коти - зневажають. А свині сприймають нас за рівних."[NEWLINE]- Вінстон Черчіль</Text>
 		</Row>
 		<Row Tag="LOC_TECH_MINING_QUOTE_1">
 			<Text>"Йдучи на роботу, шахтар прощається з родиною - бо не знає чи повернеться з забою живим..."[NEWLINE]– Невідомець</Text>
 		</Row>
 		<Row Tag="LOC_TECH_MINING_QUOTE_2">
-			<Text>"Коли довкола вас лише земля - лишається лише рити."[NEWLINE]- Вілл Роджерс</Text>
+			<Text>"Коли ви опинилися в ямі, припиняйте копати."[NEWLINE]- Англійське прислів'я</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SAILING_QUOTE_1">
-			<Text>"Велике судно можливо й більше ризикує, але маленькі змушені триматися біля берега."[NEWLINE]- Бенжамін Франклін</Text>
+			<Text>"Великі судна можуть йти у далину, а човникам слід триматись пляжу."[NEWLINE]- Бенжамін Франклін</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SAILING_QUOTE_2">
-			<Text>"Мені до вподоби жити на узбережжі, але жити у відкритому морі - ще краще."[NEWLINE]- Френсіс Дрейк</Text>
+			<Text>"Не те щоб життя на березі було мені огидне. Але життя у морі краще."[NEWLINE]- Френсіс Дрейк</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ASTROLOGY_QUOTE_1">
-			<Text>"Я не вірю в астрологію. Я стрілець - ми скептики."[NEWLINE]- Артур Кларк</Text>
+			<Text>"Я не вірю в астрологію. Я вірю у свою харизму!"[NEWLINE]- Фредді Мерк'юрі</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ASTROLOGY_QUOTE_2">
-			<Text>"Лікар, без знань астрології - не має права називатися лікарем."[NEWLINE]- Гіппократ</Text>
+			<Text>"Лікар без знань астрології не має права називати себе лікарем."[NEWLINE]- Гіппократ</Text>
 		</Row>
 		<Row Tag="LOC_TECH_IRRIGATION_QUOTE_1">
-			<Text>"Тисячі змогли жити без любові - жоден без води."[NEWLINE]- Вістен Г'ю Оден</Text>
+			<Text>"Тисячі людей жили без кохання, жоден — за відсутності води."[NEWLINE]- Вістен Г'ю Оден</Text>
 		</Row>
 		<Row Tag="LOC_TECH_IRRIGATION_QUOTE_2">
 			<Text>"Той, хто виснажує землю котрою володіє, не її власник - а окупант."[NEWLINE]- Невідомець</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ARCHERY_QUOTE_1">
-			<Text>"Я пустив стрілу в повітря. Вона поцілила землю, невідомо де."[NEWLINE]– Генрі Лонгфеллоу</Text>
+			<Text>"До неба я пустив стрілу, що впала десь, де – не знайду."[NEWLINE]– Генрі Лонгфеллоу (Віталій Гречка)</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ARCHERY_QUOTE_2">
-			<Text>"Сили зла принишкли доки наші стріли на шляху до мети."[NEWLINE]– Джордж Карлін</Text>
+			<Text>"Стрільба з лука вчить нас, як треба шукати істину. Коли лучник хибить, він не звинувачує інших, а шукає вину в самому собі."[NEWLINE]– Конфуцій</Text>
 		</Row>
 		<Row Tag="LOC_TECH_WRITING_QUOTE_1">
-			<Text>«Writing means sharing. It’s part of the human condition to want to share things – thoughts, ideas, opinions.» [NEWLINE]– Paulo Coelho</Text>
+			<Text>«Я ненавиджу писати, я люблю як написала.» [NEWLINE]– Дороті Паркер</Text>
 		</Row>
 		<Row Tag="LOC_TECH_WRITING_QUOTE_2">
-			<Text>"Писати - легко. Потрібно лише викреслювати помилкові слова."[NEWLINE]- Марк Твен</Text>
+			<Text>"Писати - легко. Потрібно лиш викреслювати неправильні слова."[NEWLINE]- Марк Твен</Text>
 		</Row>
 		<Row Tag="LOC_TECH_MASONRY_QUOTE_1">
-			<Text>"Ми всі, шліфуємо камінь для колон чи ріжемо кольорове скло - аби спорудити дещо значно більше за нас самих."[NEWLINE]- Адріан Кларксон</Text>
+			<Text>"Кожен з нас різьбить собі камінь, споруджує колону чи вирізає фрагмент вітража в будівництві чогось набагато більшого за нас самих."[NEWLINE]- Адріан Кларксон</Text>
 		</Row>
 		<Row Tag="LOC_TECH_MASONRY_QUOTE_2">
-			<Text>"Скільки б статуй не зруйнувала марнотратна війна, робота каменярів встоїть."[NEWLINE]– Вільям Шекспір</Text>
+			<Text>"Війна громаддя статуй перекине, Зітруться в прах каменярів труди, Та образ твій не знищиться, не згине Від вибуху повстань і ворожди."[NEWLINE]– Вільям Шекспір (Дмитро Павличко)</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BRONZE_WORKING_QUOTE_1">
-			<Text>"Бронза - дзеркало форм, вина та розуму."[NEWLINE]– Есхіл</Text>
+			<Text>"Бронза - дзеркало форми, вино розуму."[NEWLINE]– Есхіл</Text>
 		</Row>
 		<Row Tag="LOC_TECH_BRONZE_WORKING_QUOTE_2">
-			<Text>"Я також зацікавлений у створенні тривалого спадку... адже бронза зберігається тисячі років."[NEWLINE]- Річард МакДональд</Text>
+			<Text>"Перед ним Із бронзи литую статую Самого кесаря несуть."[NEWLINE]- Тарас Шевченко</Text>
 		</Row>
 		<Row Tag="LOC_TECH_THE_WHEEL_QUOTE_1">
-			<Text>"Іноді колесо крутиться повільно, але крутиться."[NEWLINE]- Лорне Мічел</Text>
+			<Text>"Закрутилося, заходило колесом все кругом мене…"[NEWLINE]- Панас Мирний</Text>
 		</Row>
 		<Row Tag="LOC_TECH_THE_WHEEL_QUOTE_2">
 			<Text>"З винайденням колеса людству повезло, як не крути."[NEWLINE]- Невідомець</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_QUOTE_1">
-			<Text>"Корабель та зірка, що його веде - все, чого я хочу."[NEWLINE]- Джон Мейсфілд</Text>
+			<Text>"Я маю знову вертати в моря, до хвиль і небес без спокус. Усе ж, про що прошу — міцний корабель і зорю, щоб тримати курс."[NEWLINE]- Джон Мейсфілд (Валентин Бут)</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_QUOTE_2">
-			<Text>«Set your course by the stars, not by the lights of every passing ship.» [NEWLINE]– Omar Bradley</Text>
+			<Text>«Прокладайте свій курс за зірками, а не за вогнями кожного корабля, що проходить повз.» [NEWLINE]– Омар Бредлі</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CURRENCY_QUOTE_1">
-			<Text>"Багатство може бути метою лише дурнів, для решти це лише засіб досягнення мети."[NEWLINE]- Невідомець</Text>
+			<Text>"Як щось хочеш мати – навчись цінувати й мале берегти над усе."[NEWLINE]- Сергій Губерначук</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CURRENCY_QUOTE_2">
-			<Text>«Money, if it does not bring you happiness, will at least help you be miserable in comfort.»[NEWLINE] – Helen Gurley Brown</Text>
+			<Text>«Щастя не залежить від кількості грошей… Але сумувати краще в «Бентлі», ніж в маршрутці…»[NEWLINE] – майже Гелен Герлі Браун</Text>
 		</Row>
 		<Row Tag="LOC_TECH_HORSEBACK_RIDING_QUOTE_1">
-			<Text>"Ви не марнуєте час, коли сидите у сідлі."[NEWLINE]- Вінстон Черчіль</Text>
+			<Text>"Жодна година життя не пропадає даремно, якщо вона проведена в сідлі"[NEWLINE]- Вінстон Черчіль</Text>
 		</Row>
 		<Row Tag="LOC_TECH_HORSEBACK_RIDING_QUOTE_2">
 			<Text>"Людина верхи - духовно й фізично вища, ніж людина піша."[NEWLINE]- Джон Стейнбек</Text>
 		</Row>
 		<Row Tag="LOC_TECH_IRON_WORKING_QUOTE_1">
-			<Text>"Вбиває не меч, а його володар!"[NEWLINE]- Невідомець</Text>
+			<Text>"Ти, людино, скрізь. Се ти одягла землю в камінь і залізо"[NEWLINE]- Михайло Коцюбинський</Text>
 		</Row>
 		<Row Tag="LOC_TECH_IRON_WORKING_QUOTE_2">
 			<Text>"Будь-що має межі - з залізної руди не виплавити золота."[NEWLINE]- Марк Твен</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SHIPBUILDING_QUOTE_1">
-			<Text>«I cannot imagine any condition which would cause a ship to founder … Modern shipbuilding has gone beyond that.» [NEWLINE]– Capt. E.J. Smith, RMS Titanic</Text>
+			<Text>«I cannot imagine any condition which would cause a ship to founder… Modern shipbuilding has gone beyond that.» [NEWLINE]– Capt. E.J. Smith, RMS Titanic</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SHIPBUILDING_QUOTE_2">
 			<Text>"Між моряком та вічністю є лише дошка."[NEWLINE]- Томас Гіббонс</Text>
