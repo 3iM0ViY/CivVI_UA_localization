@@ -119,7 +119,7 @@
 			<Text>{1_Name : plural 1?{1_Name : gender m?Наш; f?Наша;}; 2?Наші;} {1_Name} {1_Name : plural 1?{1_Name : gender m?втратив; f?втратила;}; 2?втратили;} {3_Num} здоров'я внаслідок обстрілу оборонцями ворожого району - {2_EnUName}!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_ICBM_DESTROYED">
-			<Text>ICBM intercepted and destroyed.</Text>
+			<Text>Міжконтинентальна балістична ракета перехоплена й знищена.</Text>
 		</Row>
 		<Row Tag="LOC_PLUNDER_UNIT_HEALED">
 			<Text>Наш {1_Name} відновив здоров'я внаслідок грабунку.</Text>
