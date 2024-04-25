@@ -24,3 +24,6 @@ Hills - пагорби
 rainforest = тропічний ліс
 Tundra = тундра
 desert = пустеля
+
+Scout = Блукач
+Builder = Мастак

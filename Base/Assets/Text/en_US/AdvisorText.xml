@@ -290,22 +290,22 @@
 			<Text>Ми збудували спеціалізований район, тим самим створивши умови появи видатних людей. Слід будувати більше районів, якщо ми бажаємо мати видатні постаті.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_29">
-			<Text>A famous artist is inspired by our civilization, and has come to our lands to create great works of art. I suggest we find somewhere to house these masterpieces immediately.</Text>
+			<Text>Відомий художник, натхненний нашою цивілізацією, прийшов на наші землі писати великі витвори мистецтва. Я пропоную негайно знайти місце, де можна розмістити ці шедеври.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_30">
-			<Text>Наша нація породила видатну людину - письменника. Він здатен написати видатні літературні твори. Потрібно мати достатньо відповідних виставкових місць аби показати їх світу.</Text>
+			<Text>Наша нація породила видатну людину - письменника. Він здатен написати видатні літературні твори. Потрібно мати достатньо відповідних виставкових місць аби показати їх світові.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_31">
-			<Text>Our populace has attracted a Great Prophet to our lands! Send this most holy person to our Holy Site and rejoice, for the time has come to found a religion for ourselves.</Text>
+			<Text>Наш народ привернув Великого Пророка на наші землі! Відправ цю найсвятішу людину на наше Святе Місце і радуйся, бо настав час заснувати собі релігію.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_32">
-			<Text>This musician is inspired by our civilization, and has come to our land to create great musical works. I suggest we find somewhere to house these masterpieces immediately.</Text>
+			<Text>Цей музикант, натхненний нашою цивілізацією, прийшов на нашу землю писати великі музичні твори. Я пропоную негайно знайти місце, де можна розмістити ці шедеври.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_33">
 			<Text>Наша нація породила видатну людину - флотоводця. Вона стане перевагою нашого флоту у морських битвах.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_34">
-			<Text>Our civilization's dedication to military affairs has given rise to a Great General among our troops. When used wisely in the field, generals can change the tide of battle in our favor.</Text>
+			<Text>Відданість нашої цивілізації військовій справі породила Великого Генерала серед наших військ. За розумного використання в польових умовах, генерали можуть змінити хід битви на нашу користь.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_35">
 			<Text>Наша нація породила видатну людину - крамаря! Він сприятиме розквіту нашої економіки.</Text>
@@ -314,37 +314,37 @@
 			<Text>Прагнення наших людей до науки породило видатну людину - науковця! Певно, з її допомогою наша нація здійснить нові наукові досягнення.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_37">
-			<Text>Constructing wonders of the world not only is a remarkable display of our empire's greatness, they have other benefits as well. Remember, other civilizations may also be competing in this endeavor, and there can only be one of each type in the world.</Text>
+			<Text>Створення чудес світу є не лише чудовим відображенням величі нашої імперії, але й має інші переваги. Пам'ятайте, що інші цивілізації також бажатимуть здобути таких благ, та у світі може бути лише одна цивілізація кожного типу.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_38">
-			<Text>Наші люди вірять у ваше лідерство. Обирайте найкращій шлях культурного розвитку, здатний принести найбільшу користь народу.</Text>
+			<Text>Наші люди вірять у ваше лідерство. Обирайте найкращій шлях культурного розвитку, здатний принести найбільшу користь народові.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_39">
 			<Text>Наше вірування достатньо сильне. Слід обрати пантеон, що найбільш притаманний нашим людям.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_40">
-			<Text>My liege, we have the ability to train religious missionaries to begin spreading our great religion to foreign lands.</Text>
+			<Text>Владико, у нас є можливість навчати релігійних місіонерів, аби поширювати нашу релігію на чужих землях.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_41">
-			<Text>Your majesty, I believe that we may benefit from recruiting an apostle to spread our religion. These holy people are quite powerful in the ways of conversion.</Text>
+			<Text>Владико, я вірю, що нам буде корисно найняти апостола для поширення нашої релігії. Ці святі люди досить могутні на шляхах навернення.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_42">
-			<Text>All other religions in the world are a threat to our faith. We can recruit Inquisitors to purge the heretics from our cities.</Text>
+			<Text>Всі інші релігії світу є загрозою для нашої віри. Ми можемо найняти інквізиторів, щоб вони вичистили єретиків з наших міст.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_43">
 			<Text>Настав час будувати околиці, адже наші міста стали вельми багатолюдними. Ми здатні будувати їх майже скрізь.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_44">
-			<Text>My liege, all of our military has been destroyed and we are completely defenseless. Training military units is of utmost importance if we are to survive.</Text>
+			<Text>Владико, всі наші військові знищені, і ми абсолютно беззахисні. Підготовка військових підрозділів є надзвичайно важливою, якщо ми хочемо вижити.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_45">
-			<Text>Знайдено хуторець мирних жителів. Варто відправити до нього наших розвідників.</Text>
+			<Text>Знайдено хуторець мирних жителів. Варто відправити до нього наших Блукачів.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_46">
-			<Text>Тримайте свого союзника близько, а ворога - ще ближче. Тепер ми маємо змогу створювати шпигунів, і вони здатні допомогти нам зрозуміти, що роблять наші сусіди.</Text>
+			<Text>Тримайте свого союзника близько, а ворога – ще ближче. Тепер ми маємо змогу створювати шпигунів, і вони здатні допомогти нам зрозуміти, що роблять наші сусіди.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_50">
-			<Text>Some resources, like this one, can be harvested. This will remove the resource in exchange for an immediate gain.  But once it is removed, it will not come back.</Text>
+			<Text>Деякі ресурси, такі як цей, можна зібрати. Ресурс так обмінюється на миттєвий прибуток. Проте тоді, його вже не повернути назад.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_51">
 			<Text>Знайдено вільне місто! Встановлення дипломатичних відносин з ним стане нам у пригоді. Можливо, відрядити до них посланця...</Text>
@@ -359,49 +359,49 @@
 			<Text>Тепер, ми маємо осадника. Він буде вкрай корисним під час облоги ворожого міста.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_55">
-			<Text>We are now skilled in the construction of walls to protect our cities. In addition to providing protection from invaders, they are also excellent vantage points to bombard enemies with ranged attacks.</Text>
+			<Text>Зараз ми вміємо будувати стіни для захисту наших міст. Окрім захисту від загарбників, вони також є чудовими точками огляду, щоб бомбардувати ворогів дистанційними атаками.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_56">
-			<Text>The enemy has surrounded the city and we are under siege. We must break this blockade or we will not be able to reinforce the garrison and repair our defenses.</Text>
+			<Text>Ворог оточив місто, а ми в облозі. Ми повинні прорвати цю блокаду, інакше ми не зможемо надіслати підкріплення гарнізону і посилити нашу оборону.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_57">
-			<Text>My liege, this city has great defenses. With enough force, and the right military, I think we can take it.</Text>
+			<Text>Владико, це місто має чудовий захист. Та маючи достатньо сил і правильну армію, я думаю, ми зможемо його взяти.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_58">
-			<Text>Your majesty, there are times when peace is not the better option. I think we now have good reason to show our military might, but it is a careful decision that you must make alone.</Text>
+			<Text>Владико, бувають часи, коли мир не є кращим варіантом. Я думаю, що зараз у нас є вагомі підстави продемонструвати нашу військову міць, але це рішення потребує обережності й ви повинні прийняти його самотужки.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_59">
-			<Text>It is a difficult world to face alone, but if I may, I do believe that one of our neighbors has proven worthy. Shall we extend the hand of friendship to them?</Text>
+			<Text>Це важкий світ, щоб крокувати самотужки, але, якщо дозволите, я вірю, що одні з наших сусідів – гідні люди. Простягнемо їм руку дружби?</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_60">
-			<Text>Your excellency, I feel it is time that we send a diplomatic delegation to those around us. This will allow us to sow the seeds of friendship, and perhaps give us a better insight as to what these other people may be doing.</Text>
+			<Text>Владико, я відчуваю, що настав час відправити дипломатичну делегацію до тих, хто нас оточує. Це дозволить нам посіяти зерна дружби і, можливо, дасть нам краще уявлення про те, чим ці люди займаються.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_61">
-			<Text>I have good news! If we wish it, I think we may have an ally amongst our neighbors. This could come in handy if we ever find ourselves in need of help.</Text>
+			<Text>У мене хороші новини! Якщо ми цього захочемо, я думаю, що можемо знайти союзників серед наших сусідів. Це може стати в нагоді, якщо ми коли-небудь потребуватимемо допомоги.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_62">
-			<Text>Do not distress, my liege. There are those out there who cannot be pleased, no matter what. It is important to remember what you stand for, and if the time comes… to fight for it.</Text>
+			<Text>Не засмучуйтеся, Владико. Є ті, кому не можна догодити, незважаючи ні на що. Важливо пам'ятати, за що ви стоїте, і якщо прийде час... боротися за це.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_63">
-			<Text>My liege, I must warn you that denouncing other civilizations will have long and lasting consequences. It is important to think carefully on these matters.</Text>
+			<Text>Владико, я мушу попередити вас, що засудження інших цивілізацій матиме тривалі наслідки. Важливо добре вдумуватись у такі питання.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_64">
-			<Text>Though it appears as if we may have offended someone, do not fret. There will always be other leaders with different ideas than our own.</Text>
+			<Text>Хоча здається, що ми когось образили, не засмучуйтеся. Завжди знайдуться інші лідери з ідеями, відмінними від наших.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_65">
-			<Text>It seems that our choices have won favor with one of our neighbors. But everyone has their own agenda, and I am sure that someone else may be watching us warily.</Text>
+			<Text>Здається, що наш вибір завоював прихильність одного з наших сусідів. Але у кожного свій порядок денний, і я впевнена, що хтось інший може спостерігати за нами насторожено.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_66">
-			<Text>Настав час досліджень поза наших берегів. Відтепер наші люди здатні вантажитись на кораблі. Відправте на пошуки незвіданого розвідників.</Text>
+			<Text>Настав час досліджень поза наших берегів. Відтепер наші люди здатні вантажитись на кораблі. Відправте Блукачів на пошуки незвіданого.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_67">
 			<Text>Наші ресурси не обмежуються землею - маємо й дари моря. Шукайте способи використовувати їх.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_68">
-			<Text>I think we may have an opportunity to convince the followers of another religion of the error of their ways. Shall we seize this opportunity?</Text>
+			<Text>Я думаю, що у нас може бути нагода переконати послідовників іншої релігії в тому, що їхні шляхи помилкові. Скористаємося цією можливістю?</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_69">
-			<Text>Foreign proselytizers have been seeking audience with our citizens. I must advise that we do something about this threat to our holy lands. Perhaps we should launch an inquisition.</Text>
+			<Text>Іноземні прозелітики шукають аудієнції у наших громадян. Мушу порадити, що варто щось зробили з цією загрозою нашим святим землям. Можливо, варто розпочати інквізицію.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_70">
 			<Text>Заселеність околиць буде залежати від їх привабливості. Тому потрібен продуманий підхід до вибору місця їх будівництва.</Text>
@@ -410,13 +410,13 @@
 			<Text>Скарбниця наповнена золотом, і його варто вкладати у розвиток, наприклад армії.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_72">
-			<Text>We have not yet constructed a Holy Site, and the great prophet that we have attracted to our city has nowhere to go. Let's construct one!</Text>
+			<Text>Ми ще не побудували святиню, і великому пророку, якого ми залучили до нашого міста, нема чого робити. Давайте побудуємо одну!</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_73">
-			<Text>Наша нація породила пророка! Відправте його до Стоунгенджу аби він започаткував нову релігію.</Text>
+			<Text>Наша нація породила пророка! Відправте його до Стоунгенджу, аби він започаткував нову релігію.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_74">
-			<Text>Наша нація створила видатного інженера готового старанно працювати над покращенням інфраструктури. Кожен інженер має свій талант, але всі покликані суттєво поліпшити наші міста.</Text>
+			<Text>Наша нація породила видатного інженера готового старанно працювати над покращенням інфраструктури. Кожен інженер має свій талант, але всі покликані суттєво поліпшити наші міста.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_75">
 			<Text>Тепер, ми здатні збудувати космопорт. Він дасть нам змогу дотягнутися до зірок.</Text>
@@ -431,40 +431,40 @@
 			<Text>Часи змінюються і ера дипломатичних делегацій минула. Тепер ми встановлюємо посольства з нашими друзями та союзниками.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_79">
-			<Text>Природа - наш найбільший скарб, який ми маємо захищати понад усе. Рекомендую створення національного парку. Це збереже природу і водночас привабить туристів!</Text>
+			<Text>Природа – наш найбільший скарб, який ми маємо захищати понад усе. Рекомендую створення національного парку. Це збереже природу і водночас привабить туристів!</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_80">
-			<Text>Відпочинок - не менш важлива складова будь-якої справи. Тепер, ми маємо можливість будувати курорти на узбережжі.</Text>
+			<Text>Відпочинок – не менш важлива складова будь-якої справи. Тепер, ми маємо можливість будувати курорти на узбережжі.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_81">
-			<Text>Хоча наші люди дуже розумні та талановиті, ми завжди можемо чогось навчитися у інших. Можливо нам варто домовитись з іншої нацією про проведення спільних досліджень заключивши договір.</Text>
+			<Text>Хоча наші люди дуже розумні та талановиті, ми завжди можемо чогось навчитися у інших. Можливо нам варто домовитись з іншої нацією про проведення спільних досліджень, заключивши договір.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_82">
-			<Text>Реліквія! Якщо ми зможемо її виставити на загал, люди звідусіль захочуть бачити цю надзвичайну річ.</Text>
+			<Text>Реліквія! Якщо ми зможемо її виставити на загал, люди звідусіль хотітимуть бачити цю надзвичайну річ.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_83">
-			<Text>It appears we have become quite a popular attraction to the people of the world. I wonder how many more tourists will travel through our borders…</Text>
+			<Text>Виявляється, ми стали досить популярним атракціоном для людей у всьому світі. Цікаво, скільки ще туристів проїдуть через наші кордони...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_84">
-			<Text>You are a brave and mighty conqueror! I have great faith that you will soon rule all of the lands before us.</Text>
+			<Text>Ви хоробрий і владний завойовник! Я маю велику віру, що невдовзі Ви будете правити всіма землями, що стоять перед нами.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_85">
-			<Text>Our religion spreads throughout the lands. It is a great joy to see so many people embracing what we know to be true. Though, there are still more who have yet to see the light.</Text>
+			<Text>Наша релігія поширюється по всіх землях. Це велика радість бачити, як так багато людей приймають те, що, як ми знаємо, є істиною. Хоча й є ще багато тих, хто ще не побачив світла.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_86">
 			<Text>Населення нашого міста росте, на відміну від кількості житла. Попіклуйтесь аби новим мешканцям було де жити, перш ніж вони з'являться.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_87">
-			<Text>На жаль, маємо привід хвилюватися щодо щастя наших людей. Варто потурбуватися про те, аби люди у державі були щасливішими.</Text>
+			<Text>На жаль, маємо привід хвилюватися щодо щастя наших людей. Варто потурбуватися про те, щоб люди у державі були щасливішими.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_88">
-			<Text>Our people have discovered that they have a particular, useful skill that I think we should explore. If we begin construction on this new district now, I believe we will have it completed in no time at all.</Text>
+			<Text>Наші люди виявили, що у них є особлива, корисна навичка, яку, на мою думку, ми повинні дослідити. Якщо ми почнемо будівництво цього нового району зараз, ми завершимо його в найкоротші терміни.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_89">
-			<Text>Alas, all of this time that we spend at war is taking a toll on our people. I see pain in their eyes, and our productivity has reached record lows.</Text>
+			<Text>На жаль, весь цей час, який ми проводимо на війні, позначається на нашому народові. Я бачу біль в їхніх очах, а наша продукція досягла рекордно низького рівня.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_90">
-			<Text>The building of an Archeological Museum will allow us to train Archeologists. There is so much to learn from the world, and they will help us gain this knowledge.</Text>
+			<Text>Будівля археологічного музею дозволить створювати археологів. У світі є ще чому повчитися, і вони допоможуть нам здобути ці знання.</Text>
 		</Row>
 		
 		
