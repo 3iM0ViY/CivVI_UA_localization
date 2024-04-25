@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_TUTORIAL_MAP_NAME">
-			<Text>Tutorial Map</Text>
+			<Text>Мапа навчалка</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_MAP_DESCRIPTION">
-			<Text>Map used exclusively for the tutorial.</Text>
+			<Text>Мапа використовується виключно для навчання.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_NAME">
-			<Text>Dawn of Civilization</Text>
+			<Text>На зорі цивілізації</Text>
 		</Row>
 		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_DESCRIPTION">
-			<Text>Prerequisite knowledge for the dawn of civilization</Text>
+			<Text>Потрібні знання для зародків цивілізації</Text>
 		</Row>
 		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_QUOTE_1">
-			<Text>In the beginning, the earth was without form. And void. And then the sun shone upon the sleeping earth. Into this swirling maelstrom of fire air and water, the first stirrings of life appeared.</Text>
+			<Text>На початку, земля була без форми. Та порожнечі. І тоді сонце освітило сплячу землю. У цьому кружляючому вихорі вогню, повітря та води, з'явилися перші прояви життя.</Text>
 		</Row>
 		<!---->
 		<!-- BUTTON TEXT -->
@@ -23,187 +23,187 @@
 			<Text>Гаразд</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_SHOW_ME">
-			<Text>Show me how</Text>
+			<Text>Покажи мені як</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_DISMISS">
-			<Text>You are dismissed</Text>
+			<Text>Ви вільні</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_ASSISTANCE_APPRECIATED">
-			<Text>Your assistance is appreciated</Text>
+			<Text>Ваша допомога цінується</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_CONTINUE">
-			<Text>Continue</Text>
+			<Text>Продовжити</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_GET_STARTED">
-			<Text>Let's get started</Text>
+			<Text>Погарцювали</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_AGREED">
-			<Text>Agreed</Text>
+			<Text>Хороший</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_VERY_GOOD">
-			<Text>Very good</Text>
+			<Text>Чудово</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_TELL_ME_MORE">
 			<Text>Докладніше...</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_BUTTON_TAKE_ME_THERE">
-			<Text>Take me there</Text>
+			<Text>Показати</Text>
 		</Row>
 		<!---->
 		<!-- ADVISOR TEXT -->
 		<!---->
 		<Row Tag="LOC_ADVISOR_HEAD">
-			<Text>ПОРАДНИЦЯ</Text>
+			<Text>Порадниця</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_INTRO">
-			<Text>As your advisor I am qualified to assist you in all matters related to ruling our civilization.[NEWLINE]If you do not require my service, you can dismiss me to attend to other matters.</Text>
+			<Text>Як ваша порадниця, я кваліфікована допомагати вам у всіх питаннях, що стосуються управління нашою цивілізацією. [NEWLINE]Якщо вам не потрібна моя допомога, ви можете звільнити мене, щоб я зайнялася іншими справами.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_1">
-			<Text>Greetings My Liege! As your personal advisor, I am qualified to assist you in all matters related to ruling our civilization. I am at your service.</Text>
+			<Text>Вітання, мій Володарю! Як ваш особистий радник, я кваліфікована допомагати вам у всіх питаннях, що стосуються управління нашою цивілізацією. Я до ваших послуг.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_2">
-			<Text>All great civilizations begin with a great city, and our Settlers have found an ideal location. Order them to found a new city here.</Text>
+			<Text>Усі великі цивілізації починаються з великого міста, і наші Поселенці знайшли ідеальне місце. Накажіть їм заснувати нове місто тут.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_3">
-			<Text>Well done! You have founded your first city. From these roots your civilization will grow to stand the test of time. Now you must nurture and protect what you have created.</Text>
+			<Text>Чудово! Ви заснували своє перше місто. З цього коріння ваша цивілізація буде рости, як її перевірятиме час на міцність. Тепер вам потрібно доглядати та захищати те, що ви створили.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_4">
-			<Text>Security is of great importance. There are barbaric tribes near us who want nothing more than to pillage and plunder what is ours.</Text>
+			<Text>Безпека має велике значення. Поряд із нами є варварські племена, які бажають лише грабунку й здобичі того, що належить нам.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_5">
-			<Text>Direct the production efforts of this city to train Warriors to deal with this impending threat.</Text>
+			<Text>Направте зусилля цього міста на тренування Воїнів, щоб побороти цю навислу загрозу.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_6">
-			<Text>Training has begun, but it will be some time before our new Warriors are ready. There are no further matters to attend to right now.</Text>
+			<Text>Тренування розпочато, але пройде деякий час, перш ніж наші нові Воїни будуть готові. Наразі інших питань вартих уваги немає.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_7">
-			<Text>Your city is busy training Warriors for its defense, but a great civilization cannot thrive on military might alone. We have people talented in the ways of science and discovery. You should employ them in researching new technologies which will advance our civilization.</Text>
+			<Text>Ваше місто зайняте тренуванням Воїнів для своєї оборони, проте велика цивілізація не може процвітати лише завдяки військовій могутності. У нас є люди обдаровані в галузі науки, здатні на відкриття. Ви маєте їх залучити до дослідження нових технологій, які сприятимуть розвитку нашої цивілізації.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_8">
-			<Text>Wise decision, Your Majesty. This technology will let us better extract the riches from the earth and increase [ICON_Production] Production in our cities. I will let you know when we have finished our research.</Text>
+			<Text>Мудре рішення, правителю. Ця технологія дозволить нам краще видобовувати земні багатства та збільшувати [ICON_Production] виробництво в наших містах. Я повідомлю вам, коли ми закінчимо наше дослідження.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_9">
-			<Text>Your Majesty, hostile Barbarians have been seen near our [ICON_Capital] Capital. If left alone they are sure to attack our people and pillage our lands. Your newly trained Warriors await your orders to attack!</Text>
+			<Text>Правителю, ворожі варвари були помічені поблизу нашої [ICON_Capital] столиці. Якщо їх ігнорувати, вони обов'язково нападуть на наш народ і пограбують наші землі. Ваші треновані Воїни чекають вашого наказу атакувати!</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_10">
-			<Text>Our Warriors were victorious! They fought well to defend our people against this threat. However, the Barbarians are still envious of our civilization. We should be prepared in case they return in greater force.</Text>
+			<Text>Наші Воїни здобули перемогу! Вони добре боролися, захищаючи наш народ від цієї загрози. Однак варвари все ще заздрять нашій цивілізації. Ми повинні бути готові до того, що вони повернуться з більшою силою.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_11">
-			<Text>There are other matters, Your Excellency.</Text>
+			<Text>Є й інші справи, Владико.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_12">
-			<Text>Since Warrior training is complete, it is time to assign a new production task to the city.</Text>
+			<Text>Оскільки ми завершили тренування Воїнів, час доручити місту нове виробниче завдання.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_13">
-			<Text>The lands surrounding our city could be bountiful if we develop them. We should train Builders to create improvements to the lands within our borders.</Text>
+			<Text>Землі, що оточують наше місто, можуть бути щедрими, якщо ми їх розвиватимемо. Ми повинні натренувати Мастаків створювати благоустрій у межах наших кордонів.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_14">
-			<Text>There are mysteries that await us outside our borders in the uncharted lands beyond. The only way to find out is to explore.</Text>
+			<Text>Існують таємниці, які чекають на нас за межами наших кордонів, у незвіданих землях за їх межами. Єдиний спосіб відкриття – досліджувати.</Text>
 		</Row>
 		<Row Tag="LOC_META_14_BODY">
-			<Text>At the beginning of the game, your city and the lands immediately around it are revealed, but the areas beyond, represented by blank parchment, indicate parts of the world you have not yet explored.</Text>
+			<Text>На початку гри, нам відомо про ваше місто і землі безпосередньо довкола, але області за його межами, представлені чистим пергаментом, позначають частини світу, які ви ще не досліджували.</Text>
 		</Row>
 		<Row Tag="LOC_META_16_BODY">
-			<Text>Warrior units have a [ICON_Movement] Movement range of 2.[NEWLINE][NEWLINE]The blue colored indicator shown on the lands around the unit displays the furthest the selected unit can move in a single turn.</Text>
+			<Text>Воїни мають дальність [ICON_Movement] пересування 2. [NEWLINE][NEWLINE]Індикатор синього кольору, показаний на землях навколо одиниці, показує, як далеко вибраний юніт може рухатися за один хід.</Text>
 		</Row>
 		<Row Tag="LOC_META_17_BODY">
-			<Text>Open terrain, like Plains and Grassland, only consume 1 [ICON_Movement] Movement point, whereas more difficult terrain, like Woods and Hills, will consume 2 or more [ICON_Movement] Movement points. Move the Warrior unit to the highlighted location by right clicking.</Text>
+			<Text>Відкрита місцевість, як от рівнини та луки, потребує лише 1 [ICON_Movement] очко руху, тоді як складніша для пересування місцевість, як от ліси та пагорби, споживає 2 або більше [ICON_Movement] очок руху. Перемістіть Воїна у виділене місце, тицьнувши правою кнопкою миші.</Text>
 		</Row>
 		<Row Tag="LOC_META_17b_HEAD">
-			<Text>MOVE WARRIOR</Text>
+			<Text>РУХАТИ ВОЇНА</Text>
 		</Row>
 		<Row Tag="LOC_META_17b_BODY">
-			<Text>RIGHT-CLICK the highlighted location to move your Warrior.</Text>
+			<Text>Клацніть правою кнопкою миші виділене місце, щоб перемістити свого воїна.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_15">
-			<Text>Your Majesty, our Warriors have discovered a small Tribal Village whose inhabitants are welcoming and friendly. Shall we investigate it and send the Warriors to speak with them?</Text>
+			<Text>Ваша Величносте, наші Воїни відкрили для себе маленьке племінне село, мешканці якого привітні та доброзичливі. Розслідуємо це і пошлемо Воїнів поговорити з ними?</Text>
 		</Row>
 		<Row Tag="LOC_META_18_BODY">
-			<Text>Exploring Tribal Villages can give your civilization one of many instant benefits, like granting an additional [ICON_Citizen] Population in your city, or awarding [ICON_Gold] Gold. It is a good strategy to explore as many Tribal Villages as possible.</Text>
+			<Text>Дослідження племінних сіл може дати вашій цивілізації одну з багатьох миттєвих переваг, таких як надання додаткового [ICON_Citizen] населення у вашому місті або нагородження [ICON_Gold] золотом. Це хороша стратегія, щоб дослідити якомога більше племінних сіл.</Text>
 		</Row>
 		<Row Tag="LOC_META_20_HEAD">
-			<Text>MOVE WARRIOR</Text>
+			<Text>РУХАТИ ВОЇНА</Text>
 		</Row>
 		<Row Tag="LOC_META_20_BODY">
-			<Text>To explore a Tribal Village, move one of your units into the Tribal Village hex. Try moving your Warrior unit there now.</Text>
+			<Text>Щоб дослідити племінне село, перемістіть одного зі своїх бійців у відповідний шестикутник. Спробуйте перемістити туди свого Воїна прямо зараз.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_16">
-			<Text>It appears that the Tribal Villagers are also harassed by the Barbarians. They are impressed by our culture, and have decided to join us in the fight!</Text>
+			<Text>Схоже, що племінних селян також переслідують варвари. Вони вражені нашою культурою і вирішили приєднатися до нас у боротьбі!</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_17">
-			<Text>Good news indeed! They are skillful Scouts and wily travelers. They can move faster than our Warriors, making them ideal for exploring the surrounding lands, but they are not as strong in combat. They eagerly await your orders.</Text>
+			<Text>Справді гарна новина! Вони вправні розвідники і хитрі мандрівники. Вони можуть рухатися швидше, ніж наші Воїни, що робить їх ідеальними для дослідження навколишніх земель, але вони не такі сильні в бою. Вони з нетерпінням чекають ваших замовлень.</Text>
 		</Row>
 		<Row Tag="LOC_META_21_BODY">
-			<Text>Notice that the Scout unit has a [ICON_Movement] Movement of 3, allowing it to move a greater distance than other units. Move the Scout unit toward an undiscovered part of the map.</Text>
+			<Text>Зверніть увагу, що розвідник має 3 [ICON_Movement] очки руху, що дозволяє йому переміщатися на більшу відстань, ніж іншім бійцям. Відправте розвідника до невідомої частини мапи.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_18">
-			<Text>Scouts are excellent at exploring, but they are not as strong in combat as our Warriors. It is better to have them focus on exploration and survival rather than fighting our enemies.</Text>
+			<Text>Розвідники чудово вміють досліджувати, але вони не такі сильні в бою, як наші Воїни. Краще, щоб вони зосередилися на дослідженні та виживанні, а не на боротьбі з нашими ворогами.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_19">
-			<Text>A team of Builders has finished their training in our city. They are ready to work on improving the surrounding lands. There are ideal locations for the growing of [ICON_Food] Food to support our populace. Constructing a Farm there would increase our yield from those lands.</Text>
+			<Text>Команда Мастаків завершила навчання в нашому місті. Вони готові працювати над благоустроєм навколишніх земель. Існують ідеальні місця для вирощування [ICON_Food] їжі, щоб підтримати наше населення. Будівництво там ферми збільшило б наш урожай з цих земель.</Text>
 		</Row>
 		<Row Tag="LOC_META_22_BODY">
-			<Text>Builders can construct a wide variety of improvements to your land. The type of improvement they can build on a plot is often determined by the type of terrain. Plains and Grassland plots are ideal for Farms, which help increase [ICON_Citizen] Population.</Text>
+			<Text>Мастаки можуть побудувати найрізноманітніші поліпшення вашої землі. Тип благоустрою, який вони можуть побудувати на ділянці, часто визначається типом місцевості. Рівнини та пасовища ідеально підходять для ферм, які допомагають збільшити [ICON_Citizen] населення.</Text>
 		</Row>
 		<Row Tag="LOC_META_23_HEAD">
-			<Text>MOVE BUILDER</Text>
+			<Text>РУХАТИ МАСТАКА</Text>
 		</Row>
 		<Row Tag="LOC_META_23_BODY">
-			<Text>Move your Builder to the highlighted Plains area next to your city.</Text>
+			<Text>Перемістіть вашого мастака у виділену зону рівнин поруч із вашим містом.</Text>
 		</Row>
 		<Row Tag="LOC_META_24_HEAD">
-			<Text>CONSTRUCT FARM</Text>
+			<Text>ПОБУДУВАТИ ФЕРМУ</Text>
 		</Row>
 		<Row Tag="LOC_META_24_BODY">
-			<Text>Construct a Farm improvement here by clicking on the "Build Improvement: Farm" button next to the Unit Panel.</Text>
+			<Text>Побудуйте покращення ферми тут, тицьнувши «Покращити: Ферма» поруч із панеллю юнітів.</Text>
 		</Row>
 		<Row Tag="LOC_META_25_BODY">
-			<Text>Constructing a Farm here has increased the [ICON_Food] Food yield from this plot from 1 [ICON_Food] Food per turn to 2. The amount of [ICON_Food] Food generated by your city determines how fast the Population of that city grows, granting you new [ICON_Citizen] Citizens to work more tiles. More [ICON_Food] Food means faster growth.</Text>
+			<Text>Будівництво ферми збільшило добуток [ICON_Food] їжі з цієї ділянки з 1 [ICON_Food] їжі за хід до 2. Кількість [ICON_Food] їжі, що генерується вашим містом, визначає, як швидко зростає населення цього міста, надаючи вам нових [ICON_Citizen] громадян для роботи з більшою кількістю плиток. Більше [ICON_Food] їжі означає більш швидке зростання.</Text>
 		</Row>
 		<Row Tag="LOC_META_26_BODY">
-			<Text>Builders can build up to 3 improvements before exhausting their workforce. This number is indicated in the Unit Panel. This Builder unit has consumed one of its workforce from building the Farm and now has 2 remaining.</Text>
+			<Text>Мастаки можуть зробити до 3 поліпшень, перш ніж виснажити свою робочу силу. Це число вказується на панелі одиниць вимірювання. Цей підрозділ поглинув одну зі своїх робочих сил від будівництва ферми, і тепер у нього залишилося 2 очка.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_20">
-			<Text>Your Majesty, it is once again time to choose where to direct the production efforts of our city. Your leadership is without equal and our civilization continues to thrive. Shall we construct a Monument to honor our civilization's growing greatness?</Text>
+			<Text>Владико, вкотре настав час обрати, куди спрямувати виробничі зусилля нашого міста. Вашому керівництву немає рівних, і наша цивілізація продовжує процвітати. Чи побудуємо ми пам'ятник на честь зростаючої величі нашої цивілізації?</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_SELECT_END_TURN">
-			<Text>There are no more pressing issues at this time. Shall we continue with our duties?</Text>
+			<Text>Більш нагальних питань наразі немає. Продовжуємо працювати?</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_2">
-			<Text>Our explorers on the frontier have discovered a Barbarian camp. This is the source of the Barbarians threatening our region. We must destroy this stronghold, or they will continue to plague us.</Text>
+			<Text>Наші дослідники на кордонах виявили табір варварів. Звідси варвари загрожують нашому регіону. Ми повинні зруйнувати цю твердиню, інакше вони продовжать переслідувати нас.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_3">
-			<Text>I would advise you to use caution. The Barbarian camp is heavily defended by their best troops and will be hard to take. We should send an assault force of multiple military units to ensure victory.</Text>
+			<Text>Я б порадила бути обережними. Табір варварів посилено захищений їхніми найкращими військами, і його буде важко захопити. Ми повинні відправити штурмові сили з кількох військових підрозділів, щоб забезпечити перемогу.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_BARBARIAN_CAMP_DISCOVERED_C">
-			<Text>In developing your military, it is always a good strategy to diversify. Not all units are created equal, some are better against others, and have abilities that separate them from the rest.</Text>
+			<Text>Розвиваючи свою армію, завжди гарною ідеєю буде диверсифікація. Не всі бійці однакові, деякі кращі проти окремих супротивників і мають здібності, які відрізняють їх від інших.</Text>
 		</Row>
 		<Row Tag="LOC_META_124_BODY">
-			<Text>In developing your military, it is always a good strategy to diversify. Not all units are created equal, some are better against others, and have abilities that separate them from the rest.</Text>
+			<Text>Розвиваючи свою армію, завжди гарною ідеєю буде диверсифікація. Не всі бійці однакові, деякі кращі проти окремих супротивників і мають здібності, які відрізняють їх від інших.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_7">
-			<Text>Our explorers have spotted another friendly Tribal Village. I suggest we send our Scouts to investigate it.</Text>
+			<Text>Наші дослідники помітили ще один дружній хуторок. Я пропоную послати наших Блукачів розслідувати це.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_8">
-			<Text>A good city can become a great city through careful planning. Deciding where to place a city district is an important decision. Be sure to pick a location best suited to reap the most benefit.</Text>
+			<Text>Хороше місто може стати великим завдяки ретельному плануванню. Рішення про те, де розмістити міський район, є важливим. Оберіть місце, яке найкраще підходить для отримання найбільшої користі.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_4">
-			<Text>Your Excellency, I am happy to announce that because of our city's prosperity, our [ICON_Citizen] Population has grown!</Text>
+			<Text>Владико, я рада повідомити, що завдяки процвітанню нашого міста, наше [ICON_Citizen] населення зросло!</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_B">
-			<Text>The [ICON_Citizen] Population of your first city has grown from 1 to 2. As long as a city is well fed and its people are happy, it will continue to grow. The [ICON_Citizen] Citizens of the city work the surrounding plots and improvements contributing to greater yields. Higher [ICON_Citizen] Populations contribute to faster [ICON_Science] Science research, faster city [ICON_Production] Production, and faster [ICON_Culture] Cultural growth.</Text>
+			<Text>[ICON_Citizen] Населення вашого першого міста зросло з 1 до 2. Поки місто добре нагодоване, а його мешканці щасливі, воно продовжуватиме зростати. [ICON_Citizen] Мешканці міста обробляють навколишні ділянки та благоустрої, сприяючи підвищенню врожайності. Вищий рівень [ICON_Citizen] Населення сприяє швидшим [ICON_Science] Науковим дослідженням, швидшому [ICON_Production] Виробництву міста та швидшому [ICON_Culture] Культурному зростанню.</Text>
 		</Row>
 		<Row Tag="LOC_META_125_BODY">
-			<Text>The [ICON_Citizen] Population of your first city has grown from 1 to 2. As long as a city is well fed and its people are happy, it will continue to grow. The [ICON_Citizen] Citizens of the city work the surrounding plots and improvements contributing to greater yields. Higher [ICON_Citizen] Populations contribute to faster [ICON_Science] Science research, faster city [ICON_Production] Production, and faster [ICON_Culture] Cultural growth.</Text>
+			<Text>[ICON_Citizen] Населення вашого першого міста зросло з 1 до 2. Поки місто добре нагодоване, а його мешканці щасливі, воно продовжуватиме зростати. [ICON_Citizen] Мешканці міста обробляють навколишні ділянки та благоустрої, сприяючи підвищенню врожайності. Вищий рівень [ICON_Citizen] Населення сприяє швидшим [ICON_Science] Науковим дослідженням, швидшому [ICON_Production] Виробництву міста та швидшому [ICON_Culture] Культурному зростанню.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_C">
-			<Text>It is always a good strategy to not only found new cities to expand your realm, but also to grow those cities.</Text>
+			<Text>Гарна стратегія – не тільки засновувати нові міста, щоб розширити свої володіння, але й вміло розвивати їх.</Text>
 		</Row>
 		<Row Tag="LOC_META_126_BODY">
-			<Text>It is always a good strategy to not only found new cities to expand your realm, but also to grow those cities.</Text>
+			<Text>Гарна стратегія – не тільки засновувати нові міста, щоб розширити свої володіння, але й вміло розвивати їх.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_MESSAGE_NATURAL_WONDER_REVEALED">
-			<Text>In Civilization VI, you can get Eureka Moments that boost your technology research through in game achievements. This Eureka Moment was gained by discovering a natural wonder. Other achievements could be winning a battle with a specific unit or constructing a building. Achieving these greatly accelerates your technological progress.</Text>
+			<Text>У Civilization VI ви можете отримати моменти Еврики, які покращуватимуть ваші технологічні дослідження за різні ігрові досягнення. Ми пережили момент Еврики завдяки відкриттю дива природи. Іншими досягненнями можуть бути перемога в битві з певним суперником або побудова окремої будівлі. Такі досягнення значно прискорюють ваш технологічний прогрес.</Text>
 		</Row>
 		
 		
@@ -215,7 +215,7 @@
 			<Text>Блукач здатний швидко пересуватися пересічною місцевістю. Використовуйте їх для швидкого огляду територій.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_3">
-			<Text>The workforce of our Builder unit has been expended. We will need to train more Builders to continue building improvements on the lands surrounding our cities.</Text>
+			<Text>Робоча сила нашого Мастака була вичерпана. Нам потрібно буде навчити більше Мастаків, щоб вони продовжували розбудовувати землі, що оточують наші міста.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_4">
 			<Text>Добірка політик визначає ефективність нашого уряду. Обирайте найбільш вигідні політики з огляду на поточні виклики та шлях свого розвитку.</Text>
@@ -224,46 +224,46 @@
 			<Text>Маємо можливість зміни урядової системи. Варто посилити нашу ідентичність запропонувавши покращену систему керування людьми.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_6">
-			<Text>Тепер, наші люди мають змогу здійснювати міжміську торгівлю. Слід створити караванників та запровадити торговий шлях. Обирайте найбільш вигідні торгові шляхи.</Text>
+			<Text>Тепер, наші люди мають змогу здійснювати міжміську торгівлю. Слід створити Караванників та запровадити торговий шлях. Обирайте найбільш вигідні торгові шляхи.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_7">
 			<Text>На додаток до торгових переваг, торговий шлях поступово прокладе дороги між містами. З їх допомогою можна буде швидше рухатися місцевістю.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_9">
-			<Text>Нашою одиницею здобуто достатньо досвіду аби покращити свої навички. Обирайте навичку, котра надасть найкориснішу перевагу за поточних умов.</Text>
+			<Text>Нашою одиницею здобуто достатньо досвіду аби покращити свої навички. Оберіть навичку, котра надасть найкориснішу перевагу за поточних умов.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_10">
-			<Text>The combat achievements of this unit have become legendary, and worthy of a name unique to them. With what title shall we honor them?</Text>
+			<Text>Бойові досягнення цього підрозділу стали легендарними, і гідними унікальної для них назви. Яким титулом ми їх вшануємо?</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_11">
-			<Text>The health of this unit is very low and in danger of being lost. Allowing a unit to take a break from combat and rest will allow it to heal over time.</Text>
+			<Text>Здоров'я цієї одиниці дуже низьке і знаходиться під загрозою втрати. Якщо ви дозволите бійцю відпочити від бою, з часом він відновиться.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_12">
 			<Text>Не варто наближатися до ворога без потреби його атакувати. Перебування у "зоні контролю" ворога знижує рухливість. Зустрівши сильного ворога краще відступати шукаючи переваг, бо потрапивши до зони контролю це вже не вдасться.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_13">
-			<Text>My liege, our city would do well with some farms or other improvements. I suggest we train a Builder soon.</Text>
+			<Text>Владико, нашому місту прийшлися б до душі деякі ферми чи інші покращення. Я пропоную скоро натренувати Мастака.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_14">
-			<Text>Our Builders have been idle. Perhaps we should direct their efforts to improving the lands around our city.</Text>
+			<Text>Наші Мастаки простоювали. Можливо, варто спрямувати їхні зусилля на благоустрій земель довкола нашого міста.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_15">
-			<Text>Our capital flourishes! But I think it is time that we begin establishing roots elsewhere. Perhaps we should train a Settler.</Text>
+			<Text>Наша столиця процвітає! Але я думаю, що настав час почати пускати коріння в іншому місці. Можливо, нам варто створити Поселенців.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_16">
-			<Text>Ми маємо вільного посланця. Можемо відрядити його до вільного міста аби покращити стосунки отримавши натомість переваги для своєї нації.</Text>
+			<Text>Ми маємо вільного посланця. Можемо відрядити його до вільного міста аби покращити стосунки, отримавши натомість переваги для своєї нації.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_17">
-			<Text>Надійшло прохання від сусіднього вільного міста. Якщо його виконаємо - отримаємо винагороду.</Text>
+			<Text>Надійшло прохання від сусіднього вільного міста. Якщо його виконаємо – отримаємо винагороду.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_18">
-			<Text>I'm afraid I must report that we are bankrupt. It is imperative that we do whatever we can to ease ourselves of this debt. May I suggest we disband some of our military?</Text>
+			<Text>Боюся, що ми банкрути. Вкрай важливо, щоб ми зробили все можливе, щоб звільнитися від цього боргу. Чи можу я запропонувати нам розформувати частину наших військових?</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_19">
-			<Text>Your grace, I must warn you that some of the improved lands around our city have been pillaged. We should find those responsible and ensure no more damage can be done.</Text>
+			<Text>Владико, мушу попередити, що деякі поліпшені землі навколо нашого міста були розграбовані. Ми повинні знайти винних і гарантувати, що більше не буде завдано шкоди.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_20">
-			<Text>Наразі, ми вже краще знаємося на містобудуванні. Створення нових районів може надати більше переваг ніж покращення фермами чи шахтами.</Text>
+			<Text>Наразі, ми вже краще знаємося на містобудуванні. Створення нових районів може надати більше переваг ніж покращення ферм чи шахт.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_21">
 			<Text>Тепер, наші військовики можуть об'єднуватися у корпуси та флоти. У результаті, з двох подібних бойових одиниць ми отримуємо одну, але значно потужнішу.</Text>
@@ -275,13 +275,13 @@
 			<Text>Зросли наші знання у галузі будівництва фортифікацій. Стіни навколо наших міст не лише посилять оборонців, а й дадуть їм змогу обстрілювати ворога.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_24">
-			<Text>Your grace! The enemy is at our gates, and this city is surrounded and under siege. Supplies and food cannot get through, and our city cannot heal its wounds. It is paramount that we break this encirclement.</Text>
+			<Text>Владико, ворог біля наших воріт, а це місто оточене і в облозі. Припаси та їжа не можуть пройти, а наше місто не може залікувати свої рани. Дуже важливо, щоб ми розірвали це коло.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_25">
-			<Text>An enemy is in range of our city. Order the city garrison to conduct a ranged attack against the invaders.</Text>
+			<Text>Ворог у зоні досяжності нашого міста. Накажіть гарнізону міста вести дальній вогонь проти загарбників.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_26">
-			<Text>It is important to keep a close eye on our neighbors, and our people may be able to help. Listen carefully, for they are sometimes privy to more information than we are.</Text>
+			<Text>Важливо уважно стежити за нашими сусідами, і наші люди можуть допомогти. Слухайте уважно – інколи вони краще обізнані, ніж ми.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_27">
 			<Text>Ми маємо умови появи великих людей. Варто їх покращувати, задля появи великих людей серед нашого народу.</Text>
