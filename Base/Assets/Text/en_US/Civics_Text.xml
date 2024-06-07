@@ -12,28 +12,28 @@
 			<Text>Дає можливість контролювати прохід свого кордону іншими державами.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MYSTICISM_DESCRIPTION">
-			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+			<Text>Дарує 1 [ICON_Envoy] посланця.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION">
-			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+			<Text>Дарує 1 [ICON_Envoy] посланця.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_THEOLOGY_DESCRIPTION">
-			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+			<Text>Дарує 1 [ICON_Envoy] посланця.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION">
-			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+			<Text>Дарує 1 [ICON_Envoy] посланця.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
 			<Text>+1 [ICON_Food] їжі від ферми, якщо поряд ще дві.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
-			<Text>Allows Alliances.</Text>
+			<Text>Дозволяє створювати альянси.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MERCENARIES_DESCRIPTION">
-			<Text>Awards 1 [ICON_Envoy] Envoy.</Text>
+			<Text>Дарує 1 [ICON_Envoy] посланця.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
-			<Text>Pasture improvements receive +1 [ICON_Food] Food.</Text>
+			<Text>Покращені пасовища отримують +1 [ICON_Food] їжі.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
 			<Text>Дає можливість створювати шпигунів.</Text>
@@ -45,7 +45,7 @@
 			<Text>Релігійний [ICON_Tourism] туризм інших держав діє на наших людей вдвічі слабше.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
-			<Text>Awards 2 [ICON_Envoy] Envoys.</Text>
+			<Text>Дарує 2 [ICON_Envoy] посланців.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
 			<Text>Дає можливість мастакам будувати ферми на зелених та степових пагорбах.</Text>
@@ -54,13 +54,13 @@
 			<Text>Дає можливість мати додаткового шпигуна.[NEWLINE]Дає можливість об'єднувати військовиків у корпуси та флоти.[NEWLINE]Дає можливість використовувати технологічну перевагу в якості приводу оголошення війни.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
-			<Text>Awards 2 [ICON_Envoy] Envoys.</Text>
+			<Text>Дарує 2 [ICON_Envoy] посланців.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
-			<Text>Reveals [ICON_RESOURCE_ANTIQUITY_SITE] Antiquity Sites. Allows construction of Archaeologists. Awards 2 [ICON_Envoy] Envoys.</Text>
+			<Text>Показує [ICON_RESOURCE_ANTIQUITY_SITE] пам'ятки Античності. Дозволяє створювати археологів. Дарує 2 [ICON_Envoy] посланців.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
-			<Text>Awards 2 [ICON_Envoy] Envoys.</Text>
+			<Text>Дарує 2 [ICON_Envoy] посланців.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
 			<Text>Дає можливість будувати національні парки.[NEWLINE]Дає можливість вимолювати природознавців за [ICON_Faith] віру.[NEWLINE]Дає можливість мастакам висаджувати ліси.[NEWLINE]+1 привабливість від старих (невисаджених) лісів.[NEWLINE]Стіни підвищують [ICON_TOURISM] туризм.</Text>
