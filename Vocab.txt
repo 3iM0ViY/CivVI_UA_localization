@@ -19,11 +19,16 @@ Mine = Шахта (-копальня)
 Quarry = Кар'єр
 farm = ферма (хутір, господарство)
 plantation = плантація
+pasture = пасовище
+Camp = табір
+Antiquity Sites = пам'ятки Античності
 
 Hills - пагорби
 rainforest = тропічний ліс
 Tundra = тундра
 desert = пустеля
+Floodplains = заплави
 
 Scout = Блукач
 Builder = Мастак
+anvoy = посланець
