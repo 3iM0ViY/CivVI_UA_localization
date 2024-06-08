@@ -3,76 +3,76 @@
 	<BaseGameText>
 		<!--Writings-->
 		<Row Tag="LOC_GREATWORK_BHASA_1_NAME">
-			<Text>The Madhyama Vyayoga</Text>
+			<Text>Мадг'яма В'яйога</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_BHASA_2_NAME">
-			<Text>Pratima-nataka</Text>
+			<Text>Пратіманатака</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_HOMER_1_NAME">
-			<Text>Iliad</Text>
+			<Text>Іліада</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_HOMER_2_NAME">
-			<Text>Odyssey</Text>
+			<Text>Одіссея</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_OVID_1_NAME">
-			<Text>Metamorphoses</Text>
+			<Text>Метаморфози</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_OVID_2_NAME">
-			<Text>Heroides</Text>
+			<Text>Героїди</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_QU_YUAN_1_NAME">
-			<Text>Пісня Чу</Text>
+			<Text>Чуські строфи</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_QU_YUAN_2_NAME">
-			<Text>Скорбота по Юнг</Text>
+			<Text>Під владою скорботних часів</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CHAUCER_1_NAME">
-			<Text>The Canterbury Tales</Text>
+			<Text>Кентерберійські оповіді</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CHAUCER_2_NAME">
-			<Text>Troilus and Criseyde</Text>
+			<Text>Троїл і Крессіда</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LI_BAI_1_NAME">
-			<Text>Drinking Alone by Moonlight</Text>
+			<Text>На самоті п'ю під місяцем</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LI_BAI_2_NAME">
-			<Text>In the Mountains on a Summer Day</Text>
+			<Text>В горах у літній день</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MURASAKI_1_NAME">
-			<Text>The Diary of Lady Murasaki</Text>
+			<Text>Щоденник Мурасакі Сікібу</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MURASAKI_2_NAME">
-			<Text>The Tale of Genji</Text>
+			<Text>Повість про Ґендзі</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CAVENDISH_1_NAME">
-			<Text>The Blazing World</Text>
+			<Text>Палаючий світ</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CAVENDISH_2_NAME">
-			<Text>Observations upon Experimental Philosophy</Text>
+			<Text>Спостереження над експериментальною філософією</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CERVANTES_1_NAME">
-			<Text>Don Quixote</Text>
+			<Text>Премудрий гідальго Дон Кіхот з Ламанчі</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CERVANTES_2_NAME">
-			<Text>Novelas Ejemplares (Exemplary Novels)</Text>
+			<Text>Novelas Ejemplares (Повчальні новели)</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MACHIAVELLI_1_NAME">
-			<Text>Discourses on Livy</Text>
+			<Text>Міркування про першу декаду Тіта Лівія</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MACHIAVELLI_2_NAME">
-			<Text>The Prince</Text>
+			<Text>Державець</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_SHAKESPEARE_1_NAME">
-			<Text>Romeo and Juliet</Text>
+			<Text>Ромео і Джульєтта</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_SHAKESPEARE_2_NAME">
-			<Text>Hamlet</Text>
+			<Text>Гамлет, принц данський</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_D_AULNOY_1_NAME">
-			<Text>Fair Goldilocks</Text>
+			<Text>Золотоволоска</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_D_AULNOY_2_NAME">
-			<Text>The Dolphin</Text>
+			<Text>Дельфін</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_PUSHKIN_1_NAME">
 			<Text>Eugene Onegin</Text>
@@ -81,22 +81,22 @@
 			<Text>Boris Godunov</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_POE_1_NAME">
-			<Text>The Tell-Tale Heart</Text>
+			<Text>Серце виказало</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_POE_2_NAME">
-			<Text>The Raven</Text>
+			<Text>Ворон</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_AUSTEN_1_NAME">
-			<Text>Pride and Prejudice</Text>
+			<Text>Гордість і упередження</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_AUSTEN_2_NAME">
-			<Text>Sense and Sensibility</Text>
+			<Text>Чуття і чуттєвість</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GOETHE_1_NAME">
-			<Text>"Фауст"</Text>
+			<Text>Фауст</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GOETHE_2_NAME">
-			<Text>The Sorrows of Young Werther</Text>
+			<Text>Страждання молодого Вертера</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_SHELLEY_1_NAME">
 			<Text>Frankenstein</Text>
