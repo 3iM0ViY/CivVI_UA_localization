@@ -99,28 +99,28 @@
 			<Text>Страждання молодого Вертера</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_SHELLEY_1_NAME">
-			<Text>Frankenstein</Text>
+			<Text>Франкенштайн, або Сучасний Прометей</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_SHELLEY_2_NAME">
-			<Text>The Last Man</Text>
+			<Text>Остання людина</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MUIS_1_NAME">
-			<Text>Salah Asuhan (A Wrong Upbringing)</Text>
+			<Text>Неправильне виховання</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MUIS_2_NAME">
-			<Text>Pertemuan Jodoh (A Meeting of Soulmates)</Text>
+			<Text>Зустріч суджених</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_JOYCE_1_NAME">
-			<Text>Ulysses</Text>
+			<Text>Улісс</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_JOYCE_2_NAME">
-			<Text>Dubliners</Text>
+			<Text>Дублінці</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_DICKINSON_1_NAME">
-			<Text>A Bird came down</Text>
+			<Text>Птах, що спустився по алеї</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_DICKINSON_2_NAME">
-			<Text>Success is counted sweetest</Text>
+			<Text>Хто успіху не має...</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TOLSTOY_1_NAME">
 			<Text>War and Peace</Text>
@@ -129,37 +129,37 @@
 			<Text>Anna Karenina</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TWAIN_1_NAME">
-			<Text>Adventures of Huckleberry Finn</Text>
+			<Text>Пригоди Гекльберрі Фінна</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TWAIN_2_NAME">
-			<Text>The Adventures of Tom Sawyer</Text>
+			<Text>Пригоди Тома Соєра</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_FITZGERALD_1_NAME">
-			<Text>This Side of Paradise</Text>
+			<Text>По цей бік раю</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_FITZGERALD_2_NAME">
-			<Text>The Beautiful and Damned</Text>
+			<Text>Прекрасні й приречені</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_WELLS_1_NAME">
-			<Text>The War of the Worlds</Text>
+			<Text>Війна світів</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_WELLS_2_NAME">
-			<Text>The Time Machine</Text>
+			<Text>Машина часу</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TAGORE_1_NAME">
-			<Text>The Home and the World</Text>
+			<Text>Будинок і світ</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TAGORE_2_NAME">
-			<Text>The Gardener</Text>
+			<Text>Садівник</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CAPEK_1_NAME">
-			<Text>Rossum’s Universal Robots (R.U.R.)</Text>
+			<Text>Р. У. Р. (Россумові Універсальні Роботи)</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CAPEK_2_NAME">
-			<Text>War with the Newts</Text>
+			<Text>Війна з саламандрами</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_SUN_TZU_NAME">
-			<Text>"Мистецтво війни"</Text>
+			<Text>Мистецтво війни</Text>
 		</Row>
 		<!--Art-->
 		<Row Tag="LOC_GREATWORK_RUBLEV_1_NAME">
@@ -172,139 +172,139 @@
 			<Text>Ascension</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_BOSCH_1_NAME">
-			<Text>The Garden of Earthly Delights</Text>
+			<Text>Сад земних насолод</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_BOSCH_2_NAME">
-			<Text>The Last Judgement</Text>
+			<Text>Страшний суд</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_BOSCH_3_NAME">
-			<Text>The Haywain Triptych</Text>
+			<Text>Віз сіна</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_DONATELLO_1_NAME">
-			<Text>St. Mark</Text>
+			<Text>Св. Марко</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_DONATELLO_2_NAME">
-			<Text>Equestrian statue of Gattamelata</Text>
+			<Text>Кінний пам'ятник кондотьєру Гаттамелаті</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_DONATELLO_3_NAME">
-			<Text>Judith Slaying Holofernes</Text>
+			<Text>Юдита, що вбиває Олоферна</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MICHELANGELO_1_NAME">
-			<Text>Sistine Chapel Ceiling</Text>
+			<Text>Стеля Сікстинської капели</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MICHELANGELO_2_NAME">
-			<Text>David</Text>
+			<Text>Давид</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MICHELANGELO_3_NAME">
-			<Text>Pietà</Text>
+			<Text>П'єта</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_YING_1_NAME">
-			<Text>Spring Morning in the Han Palace</Text>
+			<Text>Весняний ранок у Ханському палаці</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_YING_2_NAME">
-			<Text>Fishermen in Reclusion Among the Lotus Stream</Text>
+			<Text>Рибалки в усамітненні серед потоку лотосів</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_YING_3_NAME">
-			<Text>Red Cliff</Text>
+			<Text>Червона Скеля</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TITIAN_1_NAME">
-			<Text>Assunta</Text>
+			<Text>Внебовзяття Діви Марії (Ассунта Тиціана)</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TITIAN_2_NAME">
-			<Text>Salome with the Head of John the Baptist</Text>
+			<Text>Саломея з відрубаною головою Івана Хрестителя</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TITIAN_3_NAME">
-			<Text>Equestrian Portrait of Charles V</Text>
+			<Text>Імператор Карл V у битві під Мюльбергом</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GRECO_1_NAME">
-			<Text>Adoration of the Magi</Text>
+			<Text>Поклоніння волхвів</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GRECO_2_NAME">
-			<Text>The Assumption of the Virgin</Text>
+			<Text>Успіння Богородиці</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GRECO_3_NAME">
-			<Text>View of Toledo</Text>
+			<Text>Краєвид Толедо</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_REMBRANDT_1_NAME">
-			<Text>Andries de Graeff</Text>
+			<Text>Портрет Андріс де Грефф</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_REMBRANDT_2_NAME">
-			<Text>Agatha Bas</Text>
+			<Text>Портрет Агати Бас</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_REMBRANDT_3_NAME">
-			<Text>Abraham and Isaac</Text>
+			<Text>Авраам та Ісаак</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ANGUISSOLA_1_NAME">
-			<Text>Three Sisters Playing Chess</Text>
+			<Text>Гра в шахи</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ANGUISSOLA_2_NAME">
-			<Text>Philip II of Spain</Text>
+			<Text>Портрет Філіпа II</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ANGUISSOLA_3_NAME">
-			<Text>A Monk</Text>
+			<Text>Портрет ченця</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KAUFFMAN_1_NAME">
-			<Text>Anna Maria Jenkins and Thomas Jenkins</Text>
+			<Text>Анна Марія та Томас Джеркінс</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KAUFFMAN_2_NAME">
-			<Text>Portrait of Johann Joachim Winckelmann</Text>
+			<Text>Портрет Йоганна Йоахіма Вінкельманна</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KAUFFMAN_3_NAME">
-			<Text>Sarah Harrop as a Muse</Text>
+			<Text>Портрет Сари Гарроп (місіс Бейтс) як музи</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_HOKUSAI_1_NAME">
-			<Text>The Great Wave off Kanagawa</Text>
+			<Text>Під хвилею Канаґавського моря</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_HOKUSAI_2_NAME">
-			<Text>Lake Suwa in Shinano Province</Text>
+			<Text>Вид на озеро Сува</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_HOKUSAI_3_NAME">
-			<Text>Fine Wind, Clear Morning</Text>
+			<Text>Ніжний вітер. Ясний ранок</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_EOP_1_NAME">
-			<Text>Samin munnyeondo</Text>
+			<Text>Рік трьох ієрогліфів</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_EOP_2_NAME">
-			<Text>Rooster</Text>
+			<Text>Півень</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_EOP_3_NAME">
-			<Text>Ssangma inmuldo</Text>
+			<Text>Фігура з двома кіньми</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GOGH_1_NAME">
-			<Text>Starry Night</Text>
+			<Text>Зоряна ніч</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GOGH_2_NAME">
-			<Text>Café Terrace at Night</Text>
+			<Text>Нічна тераса кафе</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GOGH_3_NAME">
-			<Text>The Night Café</Text>
+			<Text>Нічна кав'ярня</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LEWIS_1_NAME">
-			<Text>The Death of Cleopatra</Text>
+			<Text>Смерть Клеопатри</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LEWIS_2_NAME">
-			<Text>Marriage of Hiawatha and Minnehaha</Text>
+			<Text>Шлюб Хіавата і Міннехаха</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LEWIS_3_NAME">
-			<Text>Hagar</Text>
+			<Text>Агар</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_COLLOT_1_NAME">
-			<Text>Portrait of Pierre-Étienne Falconet</Text>
+			<Text>Портрет П'єра-Етьєна Фальконе</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_COLLOT_2_NAME">
-			<Text>Portrait of Catherine II</Text>
+			<Text>Портрет Катьки Другої</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_COLLOT_3_NAME">
-			<Text>Portrait of Marie Cathcart</Text>
+			<Text>Погруддя Марії Каткарт</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MONET_1_NAME">
-			<Text>Water Lilies</Text>
+			<Text>Водяні лілії</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MONET_2_NAME">
-			<Text>Impression, Sunrise</Text>
+			<Text>Враження. Схід сонця</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MONET_3_NAME">
-			<Text>Haystack at Giverny</Text>
+			<Text>Стіжки сіна</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ORLOVSKY_1_NAME">
 			<Text>Mikhail Kutuzov</Text>
@@ -316,31 +316,31 @@
 			<Text>Bust of Tsar Alexander</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KLIMT_1_NAME">
-			<Text>The Kiss</Text>
+			<Text>Поцілунок</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KLIMT_2_NAME">
-			<Text>Avenue in the Park of Schloss Kammer</Text>
+			<Text>Проспект до замкової палати</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KLIMT_3_NAME">
-			<Text>Farm Garden with Sunflowers</Text>
+			<Text>Заміський сад із соняшниками</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GIL_1_NAME">
-			<Text>Three Girls</Text>
+			<Text>Три дівчини</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GIL_2_NAME">
-			<Text>Bride's Toilet</Text>
+			<Text>Туалет нареченої</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GIL_3_NAME">
-			<Text>Self Portrait</Text>
+			<Text>Автопортрет</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CASSATT_1_NAME">
-			<Text>Lydia Leaning on Her Arms</Text>
+			<Text>Лідія, спираючись на руки</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CASSATT_2_NAME">
-			<Text>The Child's Bath</Text>
+			<Text>Дитяча ванна</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CASSATT_3_NAME">
-			<Text>The Cup of Tea</Text>
+			<Text>Чашка чаю</Text>
 		</Row>
 		<!--Music-->
 		<Row Tag="LOC_GREATWORK_VIVALDI_1_NAME">
