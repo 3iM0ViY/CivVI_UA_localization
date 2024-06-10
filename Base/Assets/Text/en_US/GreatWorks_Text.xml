@@ -344,55 +344,55 @@
 		</Row>
 		<!--Music-->
 		<Row Tag="LOC_GREATWORK_VIVALDI_1_NAME">
-			<Text>Four Seasons: Winter</Text>
+			<Text>Чотири пори року: Зима</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_VIVALDI_2_NAME">
-			<Text>La Notte Concerto</Text>
+			<Text>Концерт для флейти "Ніч"</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_BACH_1_NAME">
-			<Text>"Little" Fugue in G minor</Text>
+			<Text>"Маленька" фуга соль мінор</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_BACH_2_NAME">
-			<Text>Cello Suite No. 1 in G Major</Text>
+			<Text>Віолончельна сюїта №1 соль мажор</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_BEETHOVEN_1_NAME">
-			<Text>Ode to Joy (Symphony #9)</Text>
+			<Text>Ода до радості (Симфонія №9)</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_BEETHOVEN_2_NAME">
-			<Text>Symphony #3 (Eroica Symphony) Mvt. 1</Text>
+			<Text>Симфонія №3</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MOZART_1_NAME">
-			<Text>Eine Kleine Nachtmusik</Text>
+			<Text>Маленька нічна серенада</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MOZART_2_NAME">
-			<Text>Symphony #40, Mvt. 1</Text>
+			<Text>Симфонія №40</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KENGYO_1_NAME">
-			<Text>Rokudan No Shirabe</Text>
+			<Text>Рокудан но Ширабе</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KENGYO_2_NAME">
-			<Text>Hachidan No Shirabe</Text>
+			<Text>Хачідан но Ширабе</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KENGYO_3_NAME">
-			<Text>Midare</Text>
+			<Text>Мідаре (Заворушення)</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GOMEZ_1_NAME">
-			<Text>Fosca - Mvt. 1 (Abertura)</Text>
+			<Text>Увертюра "Фоска"</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_GOMEZ_2_NAME">
-			<Text>Alvorada</Text>
+			<Text>Альворада</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LISZT_1_NAME">
-			<Text>Transcendental Étude No. 9</Text>
+			<Text>Трансцендентний етюд №9 «Спогад»</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LISZT_2_NAME">
-			<Text>Mephisto Waltz No. 1 "The Dance in the Village Inn"</Text>
+			<Text>«Мефісто-вальс» № 1 для фортепіано</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CHOPIN_1_NAME">
-			<Text>Nocturne in E flat Major</Text>
+			<Text>Ноктюрн мі-бемоль мажор Op. 9 № 2</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_CHOPIN_2_NAME">
-			<Text>Valse Brillante Op. 18</Text>
+			<Text>Великий блискучий вальс мі-бемоль мажор Op. 18</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TCHAIKOVSKY_1_NAME">
 			<Text>Romeo and Juliet Fantasy Overture</Text>
@@ -401,57 +401,57 @@
 			<Text>Dance of the Little Swans</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TIANHUA_1_NAME">
-			<Text>Liáng Xiāo</Text>
+			<Text>Доброї ночі (良宵)</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TIANHUA_2_NAME">
-			<Text>Kong Shan Niao Yu</Text>
+			<Text>Порожні гори, де нікого не видно, але звучать пташині голоси (空山鸟语)</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TIANHUA_3_NAME">
-			<Text>Bēi Gē</Text>
+			<Text>Елегія (悲歌)</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_DVORAK_1_NAME">
-			<Text>New World Symphony (no. 9) - Mvt. 4</Text>
+			<Text>Симфонія № 9 мі мінор «З Нового світу», op. 95</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_DVORAK_2_NAME">
-			<Text>Serenade for Strings, Op. 22 - Mvt. 2</Text>
+			<Text>Струнна серенада, Op. 22</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_SCHUMANN_1_NAME">
-			<Text>Prelude and Fugue Op. 16, No. 3</Text>
+			<Text>Крейслеріана Op. 16, №3</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_SCHUMANN_2_NAME">
-			<Text>Toccatina in A minor</Text>
+			<Text>Токкатіна ля мінор</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ROSAS_1_NAME">
-			<Text>Sobre las olas</Text>
+			<Text>Понад хвилями</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ROSAS_2_NAME">
-			<Text>Vals Carmen</Text>
+			<Text>Вальс Кармен</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LILIUOKALANI_1_NAME">
-			<Text>Lili’uokalani’s Prayer</Text>
+			<Text>Молитва Ліліуокалані</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LILIUOKALANI_2_NAME">
-			<Text>Sanoe</Text>
+			<Text>Де ти можеш бути, Саноє?</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_JAAN_1_NAME">
-			<Text>Raga Khamaj Jogiya</Text>
+			<Text>Раґа Джогія</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_JAAN_2_NAME">
-			<Text>Raga Bhairavi</Text>
+			<Text>Раґа Бхайраві</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_JAAN_3_NAME">
-			<Text>Thumri</Text>
+			<Text>Тумрі</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LEONTOVYCH_1_NAME">
-			<Text>Carol of the Bells</Text>
+			<Text>Щедрик</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_LEONTOVYCH_2_NAME">
-			<Text>Prelude for Choir</Text>
+			<Text>Хоральна прелюдія</Text>
 		</Row>
 
 		<!--Relics-->
 		<Row Tag="LOC_GREATWORK_RELIC_1_NAME">
-			<Text>Ковчег завіту</Text>
+			<Text>Ковчег Заповіту</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_2_NAME">
 			<Text>Борода євангеліста</Text>
@@ -460,40 +460,40 @@
 			<Text>Кров мученика</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_4_NAME">
-			<Text>Запис мудреця</Text>
+			<Text>Книга Тота</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_5_NAME">
 			<Text>Слід апостола</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_6_NAME">
-			<Text>Святе лезо</Text>
+			<Text>Меч, що скошує траву</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_7_NAME">
-			<Text>Святий грааль</Text>
+			<Text>Святий Ґрааль</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_8_NAME">
 			<Text>Філософський камінь</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_9_NAME">
-			<Text>Robes of the Guru</Text>
+			<Text>Шати Гуру</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_10_NAME">
-			<Text>Череп святої людини</Text>
+			<Text>Череп святого з Авранша</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_11_NAME">
-			<Text>Сандалі пророка</Text>
+			<Text>Сандалі Магомета</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_12_NAME">
-			<Text>Саван мученика</Text>
+			<Text>Туринська плащаниця</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_13_NAME">
-			<Text>Silk Texts</Text>
+			<Text>Мавандуйські тексти на шовку</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_14_NAME">
-			<Text>Уламок хреста віри</Text>
+			<Text>Уламок Животворного Хреста</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_15_NAME">
-			<Text>Кам'яна форма</Text>
+			<Text>Скунський камінь</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_16_NAME">
 			<Text>Зуб пророка</Text>
@@ -508,19 +508,19 @@
 			<Text>Щит віри</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_20_NAME">
-			<Text>Gundestrup Cauldron</Text>
+			<Text>Казан з Гундеструпа</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_21_NAME">
-			<Text>Casket of the Evangelist</Text>
+			<Text>Скринька з Брешії</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_22_NAME">
 			<Text>Підв'язка Богородиці</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_23_NAME">
-			<Text>Grapevine Cross</Text>
+			<Text>Хрест святої Ніни</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RELIC_24_NAME">
-			<Text>Holy Lance</Text>
+			<Text>Спис Лонгина</Text>
 		</Row>
 
 		<!--Artifacts-->
@@ -528,10 +528,10 @@
 			<Text>Мумія</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_2_NAME">
-			<Text>Кам'яна табличка</Text>
+			<Text>Кам'яний скрижаль</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_3_NAME">
-			<Text>Спис</Text>
+			<Text>Сулиця</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_4_NAME">
 			<Text>Сувій</Text>
@@ -543,7 +543,7 @@
 			<Text>Амфора</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_7_NAME">
-			<Text>Mosaic</Text>
+			<Text>Мозаїка</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_8_NAME">
 			<Text>Сокира</Text>
@@ -552,52 +552,52 @@
 			<Text>Гоплон</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_10_NAME">
-			<Text>Bracelet</Text>
+			<Text>Браслет</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_11_NAME">
-			<Text>Chalice</Text>
+			<Text>Потир</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_12_NAME">
-			<Text>Silver Coin</Text>
+			<Text>Срібна монета</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_13_NAME">
-			<Text>Longsword</Text>
+			<Text>Півтораручний меч</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_14_NAME">
-			<Text>Plate Mail</Text>
+			<Text>Латні обладунки</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_15_NAME">
-			<Text>Перстень</Text>
+			<Text>Сигнет</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_16_NAME">
-			<Text>Astrolabe</Text>
+			<Text>Астролябія</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_17_NAME">
-			<Text>Doubloon</Text>
+			<Text>Дублон</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_18_NAME">
-			<Text>Halberd</Text>
+			<Text>Алебарда</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_19_NAME">
-			<Text>Fresco</Text>
+			<Text>Фреска</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_20_NAME">
-			<Text>Earring</Text>
+			<Text>Сережки</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_21_NAME">
-			<Text>Clock</Text>
+			<Text>Підлоговий годинник</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_22_NAME">
-			<Text>Broadsheet</Text>
+			<Text>Газета ХVIII століття</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_23_NAME">
-			<Text>Flintlock Pistol</Text>
+			<Text>Кременева зброя</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_24_NAME">
-			<Text>Map</Text>
+			<Text>Карта</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ARTIFACT_25_NAME">
-			<Text>Necklace</Text>
+			<Text>Кольє</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
