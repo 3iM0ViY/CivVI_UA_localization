@@ -5,6 +5,7 @@ Adjacency = суміжність
 bonus = бонус (плюсик)
 Faith, Gold, Science, Culture, Diplomacy = віра, золото (гривні), наука, культура, дипломатія
 goody huts = хуторці 
+governor = голова ОДА
 
 Production = Продукція (виробництво)
 Great Works = видатні праці

@@ -3,7 +3,7 @@
 	<BaseGameText>
 		<!--RELIGIONS-->
 		<Row Tag="LOC_RELIGION_PANTHEON">
-			<Text>Pantheon</Text>
+			<Text>Пантеон</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_BUDDHISM">
 			<Text>Буддизм</Text>
@@ -30,7 +30,7 @@
 			<Text>Протестантизм</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_SHINTO">
-			<Text>Синтоїзм</Text>
+			<Text>Синто</Text>
 		</Row>
 		<Row Tag="LOC_RELIGION_SIKHISM">
 			<Text>Сикхізм</Text>
@@ -44,19 +44,19 @@
 
 		<!--BELIEF CLASSES-->
 		<Row Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
-			<Text>Pantheon</Text>
+			<Text>Пантеон</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
-			<Text>Follower</Text>
+			<Text>Вірянин</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
-			<Text>Worship</Text>
+			<Text>Богослужник</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
-			<Text>Founder</Text>
+			<Text>Засновник</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
-			<Text>Enhancer</Text>
+			<Text>Підсилювач</Text>
 		</Row>
 
 		<!--MISCELLANEOUS-->
@@ -67,10 +67,10 @@
 			<Text>Хуторець</Text>
 		</Row>
 		<Row Tag="LOC_RELIC_GOVERNOR">
-			<Text>Governor</Text>
+			<Text>Голова ОДА</Text>
 		</Row>
 		<Row Tag="LOC_RELIC_CITY_STATE">
-			<Text>Suzerain</Text>
+			<Text>Сюзерен</Text>
 		</Row>
 
 		<!--PANTHEON NAMES-->
@@ -127,15 +127,15 @@
 			<Text>Бог веселощів</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
-			<Text>Традиції</Text>
+			<Text>Усна традиція</Text>
 		</Row>
 
 		<!--Pantheon - Military -->
 		<Row Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
-			<Text>Ковадло богів</Text>
+			<Text>Бог небесної кузні</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
-			<Text>Війна богів</Text>
+			<Text>Бог війни</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_INITIATION_RITES_NAME">
 			<Text>Посвята</Text>
@@ -155,7 +155,7 @@
 			<Text>Богиня врожаю</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_CITY_PATRON_GODDESS_NAME">
-			<Text>Бог вітру</Text>
+			<Text>Патрони міст</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_EARTH_GODDESS_NAME">
 			<Text>Богиня землі</Text>
@@ -204,7 +204,7 @@
 			<Text>Єзуїтська освіта</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIQUARIES_NAME">
-			<Text>Гробниці</Text>
+			<Text>Релікварії</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
 			<Text>Релігійні спільноти</Text>
@@ -216,7 +216,7 @@
 			<Text>Робоча етика</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
-			<Text>Дзен-відпочинок</Text>
+			<Text>Дзадзен</Text>
 		</Row>
 
 		<!--4. FOUNDER BELIEFS-->
@@ -227,10 +227,10 @@
 			<Text>Міжкультурний діалог</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
-			<Text>Церковне мистецтво</Text>
+			<Text>Служіння храмове</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
-			<Text>Заступництво церкви</Text>
+			<Text>Папський примат</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_PILGRIMAGE_NAME">
 			<Text>Паломництво</Text>
