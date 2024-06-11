@@ -3,28 +3,28 @@
 	<BaseGameText>
 		<!-- Types -->
 		<Row Tag="LOC_BELIEF_NAME">
-			<Text>Belief</Text>
+			<Text>Віра</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_NAME">
 			<Text>Споруда</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_NAME_REPLACES">
-			<Text>Building (replaces {1_BuildingName})</Text>
+			<Text>Споруда (замінює: {1_BuildingName})</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NAME">
-			<Text>Civic</Text>
+			<Text>Думка</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NAME">
 			<Text>Район</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NAME_REPLACES">
-			<Text>Район (замість району - {1_DistrictName})</Text>
+			<Text>Район (замінює: {1_DistrictName})</Text>
 		</Row>
 		<Row Tag="LOC_ENVOY_NAME">
-			<Text>Envoy</Text>
+			<Text>Посланець</Text>
 		</Row>
 		<Row Tag="LOC_ERA_NAME">
-			<Text>Era</Text>
+			<Text>Ера</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_NAME">
 			<Text>Уряд</Text>
@@ -42,28 +42,28 @@
 			<Text>Ресурс</Text>
 		</Row>
 		<Row Tag="LOC_ROUTE_NAME">
-			<Text>Route</Text>
+			<Text>Шлях</Text>
 		</Row>
 		<Row Tag="LOC_SPY_NAME">
-			<Text>Spy</Text>
+			<Text>Шпигун</Text>
 		</Row>
 		<Row Tag="LOC_TECHNOLOGY_NAME">
-			<Text>Technology</Text>
+			<Text>Технологія</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NAME">
 			<Text>Одиниця</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NAME_REPLACES">
-			<Text>Одиниця-замінник одиниці: {1_UnitName}</Text>
+			<Text>Одиниця (замінює: {1_UnitName})</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_NAME">
 			<Text>Диво</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_NAME_REPLACES">
-			<Text>Wonder (replaces {1_WonderName})</Text>
+			<Text>Диво (замінює: {1_WonderName})</Text>
 		</Row>
 		<Row Tag="LOC_NATURAL_WONDER_NAME">
-			<Text>Natural Wonder</Text>
+			<Text>Природнє диво</Text>
 		</Row>
 
 		<!-- Buildings -->
@@ -102,13 +102,13 @@
 			<Text>Бродвей</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Споруда</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CASTLE_NAME">
 			<Text>Мур</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CATHEDRAL_NAME">
-			<Text>Cathedral</Text>
+			<Text>Собор</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_NAME">
 			<Text>Чичен-Іца</Text>
@@ -126,7 +126,7 @@
 			<Gender>Masculine:no_article</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_DAR_E_MEHR_NAME">
-			<Text>Dar-e Mehr</Text>
+			<Text>Храм Вогню</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_NAME">
 			<Text>Ейфелева вежа</Text>
@@ -174,7 +174,7 @@
 			<Text>Ермітаж</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LARGE_ROCKET_NAME">
-			<Text>Large Rocket</Text>
+			<Text>Ракета-носій</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LIBRARY_NAME">
 			<Text>Бібліотека</Text>
@@ -192,7 +192,7 @@
 			<Text>Ринок</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MEDIUM_ROCKET_NAME">
-			<Text>Medium Rocket</Text>
+			<Text>Ракета-носій середнього класу</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MEETING_HOUSE_NAME">
 			<Text>Молитовня</Text>
@@ -216,7 +216,7 @@
 			<Text>Археологічний музей</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_OBSERVATORY">
-			<Text>Observatory</Text>
+			<Text>Обсерваторія</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ORACLE_NAME">
 			<Text>Оракул</Text>
@@ -225,7 +225,7 @@
 			<Text>Оксфордський університет</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PAGODA_NAME">
-			<Text>Pagoda</Text>
+			<Text>Пагода</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PALACE_NAME">
 			<Text>Палац</Text>
@@ -255,7 +255,7 @@
 			<Text>Каналізація</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SHIPYARD_NAME">
-			<Text>Верф</Text>
+			<Text>Корабельня</Text>
 			<Gender>f</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_SHRINE_NAME">
@@ -313,7 +313,7 @@
 			<Text>Стіна</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_WAT_NAME">
-			<Text>Wat</Text>
+			<Text>Ват</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_WATER_MILL_NAME">
 			<Text>Водяний млин</Text>
@@ -649,25 +649,25 @@
 			<Text>Австралія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_AVALONIA_DESCRIPTION">
-			<Text>Avalonia</Text>
+			<Text>Авалонія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_AZANIA_DESCRIPTION">
-			<Text>Azania</Text>
+			<Text>Азанія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_BALTICA_DESCRIPTION">
-			<Text>Baltica</Text>
+			<Text>Балтика</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_CIMMERIA_DESCRIPTION">
-			<Text>Cimmeria</Text>
+			<Text>Кімерія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_COLUMBIA_DESCRIPTION">
-			<Text>Columbia</Text>
+			<Text>Гадсонленд</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_CONGO_CRATON_DESCRIPTION">
 			<Text>Кратон</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_EURAMERICA_DESCRIPTION">
-			<Text>Euramerica</Text>
+			<Text>Лавруссія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_EUROPE_DESCRIPTION">
 			<Text>Європа</Text>
@@ -679,37 +679,37 @@
 			<Text>Калагарія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_KAZAKHSTANIA_DESCRIPTION">
-			<Text>Kazakhstania</Text>
+			<Text>Казахстанія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_KERNORLAND_DESCRIPTION">
-			<Text>Kernorland</Text>
+			<Text>Кенорленд</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_KUMARI_KANDAM_DESCRIPTION">
-			<Text>Kumari Kandam</Text>
+			<Text>Кумаріккандан</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_LAURASIA_DESCRIPTION">
-			<Text>Laurasia</Text>
+			<Text>Лавразія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_LAURENTIA_DESCRIPTION">
-			<Text>Laurentia</Text>
+			<Text>Лаврентія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_LEMURIA_DESCRIPTION">
-			<Text>Lemuria</Text>
+			<Text>Лемурія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_MU_DESCRIPTION">
-			<Text>Mu</Text>
+			<Text>Му</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_NENA_DESCRIPTION">
-			<Text>Nena</Text>
+			<Text>Нена</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_NORTH_AMERICA_DESCRIPTION">
-			<Text>North America</Text>
+			<Text>Північна Америка</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_NOVOPANGAEA_DESCRIPTION">
-			<Text>Novopangaea</Text>
+			<Text>Новопангея</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_NUNA_DESCRIPTION">
-			<Text>Nuna</Text>
+			<Text>Нуна</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_OCEANIA_DESCRIPTION">
 			<Text>Океанія</Text>
@@ -724,25 +724,25 @@
 			<Text>Паннотія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_RODINIA_DESCRIPTION">
-			<Text>Rodinia</Text>
+			<Text>Родинія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_SIBERIA_DESCRIPTION">
 			<Text>Сибір</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_SOUTH_AMERICA_DESCRIPTION">
-			<Text>South America</Text>
+			<Text>Південна Америка</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_TERRA_AUSTRALIS_DESCRIPTION">
-			<Text>Terra Australis</Text>
+			<Text>Невідома Південна земля</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_UR_DESCRIPTION">
-			<Text>Ur</Text>
+			<Text>Ур</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_VAALBARA_DESCRIPTION">
-			<Text>Vaalbara</Text>
+			<Text>Ваальбара</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_VENDIAN_DESCRIPTION">
-			<Text>Vendian</Text>
+			<Text>Едіакарій</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_ZEALANDIA_DESCRIPTION">
 			<Text>Зеландія</Text>
@@ -771,34 +771,34 @@
 			<Text>Війна</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_NO_INFLUENCE_NAME">
-			<Text>Without Influence</Text>
+			<Text>Без впливу</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_INFLUENTIAL_NAME">
-			<Text>Some Influence</Text>
+			<Text>Певний вплив</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_MAX_INFLUENCE_NAME">
-			<Text>Max Influence</Text>
+			<Text>Максимальний вплив</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_WAR_WITH_MINOR_NAME">
-			<Text>At war</Text>
+			<Text>Воюють</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_AWARE_NAME">
-			<Text>We know who they are</Text>
+			<Text>Ми їх знаємо</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_PATRON_NAME">
-			<Text>They have some influence</Text>
+			<Text>Вони мають певний вплив</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_PROTECTOR_NAME">
-			<Text>They are our protectors</Text>
+			<Text>Вони наші захисники</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_WAR_WITH_MAJOR_NAME">
-			<Text>At war</Text>
+			<Text>Воюють</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_MINOR_MINOR_NAME">
-			<Text>I've seen you</Text>
+			<Text>Ми бачились</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_STATE_MINOR_MINOR_WAR_NAME">
-			<Text>Minor civilizations at war</Text>
+			<Text>Малі цивілізації воюють</Text>
 		</Row>
 
 		<!-- Districts -->
@@ -925,34 +925,34 @@
 			<Text>Континенти</Text>
 		</Row>
 		<Row Tag="LOC_MAP_FRACTAL">
-			<Text>Випадок</Text>
+			<Text>Фрактал</Text>
 		</Row>
 		<Row Tag="LOC_MAP_INLANDSEA">
 			<Text>Навколоводдя</Text>
 		</Row>
 		<Row Tag="LOC_MAP_ISLAND_PLATES">
-			<Text>Island Plates</Text>
+			<Text>Острівні плити</Text>
 		</Row>
 		<Row Tag="LOC_MAP_LAKES">
-			<Text>Lakes</Text>
+			<Text>Озера</Text>
 		</Row>
 		<Row Tag="LOC_MAP_MIRROR">
-			<Text>Mirror</Text>
+			<Text>Відзеркалля</Text>
 		</Row>
 		<Row Tag="LOC_MAP_PANGAEA">
-			<Text>Pangaea</Text>
+			<Text>Пангея</Text>
 		</Row>
 		<Row Tag="LOC_MAP_SEVEN_SEAS">
-			<Text>Seven Seas</Text>
+			<Text>Сім морів</Text>
 		</Row>
 		<Row Tag="LOC_MAP_SMALL_CONTINENTS">
-			<Text>Small Continents</Text>
+			<Text>Малі континенти</Text>
 		</Row>
 		<Row Tag="LOC_MAP_SHUFFLE">
-			<Text>Shuffle</Text>
+			<Text>Випадкова</Text>
 		</Row>
 		<Row Tag="LOC_MAP_TERRA">
-			<Text>Terra</Text>
+			<Text>Терра</Text>
 		</Row>
 
 		<!-- Map Sizes -->
@@ -1015,7 +1015,7 @@
 			<Text>Еверест</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_GALAPAGOS_NAME">
-			<Text>Галапагоси</Text>
+			<Text>Галапагоські острови</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_GRAND_CANYON">
 			<Text>Великий каньйон</Text>
@@ -1092,504 +1092,504 @@
 			<Text>Роман Шухевич</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DOUGLAS_MACARTHUR_NAME">
-			<Text>Douglas MacArthur</Text>
+			<Text>Дуглас Макартур</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SUDIRMAN_NAME">
-			<Text>Sudirman</Text>
+			<Text>Судірман</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AHMAD_SHAH_MASSOUD_NAME">
-			<Text>Ahmad Shah Massoud</Text>
+			<Text>Ахмад Шах Масуд</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_VIJAYA_WIMALARATNE_NAME">
-			<Text>Vijaya Wimalaratne</Text>
+			<Text>Віджая Вімаларатне</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ARTEMISIA_NAME">
-			<Text>Artemisia</Text>
+			<Text>Артемісія I Карійська</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GAIUS_DUILIUS_NAME">
-			<Text>Gaius Duilius</Text>
+			<Text>Гай Марк Дуілій</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_THEMISTOCLES_NAME">
-			<Text>Themistocles</Text>
+			<Text>Темістокл</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEIF_ERIKSON_NAME">
-			<Text>Leif Erikson</Text>
+			<Text>Лейф Еріксон</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RAJENDRA_CHOLA_NAME">
-			<Text>Rajendra Chola</Text>
+			<Text>Раджендра Чола I</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHENG_HE_NAME">
-			<Text>Zheng He</Text>
+			<Text>Чжен Хе</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANCIS_DRAKE_NAME">
-			<Text>Francis Drake</Text>
+			<Text>Френсіс Дрейк</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SANTA_CRUZ_NAME">
-			<Text>Santa Cruz</Text>
+			<Text>Альваро де Басан</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_YI_SUN_SIN_NAME">
-			<Text>Yi Sun-sin</Text>
+			<Text>Лі Сунсін</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHING_SHIH_NAME">
-			<Text>Ching Shih</Text>
+			<Text>Чжен Ши</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HORATIO_NELSON_NAME">
-			<Text>Horatio Nelson</Text>
+			<Text>Гораціо Нельсон</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LASKARINA_BOUBOULINA_NAME">
-			<Text>Laskarina Bouboulina</Text>
+			<Text>Ласкаріна Бубуліна</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANZ_VON_HIPPER_NAME">
-			<Text>Franz von Hipper</Text>
+			<Text>Франц фон Гіппер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOAQUIM_MARQUES_LISBOA_NAME">
-			<Text>Joaquim Marques Lisboa</Text>
+			<Text>Жуакін Маркес Лісбон</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TOGO_HEIHACHIRO_NAME">
-			<Text>Togo Heihachiro</Text>
+			<Text>Тоґо Хейхатіро</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHESTER_NIMITZ_NAME">
-			<Text>Chester Nimitz</Text>
+			<Text>Честер Німіц</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GRACE_HOPPER_NAME">
-			<Text>Grace Hopper</Text>
+			<Text>Ґрейс Гоппер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SERGEY_GORSHKOV_NAME">
-			<Text>Sergei Gorshkov</Text>
+			<Text>Андрій Покровський</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLANCY_FERNANDO_NAME">
-			<Text>Clancy Fernando</Text>
+			<Text>Кленсі Фернандо</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BI_SHENG_NAME">
-			<Text>Bi Sheng</Text>
+			<Text>Бі Шен</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ISIDORE_OF_MILETUS_NAME">
-			<Text>Isidore of Miletus</Text>
+			<Text>Ісидор Мілетський</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_OF_ST_GEORGE_NAME">
-			<Text>James of St. George</Text>
+			<Text>Джеймс із Сен-Джорджа</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FILIPPO_BRUNELLESCHI_NAME">
-			<Text>Filippo Brunelleschi</Text>
+			<Text>Філіппо Брунеллескі</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEONARDO_DA_VINCI_NAME">
-			<Text>Leonardo da Vinci</Text>
+			<Text>Леонардо да Вінчі</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MIMAR_SINAN_NAME">
-			<Text>Mimar Sinan</Text>
+			<Text>Сінан</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADA_LOVELACE_NAME">
-			<Text>Ada Lovelace</Text>
+			<Text>Ада Лавлейс</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAVE_EIFFEL_NAME">
-			<Text>Gustave Eiffel</Text>
+			<Text>Гюстав Ейфель</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_WATT_NAME">
-			<Text>James Watt</Text>
+			<Text>Джеймс Ватт</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALVAR_AALTO_NAME">
-			<Text>Alvar Aalto</Text>
+			<Text>Алвар Аалто</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NIKOLA_TESLA_NAME">
-			<Text>Ніколо Тесла</Text>
+			<Text>Нікола Тесла</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ROBERT_GODDARD_NAME">
-			<Text>Robert Goddard</Text>
+			<Text>Роберт Ґоддард</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_A_ROEBLING_NAME">
-			<Text>John Roebling</Text>
+			<Text>Джон Роблінг</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_DREW_NAME">
-			<Text>Jane Drew</Text>
+			<Text>Джейн Дрю</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SERGEI_KOROLEV_NAME">
 			<Text>Сергій Корольов</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHARLES_CORREA_NAME">
-			<Text>Charles Correa</Text>
+			<Text>Шарль Корреа</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOSEPH_PAXTON_NAME">
-			<Text>Joseph Paxton</Text>
+			<Text>Джозеф Пакстон</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WERNHER_VON_BRAUN_NAME">
-			<Text>Wernher von Braun</Text>
+			<Text>Вернер фон Браун</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COLAEUS_NAME">
-			<Text>Colaeus</Text>
+			<Text>Колеус</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARCUS_LICINIUS_CRASSUS_NAME">
-			<Text>Marcus Licinius Crassus</Text>
+			<Text>Марк Ліциній Красс</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHANG_QIAN_NAME">
-			<Text>Zhang Qian</Text>
+			<Text>Чжан Цянь</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARCO_POLO_NAME">
-			<Text>Marco Polo</Text>
+			<Text>Марко Поло</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PIERO_DE_BARDI_NAME">
-			<Text>Piero de' Bardi</Text>
+			<Text>Барді</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IRENE_OF_ATHENS_NAME">
-			<Text>Irene of Athens</Text>
+			<Text>Ірина Афінська</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GIOVANNI_DE_MEDICI_NAME">
-			<Text>Giovanni de' Medici</Text>
+			<Text>Джованні Де Медічі</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAKOB_FUGGER_NAME">
-			<Text>Jakob Fugger</Text>
+			<Text>Якоб Фуггер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RAJA_TODAR_MAL_NAME">
-			<Text>Raja Todar Mal</Text>
+			<Text>Тодар Мал</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADAM_SMITH_NAME">
-			<Text>Adam Smith</Text>
+			<Text>Адам Сміт</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_SPILSBURY">
-			<Text>John Spilsbury</Text>
+			<Text>Джон Спілсбері</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_JACOB_ASTOR_NAME">
-			<Text>John Jacob Astor</Text>
+			<Text>Джон Джейкоб Астор</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEVI_STRAUSS_NAME">
-			<Text>Levi Strauss</Text>
+			<Text>Леві Стросс</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_ROCKEFELLER_NAME">
-			<Text>John Rockefeller</Text>
+			<Text>Джон Девісон Рокфеллер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SARAH_BREEDLOVE_NAME">
-			<Text>Sarah Breedlove</Text>
+			<Text>Мадам Сі Джей Вокер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HELENA_RUBINSTEIN_NAME">
-			<Text>Helena Rubinstein</Text>
+			<Text>Хелена Рубінштейн</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MELITTA_BENTZ">
-			<Text>Melitta Bentz</Text>
+			<Text>Мелітта Бенц</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_KATHERINE_GODDARD_NAME">
-			<Text>Mary Katherine Goddard</Text>
+			<Text>Мері Кетрін Годдард</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ESTEE_LAUDER">
-			<Text>Estée Lauder</Text>
+			<Text>Есте Лаудер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MASARU_IBUKA_NAME">
-			<Text>Masaru Ibuka</Text>
+			<Text>Ібука Масару</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMSETJI_TATA_NAME">
-			<Text>Jamsetji Tata</Text>
+			<Text>Джамшеджі Тата</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_THE_BAPTIST_NAME">
-			<Text>John the Baptist</Text>
+			<Text>Іван Хреститель</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CONFUCIUS_NAME">
-			<Text>Confucius</Text>
+			<Text>Конфуцій</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZOROASTER_NAME">
-			<Text>Zoroaster</Text>
+			<Text>Заратустра</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIDDHARTHA_GAUTAMA_NAME">
-			<Text>Siddhartha Gautama</Text>
+			<Text>Сіддгартха Ґаутама</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LAOZI_NAME">
-			<Text>Laozi</Text>
+			<Text>Лао-цзи</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIMON_PETER_NAME">
-			<Text>Simon Peter</Text>
+			<Text>Апостол Петро</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BODHIDHARMA_NAME">
-			<Text>Bodhidharma</Text>
+			<Text>Бодгідгарма</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADI_SHANKARA_NAME">
-			<Text>Adi Shankara</Text>
+			<Text>Аді Шанкарачар'я</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SONGTSAN_GAMPO_NAME">
-			<Text>Songtsan Gampo</Text>
+			<Text>Сронцангамбо</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_O_NO_YASUMARO_NAME">
-			<Text>O no Yasumaro</Text>
+			<Text>О но Ясумаро</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IRENAEUS_NAME">
-			<Text>Irenaeus</Text>
+			<Text>Іреней Ліонський</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARTIN_LUTHER_NAME">
-			<Text>Martin Luther</Text>
+			<Text>Мартін Лютер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANCIS_OF_ASSISI_NAME">
-			<Text>Francis of Assisi</Text>
+			<Text>Франциск Ассізький</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MADHVA_ACHARYA_NAME">
-			<Text>Madhva Acharya</Text>
+			<Text>Мадхва</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_THOMAS_AQUINAS_NAME">
-			<Text>Thomas Aquinas</Text>
+			<Text>Тома Аквінський</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HAJI_HUUD_NAME">
-			<Text>Haji Huud</Text>
+			<Text>Хаджі Худ</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ARYABHATA_NAME">
-			<Text>Aryabhata</Text>
+			<Text>Аріабхата I</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EUCLID_NAME">
-			<Text>Euclid</Text>
+			<Text>Евклід</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HYPATIA_NAME">
-			<Text>Hypatia</Text>
+			<Text>Гіпатія</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABU_AL_QASIM_AL_ZAHRAWI_NAME">
-			<Text>Abu al-Qasim al-Zahrawi</Text>
+			<Text>Абу аль Касім аль-Захраві</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HILDEGARD_OF_BINGEN_NAME">
-			<Text>Hildegard of Bingen</Text>
+			<Text>Гільдеґарда Бінгенська</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_OMAR_KHAYYAM_NAME">
-			<Text>Omar Khayyam</Text>
+			<Text>Омар Хаям</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GALILEO_GALILEI_NAME">
-			<Text>Galileo Galilei</Text>
+			<Text>Галілео Галілей</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ISAAC_NEWTON_NAME">
-			<Text>Isaac Newton</Text>
+			<Text>Ісаак Ньютон</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EMILIE_DU_CHATELET_NAME">
-			<Text>Emilie du Chatelet</Text>
+			<Text>Емілі дю Шатле</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALFRED_NOBEL_NAME">
-			<Text>Alfred Nobel</Text>
+			<Text>Альфред Нобель</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CHARLES_DARWIN_NAME">
-			<Text>Charles Darwin</Text>
+			<Text>Чарльз Дарвін</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DMITRI_MENDELEEV_NAME">
-			<Text>Dmitri Mendeleev</Text>
+			<Text>Іван Горбачевський</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALAN_TURING_NAME">
-			<Text>Alan Turing</Text>
+			<Text>Алан Тюрінг</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALBERT_EINSTEIN_NAME">
-			<Text>Albert Einstein</Text>
+			<Text>Альберт Ейнштейн</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_YOUNG_NAME">
-			<Text>James Young</Text>
+			<Text>Джеймс Янг</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANAKI_AMMAL_NAME">
-			<Text>Janaki Ammal</Text>
+			<Text>Джанакі Аммал</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_LEAKEY_NAME">
-			<Text>Mary Leakey</Text>
+			<Text>Мері Лікі</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ERWIN_SCHRODINGER_NAME">
-			<Text>Erwin Schrödinger</Text>
+			<Text>Ервін Шредінгер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABDUS_SALAM_NAME">
-			<Text>Abdus Salam</Text>
+			<Text>Абдус Салам</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CARL_SAGAN_NAME">
-			<Text>Carl Sagan</Text>
+			<Text>Карл Саган</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_STEPHANIE_KWOLEK_NAME">
-			<Text>Stephanie Kwolek</Text>
+			<Text>Стефані Кволек</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BHASA_NAME">
-			<Text>Bhasa</Text>
+			<Text>Бхаса</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HOMER_NAME">
-			<Text>Homer</Text>
+			<Text>Гомер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_OVID_NAME">
-			<Text>Ovid</Text>
+			<Text>Овідій</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_QU_YUAN_NAME">
-			<Text>Qu Yuan</Text>
+			<Text>Цюй Юань</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GEOFFREY_CHAUCER_NAME">
-			<Text>Geoffrey Chaucer</Text>
+			<Text>Джеффрі Чосер</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LI_BAI_NAME">
-			<Text>Li Bai</Text>
+			<Text>Лі Бо</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MURASAKI_SHIKIBU_NAME">
-			<Text>Murasaki Shikibu</Text>
+			<Text>Мурасакі Сікібу</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARGARET_CAVENDISH_NAME">
-			<Text>Margaret Cavendish</Text>
+			<Text>Маргарет Кавендіш</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MIGUEL_DE_CERVANTES_NAME">
-			<Text>Miguel de Cervantes</Text>
+			<Text>Мігель де Сервантес</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NICCOLO_MACHIAVELLI_NAME">
-			<Text>Niccolò Machiavelli</Text>
+			<Text>Нікколо Макіавеллі</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WILLIAM_SHAKESPEARE_NAME">
-			<Text>William Shakespeare</Text>
+			<Text>Вільям Шекспір</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARIE_CATHERINE_D_AULNOY_NAME">
-			<Text>Marie-Catherine d'Aulnoy</Text>
+			<Text>Мадам д'Онуа</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALEXANDER_PUSHKIN_NAME">
-			<Text>Alexander Pushkin</Text>
+			<Text>Іван Котляревський</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDGAR_ALLEN_POE_NAME">
-			<Text>Edgar Allan Poe</Text>
+			<Text>Едгар Аллан По</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_AUSTEN_NAME">
-			<Text>Jane Austen</Text>
+			<Text>Джейн Остін</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHANN_WOLFGANG_VON_GOETHE_NAME">
-			<Text>Johann Wolfgang von Goethe</Text>
+			<Text>Йоганн Вольфганг фон Гете</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_SHELLEY_NAME">
-			<Text>Mary Shelley</Text>
+			<Text>Мері Шеллі</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ABDUL_MUIS_NAME">
-			<Text>Abdul Muis</Text>
+			<Text>Абдул Муйс</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAMES_JOYCE_NAME">
-			<Text>James Joyce</Text>
+			<Text>Джеймс Джойс</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EMILY_DICKINSON_NAME">
-			<Text>Emily Dickinson</Text>
+			<Text>Емілі Дікінсон</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEO_TOLSTOY_NAME">
-			<Text>Leo Tolstoy</Text>
+			<Text>Микола Костомаров</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARK_TWAIN_NAME">
-			<Text>Mark Twain</Text>
+			<Text>Марк Твен</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_F_SCOTT_FITZGERALD_NAME">
-			<Text>F. Scott Fitzgerald</Text>
+			<Text>Френсіс Скотт Фіцджеральд</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HG_WELLS_NAME">
-			<Text>H.G. Wells</Text>
+			<Text>Герберт Веллс</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RABINDRANATH_TAGORE_NAME">
-			<Text>Rabindranath Tagore</Text>
+			<Text>Рабіндранат Тагор</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAREL_CAPEK_NAME">
-			<Text>Karel Capek</Text>
+			<Text>Карел Чапек</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANDREY_RUBLEV_NAME">
-			<Text>Andrei Rublev</Text>
+			<Text>Аліпій Печерський</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIERONYMUS_BOSCH_NAME">
-			<Text>Hieronymus Bosch</Text>
+			<Text>Ієронім Босх</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DONATELLO_NAME">
-			<Text>Donatello</Text>
+			<Text>Донателло</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MICHELANGELO_NAME">
-			<Text>Michelangelo</Text>
+			<Text>Мікеланджело</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_QIU_YING_NAME">
-			<Text>Qiu Ying</Text>
+			<Text>Цю Їн</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TITIAN_NAME">
-			<Text>Titian</Text>
+			<Text>Тіціан</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANGELICA_KAUFFMAN_NAME">
-			<Text>Angelica Kauffman</Text>
+			<Text>Ангеліка Кауфман</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EL_GRECO_NAME">
-			<Text>El Greco</Text>
+			<Text>Ель Греко</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_REMBRANDT_VAN_RIJN_NAME">
-			<Text>Rembrandt van Rijn</Text>
+			<Text>Рембрандт ван Рейн</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SOFONISBA_ANGUISSOLA_NAME">
-			<Text>Sofonisba Anguissola</Text>
+			<Text>Софонісба Ангвіссола</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANG_SEUNG_EOP_NAME">
-			<Text>Jang Seung-eop</Text>
+			<Text>Овон</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KATSUSHIKA_HOKUSAI_NAME">
-			<Text>Katsushika Hokusai</Text>
+			<Text>Кацусіка Хокусай</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_VINCENT_VAN_GOGH_NAME">
-			<Text>Vincent van Gogh</Text>
+			<Text>Вінсент ван Гог</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDMONIA_LEWIS_NAME">
-			<Text>Edmonia Lewis</Text>
+			<Text>Едмонія Льюїс</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BORIS_ORLOVSKY_NAME">
-			<Text>Boris Orlovsky</Text>
+			<Text>Іван Мартос</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAV_KLIMT_NAME">
-			<Text>Gustav Klimt</Text>
+			<Text>Ґустав Клімт</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARIE_ANNE_COLLOT_NAME">
-			<Text>Marie-Anne Collot</Text>
+			<Text>Марі-Анн Колло</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLAUDE_MONET_NAME">
-			<Text>Claude Monet</Text>
+			<Text>Клод Моне</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AMRITA_SHER_GIL_NAME">
-			<Text>Amrita Sher-Gil</Text>
+			<Text>Амріта Шер-Гіл</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARY_CASSATT_NAME">
-			<Text>Mary Cassatt</Text>
+			<Text>Мері Кассат</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIO_VIVALDI_NAME">
-			<Text>Antonio Vivaldi</Text>
+			<Text>Антоніо Вівальді</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHANN_SEBASTIAN_BACH_NAME">
-			<Text>Johann Sebastian Bach</Text>
+			<Text>Йоганн Себастьян Бах</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LUDWIG_VAN_BEETHOVEN_NAME">
-			<Text>Ludwig van Beethoven</Text>
+			<Text>Людвіг ван Бетховен</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WOLFGANG_AMADEUS_MOZART_NAME">
-			<Text>Wolfgang Amadeus Mozart</Text>
+			<Text>Вольфганг Амадей Моцарт</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_YATSUHASHI_KENGYO_NAME">
-			<Text>Yatsuhashi Kengyo</Text>
+			<Text>Яцухасі Кенгьо</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIO_CARLOS_GOMEZ_NAME">
-			<Text>Antônio Carlos Gomes</Text>
+			<Text>Карлус Антоніу Ґомес</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FRANZ_LISZT_NAME">
-			<Text>Franz Liszt</Text>
+			<Text>Ференц Ліст</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FREDERIC_CHOPIN_NAME">
-			<Text>Frederic Chopin</Text>
+			<Text>Фридерик Шопен</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PETER_ILYICH_TCHAIKOVSKY_NAME">
-			<Text>Peter Ilyich Tchaikovsky</Text>
+			<Text>Євген Станкович</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LIU_TIANHUA_NAME">
-			<Text>Liu Tianhua</Text>
+			<Text>Лю Тяньхуа</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIN_DVORAK_NAME">
-			<Text>Antonin Dvorak</Text>
+			<Text>Антонін Дворжак</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLARA_SCHUMANN_NAME">
-			<Text>Clara Schumann</Text>
+			<Text>Клара Шуман</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JUVENTINO_ROSAS_NAME">
-			<Text>Juventino Rosas</Text>
+			<Text>Хувентіно Росас</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_LILIUOKALANI_NAME">
-			<Text>Lili'uokalani</Text>
+			<Text>Ліліуокалані</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GAUHAR_JAAN_NAME">
-			<Text>Gauhar Jaan</Text>
+			<Text>Гаухар Джаан</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MYKOLA_LEONTOVYCH_NAME">
-			<Text>Mykola Leontovych</Text>
+			<Text>Микола Леонтович</Text>
 		</Row>
 
 		<!-- Great Work Objects-->
 		<Row Tag="LOC_GREAT_WORK_OBJECT_SCULPTURE_NAME">
-			<Text>Sculpture</Text>
+			<Text>Скульптура</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORK_OBJECT_PORTRAIT_NAME">
-			<Text>Portrait</Text>
+			<Text>Портрет</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORK_OBJECT_LANDSCAPE_NAME">
-			<Text>Художній твір</Text>
+			<Text>Пейзаж</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORK_OBJECT_RELIGIOUS_NAME">
-			<Text>Religious</Text>
+			<Text>Релігійний</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORK_OBJECT_ARTIFACT_NAME">
-			<Text>Artifact</Text>
+			<Text>Артефакт</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORK_OBJECT_WRITING_NAME">
 			<Text>Літературний твір</Text>
@@ -1598,15 +1598,15 @@
 			<Text>Музичний твір</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORK_OBJECT_RELIC_NAME">
-			<Text>Relic</Text>
+			<Text>Реліквія</Text>
 		</Row>
 
 		<!-- Governments-->
 		<Row Tag="LOC_GOVERNMENT_ANARCHY_NAME">
-			<Text>Anarchy</Text>
+			<Text>Анархія</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_CHIEFDOM_NAME">
-			<Text>Рада племені</Text>
+			<Text>Вождівство</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_AUTOCRACY_NAME">
 			<Text>Автократія</Text>
@@ -1721,7 +1721,7 @@
 			<Text>Шато</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_NAME">
-			<Text>Colossal Head</Text>
+			<Text>Величезна голова</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_GREAT_WALL_NAME">
 			<Text>Велика стіна</Text>
@@ -1733,16 +1733,16 @@
 			<Text>Місія</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_ROMAN_FORT_NAME">
-			<Text>Roman Fort</Text>
+			<Text>Каструм</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_SPHINX_NAME">
 			<Text>Сфінкс</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_STEPWELL_NAME">
-			<Text>Східчасте джерело</Text>
+			<Text>Східчаста криниця</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_NAME">
-			<Text>Зіггурат</Text>
+			<Text>Зикурат</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_MISSILE_SILO">
 			<Text>Ракетний бункер</Text>
@@ -2064,109 +2064,109 @@
 			<Text>Військові навчання</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_SHORT_NAME">
-			<Text>Encampment Training</Text>
+			<Text>Військові навчання</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_NAME">
 			<Text>Регата</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_SHORT_NAME">
-			<Text>Harbor Shipping</Text>
+			<Text>Регата</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_NAME">
-			<Text>Інвестування</Text>
+			<Text>Інвестування в логістику</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_SHORT_NAME">
-			<Text>Industrial Zone Logistics</Text>
+			<Text>Інвестування в логістику</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_NAME">
-			<Text>Commercial Hub Investment</Text>
+			<Text>Інвестування в економіку</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_SHORT_NAME">
-			<Text>Commercial Hub Investment</Text>
+			<Text>Інвестування в економіку</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_NAME">
 			<Text>Молебень</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_SHORT_NAME">
-			<Text>Holy Site Prayers</Text>
+			<Text>Молебень</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_NAME">
 			<Text>Дослідницький грант</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_SHORT_NAME">
-			<Text>Campus Research Grants</Text>
+			<Text>Дослідницький грант</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_NAME">
 			<Text>Фестиваль</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_SHORT_NAME">
-			<Text>Theater Square Festival</Text>
+			<Text>Фестиваль</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_CARNIVAL_NAME">
-			<Text>Carnival</Text>
+			<Text>Карнавал</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_CARNIVAL_SHORT_NAME">
-			<Text>Carnival</Text>
+			<Text>Карнавал</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_NAME">
 			<Text>Відновлення укріплень</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_SHORT_NAME">
-			<Text>Repair Outer Defenses</Text>
+			<Text>Відновлення укріплень</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_NAME">
 			<Text>Запуск супутника</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_SHORT_NAME">
-			<Text>Launch Earth Satellite</Text>
+			<Text>Запуск супутника</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_NAME">
 			<Text>Висадка на Місяць</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_SHORT_NAME">
-			<Text>Launch Moon Landing</Text>
+			<Text>Висадка на Місяць</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_NAME">
 			<Text>Запуск модуля живлення</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_SHORT_NAME">
-			<Text>Mars Colony Reactor</Text>
+			<Text>Запуск модуля живлення</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_NAME">
 			<Text>Запуск житлового модуля</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_SHORT_NAME">
-			<Text>Mars Colony Habitation</Text>
+			<Text>Запуск житлового модуля</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_NAME">
 			<Text>Запуск модуля гідропоніки</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_SHORT_NAME">
-			<Text>Mars Colony Hydroponics</Text>
+			<Text>Запуск модуля гідропоніки</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_MANHATTAN_PROJECT_NAME">
-			<Text>Ядерна зброя</Text>
+			<Text>Мангеттенський проєкт</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_MANHATTAN_PROJECT_SHORT_NAME">
-			<Text>Manhattan Project</Text>
+			<Text>Мангеттенський проєкт</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_OPERATION_IVY_NAME">
-			<Text>Operation Ivy</Text>
+			<Text>Термоядерні досліди</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_OPERATION_IVY_SHORT_NAME">
-			<Text>Operation Ivy</Text>
+			<Text>Термоядерні досліди</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_NAME">
-			<Text>Будівництво ядерної ракети</Text>
+			<Text>Будівництво ядерної бомби</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_SHORT_NAME">
-			<Text>Build Nuclear Device</Text>
+			<Text>Будівництво ядерної бомби</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_NAME">
-			<Text>Build Thermonuclear Device</Text>
+			<Text>Будівництво водневої бомби</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_SHORT_NAME">
-			<Text>Build Thermonuclear Device</Text>
+			<Text>Будівництво водневої бомби</Text>
 		</Row>
 
 		<!-- Quests-->
