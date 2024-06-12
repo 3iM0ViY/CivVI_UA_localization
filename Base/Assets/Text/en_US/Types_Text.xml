@@ -2180,32 +2180,32 @@
 			<Text>Зруйнувати табір варварів у радіусі 5 ділянок</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_NAME">
-			<Text>Train Unit</Text>
+			<Text>Натренувати</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_NAME">
-			<Text>Construct District</Text>
+			<Text>Створити район</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_NAME">
-			<Text>Trigger Eureka</Text>
+			<Text>Сппровокувати Еврику</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_NAME">
-			<Text>Trigger Inspiration</Text>
+			<Text>Надихнутись</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_NAME">
-			<Text>Recruit Great Person</Text>
+			<Text>Рекрутувати Видатну людини</Text>
 		</Row>
 		<!-- Resource class names -->
 		<Row Tag="LOC_RESOURCECLASS_BONUS_NAME">
-			<Text>Bonus</Text>
+			<Text>Бонусний ресурс</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCECLASS_LUXURY_NAME">
-			<Text>Luxury</Text>
+			<Text>Розкішний ресурс</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCECLASS_STRATEGIC_NAME">
-			<Text>Strategic</Text>
+			<Text>Стратегічний ресурс</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCECLASS_ARTIFACT_NAME">
-			<Text>Artifact</Text>
+			<Text>Артифакт</Text>
 		</Row>
 		<!-- Resources: Bonus-->
 		<Row Tag="LOC_RESOURCE_BANANAS_NAME">
@@ -2402,16 +2402,16 @@
 			<Text>Мішана</Text>
 		</Row>
 		<Row Tag="LOC_EMPTY_SLOT_ECONOMIC">
-			<Text>Empty Economic Policy Slot</Text>
+			<Text>Пустий слот економічної політики</Text>
 		</Row>
 		<Row Tag="LOC_EMPTY_SLOT_MILITARY">
-			<Text>Empty Military Policy Slot</Text>
+			<Text>Пустий слот військової політики</Text>
 		</Row>
 		<Row Tag="LOC_EMPTY_SLOT_DIPLOMATIC">
-			<Text>Empty Diplomatic Policy Slot</Text>
+			<Text>Пустий слот дипломатичної політики</Text>
 		</Row>
 		<Row Tag="LOC_EMPTY_SLOT_WILDCARD">
-			<Text>Empty Wildcard Slot</Text>
+			<Text>Пустий слот узагальненої політики</Text>
 		</Row>
 		<!-- Techs -->
 		<Row Tag="LOC_TECH_ADVANCED_BALLISTICS_NAME">
@@ -2621,7 +2621,7 @@
 
 		<!-- Terrain -->
 		<Row Tag="LOC_TERRAIN_COAST_NAME">
-			<Text>Coast and Lake</Text>
+			<Text>Озеро й узбережжя</Text>
 		</Row>
 		<Row Tag="LOC_TERRAIN_DESERT_NAME">
 			<Text>Пустеля</Text>
@@ -2672,28 +2672,28 @@
 			<Text>Тундрова гора</Text>
 		</Row>
 		<Row Tag="LOC_TERRAIN_OUTOFPLAY_NAME">
-			<Text>Void Hex</Text>
+			<Text>Пуста плитка</Text>
 		</Row>
 		<Row Tag="LOC_TERRAIN_CLASS_GRASS_NAME">
-			<Text>Grass Class</Text>
+			<Text>Клас трави</Text>
 		</Row>
 		<Row Tag="LOC_TERRAIN_CLASS_MOUNTAIN_NAME">
-			<Text>Mountain Class</Text>
+			<Text>Гірський клас</Text>
 		</Row>
 		<Row Tag="LOC_TERRAIN_CLASS_PLAINS_NAME">
-			<Text>Plains Class</Text>
+			<Text>Клас рівнини</Text>
 		</Row>
 		<Row Tag="LOC_TERRAIN_CLASS_DESERT_NAME">
-			<Text>Desert Class</Text>
+			<Text>Клас пустелі</Text>
 		</Row>
 		<Row Tag="LOC_TERRAIN_CLASS_TUNDRA_NAME">
-			<Text>Tundra Class</Text>
+			<Text>Тундровий клас</Text>
 		</Row>
 		<Row Tag="LOC_TERRAIN_CLASS_SNOW_NAME">
-			<Text>Snow Class</Text>
+			<Text>Сніжний клас</Text>
 		</Row>
 		<Row Tag="LOC_TERRAIN_CLASS_WATER_NAME">
-			<Text>Water Class</Text>
+			<Text>Водяний клас</Text>
 		</Row>
 
 		<!-- Units -->
@@ -3147,10 +3147,10 @@
 
 		<!-- WMDs -->
 		<Row Tag="LOC_WMD_NUCLEAR_DEVICE_NAME">
-			<Text>Nuclear Device</Text>
+			<Text>Ядерна боєголовка</Text>
 		</Row>
 		<Row Tag="LOC_WMD_THERMONUCLEAR_DEVICE_NAME">
-			<Text>Thermonuclear Device</Text>
+			<Text>Термоядерна боєголовка</Text>
 		</Row>
 
 		<!-- Yields -->
@@ -3173,7 +3173,7 @@
 			<Text>науки</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AZTEC_NAME">
-			<Text>Ацтекі</Text>
+			<Text>Ацтеки</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_MONTEZUMA_NAME">
 			<Text>Монтесума II</Text>
