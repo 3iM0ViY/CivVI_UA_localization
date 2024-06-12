@@ -75,10 +75,10 @@
 			<Text>Дельфін</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_PUSHKIN_1_NAME">
-			<Text>Eugene Onegin</Text>
+			<Text>Наталка Полтавка</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_PUSHKIN_2_NAME">
-			<Text>Boris Godunov</Text>
+			<Text>Енеїда</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_POE_1_NAME">
 			<Text>Серце виказало</Text>
@@ -123,10 +123,10 @@
 			<Text>Хто успіху не має...</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TOLSTOY_1_NAME">
-			<Text>War and Peace</Text>
+			<Text>Дві руські народності</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TOLSTOY_2_NAME">
-			<Text>Anna Karenina</Text>
+			<Text>Переяславська ніч</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TWAIN_1_NAME">
 			<Text>Пригоди Гекльберрі Фінна</Text>
@@ -163,13 +163,13 @@
 		</Row>
 		<!--Art-->
 		<Row Tag="LOC_GREATWORK_RUBLEV_1_NAME">
-			<Text>Annunciation</Text>
+			<Text>Свенська ікона Богородиці</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RUBLEV_2_NAME">
-			<Text>Saviour in Glory</Text>
+			<Text>Корсунське Благовіщення</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_RUBLEV_3_NAME">
-			<Text>Ascension</Text>
+			<Text>Ярославська Оранта</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_BOSCH_1_NAME">
 			<Text>Сад земних насолод</Text>
@@ -307,13 +307,13 @@
 			<Text>Стіжки сіна</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ORLOVSKY_1_NAME">
-			<Text>Mikhail Kutuzov</Text>
+			<Text>Пам'ятник герцогу де Рішельє</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ORLOVSKY_2_NAME">
-			<Text>Alexander Column</Text>
+			<Text>Хронос з Книгою буття</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_ORLOVSKY_3_NAME">
-			<Text>Bust of Tsar Alexander</Text>
+			<Text>Надгробок Кирила Розумовського</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_KLIMT_1_NAME">
 			<Text>Поцілунок</Text>
@@ -395,10 +395,10 @@
 			<Text>Великий блискучий вальс мі-бемоль мажор Op. 18</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TCHAIKOVSKY_1_NAME">
-			<Text>Romeo and Juliet Fantasy Overture</Text>
+			<Text>Коли цвіте папороть</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TCHAIKOVSKY_2_NAME">
-			<Text>Dance of the Little Swans</Text>
+			<Text>Камерна симфонія №7 - III</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TIANHUA_1_NAME">
 			<Text>Доброї ночі (良宵)</Text>
