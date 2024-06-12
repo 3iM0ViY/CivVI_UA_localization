@@ -12,7 +12,7 @@
 			<Text>Ще трохи...</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_MP_PLAYER_CHANGE_CONTINUE">
-			<Text>Next Player</Text>
+			<Text>Наступний гравець</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_VICTORY_INFO">
 			<Text>РЕЗУЛЬТАТ</Text>
@@ -40,204 +40,204 @@
 			<Text>Ви сягнули рівня: {1_LeaderName}</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_NAME">
-			<Text>Augustus Caesar</Text>
+			<Text>Октавіан Август</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_QUOTE">
-			<Text>I found Rome a city of bricks and left it a city of marble.</Text>
+			<Text>Я застав Рим містом із цегли, а залишив його містом із мармуру.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_NAME">
-			<Text>Hammurabi</Text>
+			<Text>Хаммурапі</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_QUOTE">
-			<Text>The first duty of government is to protect the powerless from the powerful.</Text>
+			<Text>Перший обов'язок держави — захищати безсилих від можновладців.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_NAME">
-			<Text>Abraham Lincoln</Text>
+			<Text>Авраам Лінкольн</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_QUOTE">
-			<Text>Leave nothing for tomorrow which can be done today.</Text>
+			<Text>Не відкладай на завтра те, що можна зробити сьогодні</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_NAME">
-			<Text>Winston Churchill</Text>
+			<Text>Вінстон Черчилль</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_QUOTE">
-			<Text>Where there is great power there is great responsibility; where there is less power there is less responsibility; and where there is no power there can, I think, be no responsibility.</Text>
+			<Text>Ніщо в житті так не запалює, як те, що в тебе стріляли й промахнулися.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_NAME">
-			<Text>Nelson Mandela</Text>
+			<Text>Нельсон Мандела</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_QUOTE">
-			<Text>Real leaders must be ready to sacrifice all for the freedom of their people.</Text>
+			<Text>Багато речей здаються нездійсненними до тих пір, поки їх не зробиш.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_NAME">
-			<Text>Catherine the Great</Text>
+			<Text>Богдан Хмельницький</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_QUOTE">
-			<Text>Power without a nation's confidence is nothing.</Text>
+			<Text>Ще не вмерла козацькая мати!</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_NAME">
-			<Text>Ashoka</Text>
+			<Text>Ашока</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_QUOTE">
-			<Text>It is forbidden to decry other sects; the true believer gives honor to whatever in them is worthy of honor.</Text>
+			<Text>Перемога Дхарми приносить любов і вдячність. Улюблений Богами вірить, що, навіть маленька перемога любові приносить велику нагороду в іншому світі.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_NAME">
-			<Text>Marcus Aurelius</Text>
+			<Text>Марк Аврелій</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_QUOTE">
-			<Text>The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.</Text>
+			<Text>Не все ж базікати про те, якою повинна бути людина, час і стати нею.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_NAME">
-			<Text>Lech Wałęsa</Text>
+			<Text>Лех Валенса</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_QUOTE">
-			<Text>As a nation, we have the right to decide our own affairs, to mold our own future.</Text>
+			<Text>В демокртії додатні та від'ємні плюси.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_NAME">
-			<Text>Hatshepsut</Text>
+			<Text>Хатшепсут</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
-			<Text>Hear ye, all persons! Ye people as many as ye are! I have done things according to the design of my heart.</Text>
+			<Text>Моє серце наказує чинити так, і це, як мені здається, саме те, про що казатимуть у майбутньому люди, коли побачать мої монументи та судитимуть те, що я зробила.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_NAME">
-			<Text>Charles de Gaulle</Text>
+			<Text>Шарль де Голль</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_QUOTE">
-			<Text>Let us be firm, pure and faithful; at the end of our sorrow, there is the greatest glory of the world, that of the men who did not give in.</Text>
+			<Text>Як можна очікувати, що однопартійна система працюватиме в країні, де понад 246 різних сортів сиру?</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
-			<Text>Eleanor of Aquitaine</Text>
+			<Text>Алієнор Аквітанська</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
-			<Text>Pitiful and pitied by no one, why have I come to the ignominy of this detestable old age, who was ruler of two kingdoms, mother of two kings? My guts are torn from me, my family is carried off and removed from me.</Text>
+			<Text>Жалюгідна і ніким не жалувана, чому я дійшла до безчестя цієї огидної старості, яка була володаркою двох царств, матір'ю двох царів? Мої кишки вирвані з мене, мою сім'ю забрали та віддалили від мене.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_NAME">
-			<Text>Ivan the Terrible</Text>
+			<Text>Михайло Грушевський</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_QUOTE">
-			<Text>To shave the beard is a sin that the blood of all martyrs cannot cleanse. It is to deface the image of God.</Text>
+			<Text>У такій страшній боротьбі треба бути свобідним і незв'язаним! Се перша умова і велика необхідність — вимога самостійності, котрої тому мусять до останнього боронити всі, кому дорогі інтереси України і її трудового народу.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_NAME">
-			<Text>Herbert Hoover</Text>
+			<Text>Герберт Гувер</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_QUOTE">
-			<Text>What the country needs is a good big laugh … if someone could get off a good joke every ten days, I think our troubles would be over.</Text>
+			<Text>Як тільки з'являється, нарешті, можливість звести кінці з кінцями, хтось відсуває кінець.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_NAME">
-			<Text>Louis XVI</Text>
+			<Text>Людовик XVI</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_QUOTE">
-			<Text>Every time that I fill a high office, I create a hundred discontented men and an ingrate.</Text>
+			<Text>Кожного разу, коли я займаю високу посаду, я породжую сотню незадоволених і невдячних людей.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_NAME">
-			<Text>Neville Chamberlain</Text>
+			<Text>Невілл Чемберлен</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_QUOTE">
-			<Text>Peace in our time.</Text>
+			<Text>Мир для нашого часу.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_NAME">
-			<Text>Nero</Text>
+			<Text>Нерон</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_QUOTE">
-			<Text>A man who is always ready to believe what is told him will never do well.</Text>
+			<Text>Який артист в мені гине!</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_NAME">
-			<Text>Warren G. Harding</Text>
+			<Text>Воррен Гардінг</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_QUOTE">
-			<Text>Our most dangerous tendency is to expect too much of government, and at the same time do for it too little.</Text>
+			<Text>Наша найнебезпечніша тенденція — очікувати від влади занадто багато, і в той же час майже нічого для неї робити.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_NAME">
-			<Text>Ethelred the Unready</Text>
+			<Text>Етельред Безрадний</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_QUOTE">
-			<Text>In the name of the Holy Trinity, three things do I promise to this Christian people, my subjects: first, that I will hold God's Church and all the Christian people of my realm in true peace; secondly, that I will forbid all rapine and injustice to men of all conditions; thirdly, that I promise and enjoin justice and mercy in all judgments.</Text>
+			<Text>В ім'я Пресвятої Трійці я обіцяю три речі цьому християнському народові, моїм підданим: по-перше, що я буду тримати Божу Церкву і весь християнський народ мого королівства в істинному мирі; по-друге, що я забороню будь-яке насильство і несправедливість щодо людей всіх станів; по-третє, що я обіцяю і наказую справедливість і милосердя в усіх судженнях.</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_NAME">
-			<Text>Mary Tudor I</Text>
+			<Text>Марія I Тюдор</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_QUOTE">
-			<Text>In thee, O Lord, is my trust; let me never be confounded: if God be for us, who can be against us?</Text>
+			<Text>На Тебе, Господи, уповання моє, нехай ніколи не збентежуся: якщо Бог за нас, то хто може бути проти нас?</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_NAME">
-			<Text>Dan Quayle</Text>
+			<Text>Ден Квейл</Text>
 		</Row>
 		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
-			<Text>We are ready for any unforeseen event that may or may not occur.</Text>
+			<Text>Ми твердо віддані НАТО, ми є частиною НАТО. Ми твердо віддані Європі. Ми є частиною Європи.</Text>
 		</Row>
 		<!-- Replay -->
 		<Row Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
-			<Text>No Graph Data</Text>
+			<Text>Немає даних графіків</Text>
 		</Row>
 		<!-- Graph Data Sets -->
 		<Row Tag="LOC_REPLAYDATASET_CULTURE_NAME">
-			<Text>Culture per-turn</Text>
+			<Text>Культури за хід</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_CULTURE_DESC">
-			<Text>The amount of Culture acquired per turn.</Text>
+			<Text>Кількість культури, отриманої за хід.</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALGOLD_NAME">
-			<Text>Gold balance</Text>
+			<Text>Золотий баланс</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALGOLD_DESC">
-			<Text>The player's total Gold.</Text>
+			<Text>Золото гравця.</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
-			<Text>Total cities founded</Text>
+			<Text>Заснованих міст</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALDISTRICTSBUILT_NAME">
-			<Text>Total districts constructed</Text>
+			<Text>Побудованих районів</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALWONDERSBUILT_NAME">
-			<Text>Total wonders constructed</Text>
+			<Text>Створено чудес</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALBUILDINGSBUILT_NAME">
-			<Text>Total buildings constructed</Text>
+			<Text>Побудовано споруд</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESCAPTURED_NAME">
-			<Text>Total cities captured</Text>
+			<Text>Захоплено міст</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESLOST_NAME">
-			<Text>Total cities lost</Text>
+			<Text>Втрачено міст</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESDESTROYED_NAME">
-			<Text>Total cities destroyed</Text>
+			<Text>Знищено міст</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALWARSDECLARED_NAME">
-			<Text>Total wars declared</Text>
+			<Text>Оголошені війни</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALWARSWON_NAME">
-			<Text>Total wars won</Text>
+			<Text>Виграні війни</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALCOMBATS_NAME">
-			<Text>Total number of combats</Text>
+			<Text>Всього боїв</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALUNITSDESTROYED_NAME">
-			<Text>Total units killed</Text>
+			<Text>Загиблих одиниць</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALPLAYERUNITSDESTROYED_NAME">
-			<Text>Total units lost</Text>
+			<Text>Втрачено одиниць</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALRELIGIONSFOUNDED_NAME">
-			<Text>Total religions founded</Text>
+			<Text>Засновано релігій</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_GREATPEOPLEEARNED_NAME">
-			<Text>Total Great People earned</Text>
+			<Text>Великих людей</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
-			<Text>Total war declarations received</Text>
+			<Text>Отримано оголошень війни</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
-			<Text>Total pantheons founded</Text>
+			<Text>Засновано пантеонів</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_SCOREPERTURN_NAME">
-			<Text>Score per-turn</Text>
+			<Text>Очки за хід</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_SCIENCEPERTURN_NAME">
-			<Text>Science per-turn</Text>
+			<Text>Наука за хід</Text>
 		</Row>
 		<Row Tag="LOC_REPLAYDATASET_FAITHPERTURN_NAME">
-			<Text>Faith per-turn</Text>
+			<Text>Віри за хід</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
