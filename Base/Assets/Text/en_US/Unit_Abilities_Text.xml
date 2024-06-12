@@ -3,163 +3,163 @@
 	<BaseGameText>
 		<!-- Names -->
 		<Row Tag="LOC_ABILITY_ANTI_CAVALRY_NAME">
-			<Text>Anti-Cavalry</Text>
+			<Text>Протикавалерійський</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HEAVY_CHARIOT_NAME">
-			<Text>Heavy Chariot</Text>
+			<Text>Важка колісниця</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_NAME">
-			<Text>Ignore Terrain Cost</Text>
+			<Text>Ігнорувати витрати на рельєф</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
-			<Text>Ignore Crossing Rivers Cost</Text>
+			<Text>Ігнорувати витрати на переправу через річки</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
-			<Text>Ignore ZOC</Text>
+			<Text>Ігнорувати зону ураження</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_LIGHT_CHARIOT_NAME">
-			<Text>Light Chariot</Text>
+			<Text>Легка колісниця</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
 			<Text>No Move and Shoot</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_OCEAN_NAME">
-			<Text>Coastal Only</Text>
+			<Text>Тільки для прибережжя</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CANNOT_ATTACK">
-			<Text>Cannot Attack</Text>
+			<Text>Неможливо атакувати</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
-			<Text>Friendly Territory Bonus</Text>
+			<Text>Бонус на дружній території</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
-			<Text>Enables Wall Attack</Text>
+			<Text>Дозволяє атакуючі стіни</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BYPASS_WALLS_NAME">
-			<Text>Bypass Walls</Text>
+			<Text>Обходити стіни</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ANTI_SPEAR_NAME">
-			<Text>Anti-Spear</Text>
+			<Text>Протисписові</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GRANT_RANGE_BONUS_NAME">
-			<Text>Target Spotting</Text>
+			<Text>Виявлення цілей</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME">
-			<Text>Unobstructed View</Text>
+			<Text>Безперешкодний огляд</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
-			<Text>Oligarchy Melee</Text>
+			<Text>Ближній бій з олігархією</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
-			<Text>Theocracy</Text>
+			<Text>Теократія</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
-			<Text>Religious Orders</Text>
+			<Text>Релігійні ордени</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
-			<Text>Fascism Attack</Text>
+			<Text>Напад фашизму</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
-			<Text>Communism Land Defense</Text>
+			<Text>Комуністичний режим</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
-			<Text>Medic Healing</Text>
+			<Text>Цілительство медиків</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_STEALTH_NAME">
-			<Text>Stealth</Text>
+			<Text>Стелс</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
-			<Text>Reveal Stealth</Text>
+			<Text>Розкрити приховане</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COASTAL_RAID_NAME">
-			<Text>Coastal Raid</Text>
+			<Text>Береговий рейд</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
-			<Text>Thunderbolt Coastal Raid</Text>
+			<Text>Блискавичний прибережний рейд</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
-			<Text>Directed Attack</Text>
+			<Text>Спрямована атака</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
-			<Text>Heal Neutral Territory</Text>
+			<Text>Зцілення нейтральної території</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
-			<Text>Plunder Immunity at Sea</Text>
+			<Text>Імунітет від піратства на морі</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
-			<Text>Berserker Rage</Text>
+			<Text>Лють берсерка</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
-			<Text>Berserker Movement</Text>
+			<Text>Рух берсерків</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
-			<Text>Longship Movement</Text>
+			<Text>Рух баркасів</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
-			<Text>Prize Ships</Text>
+			<Text>Призові судна</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
-			<Text>Captive Workers</Text>
+			<Text>Підневільні працівники</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
-			<Text>Balkan Cavalry</Text>
+			<Text>Балканська кавалерія</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
-			<Text>Altitude Training</Text>
+			<Text>Висотна підготовка</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COSSACK_NAME">
-			<Text>And Quiet Flows the Don</Text>
+			<Text>Ніч… а човен — як срібний птах!.. (Що слова, коли серце повне!)</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_REDCOAT_NAME">
-			<Text>Global Army</Text>
+			<Text>Глобальна армія</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_VARU_NAME">
-			<Text>Fear</Text>
+			<Text>Страх</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NAGAO_NAME">
-			<Text>Forest Fighter</Text>
+			<Text>Лісовий боєць</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CONQUISTADOR_NAME">
-			<Text>Forced Conversion</Text>
+			<Text>Примусове навернення</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GARDE_NAME">
-			<Text>Napoleon's Elite</Text>
+			<Text>Наполеонівська еліта</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HOPLITE_NAME">
-			<Text>Phalanx</Text>
+			<Text>Фаланга</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_UBOAT_NAME">
-			<Text>Wolfsrudel</Text>
+			<Text>«Вовча зграя»</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
-			<Text>Teddy's Rough Rider</Text>
+			<Text>Рузвельтівські суворі вершники.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MUSTANG_NAME">
-			<Text>Mustang</Text>
+			<Text>Мустанг</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MAMLUK_NAME">
-			<Text>Furusiyya</Text>
+			<Text>Ісламський кінний спорт</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_SAMURAI_NAME">
-			<Text>Samurai</Text>
+			<Text>Самурай</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
-			<Text>Domestic Spread</Text>
+			<Text>Внутрішнє розповсюдження</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
-			<Text>Enter Foreign Lands</Text>
+			<Text>В'їзд на чужі землі</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
-			<Text>Peacekeeper</Text>
+			<Text>Миротворець</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
-			<Text>Friendly Territory Advantage</Text>
+			<Text>Перевага дружньої території</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
-			<Text>Ignores Borders</Text>
+			<Text>Ігнорує кордони</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
-			<Text>Walk on Air</Text>
+			<Text>Прогулянка в повітрі</Text>
 		</Row>
 
 		<!-- Full description -->
