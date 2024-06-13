@@ -21,7 +21,7 @@
 			<Text>Легка колісниця</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
-			<Text>No Move and Shoot</Text>
+			<Text>Не можна рухатися і стріляти</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_NO_OCEAN_NAME">
 			<Text>Тільки для прибережжя</Text>
