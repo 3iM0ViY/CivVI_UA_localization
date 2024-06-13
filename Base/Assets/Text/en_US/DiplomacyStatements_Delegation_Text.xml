@@ -139,7 +139,7 @@
 			<Text>My diplomatic delegation brings you a small gift of papyrus from the New Isis. Welcome them as you would welcome me.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BARBAROSSA_ANY">
-			<Text>Мої делегати вже відбули до вас. Ставтеся до них я би ставилися до мене. Тобто Герцога Швабії, Короля Бургундії, Німеччини, Риму, Італії та Імператора Священної Римської Імперії.</Text>
+			<Text>Мої делегати вже відбули до вас. Ставтеся до них як би ставилися до мене. Тобто Герцога Швабії, Короля Бургундії, Німеччини, Риму, Італії та Імператора Священної Римської Імперії.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GANDHI_ANY">
 			<Text>I have sent a trade delegation to you with gifts from our land: teas, sarees, and sitars.</Text>
