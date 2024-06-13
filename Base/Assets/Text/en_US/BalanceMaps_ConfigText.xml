@@ -3,40 +3,40 @@
 	<BaseGameText>
 		<!-- Name and Description-->
 		<Row Tag="LOC_BALANCEDMAPS_NAME">
-			<Text>Official Balanced Maps</Text>
+		    <Text>Офіційні збалансовані мапи</Text>
 		</Row>
 		<Row Tag="LOC_BALANCEDMAPS_DESCRIPTION">
-			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>
+		    <Text>Збалансовані мапи, які особливо підходять для багатокористувацьких матчів.</Text>
 		</Row>
 
 		<!--Map Name-->
 		<Row Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
-			<Text>Balanced Maps</Text>
+		    <Text>Збалансовані мапи</Text>
 		</Row>
 
 		<!--Map Description-->
 		<Row Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
-			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>
+		    <Text>Збалансовані мапи, які особливо підходять для багатокористувацьких матчів.</Text>
 		</Row>
 
 		<!--Map Description-->
 		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
-			<Text>4-Leaf Clover</Text>
+		    <Text>Чотирилиста конюшина</Text>
 		</Row>
 		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
-			<Text>Civilizations begin in four balanced regions. The map forces players toward the center.</Text>
+		    <Text>Цивілізації починають у чотирьох збалансованих регіонах. Мапа змушує гравців рухатися до центру.</Text>
 		</Row>
 		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
-			<Text>6-Armed Snowflake</Text>
+		    <Text>Шестистороння сніжинка</Text>
 		</Row>
 		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
-			<Text>Civilizations begin in six balanced regions, with City-States on nearby islands. The map forces players toward the center.</Text>
+		    <Text>Цивілізації починають у шести збалансованих регіонах, а на прилеглих островах розташовані міста-держави. Мапа змушує гравців рухатися до центру.</Text>
 		</Row>
 		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
-			<Text>Promised Land</Text>
+		    <Text>Земля Обітована</Text>
 		</Row>
 		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
-			<Text>Civilizations begin with balanced start locations and compete for valuable territory in the map’s center.</Text>
+		    <Text>Цивілізації починають зі збалансованих стартових позицій і змагаються за цінні території в центрі мапи.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
