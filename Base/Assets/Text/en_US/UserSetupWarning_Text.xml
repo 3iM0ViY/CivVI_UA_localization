@@ -2,13 +2,13 @@
 <GameData>
 	<FrontEndText>
 		<Row Tag="LOC_KNOWN_GRAPHICS_CARD_ISSUES">
-			<Text>There are known issues that may occur when running the DirectX 12 version of Civilization VI with your current hardware configuration. The DirectX 12 version currently requires a compatible graphics card, either AMD or NVidia (Maxwell series or later).</Text>
+			<Text>Існують відомі проблеми, які можуть виникнути під час запуску DirectX 12 версії Civilization VI на вашій поточній конфігурації обладнання. Наразі версія DirectX 12 потребує сумісної відеокарти AMD або NVidia (серії Maxwell або новішої).</Text>
 		</Row>
 		<Row Tag="LOC_USER_WARNING_PROCEED_ANYWAY">
-			<Text>Proceed Anyway</Text>
+			<Text>Продовжувати в будь-якому випадку</Text>
 		</Row>
 		<Row Tag="LOC_USER_WARNING_QUIT">
-			<Text>Quit</Text>
+			<Text>Вийти</Text>
 		</Row>
 
 	</FrontEndText>
