@@ -3,48 +3,48 @@
 	<BaseGameText>
 		<!-- Main menu text -->
 		<Row Tag="LOC_BENCHMARK_GRAPHICS">
-			<Text>Graphics</Text>
+			<Text>Графіка</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS">
-			<Text>Gathering Storm Graphics</Text>
+			<Text>Графіка "Штормового попередження"</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_AI">
-			<Text>AI</Text>
+			<Text>ШІ</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_EXP2_AI">
-			<Text>Gathering Storm AI</Text>
+			<Text>ШІ "Штормового попередження"</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_GRAPHICS_TT">
-			<Text>Measure graphics performance on your computer.</Text>
+			<Text>Продуктивність графіки на вашому комп'ютері.</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT">
-			<Text>A heavy benchmark to measure graphics performance on your computer.</Text>
+			<Text>Потужний бенчмарк для оцінки графічної продуктивності вашого комп'ютера.</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_AI_TT">
-			<Text>Measure AI and turn-processing performance on your computer.</Text>
+			<Text>Тест продуктивності ШІ та обробки ходів на вашому комп'ютері.</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_EXP2_AI_TT">
-			<Text>A heavy benchmark to measure AI and turn-processing performance on your computer.</Text>
+			<Text>Потужний бенчмарк для оцінки продуктивності ШІ та обробки ходів на вашому комп'ютері.</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_AI_TT_ERROR">
-			<Text>[COLOR_RED]The Aztec Civilization Pack must be enabled in order to perform this benchmark.[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Необхідно увімкнути пакет цивілізації Ацтеків для проведення цього тесту.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_EXP2_AI_TT_ERROR">
-			<Text>[COLOR_RED]The Gathering Storm expansion must be enabled in order to perform this benchmark.[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Необхідно увімкнути доповнення "Штормове попередження" для проведення цього тесту.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT_ERROR">
-			<Text>[COLOR_RED]The Gathering Storm expansion must be enabled in order to perform this benchmark.[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Необхідно увімкнути доповнення "Штормове попередження" для проведення цього тесту.[ENDCOLOR]</Text>
 		</Row>
 
 		<!-- Benchmarking UI text -->
 		<Row Tag="LOC_BENCHMARK_TIME">
-			<Text>Time:</Text>
+			<Text>Час:</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_TURN">
-			<Text>Turn:</Text>
+			<Text>Хід:</Text>
 		</Row>
 		<Row Tag="LOC_BENCHMARK_AVG_TURN_TIME">
-			<Text>Average Turn Time:</Text>
+			<Text>Середній час ходу:</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
