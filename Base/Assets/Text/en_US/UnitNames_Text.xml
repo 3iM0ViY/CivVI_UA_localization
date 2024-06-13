@@ -14,10 +14,10 @@
 			<Text>Підтвердити</Text>
 		</Row>
 		<Row Tag="LOC_UNITNAME_RANDOM_FIRST">
-			<Text>Randomize First Name</Text>
+			<Text>Випадкове ім'я</Text>
 		</Row>
 		<Row Tag="LOC_UNITNAME_RANDOM_SECOND">
-			<Text>Randomize Second Name</Text>
+			<Text>Випадкове прізвище</Text>
 		</Row>
 		<Row Tag="LOC_UNITNAME_PREFIX_1ST">
 			<Text></Text>
