@@ -59,19 +59,19 @@
 
 		<!-- Formation Class Names -->
 		<Row Tag="LOC_FORMATION_CLASS_AIR_NAME">
-			<Text>Air Combat</Text>
+			<Text>Повітряний бій</Text>
 		</Row>
 		<Row Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
-			<Text>Civilian</Text>
+			<Text>Уивільний</Text>
 		</Row>
 		<Row Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
-			<Text>Land Combat</Text>
+			<Text>Сухопутний бій</Text>
 		</Row>
 		<Row Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
-			<Text>Naval Combat</Text>
+			<Text>Морський бій</Text>
 		</Row>
 		<Row Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
-			<Text>Support</Text>
+			<Text>Підтримка</Text>
 		</Row>
 
 		<!-- Damage Message -->
@@ -119,7 +119,7 @@
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_GOLD_DECREASE_FLOATER">
-			<Text>[COLOR_FLOAT_GOLD]{1_Num} [ICON_Gold][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_GOLD]{1_Num} [ICON_Gold][ENDCOLOR] [COLOR_RED]втрачено[ENDCOLOR]</Text>
 		</Row>
 
 		<!-- Science Yield Message -->
@@ -127,7 +127,7 @@
 			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_SCIENCE_DECREASE_FLOATER">
-			<Text>[COLOR_FLOAT_SCIENCE]{1_Num} [ICON_Science][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_SCIENCE]{1_Num} [ICON_Science][ENDCOLOR] [COLOR_RED]втрачено[ENDCOLOR]</Text>
 		</Row>
 
 		<!-- Culture Yield Message -->
@@ -135,7 +135,7 @@
 			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_CULTURE_DECREASE_FLOATER">
-			<Text>[COLOR_FLOAT_CULTURE]{1_Num} [ICON_Culture][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_CULTURE]{1_Num} [ICON_Culture][ENDCOLOR] [COLOR_RED]втрачено[ENDCOLOR]</Text>
 		</Row>
 
 		<!-- Civilian-->
@@ -175,31 +175,31 @@
 
 		<!-- Great People-->
 		<Row Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
-			<Text>Each [ICON_GreatGeneral] Great General has unique abilities, including a passive effect, and a Retire effect. Visit the Great People panel to learn more, and track your progress.</Text>
+		    <Text>[ICON_GreatGeneral] Великий Генерал має унікальні здібності, включаючи пасивний ефект та ефект при виході у відставку.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
-			<Text>Each [ICON_GreatAdmiral] Great Admiral has unique abilities, including a passive effect, and a Retire effect. Visit the Great People panel to learn more, and track your progress.</Text>
+		    <Text>[ICON_GreatAdmiral] Великий Адмірал має унікальні здібності, включаючи пасивний ефект та ефект при виході у відставку.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
-			<Text>Each [ICON_GreatEngineer] Great Engineer has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		    <Text>[ICON_GreatEngineer] Великий Інженер має унікальні здібності при активації.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
-			<Text>Each [ICON_GreatMerchant] Great Merchant has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		    <Text>[ICON_GreatMerchant] Великий Купець має унікальні здібності при активації.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
-			<Text>Great [ICON_GreatProphet] Prophets can found a Religion when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		    <Text>[ICON_GreatProphet] Великий Пророк може заснувати релігію при активації.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
-			<Text>Each [ICON_GreatScientist] Great Scientist has unique abilities when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		    <Text>[ICON_GreatScientist] Великий Вчений має унікальні здібності при активації.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
-			<Text>Each [ICON_GreatWriter] Great Writer generates a [ICON_GreatWork_Writing] Great Work of Writing when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		    <Text>[ICON_GreatWriter] Великий Письменник створює [ICON_GreatWork_Writing] видатний Твір Письменства при активації.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
-			<Text>Each [ICON_GreatArtist] Great Artist generates a [ICON_GreatWork_Landscape] Great Work of Art when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		    <Text>[ICON_GreatArtist] Великий Художник створює [ICON_GreatWork_Landscape] видатний Твір Мистецтва при активації.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
-			<Text>Each [ICON_GreatMusician] Great Musician generates a [ICON_GreatWork_Music] Great Work of Music when activated. Visit the Great People panel to learn more, and track your progress.</Text>
+		    <Text>[ICON_GreatMusician] Великий Музикант створює [ICON_GreatWork_Music] видатний Твір Музики при активації.</Text>
 		</Row>
 		<!-- Recon-->
 		<Row Tag="LOC_UNIT_SCOUT_DESCRIPTION">
@@ -383,10 +383,10 @@
 
 		<!-- Unique Units-->
 		<Row Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
-			<Text>Ancient era primitive horseback warrior.</Text>
+			<Text>Примітивний кінний воїн стародавньої епохи.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
-			<Text>Ancient era primitive horseback archer.</Text>
+			<Text>Примітивний кінний лучник стародавньої епохи.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
 			<Text>Унікальний єгипетський вершник древньої ери. Замінює колісницю. Має 4 пункти [ICON_Movement] рухливості, якщо починає рух з рівної місцини.</Text>
