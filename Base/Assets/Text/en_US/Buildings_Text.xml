@@ -35,10 +35,10 @@
 			<Text>+25% досвіду сухопутників створених у цьому місті.[NEWLINE]Дає можливість вчити військовиків.[NEWLINE]Вартість навчання зменшується на 25%.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
-			<Text>Missionary and Apostles created here have +1 spread.</Text>
+			<Text>Створені тут місіонери та апостоли мають +1 поширення.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
-			<Text>+1 additional [ICON_FAITH] Faith for each era since constructed or last repaired.</Text>
+			<Text>+1 додаткової [ICON_FAITH] віри за кожну епоху з моменту побудови або останнього ремонту.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
 			<Text>Забезпечує виставкові місця для [ICON_GreatWork_Landscape] творів мистецтв.</Text>
@@ -180,7 +180,7 @@
 			<Text>Вірно підібрана, однієї ери різних націй, тематика подвоює переваги від виставлених [ICON_GreatWork_Artifact] артефактів.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
-			<Text>Theming bonus doubling output when museum is full.</Text>
+			<Text>Тематичний бонус, що подвоює прибуток, коли музей заповнений.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
