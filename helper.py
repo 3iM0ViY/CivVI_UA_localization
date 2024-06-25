@@ -24,7 +24,8 @@ tr = """
 
 tr_l = []
 for line in tr.splitlines():
-    tr_l.append(line)
+    if line != "":
+        tr_l.append(line)
 
 print(tr_l)
 
