@@ -2,13 +2,13 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_DIPLO_PERSON_CLEO">
-			<Text>Cleopatra of Egypt</Text>
+			<Text>Клеопатра Єгипетська</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_CLEO">
-			<Text>Greetings traveler. You should know that you stand in the presence of greatness.</Text>
+			<Text>Вітаю тебе, подорожній. Ти повинен знати, що стоїш у присутності величі.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ADVISOR_READY">
-			<Text>What would you like to do, my liege?</Text>
+			<Text>Що б ви хотіли зробити, мій володарю?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
 			<Text>Декларувати дружбу</Text>
@@ -17,7 +17,7 @@
 			<Text>Укласти мир</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
-			<Text>[SIZE_16]Request Open Borders[NEWLINE][SIZE_12]</Text>
+			<Text>[SIZE_16]Попросити відкрити кордони[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
 			<Text>[SIZE_16]Відрядити делегацію[NEWLINE][SIZE_12]</Text>
@@ -53,7 +53,7 @@
 			<Text>[SIZE_16]Оголосити протекторну війну[NEWLINE][SIZE_12]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
-			<Text>[NEWLINE][NEWLINE](No warmongering penalty when defending allied city-states)</Text>
+			<Text>[NEWLINE][NEWLINE](Відсутність штрафу за розпалювання війни при захисті союзницьких міст-держав)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
 			<Text>[SIZE_16]Оголосити колоніальну війну[NEWLINE][SIZE_12]</Text>
@@ -77,22 +77,22 @@
 			<Text>Щонайменше одне місто, котре раніше належало нам чи нашим союзникам має бути під їх контролем.</Text>
 		</Row>
 		<Row Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
-			<Text>Target power has declared war of one of your current allied city-states.</Text>
+			<Text>Цільова держава оголосила війну одному з ваших міст-союзників.</Text>
 		</Row>
 		<Row Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
-			<Text>Target power is two technology eras behind you.</Text>
+			<Text>Потужність цілі відстає від вас на дві технологічні епохи.</Text>
 		</Row>
 		<Row Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
-			<Text>Two of the target power's cities are within 10 tiles of 2 opponents' cities.</Text>
+			<Text>Два міста цільової держави знаходяться в межах 10 плиток від 2 міст опонентів.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
-			<Text>Are you sure you want to go to war?</Text>
+			<Text>Ви впевнені, що бажаєте розпочати війну?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
-			<Text>Yes</Text>
+			<Text>Так</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
-			<Text>No</Text>
+			<Text>Ні</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
 			<Text>Укласти угоду</Text>
@@ -107,7 +107,7 @@
 			<Text>Бувайте.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
-			<Text>Propose Auction</Text>
+			<Text>Запропонувати аукціон</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_INTRO">
 			<Text>*Вони очікують нашої пропозиції.*</Text>
@@ -116,31 +116,31 @@
 			<Text>*Вони пропонують.*</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEMAND_INTRO">
-			<Text>My demands must be met.</Text>
+			<Text>Мої вимоги повинні бути виконані.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
-			<Text>View Deal</Text>
+			<Text>Глянути на пропозицію</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
-			<Text>View Demand</Text>
+			<Text>Глянути на вимогу</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
 			<Text>Немає чого вимагати.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
-			<Text>No available items to use in a deal.</Text>
+			<Text>Немає доступних товарів для обміну.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
-			<Text>Promise Not to Spy on Me</Text>
+			<Text>Пообіцяйте не шпигувати за мною</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
-			<Text>Аби пообіцяли не засновувати міст поряд</Text>
+			<Text>Пообіцяйте не засновувати міст поряд</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
-			<Text>Аби пообіцяли не поширювати свою релігію у наших містах</Text>
+			<Text>Пообіцяйте не поширювати свою релігію у наших містах</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
-			<Text>Promise Not to Dig Up My Artifacts</Text>
+			<Text>Пообіцяйте не відкопувати мої артефакти</Text>
 		</Row>
 
 		<!-- Action Failure Reasons -->
@@ -154,16 +154,16 @@
 			<Text>{1_WarActionType} - неможливе.[NEWLINE]Слід зачекати {2_Turns} х. після звинувачення (лишилося {3_Remaining} х.).</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
-			<Text>Unable to {1_WarActionType}[NEWLINE]You have a defensive pact with this leader.</Text>
+			<Text>{1_WarActionType} - неможливе.[NEWLINE]Ви уклали оборонний пакт з цим лідером.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
 			<Text>{1_WarActionType} - неможливе.[NEWLINE][COLOR_RED]Відсутній необхідний для цього привід.[ENDCOLOR][NEWLINE][{2_CasusBelliDescription}]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
-			<Text>{1_WarActionType} неможливе.[NEWLINE]Слід зачекати {2_Turns} х. після укладання миру, лишилося {3_Remaining} х.</Text>
+			<Text>{1_WarActionType} - неможливе.[NEWLINE]Слід зачекати {2_Turns} х. після укладання миру, лишилося {3_Remaining} х.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
-			<Text>Unable to {1_WarActionType}[NEWLINE]You must wait until Turn {2_TurnNumber} to declare war on a major civilization in this game.</Text>
+			<Text>{1_WarActionType} - неможливе.[NEWLINE]Слід дочекатись ходу {2_TurnNumber}, щоб оголосити війну одній з цивілізацій у цій грі.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
 			<Text>Неможливо: {1_ActionType}[NEWLINE][COLOR_RED]Бракує {2_GoldRequirement} [ICON_Gold] золота.[ENDCOLOR]</Text>
@@ -172,7 +172,7 @@
 			<Text>{1_WarActionType} неможливий.[NEWLINE]Слід зачекати {2_Turns} х. після оголошення війни, лишилося {3_Remaining} х.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
-			<Text>Unable to {1_WarActionType}[NEWLINE]Wars last forever in this game.</Text>
+			<Text>{1_WarActionType} - неможливе.[NEWLINE]У цій грі війни не закінчуються ніколи.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
