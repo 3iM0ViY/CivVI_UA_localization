@@ -3,123 +3,123 @@
 	<BaseGameText>
 		<!-- AI accepts from human -->
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
-			<Text>We are pleased to accept your offer of friendship.</Text>
+			<Text>Ми раді прийняти вашу пропозицію дружби.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
-			<Text>On behalf of the people of Kongo, I accept your friendship and good will.</Text>
+			<Text>Від імені народу Конго я приймаю вашу дружбу та добру волю.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>I accept your offer of friendship. And of course, you'll be invited to the next royal wedding.</Text>
+			<Text>Я приймаю вашу пропозицію дружби. І звичайно, вас запросять на наступне королівське весілля.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
 			<Text>Дуже добре. Ви посіли гідне місце поряд мене.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
-			<Text>A strong ally is the greatest friend. Let us live in peace.</Text>
+			<Text>Сильний союзник - найбільший друг. Живімо у мирі.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
-			<Text>I accept your offer of friendship. May it be blessed with peace.</Text>
+			<Text>Я приймаю вашу пропозицію дружби. Нехай вона буде благословенна миром.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
 			<Text>Гільгамеш з радістю прийме вашу дружбу. Нехай світ знає, що ми заприсягнулися дружити!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
-			<Text>You have proven to be a good friend of Sparta. I will accept on behalf of my people.</Text>
+			<Text>Ви довели, що є добрим другом Спарти. Я приймаю це від імені мого народу.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
-			<Text>Friends? Yes, I am a friend.</Text>
+			<Text>Друзі? Так, я друг.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
-			<Text>I see in you the peace and tranquility of a warrior, and I welcome that friendship.</Text>
+			<Text>Я бачу в вас мир і спокій воїна, і я вітаю цю дружбу.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
-			<Text>We are pleased to accept your offer of friendship.</Text>
+			<Text>Ми раді прийняти вашу пропозицію дружби.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
-			<Text>On behalf of the Democracy, I accept your friendship.</Text>
+			<Text>Від імені Демократії я приймаю вашу дружбу.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
 			<Text>Мнє нравіца твайо прідлаженіє. Ктоже аткажеца ат новай пріслугі.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
-			<Text>You are blessed by God, and a friend to me. Let the world know you are protected by His might.</Text>
+			<Text>Ви благословенні Богом і є другом для мене. Нехай світ знає, що ви захищені Його могутністю.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
-			<Text>You have proven yourself a worthy friend to the Middle Kingdom, we accept your offer.</Text>
+			<Text>Ви довели, що є гідним другом Серединного Царства, ми приймаємо вашу пропозицію.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
-			<Text>I understand now that you are a friend to my nation. Let us declare our friendship to the world.</Text>
+			<Text>Я тепер розумію, що ви є другом для моєї нації. Давайте оголосимо нашу дружбу світові.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
-			<Text>I can't say no to that.</Text>
+			<Text>Я не можу сказати "ні" на це.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
 			<Text>Дружба навік або смерть за її зраду.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
-			<Text>Let it be known that your Empire is a friend to ours, and that we are joined together in friendship.</Text>
+			<Text>Нехай буде відомо, що ваша імперія є другом для нашої, і що ми з'єднані у дружбі.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
-			<Text>Yes, this pleases us. Our two nations will surely benefit from our friendship.</Text>
+			<Text>Так, це нас тішить. Наші дві нації, безсумнівно, отримають користь від нашої дружби.</Text>
 		</Row>
 
 		<!-- AI Rejects from human -->
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
-			<Text>We are not interested at this time.</Text>
+			<Text>Ми не зацікавлені на цей час.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
-			<Text>Kongo is not ready to accept your friendship. Let our relationship ripen first.</Text>
+			<Text>Конго ще не готове прийняти вашу дружбу. Нехай наші відносини спершу дозріють.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>I apologize, but this would be too sudden a change. Perhaps another time?</Text>
+			<Text>Вибачте, але це було б надто раптовою зміною. Можливо, іншим разом?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
 			<Text>Оу! Поряд мене цезарі та фараони. Що вас змусило думати, що ви гідні бути поряд мене?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
-			<Text>No, I cannot accept your friendship, for the good of the Empire.</Text>
+			<Text>Ні, я не можу прийняти вашу дружбу, задля блага Імперії.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
-			<Text>I am sorry, but I cannot enter into this agreement with you. Please understand, it is only for the best.</Text>
+			<Text>Вибачте, але я не можу вступити у цю угоду з вами. Прошу зрозуміти, це лише на краще.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
-			<Text>Gilgamesh is no friend to you.</Text>
+			<Text>Гільгамеш не є вашим другом.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
-			<Text>Sparta does not need your friendship.</Text>
+			<Text>Це - Спарта! Спарті не потрібна ваша дружба.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
-			<Text>No, not for all the treasure in Asgard.</Text>
+			<Text>Ні, не за всі скарби Асгарду.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
-			<Text>I must decline, in the best interests of the Shogunate and on behalf of the Emperor.</Text>
+			<Text>Я повинен відмовитися, в інтересах Сьоґунату та від імені Імператора.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
-			<Text>We are not interested at this time.</Text>
+			<Text>Ми не зацікавлені на цей час.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
-			<Text>No, we will not be friends until you can prove it by deed, or convince us otherwise.</Text>
+			<Text>Ні, ми не будемо друзями, поки ви не доведете це ділом або не переконаєте нас інакше.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
 			<Text>Баюсь должен атказать. Мнє нєнравіца нєрастаропная пріслуга.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
-			<Text>No, I do not accept your offer. You are a sinner, and no friend of Spain.</Text>
+			<Text>Ні, я не приймаю вашу пропозицію. Ви грішник і не друг Іспанії.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
-			<Text>You are not yet worthy of our friendship.</Text>
+			<Text>Ви ще не гідні нашої дружби.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
-			<Text>Your offer is a generous and kind one, but we must humbly decline until we can be assured of your intentions.</Text>
+			<Text>Ваша пропозиція щедра та добра, але ми повинні смиренно відмовитися, поки не будемо впевнені у ваших намірах.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
-			<Text>We are not interested at this time.</Text>
+			<Text>Ми не зацікавлені на цей час.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
 			<Text>Мою дружбу легко не отримати. Спершу, ви маєте заслужити мою довіру.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
-			<Text>Rome must remain Rome: a friend to no one more than to herself.</Text>
+			<Text>Рим має залишатися Римом: другом лише для себе.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
 			<Text>Надто скоро для таких зобов'язань. Ми зробимо це за відповідних умов. Якщо ви мене розумієте?</Text>
@@ -127,69 +127,69 @@
 	
 		<!-- AI Requests friendship from human -->
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY">
-			<Text>Would you like to formally declare our friendship?</Text>
+			<Text>Чи хочете ви офіційно оголосити нашу дружбу?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
-			<Text>I extend my hand in friendship to you. Let our people be brothers and sisters under the Lord.</Text>
+			<Text>Простягаю вам руку дружби. Нехай наші народи будуть братами і сестрами під Господом.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>I extend to you the royal hand in friendship. Will you accept it?</Text>
+			<Text>Простягаю вам королівську руку дружби. Ви приймете її?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
 			<Text>Правителі вбивають один одного за можливість стати моїм другом. Моя дружба - цінність, котру я вам пропоную. Якою буде ваша відповідь?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
-			<Text>Again we extend our hand, but this time in friendship. Will you accept it?</Text>
+			<Text>Знову простягаємо вам руку, але цього разу в дружбі. Ви приймете її?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
-			<Text>I suppose leadership at one time meant violence; but today it means getting along with people. So… will you accept my friendship?</Text>
+			<Text>Я гадаю, що колись лідерство означало насильство; але сьогодні це означає ладити з людьми. Отже… ви приймете мою дружбу?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
-			<Text>All of the world knows of my generosity to my friends. Let us then be friends, not enemies.</Text>
+			<Text>Весь світ знає про мою щедрість до друзів. Давайте будемо друзями, а не ворогами.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
-			<Text>I hereby offer you Sparta’s friendship, will you accept?</Text>
+			<Text>Пропоную вам дружбу Спарти, ви приймете?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
-			<Text>In all my travels I have never met someone as great as I am until I met you. Let us be friends, then.</Text>
+			<Text>У всіх моїх подорожах я ніколи не зустрічав когось настільки великого, як я, поки не зустрів вас. Тож давайте будемо друзями.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
-			<Text>You are harmonious and wise. We offer you loyalty and honor, if you would accept us as your friend.</Text>
+			<Text>Ви гармонійні та мудрі. Ми пропонуємо вам лояльність і честь, якщо ви приймете нас як друзів.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
-			<Text>Would you like to formally declare our friendship?</Text>
+			<Text>Чи хочете ви офіційно оголосити нашу дружбу?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
-			<Text>Let’s put our differences aside for a moment, shall we? Friendship is more important than petty politics.</Text>
+			<Text>Відкладемо наші розбіжності на хвилину, гаразд? Дружба важливіша за дріб’язкову політику.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
 			<Text>Атнинє тєбє і тваіму наротцу випала чєсть стать младшим братам маіму - вєлікаму і магучєму народу. Твой нарот гатов служ... дружить?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
-			<Text>I believe you have seen the wisdom in the light of the Lord. Let us share in friendship his blessing.</Text>
+			<Text>Я вірю, що ви побачили мудрість у світлі Господа. Давайте поділимося в дружбі його благословенням.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
-			<Text>Please, allow us to return your friendship with ours.</Text>
+			<Text>Будь ласка, дозвольте нам відповісти на вашу дружбу нашою.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
-			<Text>You have proven yourself a wise and just leader. Would you accept my offer of friendship?</Text>
+			<Text>Ви довели свою мудрість і справедливість. Чи приймете ви мою пропозицію дружби?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
-			<Text>You have earned my respect. Shall we declare our friendship?</Text>
+			<Text>Ви заслужили мою повагу. Чи оголосимо ми нашу дружбу?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
-			<Text>Friendship is the most valuable thing between nations. Let us have it.</Text>
+			<Text>Дружба - це найцінніше між націями. Давайте матимемо її.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
-			<Text>Glorious Rome extends an offer of friendship. Do you accept?</Text>
+			<Text>Славетний Рим пропонує дружбу. Ви приймете?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
-			<Text>We are pleased to consider you an esteemed friend. We hope the feeling is mutual…</Text>
+			<Text>Ми раді вважати вас шановним другом. Сподіваємось, це взаємно…</Text>
 		</Row>
 
 		<!-- Human accepts AI requests, AI responds -->
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
-			<Text>Wonderful.</Text>
+			<Text>Прекрасно.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
 			<Text>Велике вам дякую.</Text>
@@ -216,13 +216,13 @@
 			<Text>Дякую за це.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
-			<Text>Thank you, friend.</Text>
+			<Text>Дякую тобі, друже.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
 			<Text>Чудово.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
-			<Text>Thank you.</Text>
+			<Text>Дякую тобі.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
 			<Text>Я іскрєнна благадарєн.</Text>
@@ -251,64 +251,64 @@
 		
 		<!-- Human rejects AI requests, AI responds -->
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
-			<Text>That is unfortunate.</Text>
+			<Text>Це прикро.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
-			<Text>That is unfortunate.</Text>
+			<Text>Це прикро.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>How unfortunate!</Text>
+			<Text>Як прикро!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
-			<Text>That is such a shame.</Text>
+			<Text>Це така ганьба.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
-			<Text>Perhaps next time, then.</Text>
+			<Text>Можливо, наступного разу.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
-			<Text>An unfortunate turn.</Text>
+			<Text>Нещасливий поворот.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
-			<Text>Are you mad?</Text>
+			<Text>Ви з глузду з’їхали?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
-			<Text>Unfortunate.</Text>
+			<Text>Прикро.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
-			<Text>A shame...</Text>
+			<Text>Шкода...</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
-			<Text>A shame…</Text>
+			<Text>Шкода…</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
-			<Text>That is unfortunate.</Text>
+			<Text>Це прикро.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
-			<Text>That’s unfortunate.</Text>
+			<Text>Це прикро.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
 			<Text>Глупа, очєнь глупа...</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
-			<Text>That is unfortunate.</Text>
+			<Text>Це прикро.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
-			<Text>Bad luck.</Text>
+			<Text>Невдача.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
-			<Text>Mind what you say.</Text>
+			<Text>Слідкуйте за словами.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
-			<Text>That is too bad.</Text>
+			<Text>Це дуже погано.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
-			<Text>You should reconsider.</Text>
+			<Text>Ви повинні передумати.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
-			<Text>What a shame.</Text>
+			<Text>Яка ганьба.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
-			<Text>How unfortunate.</Text>
+			<Text>Як прикро.</Text>
 		</Row>
 		
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_NEGATIVE">
