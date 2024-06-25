@@ -2,64 +2,64 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_DIPLO_GREETING_MVEMBA_ANY">
-			<Text>Blessings.</Text>
+			<Text>Благословення.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>A pleasure, as always.</Text>
+			<Text>Приємно, як завжди.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ANY">
-			<Text>You wish to speak with me?</Text>
+			<Text>Ви бажаєте поговорити зі мною?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_BARBAROSSA_ANY">
-			<Text>What do you want?</Text>
+			<Text>Чого ви хочете?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_GANDHI_ANY">
-			<Text>Peace to you.</Text>
+			<Text>Мир вам.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_GILGAMESH_ANY">
-			<Text>Let’s begin.</Text>
+			<Text>Почнемо.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_GORGO_ANY">
-			<Text>Greetings.</Text>
+			<Text>Вітання.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_HARDRADA_ANY">
-			<Text>Speak!</Text>
+			<Text>Говоріть!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_HOJO_ANY">
-			<Text>Welcome.</Text>
+			<Text>Ласкаво просимо.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_PEDRO_ANY">
-			<Text>What do you wish of me?</Text>
+			<Text>Чого ви від мене бажаєте?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_PERICLES_ANY">
-			<Text>How are you?</Text>
+			<Text>Як ви?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_PETER_GREAT_ANY">
 			<Text>Драстє.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_PHILIP_II_ANY">
-			<Text>A pleasure.</Text>
+			<Text>Приємно бачити.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_QIN_ANY">
-			<Text>Blessings upon you.</Text>
+			<Text>Благословення вам.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_SALADIN_ANY">
-			<Text>You are well?</Text>
+			<Text>Ви в порядку?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ANY">
-			<Text>Go on, then.</Text>
+			<Text>Продовжуйте.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_TOMYRIS_ANY">
-			<Text>What do you wish of me?</Text>
+			<Text>Чого ви від мене бажаєте?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_TRAJAN_ANY">
-			<Text>Good health.</Text>
+			<Text>Гарного здоров'я.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_VICTORIA_ANY">
-			<Text>We receive you with pleasure.</Text>
+			<Text>Ми приймаємо вас з задоволенням.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_ANY_ANY">
-			<Text>What do you wish of me?</Text>
+			<Text>Чого ви від мене бажаєте?</Text>
 		</Row>
 	</BaseGameText>
 </GameData>
