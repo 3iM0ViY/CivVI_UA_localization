@@ -60,7 +60,7 @@
 			<Text>Вітаю. Я Вікторія, милістю божою Королева Сполученого Королівства Великобританії та Ірландії, і невдовзі, напевно, імперії.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_ANY_ANY">
-			<Text>Greetings traveler. You should know that you stand in the presence of greatness!</Text>
+			<Text>Вітаю тебе, подорожній. Ви повинні знати, що стоїте в присутності величі!</Text>
 		</Row>
 
 		<!-- Human Responses -->
@@ -73,7 +73,7 @@
 
 		<!-- AI invitation to visit nearby City -->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MVEMBA_ANY">
-			<Text>Before we continue, come worship with me at our nearby city. Then we can enjoy a meal of chicken moambé.</Text>
+			<Text>Перш ніж ми продовжимо, приходьте зі мною на богослужіння в наше сусіднє місто. Потім ми зможемо насолодитися куркою моамбе.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ANY">
 			<Text>То ви досі жили, пили та їли, без наших столових приборів. Я залюбки покажу вам як користуватися виделкою.</Text>
@@ -103,7 +103,7 @@
 			<Text>Відвідайте Бразилію! Самбу танцюєте? Як би там не було, ви будете у захваті від карнавалу.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PERICLES_ANY">
-			<Text>Would you care to visit our nearby metropolis? We could debate politics before enjoying the theatre.</Text>
+			<Text>Чи не хотіли б ви відвідати наш сусідній мегаполіс? Ми могли б подискутувати про політику перед тим, як піти в театр.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PETER_GREAT_ANY">
 			<Text>Может пагастіш, аценіш всьо майо нагр... нажитає непасільним трудом.</Text>
@@ -112,10 +112,10 @@
 			<Text>Чи не бажаєте побачити бій биків? Жодне видовище не зрівняється з цим. Завітайте до мого міста та особисто переконайтесь у цьому.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ANY">
-			<Text>We have a city nearby. Would you like to visit? Our sculptors are getting quite good at working in terracotta.</Text>
+			<Text>У нас є місто неподалік. Хотіли б ви відвідати його? Наші скульптори вже досить добре вправляються з теракотою.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SALADIN_ANY">
-			<Text>I am honored to offer you the hospitality of our cities: the finest arts, the most delectable feasts, and the melodious adhan heard throughout. Would you care to visit?</Text>
+			<Text>Я маю честь запропонувати вам гостинність наших міст: найкращі витвори мистецтва, найсмачніші бенкети та мелодійний азан, що лунає звідусіль. Відвідаєте?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ANY">
 			<Text>Ми маємо місто поблизу. Може завітаєте? Ми покажемо вам свій одяг, його носити зараз модно.</Text>
@@ -124,13 +124,13 @@
 			<Text>Маю місто неподалік. Завітаєте? Поспілкуєтесь з моїми розумниками.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TRAJAN_ANY">
-			<Text>The Empire, of course, has a city nearby. Will you come, see, and be conquered by its beauty?</Text>
+			<Text>У Імперії, звісно, є місто неподалік. Приїдете, подивитеся і будете підкорені його красою?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY">
 			<Text>Надаючи вам привілей, запрошую відвідати моє королівство.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY">
-			<Text>We have a city nearby. Would you like to visit? You could attend our upcoming celebration.</Text>
+			<Text>У нас є місто неподалік. Ви хотіли б відвідати його? Можете завітати на наше прийдешнє свято.</Text>
 		</Row>
 
 		<!-- Human Responses -->
@@ -149,10 +149,10 @@
 
 		<!-- AI accepts Human invitation -->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY">
-			<Text>By all means.  It will be a pleasure to see your growing city up close.</Text>
+			<Text>Неодмінно. Буде приємно побачити ваше зростаюче місто зблизька.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MVEMBA_ANY">
-			<Text>Yes, yes. This is good for us.</Text>
+			<Text>Так, так. Це для нас добре.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ANY">
 			<Text>Гадки не маю що побачу. Але певно, це буде вельми захопливе видовище.</Text>
@@ -164,13 +164,13 @@
 			<Text>Дякую вам.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GANDHI_ANY">
-			<Text>Thank you, friend.</Text>
+			<Text>Дякую, друже.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GILGAMESH_ANY">
-			<Text>Yes, we accept.</Text>
+			<Text>Так, ми погоджуємося.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GORGO_ANY">
-			<Text>Very well.</Text>
+			<Text>Дуже добре.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY">
 			<Text>Дякую, це по дружньому.</Text>
@@ -179,10 +179,10 @@
 			<Text>Дякую.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY">
-			<Text>Yes. You have my gratitude.</Text>
+			<Text>Так. Я вам дуже вдячний.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PERICLES_ANY">
-			<Text>On behalf of the people, yes.</Text>
+			<Text>Від імені народу — так.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PETER_GREAT_ANY">
 			<Text>Ага, харашо.</Text>
@@ -191,13 +191,13 @@
 			<Text>Нехай Бог благословить вас.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY">
-			<Text>This is acceptable.</Text>
+			<Text>Це прийнятно.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SALADIN_ANY">
-			<Text>A fruitful offer. May Allah bless you.</Text>
+			<Text>Плідна пропозиція. Нехай Аллах благословить вас.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ANY">
-			<Text>I can't say no to that.</Text>
+			<Text>Я не можу відмовити.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMYRIS_ANY">
 			<Text>Гаразд.</Text>
@@ -206,7 +206,7 @@
 			<Text>Це прийнятно.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ANY">
-			<Text>We find this agreeable.</Text>
+			<Text>Нас це влаштовує.</Text>
 		</Row>
 
 		<!-- Human responses -->
@@ -219,7 +219,7 @@
 
 		<!-- AI invitation to exchange Capital Information -->
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY">
-			<Text>Neither of us hails from nearby, but perhaps we should mark our homelands on each other's maps?</Text>
+			<Text>Жоден з нас не родом звідси, але, можливо, нам варто позначити наші батьківщини на картах один одного?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MVEMBA_ANY">
 			<Text>Я пропоную обмінятися місцезнаходженнями наших столиць, наче мудрістю. Повідайте, де ваше святе місто?</Text>
@@ -228,19 +228,19 @@
 			<Text>Я у захваті від архітектури. Скажіть, ваша столиця має видатні вежі?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY">
-			<Text>Alexandria is the home of Pharaohs, my home. I can tell you more if you tell me of your capital.</Text>
+			<Text>Александрія — дім фараонів, мій дім. Я можу розповісти вам більше, якщо ви розкажете про свою столицю.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BARBAROSSA_ANY">
-			<Text>I will show you our great capital if you tell me how yours can possibly compare to Germany’s seat of power.</Text>
+			<Text>Я покажу вам нашу велику столицю, якщо ви розповісте мені, як ваша взагалі може зрівнятися з німецьким осередком влади.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GANDHI_ANY">
-			<Text>I enjoy travel, perhaps I will one day visit your capital. Is it far? Would you tell me about it?</Text>
+			<Text>Я люблю подорожувати, можливо, колись завітаю до вашої столиці. Це далеко? Розкажете мені про неї?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GILGAMESH_ANY">
 			<Text>Лише мій дозвіл здатен відчинити браму Урука! І я його дам, якщо ви вчините так само.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORGO_ANY">
-			<Text>What is your capital like? Tell me, and I will tell you of Sparta.</Text>
+			<Text>Яка ваша столиця? Розкажіть мені, і я розповім вам про Спарту.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY">
 			<Text>Я плавав скрізь, але жодного разу не бачив вашої столиці. Показуйте.</Text>
@@ -252,22 +252,22 @@
 			<Text>Як щодо обміну дипломатичними люб'язностями? Повідомте розташування вашої столиці, і натомість отримаєте розташування моєї.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PERICLES_ANY">
-			<Text>Athens is a glorious metropolis. What is your capital like? Come, let’s exchange information.</Text>
+			<Text>Афіни — славний мегаполіс. А яка у вас столиця? Приходьте, обміняємося інформацією.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PETER_GREAT_ANY">
 			<Text>Может абменяємся местапалаженієм наших сталіц? Нєтєрпіца асматрєть тваі ценнасті...</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PHILIP_II_ANY">
-			<Text>Would you like to hear of my capital? Madrid is the most beautiful of cities. Is your capital beautiful as well?</Text>
+			<Text>Хочете почути про мою столицю? Мадрид — найкрасивіше з міст. Ваша столиця теж гарна?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY">
-			<Text>You have seen some of our magnificence. Is your capital even half as grand as ours?</Text>
+			<Text>Ви бачили частину нашої пишноти. Чи є ваша столиця хоча б наполовину такою ж грандіозною, як наша?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SALADIN_ANY">
-			<Text>Come, let us exchange information about our capitals. I invite you to tell me of your people, and I am happy to tell you of mine.</Text>
+			<Text>Приїжджайте, обміняймось інформацією про свої столиці. Я запрошую вас розповісти мені про свій народ, а я з радістю розповім вам про свій.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ANY">
-			<Text>I’d like to exchange information about our capitals; promote free trade between our nations, and all that.</Text>
+			<Text>Я хотів би обмінятися інформацією про наші столиці, сприяти вільній торгівлі між нашими країнами і все таке інше.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMYRIS_ANY">
 			<Text>Ми кочівники, але маємо гарну столицю. А як щодо вас?</Text>
