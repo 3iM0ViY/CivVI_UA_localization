@@ -3,146 +3,146 @@
 	<BaseGameText>
 		<!-- AI Accepts -->
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY">
-			<Text>Ми раді вітати вашу делегацію у нашій столиці.</Text>
+			<Text>We are happy to welcome your delegation to our capital.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
-			<Text>Ваша торгова делегація прибула до моєї столиці, де ми прийняли їх з відкритими обіймами. Дякуємо за ваші дарунки.</Text>
+			<Text>Your trade delegation arrived at my capital, where we welcomed them with open arms. And thank you for your gifts.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>Ми прийняли вашу делегацію у палаці. Дякую. Дарунки будуть дуже ціновані.</Text>
+			<Text>We received your delegation at the palace. Thank you. The gifts will be treasured.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
 			<Text>Я отримала пропозицію від вашої делегації. Мені до вподоби таке добре відношення.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
-			<Text>Ваш посланець прибув, і я особисто його привітала. Наша Імперія може отримати користь від дипломатії.</Text>
+			<Text>Your envoy arrived and I welcomed them personally. Our Empire could benefit from diplomacy.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
-			<Text>Ви надто добрі, мій друже. Ваші дарунки прибули з вашою торговою делегацією, і я особисто їм подякувала.</Text>
+			<Text>You are too kind, my friend. Your gifts arrived with your trade delegation, and I have personally thanked them.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
-			<Text>Гільгамеш отримав ваші данини та вашого посланця. Він дозволить їм увійти в Урук.</Text>
+			<Text>Gilgamesh has received your tributes and your envoy. He will let them enter Uruk.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
 			<Text>Спартанці нехтують матеріальними благами. Але ваша увага буде оцінена по честі.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
-			<Text>Ваша делегація прибула. Ми вітали їх бенкетом у довгому будинку.</Text>
+			<Text>Your delegation has arrived. We welcomed them with a feast in the longhouse.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
-			<Text>Ваша делегація прибула, і ми покірні вашою щедрістю.</Text>
+			<Text>Your delegation arrived, and we are humbled by your generosity.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
-			<Text>Ми раді вітати вашу делегацію у нашій столиці.</Text>
+			<Text>We are happy to welcome your delegation to our capital.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
-			<Text>Народ з радістю прийняв вашу делегацію та дарунки. Дякуємо.</Text>
+			<Text>The people happily received your delegation and gifts. Thank you.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
 			<Text>Твая дєлєгация прівєзла падаркі. Я люблю падаркі, асобєна када нєнада тратіть врємя чоби іх атабрать. Тваі людішкі пака могут пагастіть.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
-			<Text>Ми прийняли єретичн- вибачте, вашу торгову делегацію. Я обов'язково навчу їх наших звичаїв.</Text>
+			<Text>We received the heret- I mean, your trade delegation. I will be sure to instruct them in our ways.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
-			<Text>Ми раді вітати вашу торгову делегацію. Вони будуть вшановані, як того заслуговують.</Text>
+			<Text>We are happy to welcome your trade delegation. They will be treated with the honor they deserve.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
-			<Text>Тисяча подяк за ваші дарунки. Ваша делегація буде дуже шанована.</Text>
+			<Text>A thousand thanks for your gifts. Your delegation will be treated with the utmost regard.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
-			<Text>Я вітаю вашу делегацію у великих Сполучених Штатах Америки.</Text>
+			<Text>I welcome your delegation to the great United States of America.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
 			<Text>Ваша делегація прибула з дарунками. Я це оцінила.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
-			<Text>Ваша торгова делегація прибула, побачила і підкорила нас своєю добротою. Дякуємо за дарунки.</Text>
+			<Text>Your trade delegation arrived, saw, and conquered us with their kindness. Thank you for the gifts.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
-			<Text>Ми прийняли вашу торгову делегацію, і можете бути впевнені, що ми ставитимемося до них з належною гідністю.</Text>
+			<Text>We have received your trade delegation and you may rest assured that we will treat them with the dignity they deserve. </Text>
 		</Row>
 		
 		<!-- AI Rejects -->
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY">
-			<Text>Ми ввічливо відмовляємо вашій делегації.</Text>
+			<Text>We politely refuse your delegation.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
-			<Text>Я не можу сказати так.</Text>
+			<Text>I cannot say yes.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>Спокусливо, але ні.</Text>
+			<Text>Tempting, but no.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
-			<Text>Може, іншим разом?</Text>
+			<Text>Maybe some other time?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
-			<Text>Ні, звичайно ні.</Text>
+			<Text>No, of course not.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
-			<Text>На жаль, ні.</Text>
+			<Text>Unfortunately, no.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
-			<Text>Думаю, що ні.</Text>
+			<Text>I think not.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
-			<Text>Не цього разу.</Text>
+			<Text>Not this time.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
-			<Text>Ні. Я не можу прийняти.</Text>
+			<Text>No. I can’t accept.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
-			<Text>Ні, дякую.</Text>
+			<Text>No, thank you.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
-			<Text>Ми ввічливо відмовляємо вашій делегації.</Text>
+			<Text>We politely refuse your delegation.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
-			<Text>Афіни відмовляються.</Text>
+			<Text>Athens declines.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
 			<Text>Вот тока тваіх людішек на парогє нєхватала! Брись, атсюда!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
-			<Text>Я не можу прийняти.</Text>
+			<Text>I cannot accept.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
-			<Text>Ми відхиляємо вашу пропозицію.</Text>
+			<Text>We reject your offer.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
-			<Text>Ні, ми не можемо прийняти.</Text>
+			<Text>No, we cannot accept.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
-			<Text>Ми повинні відмовитися.</Text>
+			<Text>We must decline.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
 			<Text>Це зайве.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
-			<Text>Гарна пропозиція, але я не можу її прийняти.</Text>
+			<Text>A good offer, but I cannot accept.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
-			<Text>Мій парламент не схвалює.</Text>
+			<Text>My Parliament does not approve.</Text>
 		</Row>
 
 		<!-- AI Requests -->
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY">
-			<Text>Ви приймете нашу дипломатичну делегацію у вашій столиці?</Text>
+			<Text>Will you receive our diplomatic delegation in your capital?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MVEMBA_ANY">
-			<Text>Моя торгова делегація має скоро прибути з фуфу. Смачного!</Text>
+			<Text>My trade delegation should be arriving soon with fufu. Enjoy the meal!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
 			<Text>Французька делегація пропонує маслини, сири та багети. Певно, ви любите попоїсти?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ANY">
-			<Text>Моя дипломатична делегація приносить вам невеликий дарунок з папірусу від Нового Ізіса. Прийміть їх, як би приймали мене.</Text>
+			<Text>My diplomatic delegation brings you a small gift of papyrus from the New Isis. Welcome them as you would welcome me.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BARBAROSSA_ANY">
 			<Text>Мої делегати вже відбули до вас. Ставтеся до них як би ставилися до мене. Тобто Герцога Швабії, Короля Бургундії, Німеччини, Риму, Італії та Імператора Священної Римської Імперії.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GANDHI_ANY">
-			<Text>Я надіслав до вас торгову делегацію з дарунками з нашої землі: чаї, сарі та ситари.</Text>
+			<Text>I have sent a trade delegation to you with gifts from our land: teas, sarees, and sitars.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GILGAMESH_ANY">
 			<Text>Шумерська делегація пропонує коштовності та ліри урських майстрів.</Text>
@@ -154,37 +154,37 @@
 			<Text>До вас прямує моя делегація з рунічними каменями у якості дарунка. Це потужні обереги.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HOJO_ANY">
-			<Text>Ми надіслали вам делегацію з дарунками йосегі-дзукурі, деякі з наших найкращих творів.</Text>
+			<Text>We have sent you a delegation with gifts of yosegi-zukuri, some of our greatest works.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PEDRO_ANY">
 			<Text>Ваша столиця прийме нашу дипломатичну делегацію?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PERICLES_ANY">
-			<Text>Ми надіслали вам делегацію з дарунками. Не хвилюйтеся, великого дерев'яного коня немає.</Text>
+			<Text>We have sent you a delegation bearing gifts. Don’t be alarmed, there’s no large wooden horse involved.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PETER_GREAT_ANY">
 			<Text>Я паслал баначку ікри, так сказать, сбарскава плєча. Пускай твой нарот запомніт маю бєзгранічную щєдрасть.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PHILIP_II_ANY">
-			<Text>Я надіслав делегацію до вашого міста. Будь ласка, насолоджуйтеся чуросами та привітайте їх гостинно.</Text>
+			<Text>I have sent a delegation to your city. Please, enjoy the churros and welcome them kindly.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ANY">
-			<Text>Наша торгова делегація має скоро прибути з дарунками найкращих спецій, чаю та шовку з Серединного Царства. Насолоджуйтесь.</Text>
+			<Text>Our trade delegation should be arriving soon with gifts of the finest spices, tea, and silk in the Middle Kingdom. Please, enjoy.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SALADIN_ANY">
-			<Text>Я надіслав вам делегацію з дарунками з нашої імперії. Вони привезли найсолодші фрукти, рідкісний сніг, щоб охолодити вас у найспекотніший день, та найкращих коней. Прийміть їх як нашу люб'язність.</Text>
+			<Text>I have sent a delegation to you with gifts from our empire. They bring the sweetest fruit, rare snow to cool you on even the hottest day, and the most excellent of horses. Please receive them as our courtesy.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ANY">
-			<Text>Добре бачити вас знову. Моя дипломатична делегація до вас уже в дорозі. Готуйтеся відчути затишок американських осель, як скуштуєте нашого відомого яблучного пирога.</Text>
+			<Text>Добре бачити вас знову. Моя дипломатична делегація до вас уже в дорозі. Готуйтеся відчути затишок американських осель як скуштуєте нашого відомого яблучного пирога.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOMYRIS_ANY">
-			<Text>Я надіслав вам торгову делегацію з декорованим горитосом як дарунок для вас. Ви ж маєте лук, так?</Text>
+			<Text>I have sent you a trade delegation bearing a decorated gorytos as a gift for you. You do have a bow, yes?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TRAJAN_ANY">
-			<Text>Я надіслав вам торгову делегацію. Насолоджуйтесь Пекоріно Романо: найкращим солоним сиром з овечого молока, який ви коли-небудь пробували.</Text>
+			<Text>I have sent a trade delegation to you. Enjoy the Pecorino Romano: the finest salted, sheep's-milk cheese you will ever have.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VICTORIA_ANY">
-			<Text>Вітання. Ми надіслали королівського посланця від імені Сполученого Королівства. Сподіваємося, що їх приймуть добре.</Text>
+			<Text>Greetings. We have sent a Royal envoy on behalf of the United Kingdom. We hope they are well received.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_CHOICE_NEGATIVE">
 			<Text>Наразі, наша столиця не приймає гостей.</Text>
