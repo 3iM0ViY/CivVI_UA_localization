@@ -57,10 +57,10 @@
 			<Text>Novelas Ejemplares (Повчальні новели)</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MACHIAVELLI_1_NAME">
-			<Text>Міркування про першу декаду Тіта Лівія</Text>
+			<Text>Державець</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_MACHIAVELLI_2_NAME">
-			<Text>Державець</Text>
+			<Text>Міркування про першу декаду Тіта Лівія</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_SHAKESPEARE_1_NAME">
 			<Text>Ромео і Джульєтта</Text>
@@ -87,7 +87,7 @@
 			<Text>Ворон</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_AUSTEN_1_NAME">
-			<Text>Гордість і упередження</Text>
+			<Text>Гордість і упередженість</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_AUSTEN_2_NAME">
 			<Text>Чуття і чуттєвість</Text>
@@ -123,7 +123,7 @@
 			<Text>Хто успіху не має...</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TOLSTOY_1_NAME">
-			<Text>Дві руські народності</Text>
+			<Text>Книга буття українського народу</Text>
 		</Row>
 		<Row Tag="LOC_GREATWORK_TOLSTOY_2_NAME">
 			<Text>Переяславська ніч</Text>
