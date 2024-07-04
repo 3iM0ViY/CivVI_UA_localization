@@ -8,7 +8,7 @@
 		
 		<!-- AI rejects from human -->
 		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_ANY_ANY">
-			<Text>We are not interested at this time.</Text>
+			<Text>Ми зараз не зацікавлені.</Text>
 		</Row>
 
 		<!-- AI requests from human -->
@@ -23,7 +23,7 @@
 
 		<!-- Human rejects AI, AI responds -->
 		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_ANY_ANY">
-			<Text>Disappointing.</Text>
+			<Text>Розчаровуюче.</Text>
 		</Row>
 
 		<!-- Choices -->
