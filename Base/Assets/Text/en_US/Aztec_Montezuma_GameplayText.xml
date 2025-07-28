@@ -2,226 +2,226 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_LOADING_INFO_LEADER_MONTEZUMA">
-			<Text>Tlatoani Montezuma, keep your eagle warriors happy and fed, and they will forever fight for your cause. As your Aztec empire unfurls across the land, you will never want for people to raise your walls, for you will be blessed with new, loyal workers as you conquer those around you. Go forth; Huitzilopochtli calls.</Text>
+			<Text>Тлатоані Монтесума, дбай про щастя і ситість своїх воїнів-орлів, і вони будуть вічно боротися за твою справу. З розширенням твоєї ацтекської імперії по всій землі, ти ніколи не будеш відчувати нестачу людей для зведення стін, адже ти будеш благословенний новими, відданими працівниками, підкорюючи своїх сусідів. Крокуй вперед, Віцилопочтлі кличе.</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_1">
-			<Text>Acamapichtli</Text>
+			<Text>Акамапічтлі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_2">
-			<Text>Chimalli</Text>
+			<Text>Чімаллі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_3">
-			<Text>Cuauhtemoc</Text>
+			<Text>Куаутемок</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_4">
-			<Text>Huitzilli</Text>
+			<Text>Уїтціллі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_5">
-			<Text>Itzcoatl</Text>
+			<Text>Іцкоатль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_6">
-			<Text>Nochehuatl</Text>
+			<Text>Ночеуатль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_7">
-			<Text>Tlaloc</Text>
+			<Text>Тлалок</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_8">
-			<Text>Xiuhpilli</Text>
+			<Text>Макуільшочітль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_9">
-			<Text>Yaotl</Text>
+			<Text>Яотл</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MALE_10">
-			<Text>Zolin</Text>
+			<Text>Золін</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_1">
-			<Text>Centehua</Text>
+			<Text>Центеуа</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_2">
-			<Text>Chalchiuitl</Text>
+			<Text>Чальчіутлікуе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_3">
-			<Text>Chicomecoatl</Text>
+			<Text>Чикомекоатль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_4">
-			<Text>Chimalma</Text>
+			<Text>Чімальма</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_5">
-			<Text>Citlalli</Text>
+			<Text>Цітлаллі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_6">
-			<Text>Cozamalotl</Text>
+			<Text>Козамалотль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_7">
-			<Text>Tlacotl</Text>
+			<Text>Тлакотль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_8">
-			<Text>Xilonen</Text>
+			<Text>Шилонен</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_9">
-			<Text>Xochitl</Text>
+			<Text>Шочітль</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_10">
-			<Text>Yaretzi</Text>
+			<Text>Яретзі</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_1">
-			<Text>Carlos</Text>
+			<Text>Карлос</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_2">
-			<Text>Estévan</Text>
+			<Text>Естеван</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_3">
-			<Text>Ignacio</Text>
+			<Text>Ігнасіо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_4">
-			<Text>José</Text>
+			<Text>Хосе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_5">
-			<Text>Montago</Text>
+			<Text>Монтаго</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_6">
-			<Text>Niguel</Text>
+			<Text>Нігель</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_7">
-			<Text>Pedro</Text>
+			<Text>Педро</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_8">
-			<Text>Richardo</Text>
+			<Text>Рікардо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_9">
-			<Text>Teyo</Text>
+			<Text>Тейо</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_10">
-			<Text>Tino</Text>
+			<Text>Тіно</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_1">
-			<Text>Amorita</Text>
+			<Text>Аморіта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_2">
-			<Text>Bellona</Text>
+			<Text>Беллона</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_3">
-			<Text>Eldora</Text>
+			<Text>Ельдора</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_4">
-			<Text>Guadalupe</Text>
+			<Text>Гвадалупе</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_5">
-			<Text>Luminosa</Text>
+			<Text>Люміноза</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_6">
-			<Text>Orlena</Text>
+			<Text>Орлена</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_7">
-			<Text>Perdita</Text>
+			<Text>Пердіта</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_8">
-			<Text>Pilar</Text>
+			<Text>Пілар</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_9">
-			<Text>Senalda</Text>
+			<Text>Сеналда</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_10">
-			<Text>Zola</Text>
+			<Text>Зола</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TENOCHTITLAN">
-			<Text>Tenochtitlan</Text>
+			<Text>Теночтітлан</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TEXCOCO">
-			<Text>Texcoco</Text>
+			<Text>Текскоко</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ATZCAPOTZALCO">
-			<Text>Atzcapotzalco</Text>
+			<Text>Ацкапотцалько</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TEOTIHUACAN">
-			<Text>Teotihuacán</Text>
+			<Text>Теотіуакан</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TLACOPAN">
-			<Text>Tlacopán</Text>
+			<Text>Тлакопан</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_XOCHICALCO">
-			<Text>Xochicalco</Text>
+			<Text>Шочикалко</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MALINALCO">
-			<Text>Malinalco</Text>
+			<Text>Маліналько</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TEAYO">
 			<Text>Teayo</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CEMPOALA">
-			<Text>Cempoala</Text>
+			<Text>Семпоала</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CHALCO">
-			<Text>Chalco</Text>
+			<Text>Чалко</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_IXTAPALUCA">
-			<Text>Ixtapaluca</Text>
+			<Text>Ікстапалука</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TENAYUCA">
-			<Text>Tenayuca</Text>
+			<Text>Тенаюка</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HUEXOTLA">
-			<Text>Huexotla</Text>
+			<Text>Уексотла</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_CHAPULTEPEC">
-			<Text>Chapultepec</Text>
+			<Text>Чапультепек</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TEPEXPAN">
-			<Text>Tepexpan</Text>
+			<Text>Тепекпан</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ZITLALTEPEC">
-			<Text>Zitlaltepec</Text>
+			<Text>Цітлальтепек</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_XALAPA">
-			<Text>Xalapa</Text>
+			<Text>Халапа</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TAMUIN">
-			<Text>Tamuín</Text>
+			<Text>Тамуїн</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TELOLOAPAN">
-			<Text>Teloloapan</Text>
+			<Text>Телолоапан</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MITLA">
-			<Text>Mixquic</Text>
+			<Text>Міскік</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TLATELOLCO">
-			<Text>Tlatelolco</Text>
+			<Text>Тлателолько</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_COYOTEPEC">
-			<Text>Coyotepec</Text>
+			<Text>Койотепек</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ZACATULA">
-			<Text>Zacatula</Text>
+			<Text>Закатула</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_YUCUNUDAHUI">
-			<Text>Yucuñudahui</Text>
+			<Text>Юкуньудахуї</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ECATEPEC">
-			<Text>Ecatepec</Text>
+			<Text>Екатепек</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MAZATAN">
-			<Text>Mazatán</Text>
+			<Text>Мазатан</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_IZTAPALAPA">
-			<Text>Iztapalapa</Text>
+			<Text>Істапалапа</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_TLALMANALCO">
-			<Text>Tlalmanalco</Text>
+			<Text>Тлалманалко</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HUAXYACAC">
-			<Text>Huaxyacac</Text>
+			<Text>Уаксіакак</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_ACATITLAN">
-			<Text>Acatitlan</Text>
+			<Text>Акатитлан</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AZTEC_DESCRIPTION">
 			<Text>Ацтекська імперія</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AZTEC_ADJECTIVE">
-			<Text>Aztec</Text>
+			<Text>Ацтекський</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AZTEC_LOCATION">
-			<Text>North America</Text>
+			<Text>Північна Америка</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AZTEC_SIZE">
 			<Text>Est. 117.5 thousand square miles (304 thousand square km)</Text>
@@ -230,13 +230,13 @@
 			<Text>Est. 5.1 million at greatest extent</Text>
 		</Row>
 		<Row Tag="LOC_CIVINFO_AZTEC_CAPITAL">
-			<Text>Tenochtitlan</Text>
+			<Text>Теночтітлан</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_TLACHTLI_NAME">
-			<Text>Aztec unique building: Tlachtli</Text>
+			<Text>Месоамериканська гра у м'яч</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
-			<Text>Aztec unique unit: Eagle Warrior</Text>
+			<Text>Воїни-орли</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_1">
 			<Text>When Hernando Cortes and his band of ne’er-do-wells arrived, the Aztec Empire was still in its childhood, having come into existence (more-or-less) around 1428 AD. Although the Excan Tlahtoloyan (Aztec Empire) lasted only one hundred years, it was an eventful one hundred years.</Text>
@@ -290,7 +290,7 @@
 			<Text>The bloody Aztec overlords were gone, and the empire shattered into separate city-states again, now under Spanish suzerainty.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_TITLE">
-			<Text>Montezuma I</Text>
+			<Text>Монтесума I</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_SUBTITLE">
 			<Text>Huetlatoani of Tenochtitlan, Fifth Tlatoani of the Aztecs</Text>
@@ -335,46 +335,46 @@
 			<Text>One of the two elite class of infantry (the other being the Jaguar Warriors) in the Aztec army, the Eagle Warriors were the bravest young men of noble birth and/or those who had taken the most prisoners in battle. Like the Jaguars, the Eagles used the atlatl, bow, spear and macuahuitl (wooden swords set with obsidian shards); unlike the Jaguars, the Eagles decorated their armor with eagle feathers and wore a headdress shaped like the head of an eagle with the beak wide open. And they had a hilltop temple in Malinalco. Upon taking 20 prisoners – intact enough to serve as human sacrifice – a young warrior was eligible to become an Eagle Warrior, no doubt making his family very proud. Until the Spanish arrived with their cannons, muskets, and horses, the Eagle and Jaguar warriors were the toughest bullies on the Mesoamerican block.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>You are no friend to the Aztecatl. You must earn this honor.</Text>
+			<Text>Ви не є другом Ацтлану. Спершу ви повинні заслужити цю честь.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_DESIRED_LUXURY">
-			<Text>Montezuma sees your luxuries that he does not have as a ripe target for attack</Text>
+			<Text>Монтесума бачить ваші розкоші, яких він не має, як легку мішень для нападу.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_NO_DESIRED_LUXURY">
-			<Text>Montezuma is happy you have controlled the same luxuries that he has</Text>
+			<Text>Монтесума радий, що ви контролюєте такими ж  самими розкошами, що й він.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>My heart turns white with your offer. Let us celebrate our friendship.</Text>
+			<Text>Моє серце біліє від вашої пропозиції. Давайте відсвяткуємо нашу дружбу.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Let us be joined in friendship against the evils of this world.</Text>
+			<Text>Об'єднаймось в дружбі проти зла цього світу.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Thank you.</Text>
+			<Text>Дякую.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>You test my patience…</Text>
+			<Text>Ви випробовуєте моє терпіння…</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>Your soldiers will die on the battlefield or upon an altar. It makes no difference to Huitzilopochtli.</Text>
+			<Text>Ваші солдати загинуть на полі бою або на вівтарі. Для Віцилопочтлі в цьому немає різниці.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Now we will see if you are cowards or warriors!</Text>
+			<Text>Тепер ми побачимо, чи ви боягузи, а чи воїни!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Huitzilopochtli forgive our weakness… my weakness. I was not strong enough to serve you.</Text>
+			<Text>Віцилопочтлі, пробач нашу слабкість… мою слабкість. Я не був достатньо сильним, щоб тобі служити.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>We will house your delegation in a place of honor. Your gifts are a kind tribute.</Text>
+			<Text>Ми розмістимо вашу делегацію в почесному місці. Ваші подарунки є люб'язним знаком поваги.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>Not today.</Text>
+			<Text>Не сьогодні.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Gifts of maize and chocolate are brought to you by my delegation. We offer them to you.</Text>
+			<Text>Моя делегація привезла вам подарунки у вигляді кукурудзи та шоколаду. Ми даруємо їх вам.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>Those who are afraid speak loudest. You fear us.</Text>
+			<Text>Ті, хто бояться, говорять найголосніше. Ви нас боїтеся.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>(Звинувачення) Ви отрута цього світу. Ви зло!</Text>
@@ -389,46 +389,46 @@
 			<Text>Домовились.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MONTEZUMA_ANY">
-			<Text>Tenochtitlan is closest to Huitzilopochtli; now, tell me of your capital!</Text>
+			<Text>Теночтітлан знаходиться найближче до Віцилопочтлі; а тепер розкажіть мені про свою столицю!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_GREETING_LEADER_MONTEZUMA_ANY">
-			<Text>What do you want???</Text>
+			<Text>Чого тобі???</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MONTEZUMA_ANY">
 			<Text>Ми радше схожі, ніж різні. Схоже, ми з вами притримуємося подібних принципів.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_ANY">
-			<Text>(You have no Luxuries he wants)</Text>
+			<Text>(У вас нема розкішних ресурсів, що він бажає.)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MONTEZUMA_ANY">
 			<Text>Ви забагато робити хибного! Бажаєте бачити своїх людей моїми рабами?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_ANY">
-			<Text>(You have a Luxury he wants.)</Text>
+			<Text>(У вас є розкішний ресурс, що він бажає.)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Would you like to form an alliance?</Text>
+			<Text>Бажаєте укласти союз?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MONTEZUMA_ANY">
-			<Text>This war has greatly pleased the gods. Let us now celebrate.</Text>
+			<Text>Ця війна дуже порадувала богів. Давайте тепер відсвяткуємо.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MONTEZUMA_ANY">
-			<Text>I do not accept.</Text>
+			<Text>Я не приймаю.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Come, let us return to our homes and gather our strength for the next conflict.</Text>
+			<Text>Ходімо, повернемося до своїх домівок і наберемося сил для наступного конфлікту.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>We have nothing to fear from your military. You may pass.</Text>
+			<Text>Ми не маємо чого боятися ваших військових. Ви можете пройти.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
-			<Text>You may not pass through the Empire of Huitzilopochtli. It is closed to you.</Text>
+			<Text>Ви не можете пройти через Імперію Віцилопочтлі. Вона для вас закрита.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MONTEZUMA_ANY">
-			<Text>Let us pass through your lands! Huitzilopochtli commands it!</Text>
+			<Text>Дозвольте нам пройти через ваші землі! Віцилопочтлі так наказує!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MONTEZUMA_ANY">
-			<Text>You cannot surprise the Empire. We see your attack. We will strike first if you do not move them away.</Text>
+			<Text>Ви не можете застати Імперію зненацька. Ми бачимо вашу атаку. Ми завдамо удару першими, якщо ви не відведете їх.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TLACHTLI_CHAPTER_HISTORY_PARA_1">
 			<Text>For over 2700 years the Mesoamericans played their traditional “ballgame” – Ollamaliztli in Nahuatl – in (not surprisingly) “ball courts.” Somewhat similar in play to team racquetball, these “sporting events” had significant ritual overtones, given that the losers (and sometimes the winners) were often sacrificed after the game, usually by decapitation. Explicit depictions of human sacrifice after a game can be found in many Mayan ball courts such as those at El Tajin and at Chichen Itza. Although the sport had somewhat different rules in different places and different times, it spread throughout Mesoamerica, as far south as Nicaragua and north as Arizona. Built in a pattern that changed little over two-and-a-half millennia, the ball courts were stone constructs of a long, narrow playing field between high sloped walls with open-ended (later enclosed) wider goal areas. Painted and decorated, these stadiums were the epitome of the Mesoamerican civilization … until the Spanish showed up and introduced the natives to other games.</Text>
