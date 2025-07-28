@@ -1679,7 +1679,7 @@
 			<Text>Унікальний літак</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_PLEASE_WAIT">
-			<Text>Вантажуся...[NEWLINE] Будьте ласкаві, зачекати.</Text>
+			<Text>Вантажуся...[NEWLINE] Будь ласка, зачекайте.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_DISTRICT_BUILDING">
 			<Text>{1_DistrictName} район будується</Text>

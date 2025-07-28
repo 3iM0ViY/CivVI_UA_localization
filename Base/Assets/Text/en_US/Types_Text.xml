@@ -174,7 +174,7 @@
 			<Text>Ермітаж</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LARGE_ROCKET_NAME">
-			<Text>Ракета-носій</Text>
+			<Text>Ракета-носій вищього класу</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LIBRARY_NAME">
 			<Text>Бібліотека</Text>
@@ -186,7 +186,7 @@
 			<Text>Медресе</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_NAME">
-			<Text>Храм Махабодхі</Text>
+			<Text>Храм Магабодгі</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MARKET_NAME">
 			<Text>Ринок</Text>
@@ -263,7 +263,7 @@
 			<Gender>m</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_SMALL_ROCKET_NAME">
-			<Text>Small Rocket</Text>
+			<Text>Ракета-носій малого класу</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STABLE_NAME">
 			<Text>Стайня</Text>
@@ -376,13 +376,13 @@
 			<Text>Феодалізм</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_NAME">
-			<Text>Приватна служба</Text>
+			<Text>Державна служба</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MERCENARIES_NAME">
 			<Text>Найманство</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MEDIEVAL_FAIRES_NAME">
-			<Text>Пристосовність</Text>
+			<Text>Ярмарки</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_GUILDS_NAME">
 			<Text>Гільдії</Text>
@@ -448,7 +448,7 @@
 			<Text>Ідеологія</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SUFFRAGE_NAME">
-			<Text>Право голосу</Text>
+			<Text>Виборче право</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_TOTALITARIANISM_NAME">
 			<Text>Тоталітаризм</Text>
@@ -463,16 +463,16 @@
 			<Text>Професійний спорт</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_CULTURAL_HERITAGE_NAME">
-			<Text>Охорона спадщини</Text>
+			<Text>Культурна спадщина</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_NAME">
 			<Text>Авіарозгортання</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SPACE_RACE_NAME">
-			<Text>Освоєння космосу</Text>
+			<Text>Космічні перегони</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_SOCIAL_MEDIA_NAME">
-			<Text>Соціальні ЗМІ</Text>
+			<Text>Соцмережі</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_GLOBALIZATION_NAME">
 			<Text>Глобалізація</Text>
@@ -622,7 +622,7 @@
 			<Text>Африка</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_AMASIA_DESCRIPTION">
-			<Text>Amasia</Text>
+			<Text>Амасья</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_AMERICA_DESCRIPTION">
 			<Text>Америка</Text>
@@ -637,7 +637,7 @@
 			<Text>Азія</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_ASIAMERICA_DESCRIPTION">
-			<Text>Asiamerica</Text>
+			<Text>Азіямерика</Text>
 		</Row>
 		<Row Tag="LOC_CONTINENT_ATLANTICA_DESCRIPTION">
 			<Text>Атлантика</Text>
@@ -861,7 +861,7 @@
 			<Text>Ганза</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_LAVRA_NAME">
-			<Text>Божевільня</Text>
+			<Text>Лавра</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MBANZA_NAME">
 			<Text>Мбанза</Text>
@@ -1586,7 +1586,7 @@
 			<Text>Пейзаж</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORK_OBJECT_RELIGIOUS_NAME">
-			<Text>Релігійний</Text>
+			<Text>Ікона</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORK_OBJECT_ARTIFACT_NAME">
 			<Text>Артефакт</Text>
@@ -1679,7 +1679,7 @@
 			<Gender>m</Gender>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_FISHING_BOATS_NAME">
-			<Text>Рибальський промисел</Text>
+			<Text>Рибальські човни</Text>
 			<Gender>m</Gender>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_PASTURE_NAME">
@@ -1699,11 +1699,11 @@
 			<Gender>f</Gender>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_OIL_WELL_NAME">
-			<Text>Нафтовидобувна установка</Text>
+			<Text>Нафтова свердловина</Text>
 			<Gender>f</Gender>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_NAME">
-			<Text>Нафтовидобувна платформа</Text>
+			<Text>Нафтова платформа</Text>
 			<Gender>f</Gender>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_BEACH_RESORT_NAME">
@@ -1756,7 +1756,7 @@
 			<Text>Агоге</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_NAME">
-			<Text>Взаємовиручка</Text>
+			<Text>Арсенал демократії</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_BASTIONS_NAME">
 			<Text>Бастіони</Text>
@@ -1771,7 +1771,7 @@
 			<Text>Лицарство</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_NAME">
-			<Text>Колективна активність</Text>
+			<Text>Громадський активізм</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_COLLECTIVIZATION_NAME">
 			<Text>Колективізація</Text>
@@ -1795,7 +1795,7 @@
 			<Text>Чорноробська праця</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_CRAFTSMEN_NAME">
-			<Text>Гільдія промисловців</Text>
+			<Text>Ремісники</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_CRYPTOGRAPHY_NAME">
 			<Text>Криптографія</Text>
@@ -1819,10 +1819,10 @@
 			<Text>Експропріація</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FEUDAL_CONTRACT_NAME">
-			<Text>Феодальна повинність</Text>
+			<Text>Феодальна угода</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FINEST_HOUR_NAME">
-			<Text>Дотація авіабудування</Text>
+			<Text>Зоряний час</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_FIVE_YEAR_PLAN_NAME">
 			<Text>П'ятирічка</Text>
@@ -1834,7 +1834,7 @@
 			<Text>Малювання фресок</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_GOD_KING_NAME">
-			<Text>Богослужіння</Text>
+			<Text>Цар-Бог</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_NAME">
 			<Text>Готична архітектура</Text>
@@ -1843,13 +1843,13 @@
 			<Text>Велика опера</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_GRANDE_ARMEE_NAME">
-			<Text>Центри вербування</Text>
+			<Text>Велична армія</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_NAME">
-			<Text>Поступливість</Text>
+			<Text>Дипломатія канонерок</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_HERITAGE_TOURISM_NAME">
-			<Text>Традиційний туризм</Text>
+			<Text>Історичний туризм</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_ILKUM_NAME">
 			<Text>Майстерство</Text>
@@ -1873,10 +1873,10 @@
 			<Text>Винахідництво</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LAISSEZ_FAIRE_NAME">
-			<Text>Комерція</Text>
+			<Text>Економічне невтручання</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LAND_SURVEYORS_NAME">
-			<Text>Землевпорядкування</Text>
+			<Text>Геодезична зйомка</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LEVEE_EN_MASSE_NAME">
 			<Text>Призов</Text>
@@ -1888,7 +1888,7 @@
 			<Text>Бліцкриг</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LIMES_NAME">
-			<Text>Вапно</Text>
+			<Text>Римський кордон</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LITERARY_TRADITION_NAME">
 			<Text>Літературознавство</Text>
@@ -1897,7 +1897,7 @@
 			<Text>Логістика</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MACHIAVELLIANISM_NAME">
-			<Text>Безпринципність</Text>
+			<Text>Макіавеллізм</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MANEUVER_NAME">
 			<Text>Маневрування</Text>
@@ -1909,7 +1909,7 @@
 			<Text>Ринкова економіка</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MARTIAL_LAW_NAME">
-			<Text>Військовий стан</Text>
+			<Text>Воєнний стан</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_MEDINA_QUARTER_NAME">
 			<Text>Щільна прибудова</Text>
@@ -1933,13 +1933,13 @@
 			<Text>Національна ідентичність</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NATIVE_CONQUEST_NAME">
-			<Text>Природне завоювання</Text>
+			<Text>Завоювання корінних народів</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NATURAL_PHILOSOPHY_NAME">
 			<Text>Натурфілософія</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_NAME">
-			<Text>Портова інфраструктура</Text>
+			<Text>Морська інфраструктура</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NAVIGATION_NAME">
 			<Text>Навігація</Text>
@@ -1954,7 +1954,7 @@
 			<Text>Атомне шпигунство</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_ONLINE_COMMUNITIES_NAME">
-			<Text>Соціальні мережі</Text>
+			<Text>Інтернет спільноти</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_PATRIOTIC_WAR_NAME">
 			<Text>Патріотизм</Text>
@@ -2026,19 +2026,19 @@
 			<Text>Стратегічне планування</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SURVEY_NAME">
-			<Text>Природознавство</Text>
+			<Text>Рекогностування</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SYMPHONIES_NAME">
-			<Text>Симфонія</Text>
+			<Text>Симфонії</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_THIRD_ALTERNATIVE_NAME">
 			<Text>Третя альтернатива</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TOWN_CHARTERS_NAME">
-			<Text>Гільдія орендодавців</Text>
+			<Text>Магдебурзьке право</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TRADE_CONFEDERATION_NAME">
-			<Text>Торгові гільдії</Text>
+			<Text>Імперія купців</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TRAVELING_MERCHANTS_NAME">
 			<Text>Пересувна торгівля</Text>
@@ -2047,16 +2047,16 @@
 			<Text>Тристороння торгівля</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_TOTAL_WAR_NAME">
-			<Text>Служба вилучення</Text>
+			<Text>Тотальна війна</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_URBAN_PLANNING_NAME">
 			<Text>Містопланування</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_VETERANCY_NAME">
-			<Text>Будівельні війська</Text>
+			<Text>Ветеранський рух</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_WARS_OF_RELIGION_NAME">
-			<Text>Релігійна війна</Text>
+			<Text>Релігійні війні</Text>
 		</Row>
 
 		<!-- Projects-->
@@ -2186,13 +2186,13 @@
 			<Text>Створити район</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_NAME">
-			<Text>Сппровокувати Еврику</Text>
+			<Text>Спровокувати Еврику</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_NAME">
 			<Text>Надихнутись</Text>
 		</Row>
 		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_NAME">
-			<Text>Рекрутувати Видатну людини</Text>
+			<Text>Рекрутувати видатну людини</Text>
 		</Row>
 		<!-- Resource class names -->
 		<Row Tag="LOC_RESOURCECLASS_BONUS_NAME">
@@ -2418,7 +2418,7 @@
 			<Text>Вдосконалена балістика</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ADVANCED_FLIGHT_NAME">
-			<Text>Вищій пілотаж</Text>
+			<Text>Вищий пілотаж</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_NAME">
 			<Text>Одомашнення</Text>
@@ -2466,7 +2466,7 @@
 			<Text>Конструювання</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CURRENCY_NAME">
-			<Text>Винайдення грошей</Text>
+			<Text>Створення валюти</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ECONOMICS_NAME">
 			<Text>Економіка</Text>
@@ -2532,7 +2532,7 @@
 			<Text>Військова інженерія</Text>
 		</Row>
 		<Row Tag="LOC_TECH_STIRRUPS_NAME">
-			<Text>Винайдення збруі</Text>
+			<Text>Винайдення збруї</Text>
 		</Row>
 		<Row Tag="LOC_TECH_MILITARY_SCIENCE_NAME">
 			<Text>Військова освіта</Text>
@@ -2586,7 +2586,7 @@
 			<Text>Супутники</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_NAME">
-			<Text>Наукова теорія</Text>
+			<Text>Науковий метод</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SHIPBUILDING_NAME">
 			<Text>Кораблебудування</Text>
@@ -2703,12 +2703,12 @@
 			<Gender>m</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_ANTIAIR_GUN_NAME">
-			<Text>Зенітка</Text>
+			<Text>Зенітна гармата</Text>
 			<Plurality>1</Plurality>
 			<Gender>f</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_APOSTLE_NAME">
-			<Text>Апостоли</Text>
+			<Text>Апостол</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_ARCHAEOLOGIST_NAME">
@@ -2734,7 +2734,7 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_NAME">
-			<Text>Кіннотники-стрільці</Text>
+			<Text>Кіннота з луками</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_BATTERING_RAM_NAME">
@@ -2791,7 +2791,7 @@
 			<Gender>f</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_FIGHTER_NAME">
-			<Text>Винищувачі</Text>
+			<Text>Винищувач</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_FRIGATE_NAME">
@@ -2858,7 +2858,7 @@
 			<Text>Музикант</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GURU_NAME">
-			<Text>Духівники</Text>
+			<Text>Ґуру</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_HEAVY_CHARIOT_NAME">
@@ -2894,11 +2894,11 @@
 			<Gender>m</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_JET_FIGHTER_NAME">
-			<Text>Реактивні винищувачі</Text>
+			<Text>Реактивний винищувач</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_KNIGHT_NAME">
-			<Text>Лицарі</Text>
+			<Text>Лицар</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_MACHINE_GUN_NAME">
@@ -3074,15 +3074,15 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_JAPANESE_SAMURAI_NAME">
-			<Text>Самураї</Text>
+			<Text>Самурай</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_NORWEGIAN_BERSERKER_NAME">
-			<Text>Берсерки</Text>
+			<Text>Берсерк</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_NAME">
-			<Text>Дракари</Text>
+			<Text>Дракар</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_NAME">
@@ -3117,7 +3117,7 @@
 			<Gender>f</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_GERMAN_UBOAT_NAME">
-			<Text>У-Субмарина</Text>
+			<Text>U-Субмарина</Text>
 			<Plurality>1</Plurality>
 			<Gender>f</Gender>
 		</Row>

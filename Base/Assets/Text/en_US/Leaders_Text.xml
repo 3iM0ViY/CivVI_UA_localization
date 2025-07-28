@@ -85,7 +85,7 @@
 
 		<!--Agenda Names-->
 		<Row Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
-			<Text>Союзник з Енкіда</Text>
+			<Text>Cоратник з Енкіду</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
 			<Text>Нащадок династії</Text>
@@ -94,13 +94,13 @@
 			<Text>Віддана</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
-			<Text>Шериф</Text>
+			<Text>Політика великого кийка</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
 			<Text>Чорна королева</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BUSHIDO_NAME">
-			<Text>Кодекс честі самурая</Text>
+			<Text>Бусідо</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
 			<Text>Покровитель вільних міст</Text>
@@ -109,7 +109,7 @@
 			<Text>Контрреформатор</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
-			<Text>Делегування</Text>
+			<Text>Афінський морський союз</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
 			<Text>Палкий послідовник</Text>
@@ -118,7 +118,7 @@
 			<Text>Покровитель мистецтв</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_IRON_CROWN_NAME">
-			<Text>Iron Crown</Text>
+			<Text>Залізна корона</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
 			<Text>Останній король вікінгів</Text>
@@ -127,7 +127,7 @@
 			<Text>Збирач земель</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_PARANOID_NAME">
-			<Text>Paranoid</Text>
+			<Text>Параноїк</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_PEACEKEEPER_NAME">
 			<Text>Хранитель миру</Text>
@@ -148,73 +148,73 @@
 			<Text>Зі щитом або на щиті</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
-			<Text>Стіна, дуже довга стіна</Text>
+			<Text>Захоплений дивом</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_AIRPOWER_NAME">
 			<Text>Авіатор</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
-			<Text>Barbarian Ally</Text>
+			<Text>Варварські королівства</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
 			<Text>Захисник вільних міст</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CIVILIZED_NAME">
-			<Text>Civilized</Text>
+			<Text>Цивілізаційна місія</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CULTURED_NAME">
-			<Text>Шанувальник культури</Text>
+			<Text>Шанувальники культури</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DARWINIST_NAME">
-			<Text>Darwinist</Text>
+			<Text>Дарвініст</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DEVOUT_NAME">
 			<Text>Набожність</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
-			<Text>Environmentalist</Text>
+			<Text>Екологія довкілля</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
-			<Text>Exploitative</Text>
+			<Text>Під лежачий камінь вода не тече</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_EXPLORER_NAME">
-			<Text>Explorer</Text>
+			<Text>Наукові експедиції</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_FUN_LOVING_NAME">
-			<Text>Fun-Loving</Text>
+			<Text>Файні розваги</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
 			<Text>Захисник видатних людей</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_IDEOLOGUE_NAME">
-			<Text>Ideologue</Text>
+			<Text>Ідеолог</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
-			<Text>Heavy Industry</Text>
+			<Text>Важка промисловість</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
-			<Text>Money Grubber</Text>
+			<Text>Грошолюбство</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_NATURALIST_NAME">
-			<Text>Naturalist</Text>
+			<Text>Натураліст</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_NUKE_LOVER_NAME">
-			<Text>Nuke Happy</Text>
+			<Text>Ядерне щастя</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_POPULOUS_NAME">
 			<Text>Екстраверт</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_STANDING_ARMY_NAME">
-			<Text>Standing Army</Text>
+			<Text>Постійна армія</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_TECHNOPHILE_NAME">
-			<Text>Technophile</Text>
+			<Text>Технофіл</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
 			<Text>Дивороб</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ZEALOT_NAME">
-			<Text>Zealot</Text>
+			<Text>Фанатик</Text>
 		</Row>
 
 		<!--Agenda Description-->
@@ -237,7 +237,7 @@
 			<Text>Поважає нації з сильною армією, високим приростом [ICON_Faith] віри та [ICON_Culture] культури.[NEWLINE]Зневажає у протилежному випадку.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
-			<Text>Likes civilizations that aren't competing for the same city-state allegiance. Dislikes civilizations that are directly competing for city-state allegiance.</Text>
+			<Text>Любить цивілізації, які не змагаються за лояльність одного і того ж міста-держави. Не любить цивілізації, які безпосередньо борються за лояльність міста-держави.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
 			<Text>Поважає нації котрі сповідують однакову релігію.[NEWLINE]Зневажає нації, що поширюють свою релігію у його державі.</Text>
@@ -252,7 +252,7 @@
 			<Text>Вербує якомога більшу кількість [ICON_GreatPerson] видатних людей.[NEWLINE][NEWLINE]Поважає нації, котрі не створюють [ICON_GreatPerson] видатних людей.[NEWLINE]Зневажає нації, котрі вербують обраних [ICON_GreatPerson] видатних людей першими.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
-			<Text>Likes civilizations who do not associate with city-states. Does not like Suzerains of city-states, or civilizations who conquered city-states.</Text>
+			<Text>Любить цивілізації, які не пов'язані з містами-державами. Не любить сюзеренів міст-держав або цивілізації, які завоювали міста-держави.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
 			<Text>Прагне створити якомога більший флот.[NEWLINE][NEWLINE]Поважає нації з чисельним флотом.[NEWLINE]Зневажає у протилежному випадку.</Text>
@@ -261,7 +261,7 @@
 			<Text>Прагне заволодіти якомога більшою територією.[NEWLINE][NEWLINE]Зневажає нації з меншою територією.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
-			<Text>Likes civilizations who pose no threat. Dislikes civilizations with strong militaries or ones with nearby cities.</Text>
+			<Text>Любить цивілізації, які не становлять загрози. Не любить цивілізації з сильною армією або ті, що мають міста поблизу.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
 			<Text>Поважає та намагається створити альянс з націями, котрі мають сильну армію.[NEWLINE]Зневажає нації зі слабкою армією.</Text>
@@ -285,40 +285,40 @@
 			<Text>Будує дива за першої можливості.[NEWLINE][NEWLINE]Поважає нації, котрі не будують дива.[NEWLINE]Зневажає нації, котрі збудували диво першими.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
-			<Text>Sympathizes with the barbarians.  Does not like civilizations that destroy barbarian outposts.</Text>
+			<Text>Співчуває варварам. Не любить цивілізації, які знищують варварські аванпости.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
-			<Text>Hates barbarians. Likes civilizations that clear out barbarian outposts. Does not like civilizations that ignore barbarian outposts.</Text>
+			<Text>Ненавидить варварів. Любить цивілізації, які знищують варварські аванпости. Не любить цивілізації, які ігнорують варварські аванпости.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
 			<Text>Зосереджується на [ICON_Culture] культурі.[NEWLINE][NEWLINE]Поважає нації, котрі зосереджуються на [ICON_Culture] культурі.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
-			<Text>Likes to see civilizations at war, and believes in constant struggle. </Text>
+			<Text>Любить спостерігати за війнами цивілізацій і вірить у постійну боротьбу.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
-			<Text>Tries to make the citizens in each city as happy as possible. Likes civilizations that also develop in this fashion.</Text>
+			<Text>Намагається зробити жителів кожного міста якомога щасливішими. Любить цивілізації, які також розвиваються в цьому напрямку.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
-			<Text>Tries to build up industry, and likes civilizations that also focus on [ICON_Production] Production.</Text>
+			<Text>Намагається розвивати промисловість і віддає перевагу цивілізаціям, які також зосереджуються на [ICON_Production] виробництві.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
-			<Text>Tries to have the highest possible [ICON_Gold] Gold per turn income. Respects other high income civilizations.</Text>
+			<Text>Намагається отримати максимально можливий дохід [ICON_Gold] золота за хід. Поважає інші цивілізації з високим доходом.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
-			<Text>Tries to find all natural wonders.  Likes civilizations that keep Woods and Rainforest unchopped, and those that establish National Parks.</Text>
+			<Text>Намагається знайти всі природні чудеса. Любить цивілізації, які не вирубують ліси та тропічні ліси, а також ті, які створюють національні парки.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
-			<Text>Has no hesitation to use nuclear weapons. Respects other civilizations that project strength with nuclear weapons.</Text>
+			<Text>Не вагається використовувати ядерну зброю. Поважає інші цивілізації, які демонструють силу атома.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
 			<Text>Прагне мати найчисельніше населення.[NEWLINE][NEWLINE]Поважає нації з більшим населенням.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
-			<Text>Always tries to keep a large standing army. Respects other civilizations with large armies.</Text>
+			<Text>Завжди намагається утримувати велику постійну армію. Поважає інші цивілізації, що мають великі армії.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
-			<Text>Tries to build up [ICON_Science] Science, and likes civilizations that also focus on [ICON_Science] Science.</Text>
+			<Text>Намагається розвивати [ICON_Science] науку і симпатизує цивілізаціям, які також зосереджуються на [ICON_Science] науці.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
 			<Text>Прагне мати найчисельнішу авіацію.[NEWLINE][NEWLINE]Поважає нації, котрі мають більш чисельну авіацію.[NEWLINE]Зневажає нації, котрі мають менш чисельну авіацію.</Text>
@@ -327,22 +327,22 @@
 			<Text>Поважає нації, що починають протекторні війни.[NEWLINE]Зневажає нації котрі нападають на вільні міста.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
-			<Text>Clears all features and improves all possible tiles. Likes civilizations with a high percentage of improved tiles. Dislikes civilizations with low percentage of improved tiles or that found National Parks.</Text>
+			<Text>Очищає всі особливості територій та покращує всі можливі плитки. Любить цивілізації з високим відсотком покращених плиток. Не любить цивілізації з низьким відсотком покращених плиток або тих, що створюють національні парки.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
-			<Text>Builds National Parks, doesn't clear features, plants Woods. Likes civilizations that plant Woods or found National Parks. Dislikes civilizations that clear features.</Text>
+			<Text>Створює національні парки, не вирубує ліси, садить дерева. Любить цивілізації, які садять дерева або створюють національні парки. Не любить цивілізації, які вирубують ліси.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
-			<Text>Favors civilizations with the same type of government, dislikes civilizations that have different governments, and really dislikes civilizations with different governments of the same era as its own.</Text>
+			<Text>Віддає перевагу цивілізаціям з таким самим типом уряду як в себе, не любить інакші цивілізації та особливо не любить цивілізації з інакшим типом уряду, що належать до тієї ж епохи, що й вони.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
 			<Text>Прагне підвищувати приріст [ICON_Faith] віри.[NEWLINE][NEWLINE]Зневажає нації з високим приростом [ICON_Faith] віри.[NEWLINE]Зневажає нації з низьким приростом [ICON_Faith] віри.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
-			<Text>Tries to explore the map, and likes civilizations that have explored less of the map than itself and dislikes civilizations that have explored more of the map than itself.</Text>
+			<Text>Намагається досліджувати мапу і любить цивілізації, які дослідили її менше, та не любить цивілізації, які дослідили її більше.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
-			<Text>Tries to gain a religious victory. Likes those civs who have already adopted their religion.</Text>
+			<Text>Намагається здобути релігійну перемогу. Подобаються ті цивілізації, які вже прийняли їхню релігію.</Text>
 		</Row>
 
 		<!-- City-State Traits-->
@@ -356,238 +356,238 @@
 			<Text>6 [ICON_Envoy] посланців:</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_NAME">
-			<Text>Scientific City-State</Text>
+			<Text>Наукове місто-держава</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Science] Science in your [ICON_Capital] Capital.</Text>
+			<Text>+2 [ICON_Science] науки в [ICON_Capital] столиці.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Science] Science in every Campus district.</Text>
+			<Text>+2 [ICON_Science] науки в кожному студмістечку.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Science] Science in every Campus district.</Text>
+			<Text>Додаткові +2 [ICON_Science] науки в кожному студмістечку.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
-			<Text>Religious City-State</Text>
+			<Text>Релігійне місто-держава</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Faith] Faith in the [ICON_Capital] Capital.</Text>
+			<Text>+2 [ICON_Faith] віри в [ICON_Capital] столиці.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Faith] Faith in every Holy Site district.</Text>
+			<Text>+2 [ICON_Faith] віри в кожній святині.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Faith] Faith in every Holy Site district.</Text>
+			<Text>Додаткові +2 [ICON_Faith] віри в кожній святині.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
-			<Text>Trade City-State</Text>
+			<Text>Торгове місто-держава</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+4 [ICON_Gold] Gold in the [ICON_Capital] Capital.</Text>
+			<Text>+4 [ICON_Gold] золота в [ICON_Capital] столиці.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+4 [ICON_Gold] Gold in every Commercial Hub district.</Text>
+			<Text>+4 [ICON_Gold] золота в кожній торговиці.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +4 [ICON_Gold] Gold in every Commercial Hub district.</Text>
+			<Text>Додаткові +4 [ICON_Gold] золота в кожній торговиці.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
-			<Text>Cultural City-State</Text>
+			<Text>Культурне місто-держава</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Culture] Culture in the [ICON_Capital] Capital.</Text>
+			<Text>+2 [ICON_Culture] культури в [ICON_Capital] столиці.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Culture] Culture in every Theater Square district.</Text>
+			<Text>+2 [ICON_Culture] культури в кожній виставці.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Culture] Culture in every Theater Square district.</Text>
+			<Text>Додаткові +2 [ICON_Culture] культури в кожній виставці.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
-			<Text>Militaristic City-State</Text>
+			<Text>Мілітарне місто-держава</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in the [ICON_Capital] Capital when producing units.</Text>
+			<Text>+2 [ICON_Production] виробництва в [ICON_Capital] столиці при створенні одиниць.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in every Encampment district when producing units.</Text>
+			<Text>+2 [ICON_Production] виробництва в кожному гарнізоні при створенні одиниць.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Production] Production in every Encampment district when producing units.</Text>
+			<Text>Additional +2 [ICON_Production] виробництва в кожному гарнізоні при створенні одиниць.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
-			<Text>Industrial City-State</Text>
+			<Text>Індустріальне місто-держава</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in the [ICON_Capital] Capital when producing wonders, buildings, and districts.</Text>
+			<Text>+2 [ICON_Production] виробництва в [ICON_Capital] столиці при створенні див, побудов та районів.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in every Industrial Zone district when producing wonders, buildings, and districts.</Text>
+			<Text>+2 [ICON_Production] виробництва в кожній промзоні при створенні див, побудов та районів.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Production] Production in every Industrial Zone district when producing wonders, buildings and districts.</Text>
+			<Text>Additional +2 [ICON_Production] виробництва в кожній промзоні при створенні див, побудов та районів.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
-			<Text>Amsterdam Suzerain Bonus</Text>
+			<Text>Амстердам - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
 			<Text>+1 [ICON_Gold] золота зовнішнім [ICON_TradeRoute] торговим шляхам за кожний розкішний ресурс місця призначення.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BANDAR_BRUNEI_NAME">
-			<Text>Bandar Brunei Suzerain Bonus</Text>
+			<Text>Бандар-Сері-Беґаван - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
-			<Text>Brussels Suzerain Bonus</Text>
+			<Text>Брюссель - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
 			<Text>+15% [ICON_Production] продукції містам під час будівництва див.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
-			<Text>Buenos Aires Suzerain Bonus</Text>
+			<Text>Буенос-Айрес - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
 			<Text>Основні ресурси, подібно до розкішних, надають [ICON_Amenities] щастя.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
-			<Text>Carthage Suzerain Bonus</Text>
+			<Text>Картаген - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
 			<Text>+1 [ICON_TradeRoute] торговий шлях за кожний гарнізон.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
-			<Text>Geneva Suzerain Bonus</Text>
+			<Text>Женева - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
 			<Text>+15% [ICON_Science] науки містам за умови миру з усіма націями.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
-			<Text>Hattusa Suzerain Bonus</Text>
+			<Text>Хаттуса - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
 			<Text>Надає 1 джерело виявленого але не отриманого стратегічного ресурсу.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
-			<Text>Hong Kong Suzerain Bonus</Text>
+			<Text>Гонконг - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
 			<Text>+20% [ICON_Production] продукції під час провадження міських проєктів.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
-			<Text>Jakarta Suzerain Bonus</Text>
+			<Text>Джакарта - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
 			<Text>+1 [ICON_Gold] золота [ICON_TradeRoute] торговим шляхам, котрі проходять або ведуть до міст з нашим [ICON_TradingPost] торговим постом.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
-			<Text>Jerusalem Suzerain Bonus</Text>
+			<Text>Єрусалим - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
 			<Text>Вільне місто автоматично приймає релігію сюзерена та розповсюджує її з силою релігійного тиску еквівалентно священному місту.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KABUL_NAME">
-			<Text>Kabul Suzerain Bonus</Text>
+			<Text>Кабул - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
 			<Text>Подвійний досвід одиницям внаслідок атакуючих дій.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KANDY_NAME">
-			<Text>Kandy Suzerain Bonus</Text>
+			<Text>Канді - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
 			<Text>Отримується [ICON_GreatWork_Relic] реліквія кожного разу коли відкривається нове диво природи. +50% [ICON_Faith] віри від [ICON_GreatWork_Relic] реліквій.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
-			<Text>Kumasi Suzerain Bonus</Text>
+			<Text>Кумасі - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
 			<Text>+2 [ICON_Culture] культури та +1 [ICON_Gold] золота з кожного спеціального району міста походження до [ICON_TradeRoute] торгового шляху з будь-яким вільним містом.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
-			<Text>La Venta Suzerain Bonus</Text>
+			<Text>Ла-Вента - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
 			<Text>Дає можливість мастакам будувати унікальні вартові статуї.[NEWLINE][NEWLINE]+2 [ICON_Faith] віри.[NEWLINE]+1 [ICON_Faith] віри за кожні 2 місцини джунглів поряд.[NEWLINE]+1 [ICON_Faith] віри за кожні 2 місцини лісу поряд.[NEWLINE][NEWLINE]Вимоги місця будівництва:[NEWLINE][ICON_Bullet]Безсніжні місцини.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LISBON_NAME">
-			<Text>Mogadishu Suzerain Bonus</Text>
+			<Text>Моґадішо - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
 			<Text>Караванники повантажені на кораблі не можуть бути пограбованими.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
-			<Text>Mohenjo-Daro Suzerain Bonus</Text>
+			<Text>Мохенджо-Даро - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
 			<Text>Міста отримують максимальну [ICON_Housing] житлову привабливість незалежно від доступу до води.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
-			<Text>Nan Madol Suzerain Bonus</Text>
+			<Text>Нан-Мадол - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
 			<Text>+2 [ICON_Culture] культури прибережним районам.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
-			<Text>Preslav Suzerain Bonus</Text>
+			<Text>Преслав - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
 			<Text>+5 [ICON_Strength] бойова міць вершників серед пагорбів.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
-			<Text>Seoul Suzerain Bonus</Text>
+			<Text>Сеул - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
 			<Text>На початку кожної ери отримується [ICON_TechBoosted] науковий прорив випадкової технології.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
-			<Text>Stockholm Suzerain Bonus</Text>
+			<Text>Стокгольм - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
 			<Text>+1 пункт появи [ICON_GreatWriter] письменника, [ICON_GreatArtist] митця та [ICON_GreatMusician] музиканта виставкам.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
-			<Text>Toronto Suzerain Bonus</Text>
+			<Text>Торонто - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
 			<Text>Дальність поширення ефектів промзон та розваг зростає на 3 ділянки.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
-			<Text>Valletta Suzerain Bonus</Text>
+			<Text>Валлетта - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
 			<Text>Споруди центрального району та гарнізону можна будувати за [ICON_Faith] віру. Вартість стіни, муру та міцного муру зменшено, проте можливо будувати лише за [ICON_Faith] віру.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
-			<Text>Vilnius Suzerain Bonus</Text>
+			<Text>Вільнюс - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
 			<Text>На початку кожної ери отримується [ICON_CivicBoosted] культурний прорив випадкового вчення.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
-			<Text>Yerevan Suzerain Bonus</Text>
+			<Text>Єреван - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
 			<Text>Апостоли можуть обирати будь-яку навичку, а не лише з трьох випадкових.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
-			<Text>Zanzibar Suzerain Bonus</Text>
+			<Text>Занзібар - бонус сюзерена</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
 			<Text>Вільне місто надає нації унікальні розкішні ресурси: [ICON_RESOURCE_CINNAMON] корицю та [ICON_RESOURCE_CLOVES] гвоздику. Це єдино можливий шлях отримання даних ресурсів, кожен з них дає 6 [ICON_Amenities] щастя.</Text>
@@ -595,70 +595,70 @@
 
 		<!--Leader Trait Names-->
 		<Row Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
-			<Text>Thermopylae</Text>
+			<Text>Термопіли</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
-			<Text>Adventures of Enkidu</Text>
+			<Text>Cоратник з Енкіду</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
-			<Text>Mediterranean's Bride</Text>
+			<Text>Наречена Середземномор'я</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
 			<Text>Божий вітер</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
-			<Text>El Escorial</Text>
+			<Text>Ель-Ескоріаль</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
 			<Text>Злодійкуватість</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
-			<Text>Holy Roman Emperor</Text>
+			<Text>Імператор Священної Римської імперії</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
 			<Text>Pax Britannica</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
-			<Text>Righteousness of the Faith</Text>
+			<Text>Правеність через віру</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
-			<Text>Religious Convert</Text>
+			<Text>Християнізація населення</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
-			<Text>Roosevelt Corollary</Text>
+			<Text>Доктрина Монро</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
-			<Text>Satyagraha</Text>
+			<Text>Сатьяграха</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
-			<Text>Thunderbolt of the North</Text>
+			<Text>Заради руки Єлизавети Ярославни</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
-			<Text>The First Emperor</Text>
+			<Text>Перший імператор</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
-			<Text>Catherine's Flying Squadron</Text>
+			<Text>Пишні фестивалі при дворі</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
-			<Text>Trajan's Column</Text>
+			<Text>Колона Траяна</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
-			<Text>Killer of Cyrus</Text>
+			<Text>Переможниця Кіра Великого, володаря Азії</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
-			<Text>Magnanimous</Text>
+			<Text>Імператор-Визволитель</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
-			<Text>Surrounded by Glory</Text>
+			<Text>Золоте століття Афін</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
-			<Text>Victoria unique unit: Redcoat</Text>
+			<Text>Червоні мундири</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
-			<Text>Harald Hardrada unique unit: Viking Longship</Text>
+			<Text>Дракар вікінгів</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
-			<Text>Theodore Roosevelt unique unit: Rough Rider</Text>
+			<Text>Мужні вершники</Text>
 		</Row>
 
 		<!--Leader Trait Descriptions-->
