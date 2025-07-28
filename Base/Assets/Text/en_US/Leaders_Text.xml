@@ -237,7 +237,7 @@
 			<Text>Поважає нації з сильною армією, високим приростом [ICON_Faith] віри та [ICON_Culture] культури.[NEWLINE]Зневажає у протилежному випадку.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
-			<Text>Likes civilizations that aren't competing for the same city-state allegiance. Dislikes civilizations that are directly competing for city-state allegiance.</Text>
+			<Text>Любить цивілізації, які не змагаються за лояльність одного і того ж міста-держави. Не любить цивілізації, які безпосередньо борються за лояльність міста-держави.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
 			<Text>Поважає нації котрі сповідують однакову релігію.[NEWLINE]Зневажає нації, що поширюють свою релігію у його державі.</Text>
@@ -252,7 +252,7 @@
 			<Text>Вербує якомога більшу кількість [ICON_GreatPerson] видатних людей.[NEWLINE][NEWLINE]Поважає нації, котрі не створюють [ICON_GreatPerson] видатних людей.[NEWLINE]Зневажає нації, котрі вербують обраних [ICON_GreatPerson] видатних людей першими.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
-			<Text>Likes civilizations who do not associate with city-states. Does not like Suzerains of city-states, or civilizations who conquered city-states.</Text>
+			<Text>Любить цивілізації, які не пов'язані з містами-державами. Не любить сюзеренів міст-держав або цивілізації, які завоювали міста-держави.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
 			<Text>Прагне створити якомога більший флот.[NEWLINE][NEWLINE]Поважає нації з чисельним флотом.[NEWLINE]Зневажає у протилежному випадку.</Text>
@@ -261,7 +261,7 @@
 			<Text>Прагне заволодіти якомога більшою територією.[NEWLINE][NEWLINE]Зневажає нації з меншою територією.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
-			<Text>Likes civilizations who pose no threat. Dislikes civilizations with strong militaries or ones with nearby cities.</Text>
+			<Text>Любить цивілізації, які не становлять загрози. Не любить цивілізації з сильною армією або ті, що мають міста поблизу.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
 			<Text>Поважає та намагається створити альянс з націями, котрі мають сильну армію.[NEWLINE]Зневажає нації зі слабкою армією.</Text>
@@ -285,40 +285,40 @@
 			<Text>Будує дива за першої можливості.[NEWLINE][NEWLINE]Поважає нації, котрі не будують дива.[NEWLINE]Зневажає нації, котрі збудували диво першими.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
-			<Text>Sympathizes with the barbarians.  Does not like civilizations that destroy barbarian outposts.</Text>
+			<Text>Співчуває варварам. Не любить цивілізації, які знищують варварські аванпости.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
-			<Text>Hates barbarians. Likes civilizations that clear out barbarian outposts. Does not like civilizations that ignore barbarian outposts.</Text>
+			<Text>Ненавидить варварів. Любить цивілізації, які знищують варварські аванпости. Не любить цивілізації, які ігнорують варварські аванпости.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
 			<Text>Зосереджується на [ICON_Culture] культурі.[NEWLINE][NEWLINE]Поважає нації, котрі зосереджуються на [ICON_Culture] культурі.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
-			<Text>Likes to see civilizations at war, and believes in constant struggle. </Text>
+			<Text>Любить спостерігати за війнами цивілізацій і вірить у постійну боротьбу.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
-			<Text>Tries to make the citizens in each city as happy as possible. Likes civilizations that also develop in this fashion.</Text>
+			<Text>Намагається зробити жителів кожного міста якомога щасливішими. Любить цивілізації, які також розвиваються в цьому напрямку.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
-			<Text>Tries to build up industry, and likes civilizations that also focus on [ICON_Production] Production.</Text>
+			<Text>Намагається розвивати промисловість і віддає перевагу цивілізаціям, які також зосереджуються на [ICON_Production] виробництві.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
-			<Text>Tries to have the highest possible [ICON_Gold] Gold per turn income. Respects other high income civilizations.</Text>
+			<Text>Намагається отримати максимально можливий дохід [ICON_Gold] золота за хід. Поважає інші цивілізації з високим доходом.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
-			<Text>Tries to find all natural wonders.  Likes civilizations that keep Woods and Rainforest unchopped, and those that establish National Parks.</Text>
+			<Text>Намагається знайти всі природні чудеса. Любить цивілізації, які не вирубують ліси та тропічні ліси, а також ті, які створюють національні парки.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
-			<Text>Has no hesitation to use nuclear weapons. Respects other civilizations that project strength with nuclear weapons.</Text>
+			<Text>Не вагається використовувати ядерну зброю. Поважає інші цивілізації, які демонструють силу атома.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
 			<Text>Прагне мати найчисельніше населення.[NEWLINE][NEWLINE]Поважає нації з більшим населенням.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
-			<Text>Always tries to keep a large standing army. Respects other civilizations with large armies.</Text>
+			<Text>Завжди намагається утримувати велику постійну армію. Поважає інші цивілізації, що мають великі армії.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
-			<Text>Tries to build up [ICON_Science] Science, and likes civilizations that also focus on [ICON_Science] Science.</Text>
+			<Text>Намагається розвивати [ICON_Science] науку і симпатизує цивілізаціям, які також зосереджуються на [ICON_Science] науці.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
 			<Text>Прагне мати найчисельнішу авіацію.[NEWLINE][NEWLINE]Поважає нації, котрі мають більш чисельну авіацію.[NEWLINE]Зневажає нації, котрі мають менш чисельну авіацію.</Text>
@@ -327,22 +327,22 @@
 			<Text>Поважає нації, що починають протекторні війни.[NEWLINE]Зневажає нації котрі нападають на вільні міста.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
-			<Text>Clears all features and improves all possible tiles. Likes civilizations with a high percentage of improved tiles. Dislikes civilizations with low percentage of improved tiles or that found National Parks.</Text>
+			<Text>Очищає всі особливості територій та покращує всі можливі плитки. Любить цивілізації з високим відсотком покращених плиток. Не любить цивілізації з низьким відсотком покращених плиток або тих, що створюють національні парки.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
-			<Text>Builds National Parks, doesn't clear features, plants Woods. Likes civilizations that plant Woods or found National Parks. Dislikes civilizations that clear features.</Text>
+			<Text>Створює національні парки, не вирубує ліси, садить дерева. Любить цивілізації, які садять дерева або створюють національні парки. Не любить цивілізації, які вирубують ліси.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
-			<Text>Favors civilizations with the same type of government, dislikes civilizations that have different governments, and really dislikes civilizations with different governments of the same era as its own.</Text>
+			<Text>Віддає перевагу цивілізаціям з таким самим типом уряду як в себе, не любить інакші цивілізації та особливо не любить цивілізації з інакшим типом уряду, що належать до тієї ж епохи, що й вони.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
 			<Text>Прагне підвищувати приріст [ICON_Faith] віри.[NEWLINE][NEWLINE]Зневажає нації з високим приростом [ICON_Faith] віри.[NEWLINE]Зневажає нації з низьким приростом [ICON_Faith] віри.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
-			<Text>Tries to explore the map, and likes civilizations that have explored less of the map than itself and dislikes civilizations that have explored more of the map than itself.</Text>
+			<Text>Намагається досліджувати мапу і любить цивілізації, які дослідили її менше, та не любить цивілізації, які дослідили її більше.</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
-			<Text>Tries to gain a religious victory. Likes those civs who have already adopted their religion.</Text>
+			<Text>Намагається здобути релігійну перемогу. Подобаються ті цивілізації, які вже прийняли їхню релігію.</Text>
 		</Row>
 
 		<!-- City-State Traits-->
