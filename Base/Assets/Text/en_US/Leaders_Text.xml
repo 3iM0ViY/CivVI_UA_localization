@@ -85,7 +85,7 @@
 
 		<!--Agenda Names-->
 		<Row Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
-			<Text>Союзник з Енкіда</Text>
+			<Text>Cоратник з Енкіду</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
 			<Text>Нащадок династії</Text>
@@ -94,13 +94,13 @@
 			<Text>Віддана</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
-			<Text>Шериф</Text>
+			<Text>Політика великого кийка</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
 			<Text>Чорна королева</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BUSHIDO_NAME">
-			<Text>Кодекс честі самурая</Text>
+			<Text>Бусідо</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
 			<Text>Покровитель вільних міст</Text>
@@ -109,7 +109,7 @@
 			<Text>Контрреформатор</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
-			<Text>Делегування</Text>
+			<Text>Афінський морський союз</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
 			<Text>Палкий послідовник</Text>
@@ -118,7 +118,7 @@
 			<Text>Покровитель мистецтв</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_IRON_CROWN_NAME">
-			<Text>Iron Crown</Text>
+			<Text>Залізна корона</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
 			<Text>Останній король вікінгів</Text>
@@ -127,7 +127,7 @@
 			<Text>Збирач земель</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_PARANOID_NAME">
-			<Text>Paranoid</Text>
+			<Text>Параноїк</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_PEACEKEEPER_NAME">
 			<Text>Хранитель миру</Text>
@@ -148,73 +148,73 @@
 			<Text>Зі щитом або на щиті</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
-			<Text>Стіна, дуже довга стіна</Text>
+			<Text>Захоплений дивом</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_AIRPOWER_NAME">
 			<Text>Авіатор</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
-			<Text>Barbarian Ally</Text>
+			<Text>Варварські королівства</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
 			<Text>Захисник вільних міст</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CIVILIZED_NAME">
-			<Text>Civilized</Text>
+			<Text>Цивілізаційна місія</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_CULTURED_NAME">
-			<Text>Шанувальник культури</Text>
+			<Text>Шанувальники культури</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DARWINIST_NAME">
-			<Text>Darwinist</Text>
+			<Text>Дарвініст</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_DEVOUT_NAME">
 			<Text>Набожність</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
-			<Text>Environmentalist</Text>
+			<Text>Екологія довкілля</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
-			<Text>Exploitative</Text>
+			<Text>Під лежачий камінь вода не тече</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_EXPLORER_NAME">
-			<Text>Explorer</Text>
+			<Text>Наукові експедиції</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_FUN_LOVING_NAME">
-			<Text>Fun-Loving</Text>
+			<Text>Файні розваги</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
 			<Text>Захисник видатних людей</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_IDEOLOGUE_NAME">
-			<Text>Ideologue</Text>
+			<Text>Ідеолог</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
-			<Text>Heavy Industry</Text>
+			<Text>Важка промисловість</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
-			<Text>Money Grubber</Text>
+			<Text>Грошолюбство</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_NATURALIST_NAME">
-			<Text>Naturalist</Text>
+			<Text>Натураліст</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_NUKE_LOVER_NAME">
-			<Text>Nuke Happy</Text>
+			<Text>Ядерне щастя</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_POPULOUS_NAME">
 			<Text>Екстраверт</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_STANDING_ARMY_NAME">
-			<Text>Standing Army</Text>
+			<Text>Постійна армія</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_TECHNOPHILE_NAME">
-			<Text>Technophile</Text>
+			<Text>Технофіл</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
 			<Text>Дивороб</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_ZEALOT_NAME">
-			<Text>Zealot</Text>
+			<Text>Фанатик</Text>
 		</Row>
 
 		<!--Agenda Description-->
