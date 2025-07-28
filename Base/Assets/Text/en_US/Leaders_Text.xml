@@ -595,70 +595,70 @@
 
 		<!--Leader Trait Names-->
 		<Row Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
-			<Text>Thermopylae</Text>
+			<Text>Термопіли</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
-			<Text>Adventures of Enkidu</Text>
+			<Text>Cоратник з Енкіду</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
-			<Text>Mediterranean's Bride</Text>
+			<Text>Наречена Середземномор'я</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
 			<Text>Божий вітер</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
-			<Text>El Escorial</Text>
+			<Text>Ель-Ескоріаль</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
 			<Text>Злодійкуватість</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
-			<Text>Holy Roman Emperor</Text>
+			<Text>Імператор Священної Римської імперії</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
 			<Text>Pax Britannica</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
-			<Text>Righteousness of the Faith</Text>
+			<Text>Правеність через віру</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
-			<Text>Religious Convert</Text>
+			<Text>Християнізація населення</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
-			<Text>Roosevelt Corollary</Text>
+			<Text>Доктрина Монро</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
-			<Text>Satyagraha</Text>
+			<Text>Сатьяграха</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
-			<Text>Thunderbolt of the North</Text>
+			<Text>Заради руки Єлизавети Ярославни</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
-			<Text>The First Emperor</Text>
+			<Text>Перший імператор</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
-			<Text>Catherine's Flying Squadron</Text>
+			<Text>Пишні фестивалі при дворі</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
-			<Text>Trajan's Column</Text>
+			<Text>Колона Траяна</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
-			<Text>Killer of Cyrus</Text>
+			<Text>Переможниця Кіра Великого, володаря Азії</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
-			<Text>Magnanimous</Text>
+			<Text>Імператор-Визволитель</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
-			<Text>Surrounded by Glory</Text>
+			<Text>Золоте століття Афін</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
-			<Text>Victoria unique unit: Redcoat</Text>
+			<Text>Червоні мундири</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
-			<Text>Harald Hardrada unique unit: Viking Longship</Text>
+			<Text>Дракар вікінгів</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
-			<Text>Theodore Roosevelt unique unit: Rough Rider</Text>
+			<Text>Мужні вершники</Text>
 		</Row>
 
 		<!--Leader Trait Descriptions-->
