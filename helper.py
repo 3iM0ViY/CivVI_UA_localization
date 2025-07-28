@@ -7,7 +7,7 @@ l = """<Row Tag="LOC_READY_UNSUPPORTED">
 import re
  
 names = re.findall("<Text>.+</Text>", l)
-print(names)
+# print(names)
 names_2 = []
 for i in names:
     i = i.replace("<Text>", "")
@@ -27,7 +27,7 @@ for line in tr.splitlines():
     if line != "":
         tr_l.append(line)
 
-print(tr_l)
+# print(tr_l)
 
 for i in tr_l:
     print(f"<Text>{i}</Text>") # форматування перекладеного тексту

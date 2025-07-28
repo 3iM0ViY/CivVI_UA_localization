@@ -89,7 +89,7 @@
 			<Text>Налаштування</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_MODS">
-			<Text>Доповнення</Text>
+			<Text>Моди та доповнення</Text>
 		</Row>
 		<Row Tag="LOC_MAIN_MENU_MODS_AND_DLC">
 			<Text>Моди та DLC</Text>
