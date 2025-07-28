@@ -42,7 +42,7 @@ def update_target_with_tags(tag_to_text, target_path, output_path):
 # --- Використання ---
 SOURCE_FOLDER = "C:/Users/yul/Documents/Юлік/Програмування/CivVI_UA_localization/Base/Assets/Text/en_US"
 TARGET = "D:/SteamLibrary/steamapps/common/Sid Meier's Civilization VI/Base/Assets/Text/Vanilla_uk_UA.xml"
-OUTPUT = "output_uk_UA.xml"
+OUTPUT = "Vanilla_uk_UA.xml"
 
 all_tags = collect_tags_from_sources(SOURCE_FOLDER)
 update_target_with_tags(all_tags, TARGET, OUTPUT)
