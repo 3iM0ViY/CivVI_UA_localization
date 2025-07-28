@@ -12,7 +12,7 @@ Great Works = видатні праці
 Minor civ = Мала цивілізація
 
 City centre = центр міста
-Commercial Hub = комерційний центр
+Commercial Hub = комерційний центр, Торговиця
 Harbor = гавань
 Shipyard – Корабельня
 Royal Navy Dockyard = корабельня королівського військово-морського флоту
