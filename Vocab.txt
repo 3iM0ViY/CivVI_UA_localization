@@ -33,3 +33,5 @@ Floodplains = заплави
 Scout = Блукач
 Builder = Мастак
 anvoy = посланець
+
+{1_Moves : plural 1?хід; 2?{2} ходи; other?ходів;}
