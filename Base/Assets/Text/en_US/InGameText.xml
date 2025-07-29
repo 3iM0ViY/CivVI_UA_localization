@@ -14,7 +14,7 @@
 			<Text>Далі</Text>
 		</Row>
 		<Row Tag="LOC_START">
-			<Text>START</Text>
+			<Text>Розпочати</Text>
 		</Row>
 		<Row Tag="LOC_OK">
 			<Text>Гаразд</Text>
@@ -29,19 +29,19 @@
 			<Text>Ні</Text>
 		</Row>
 		<Row Tag="LOC_REMIND_ME_LATER">
-			<Text>Remind me later</Text>
+			<Text>Нагадай пізніше</Text>
 		</Row>
 		<Row Tag="LOC_EXPLORED_ALL">
-			<Text>You have visited all of the land and sea.</Text>
+			<Text>Ви відвідали всі землі і моря.</Text>
 		</Row>
 		<Row Tag="LOC_ENTIRE_WORLD_DISCOVERED">
-			<Text>The entire world has been discovered.</Text>
+			<Text>Весь світ досліджено.</Text>
 		</Row>
 		<Row Tag="LOC_YOU_CANNOT_MOVE_HERE_AT_THIS_TIME">
-			<Text>You can not move here at this time.</Text>
+			<Text>Ви не можете переміститися сюди в цей момент.</Text>
 		</Row>
 		<Row Tag="LOC_YOU_CANNOT_MOVE_HERE">
-			<Text>You can not move here.</Text>
+			<Text>Ви не можете сюди переміститися.</Text>
 		</Row>
 		<Row Tag="LOC_INCORRECT_CIVIC">
 			<Text>That is the incorrect civic to select.</Text>
@@ -65,49 +65,49 @@
 			<Text>This is the plot.</Text>
 		</Row>
 		<Row Tag="LOC_DIRECTION_NORTH">
-			<Text>North</Text>
+			<Text>Північ</Text>
 		</Row>
 		<Row Tag="LOC_DIRECTION_SOUTH">
-			<Text>South</Text>
+			<Text>Південь</Text>
 		</Row>
 		<Row Tag="LOC_DIRECTION_WEST">
-			<Text>West</Text>
+			<Text>Захід</Text>
 		</Row>
 		<Row Tag="LOC_DIRECTION_EAST">
-			<Text>East</Text>
+			<Text>Схід</Text>
 		</Row>
 		<Row Tag="LOC_DIRECTION_NORTH_WEST">
-			<Text>North-West</Text>
+			<Text>Північний захід</Text>
 		</Row>
 		<Row Tag="LOC_DIRECTION_NORTH_EAST">
-			<Text>North-East</Text>
+			<Text>Північний схід</Text>
 		</Row>
 		<Row Tag="LOC_DIRECTION_SOUTH_WEST">
-			<Text>South-West</Text>
+			<Text>Південний захід</Text>
 		</Row>
 		<Row Tag="LOC_DIRECTION_SOUTH_EAST">
-			<Text>South-East</Text>
+			<Text>Південний схід</Text>
 		</Row>
 		<Row Tag="LOC_DANGER">
-			<Text>Danger</Text>
+			<Text>Небезпека</Text>
 		</Row>
 		<Row Tag="LOC_BARBARIANS_HAVE_LEARNED_OF_YOUR_PRESENCE">
-			<Text>Barbarians have learned of your presence.</Text>
+			<Text>Варвари дізналися про вашу присутність.</Text>
 		</Row>
 		<Row Tag="LOC_NOT_RECOMMENDED">
-			<Text>Not Recommended</Text>
+			<Text>Не рекомендується</Text>
 		</Row>
 		<Row Tag="LOC_RECOMMENDED">
-			<Text>Recommended</Text>
+			<Text>Рекомендується</Text>
 		</Row>
 		<Row Tag="LOC_CANAL">
-			<Text>Canal</Text>
+			<Text>Канал</Text>
 		</Row>
 		<Row Tag="LOC_TOO_MANY">
-			<Text>Too many</Text>
+			<Text>Забагато</Text>
 		</Row>
 		<Row Tag="LOC_TOO_FEW">
-			<Text>Too few</Text>
+			<Text>Замало</Text>
 		</Row>
 		<Row Tag="LOC_SELECT_X_MORE">
 			<Text>Select {1_amount} more.</Text>
@@ -247,7 +247,7 @@
 			<Text>Відкрити вікно налаштувань гри.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_GAME_SETTINGS">
-			<Text>Game Settings</Text>
+			<Text>Налаштування гри</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_RETIRE">
 			<Text>Відставка</Text>
@@ -256,16 +256,16 @@
 			<Text>Визнати поразку та вийти з гри.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_PBC_DELETE">
-			<Text>Delete Game</Text>
+			<Text>Видалити гру</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_PBC_DELETE_TOOLTIP">
-			<Text>Delete this Play By Cloud game. This will end this game for all players.</Text>
+			<Text>Видалити цю хмарну гру. Це завершить гру для всіх гравців.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_PBC_QUIT">
-			<Text>Quit Game</Text>
+			<Text>Вийти з гри</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_PBC_QUIT_TOOLTIP">
-			<Text>Quit this Play By Cloud game. You will lose your progress and be removed from this game.</Text>
+			<Text>Вийдіть з цієї хмарної гри. Ви втратите свій прогрес і будете видалені з цієї гри.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_EXIT_TO_MAIN">
 			<Text>Вийти до меню</Text>
@@ -289,55 +289,55 @@
 			<Text>Ну, ще бодай один хід!</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_EXIT_WARNING">
-			<Text>Are you sure you wish to exit?</Text>
+			<Text>Ви впевнені, що хочете вийти?</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_QUIT_TITLE">
-			<Text>Quit Game</Text>
+			<Text>Вийти з гри</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_QUIT_WARNING">
-			<Text>Are you sure you wish to quit your game?</Text>
+			<Text>Ви впевнені, що хочете покинути гру?</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_SHUTDOWN_WARNING">
-			<Text>Are you sure you wish to shutdown Sid Meier's Civilization VI?</Text>
+			<Text>Ви впевнені, що хочете закрити Sid Meier's Civilization VI?</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_SHUTDOWN_SAVE_WARNING">
-			<Text>Save your game before quitting?</Text>
+			<Text>Зберегти гру перед виходом?</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_RETIRE_WARNING">
-			<Text>Are you sure you wish to retire?</Text>
+			<Text>Ви впевнені, що хочете вийти?</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_RESTART_WARNING">
 			<Text>Певні, що бажаєте почати з початку?</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_PBC_DELETE_WARNING">
-			<Text>Are you sure you wish to delete this multiplayer game? This will end this game for all players.</Text>
+			<Text>Ви впевнені, що хочете видалити цю багатокористувацьку гру? Це призведе до завершення гри для всіх гравців.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_PBC_QUIT_WARNING">
-			<Text>Are you sure you wish to quit this multiplayer game? You will lose your progress and be removed from this game.</Text>
+			<Text>Ви впевнені, що хочете вийти з цієї багатокористувацької гри? Ви втратите свій прогрес і будете видалені з цієї гри.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_QUITING_GAME_STARTED">
-			<Text>Quitting Game...</Text>
+			<Text>Вихід з гри...</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_QUITING_GAME_FAIL">
-			<Text>Error while quitting game.</Text>
+			<Text>Помилка під час виходу з гри.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_QUITING_GAME_FAIL_ACCEPT">
-			<Text>OK</Text>
+			<Text>ОК</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_QUITING_GAME_SUCCESS">
-			<Text>You have quit the game. Returning to main menu.</Text>
+			<Text>Ви вийшли з гри. Повернення до головного меню.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_DELETE_GAME_STARTED">
-			<Text>Deleting Game...</Text>
+			<Text>Видалення гри...</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_DELETE_GAME_FAIL">
-			<Text>Error while deleting game.</Text>
+			<Text>Помилка під час видалення гри.</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_DELETE_GAME_FAIL_ACCEPT">
-			<Text>OK</Text>
+			<Text>ОК</Text>
 		</Row>
 		<Row Tag="LOC_GAME_MENU_DELETE_GAME_SUCCESS">
-			<Text>Game deleted. Returning to main menu.</Text>
+			<Text>Гра видалена. Повернення до головного меню.</Text>
 		</Row>
 		<Row Tag="LOC_COMMON_DIALOG_YES_BUTTON_CAPTION">
 			<Text>Так</Text>
@@ -346,30 +346,30 @@
 			<Text>Ні</Text>
 		</Row>
 		<Row Tag="LOC_END_GAME_MENU_OBSERVE">
-			<Text>Observe</Text>
+			<Text>Спостерігати</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_OBSERVING">
-			<Text>OBSERVING</Text>
+			<Text>СПОСТЕРЕЖЕННЯ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_END_OBSERVER_MODE">
-			<Text>End Observer Mode</Text>
+			<Text>Припинити режим спостереження</Text>
 		</Row>
 		<!-- ==================== Game Settings Panel ==================== -->
 		<Row Tag="LOC_GAME_SETTINGS_TITLE">
-			<Text>Game Settings</Text>
+			<Text>Налаштування гри</Text>
 		</Row>
 		<!-- ==================== Action Panel ==================== -->
 		<Row Tag="LOC_ACTION_PANEL_AUTO_END_TURN">
-			<Text>AUTO END TURN</Text>
+			<Text>Автоматичне завершення ходу</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_AUTO_MOVE_ORDERS">
 			<Text>Auto Move Orders</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_AUTOPLAY_ACTIVE">
-			<Text>AutoPlay Active</Text>
+			<Text>Увімкнути AutoPlay</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_AUTOPLAY_ACTIVE_TOOLTIP">
-			<Text>Player cannot affect the game during AutoPlay.</Text>
+			<Text>Гравець не може впливати на гру під час режиму AutoPlay.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_ARTIFACT_PLAYER">
 			<Text>ОБРАТИ АРТЕФАКТ</Text>
@@ -378,10 +378,10 @@
 			<Text>ОБСТІЛЯТИ ВОРОГА</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_DRAGNET_PRIORITY">
-			<Text>CHOOSE PURSUIT PRIORITY</Text>
+			<Text>ОБРАТИ ПРІОРИТЕТ ПЕРЕСЛІДУВАННЯ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_ESCAPE_ROUTE">
-			<Text>CHOOSE ESCAPE ROUTE</Text>
+			<Text>ОБРАТИ ШЛЯХ ВТЕЧІ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CLAIM_GREAT_PERSON">
 			<Text>НАЙНЯТИ ВИДАТНУ ЛЮДИНУ</Text>
@@ -393,7 +393,7 @@
 			<Text>ОБРАТИ ДОЛЮ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_END_TURN">
-			<Text>END TURN</Text>
+			<Text>КІНЕЦЬ ХОДУ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_FILL_CIVIC_SLOT">
 			<Text>ОБРАТИ ПОЛІТИКИ</Text>
@@ -426,16 +426,16 @@
 			<Text>Будьте ласкаві, зачекайте доки ходять інші гравці...</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CAN_UNREADY_TOOLTIP">
-			<Text>Click to unready your turn if you wish to make additional changes. You can only do so before all other players have readied their turns.</Text>
+			<Text>Натисніть, щоб скасувати свою чергу, якщо ви хочете внести додаткові зміни. Ви можете це зробити тільки до того, як всі інші гравці завершать свої ходи.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_SKIP_TURN">
-			<Text>SKIP TURN</Text>
+			<Text>ПРОПУСТИТИ ХІД</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_SKIP_TURN_TOOLTIP">
-			<Text>Skip your turn.</Text>
+			<Text>Пропусти свій хід.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_STACKED_UNIT">
-			<Text>MOVE STACKED UNIT</Text>
+			<Text>ПЕРЕМІСТИТИ СТАКНУТИХ ОДИНИЦЬ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_STACKED_UNIT_TOOLTIP">
 			<Text>A stacked unit must be moved.</Text>
@@ -444,10 +444,10 @@
 			<Text>ВІДРЯДИТИ ПОСЛАНЦЯ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_RESEARCH_TURNS">
-			<Text>{1_Name} ({2_Turns : plural 1?{2_Turns} turn; other?{2_Turns} turns;})</Text>
+			<Text>{1_Name} ({2_Turns : plural 1?{2_Turns} хід; 2?{2_Turns} ходи; other?{2_Turns} ходів;})</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_RESEARCH_TURNS_INDEFINITE">
-			<Text>{1_Name} (Indefinite)</Text>
+			<Text>{1_Name} (Невизначений)</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_RESEARCH_TOOLTIP">
 			<Text>Обрати технологію для подальшого дослідження.</Text>
@@ -474,13 +474,13 @@
 			<Text>Вирішити, найняти видатну людину чи зачекати на іншу.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_ESCAPE_ROUTE_TOOLTIP">
-			<Text>Your Spy has been detected! Local police forces have you on the run. Choose an escape route.</Text>
+			<Text>Ваш шпигун виявлений! Місцева поліція переслідує вас. Оберіть маршрут втечі.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_DRAGNET_PRIORITY_TOOLTIP">
-			<Text>An enemy Spy has been detected! Choose which escape route to close off with your police forces.</Text>
+			<Text>Виявлено ворожого шпигуна! Виберіть, який шлях втечі перекрити силами поліції.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_ARTIFACT_PLAYER_TOOLTIP">
-			<Text>Археологу слід встановити, якій цивілізації належить знайдений [ICON_GreatWork_Artifact] артефакт.</Text>
+			<Text>Археологу слід встановити якій цивілізації належить знайдений [ICON_GreatWork_Artifact] артефакт.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CITY_RANGED_ATTACK_TOOLTIP">
 			<Text>Обрати ворожу ціль аби оборонці міста її обстріляли.</Text>
@@ -492,13 +492,13 @@
 			<Text>Обрати мету подальшої роботи міста.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_WAITING_FOR_PLAYERS">
-			<Text>WAITING FOR PLAYERS</Text>
+			<Text>ОЧІКУВАННЯ ГРАВЦІВ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_WAITING_FOR_PLAYERS_TOOLTIP">
-			<Text>Waiting for players to complete their turn.</Text>
+			<Text>Чекаємо, поки гравці завершать свій хід.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_WAITING_FOR_PLAYER_TURN">
-			<Text>WAITING FOR {1_player}</Text>
+			<Text>ОЧІКУВАННЯ НА {1_player}</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEXT_TURN">
 			<Text>ЗАВЕРШИТИ ХІД</Text>
@@ -507,28 +507,28 @@
 			<Text>Завершити поточний хід аби розпочати наступний.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_SKIP_UNIT_MOVES">
-			<Text>SKIP UNIT MOVES</Text>
+			<Text>ПРОПУСТИТИ ПЕРЕМІЩЕННЯ ОДИНИЦЬ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_SKIP_UNIT_MOVES_TOOLTIP">
-			<Text>You have units with [ICON_Movement] Movement points remaining.  Click to end your turn now.</Text>
+			<Text>У вас є одиниці з очками [ICON_Movement] руху.  Натисніть, щоб закінчити свій хід зараз.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_UNIT_MOVES_REMAINING">
-			<Text>UNIT HAS MOVES</Text>
+			<Text>ЮНІТ МАЄ ХОДИ</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_UNIT_MOVES_REMAINING_TOOLTIP">
-			<Text>You have units with [ICON_Movement] Movement points remaining.</Text>
+			<Text>У вас є одиниці з очками [ICON_Movement] руху.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_GIVE_INFLUENCE_TOKEN_TOOLTIP">
 			<Text>Маємо вільного [ICON_Envoy] посланця. Можемо відрядити його до вільного міста задля отримання переваг.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NO_AVAILABLE_WARHEADS">
-			<Text>No available warhead.</Text>
+			<Text>Немає доступних боєголовок.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_UNIT_CANNOT_ATTACK_DUE_TO_DAMAGE">
-			<Text>Unit is too damaged to conduct the attack</Text>
+			<Text>Одиниця занадто пошкоджена, щоб провести атаку</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CITY_CANNOT_ATTACK_DUE_TO_DAMAGE">
-			<Text>City is too damaged to conduct the attack.</Text>
+			<Text>Місто занадто пошкоджене, щоб провести атаку.</Text>
 		</Row>
 		<!-- ==================== Unit Panel (and some combat preview) ==================== -->
 		<Row Tag="LOC_HUD_UNIT_PANEL_ARE_YOU_SURE_DELETE">

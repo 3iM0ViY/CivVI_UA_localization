@@ -2332,7 +2332,7 @@
 			<Plurality>1</Plurality>
 		</Row>
 		<Row Tag="LOC_RESOURCE_TOYS_NAME">
-			<Text>Toys</Text>
+			<Text>Іграшки</Text>
 			<Plurality>2</Plurality>
 		</Row>
 		<Row Tag="LOC_RESOURCE_CINNAMON_NAME">
