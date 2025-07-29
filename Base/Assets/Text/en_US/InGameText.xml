@@ -871,13 +871,13 @@
 		</Row>
 		<!-- ==================== Generic Popup Defaults ==================== -->
 		<Row Tag="LOC_GENERIC_POPUP_ARE_YOU_SURE">
-			<Text>Are you sure?</Text>
+			<Text>Ви впевнені?</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_POPUP_ACCEPT">
-			<Text>Accept</Text>
+			<Text>Прийняти</Text>
 		</Row>
 		<Row Tag="LOC_GENERIC_POPUP_CANCEL">
-			<Text>Cancel</Text>
+			<Text>Скасувати</Text>
 		</Row>
 
 		<!-- ==================== Map Pin Popup ==================== -->
@@ -885,16 +885,16 @@
 			<Text>Редагування вказівника</Text>
 		</Row>
 		<Row Tag="LOC_MAP_PIN_NAME">
-			<Text>Name:</Text>
+			<Text>Ім'я:</Text>
 		</Row>
 		<Row Tag="LOC_MAP_PIN_SEND_TO_CHAT">
-			<Text>Send to Chat</Text>
+			<Text>Надіслати в чат</Text>
 		</Row>
 		<Row Tag="LOC_MAP_PIN_SEND_TO_CHAT_TT">
-			<Text>Add this map tack to your chat text.</Text>
+			<Text>Додати цю позначку на карті до повідомлення в чаті.</Text>
 		</Row>
 		<Row Tag="LOC_MAP_PIN_SEND_TO_CHAT_NOT_VISIBLE_TT">
-			<Text>The map tack is not visible to the current chat target.</Text>
+			<Text>Позначка на карті не відображається для поточного учасника чату.</Text>
 		</Row>
 		<!-- ==================== Plot Info ==================== -->
 		<Row Tag="LOC_PLOTINFO_YOU_NEED_MORE_GOLD_TO_PURCHASE">
@@ -908,26 +908,26 @@
 		</Row>
 		<!-- ==================== Player Change Popup ==================== -->
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_TITLE_SUFFIX">
-			<Text>'s Turn</Text>
+			<Text> має зробити хід</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_START_TURN">
-			<Text>Start Turn</Text>
+			<Text>Почати хід</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_SAVE_GAME">
-			<Text>Save Game</Text>
+			<Text>Зберегти гру</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_CHANGE_POPUP_PASSWORD">
-			<Text>Password</Text>
+			<Text>Пароль</Text>
 		</Row>
 		<!-- ==================== Unit Action Info ==================== -->
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_TECH">
-			<Text>Requires: {1_Tech} technology</Text>
+			<Text>Вимагає технологію: {1_Tech}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_CIVIC">
-			<Text>Requires: {1_Civic} civic</Text>
+			<Text>Вимагає вчення: {1_Civic}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_ADJACENT_SAME_UNIT">
-			<Text>Requires adjacent unit of the same type.</Text>
+			<Text>Потребує одиницю по сусідству того ж типу.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_PILLAGE_REQUIRES_MOVEMENT">
 			<Text>Брак рухливості.</Text>
@@ -936,13 +936,13 @@
 			<Text>{1_Improvement_Name} поруч!</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_FORMATION">
-			<Text>In formation with other units</Text>
+			<Text>У формуванні з іншими підрозділами</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_DANGER">
 			<Text>Небезпека!</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_PROMOTION_AVAILABLE">
-			<Text>Promotion available</Text>
+			<Text>Доступне підвищення</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_GREAT_PERSON_WILL_RETIRE">
 			<Text>[COLOR_RED]Видатна людина зникне по завершенню.[ENDCOLOR]</Text>
@@ -951,28 +951,28 @@
 			<Text>[COLOR_RED]Після цього, видатна людина не зможе будувати покращення.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_NO_GREAT_PERSON_ACTIVATION">
-			<Text>This Great Person has already used one of its Action Charges, so they cannot build anything</Text>
+			<Text>Ця Видатна Особа вже використала одну зі своїх Зарядів Дії, тому вона не може нічого будувати.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_INDUSTRY_INVALID_ALREADY_HAVE_RESOURCE_INDUSTRY">
 			<Text>Ми вже маємо артіль цього ресурсу.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_INDUSTRY_INVALID_ALREADY_HAVE_RESOURCE_CORPORATION">
-			<Text>You already have a Corporation for this resource.</Text>
+			<Text>У вас вже є корпорація для цього ресурсу.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_INDUSTRY_INVALID_RESOURCE_AMOUNT">
 			<Text>Необхідно щонайменше {1_AmountNeeded} покращених джерела розкішного ресурсу аби збудувати артіль. На разі маєте - {2_AmountControlled}.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_INDUSTRY_INVALID_RESOURCE_CLASS">
-			<Text>Industries can only be created on a Luxury Resource.</Text>
+			<Text>Артіль можна створити тільки на базі розкішних ресурсів.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_INDUSTRY_INVALID_ALREADY_HAVE_CITY_INDUSTRY">
 			<Text>Місто вже має артіль.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_CORPORATION_INVALID_ALREADY_HAVE_RESOURCE_CORPORATION">
-			<Text>You already have a Corporation for this resource.</Text>
+			<Text>Ви вже маєте корпорацію для цього ресурсу.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_CORPORATION_INVALID_RESOURCE_AMOUNT_TO_STEAL">
-			<Text>Another player already owns this Corporation with {1_OtherPlayerAmountControlled} of the resource. To steal it and form your own, you need more of the resource than them. You currently control {2_AmountControlled} improved tiles of this resource.</Text>
+			<Text>Інший гравець вже володіє цією корпорацією з {1_OtherPlayerAmountControlled} ресурсу. Щоб викрасти її і створити свою власну, вам потрібно більше цього ресурсу, ніж у нього. Наразі ви контролюєте {2_AmountControlled} поліпшених плиток цього ресурсу.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_CORPORATION_INVALID_NEED_RESOURCE_INDUSTRY">
 			<Text>Необхідно спершу збудувати артіль мастаками, перш ніж створювати корпорацію.</Text>
@@ -984,10 +984,10 @@
 			<Text>Будівництво корпорації можливе лише на місці артілі.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_FAILURE_NO_BUILDING_FOR_PRODUCT">
-			<Text>No available building space to sell this Product.</Text>
+			<Text>Немає вільного будівничого простору для продажу цього продукту.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_FAILURE_MAX_PRODUCTS_REACHED">
-			<Text>Maximum amount of Products reached for this resource.</Text>
+			<Text>Досягнуто максимальної кількості продуктів для цього ресурсу.</Text>
 		</Row>
 		<!-- ==================== City Banner ==================== -->
 		<Row Tag="LOC_CITY_BANNER_AERODROME_AIRCRAFT_STATIONED">
@@ -1018,10 +1018,10 @@
 			<Text>Укріплення: {1_Health}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_NUCLEAR_STRIKE_CAPABLE">
-			<Text>Nuclear Strike Capable</Text>
+			<Text>Ядерний удар можливий</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_NO_PRODUCTION">
-			<Text>Nothing currently being produced.</Text>
+			<Text>Наразі нічого не виробляється.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_BANNER_POPULATION">
 			<Text>[ICON_Citizen] Населення</Text>

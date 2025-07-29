@@ -23,6 +23,7 @@ plantation = плантація
 pasture = пасовище
 Camp = табір
 Antiquity Sites = пам'ятки Античності
+Resource industry = артіль
 
 Hills - пагорби
 rainforest = тропічний ліс
